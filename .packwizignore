@@ -1,5 +1,6 @@
-*.log
-packwiz.exe
 subir.bat
 subir.ps1
+packwiz.exe
 packwiz-installer-bootstrap.jar
+*.log
+.gitignore

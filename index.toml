@@ -1266,6 +1266,10 @@ hash = "288edd19ce4b4a792cc422dd99f58819a8390ef18c7d5d76a7d5242bfef9f6fb"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-neoforge-26.3-5.5.6.jar"
+hash = "dae13d6b9e02a1e8d43f9c448f0abd3b67204616da8e249d1f3a60d7ac650dd2"
+
+[[files]]
 file = "mods/glitchcore-fabric-26-2-26-2-0-0-0.pw.toml"
 hash = "05012cd9cbf0a16d83c12269331242ab917f5e0cab2e4a361c3ea0c5f1fd72cf"
 metafile = true
@@ -1381,6 +1385,10 @@ hash = "405514411c8c3b600beb0b8c4b6d5c2855a81615cba9982924846fe94b7bccce"
 metafile = true
 
 [[files]]
+file = "mods/mielon's-the-sift-1.1.2-mc26.2-fabric.jar"
+hash = "1013807c2dea8f366f97347ab74cc895518799caf0e9513ff19a660567d33886"
+
+[[files]]
 file = "mods/modmenu-20-0-1.pw.toml"
 hash = "8daa012e1f8a97a1506ebc8e302660426ed067bba32a8101d3c77978d5bcd48f"
 metafile = true
@@ -1409,6 +1417,10 @@ metafile = true
 file = "mods/mousetweaks-fabric-mc26-2-2-31.pw.toml"
 hash = "5733ab7b1be5e9070b495db54a8d2725acd72070b407a322ac79b26856cb9c86"
 metafile = true
+
+[[files]]
+file = "mods/myskins-1.0.5.jar"
+hash = "87ddafc02a18ca15f7ce726d2cb743af0ab19605df2fad2e22d57c005e5b9454"
 
 [[files]]
 file = "mods/naturally-trimmed-3-5-0-26-1-fabric.pw.toml"
@@ -1496,6 +1508,10 @@ hash = "f557f951e497578e89b167b9953cd8f14c4a35bd4837290b8644ee20f93d78c9"
 metafile = true
 
 [[files]]
+file = "mods/player-death-corpses-3.7.jar"
+hash = "20034d9d8a487620f59cc6199baf3c84efd63540c2cad5aade9c46efb933118b"
+
+[[files]]
 file = "mods/playeranimationlibmerged-1-2-5-mc-26-2.pw.toml"
 hash = "e15494f76dc09c75c3acb6706dffcbb47cf9d43e56629e4d2ea5ebae4af7ab15"
 metafile = true
@@ -1580,6 +1596,10 @@ hash = "09f3c6708435574803313cf7e4200feffdbf2f2892f2a5c183d42ca820218518"
 metafile = true
 
 [[files]]
+file = "mods/sit-fabric-26.1.1-1.5.1.jar"
+hash = "2aca43227db40615741b8b97ca89eac2c9b6a32e5d368e72dcc479bf4a787d9b"
+
+[[files]]
 file = "mods/skinlayers3d-fabric-1-11-2-mc26-2.pw.toml"
 hash = "557c0bc886734be349475cfad230197adf3c4e5ba223ab354c5ff7efe0157798"
 metafile = true
@@ -1623,6 +1643,10 @@ metafile = true
 file = "mods/subtleeffects-fabric-26-2-1-14-3.pw.toml"
 hash = "51a0ee5bffafde2f5e7877d311b0e5948c46b37b8882140dc433c27202512a1a"
 metafile = true
+
+[[files]]
+file = "mods/swinginglanterns-fabric-26.2-2.0.2.jar"
+hash = "98dfc4ed4a3897d51794d95c00ec81fdc01e4affeb4b177b418a7941cfab97c9"
 
 [[files]]
 file = "mods/tcdcommons-5-5-3-fn-26-2.pw.toml"
