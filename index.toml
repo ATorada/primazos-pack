@@ -150,7 +150,7 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/cirrus-client.json"
-hash = "c61bf4061ac13d73f0007915c6f92cedc80118bfd9deab9c6df677d1db4106d2"
+hash = "27913077a8452706481ed2612402d02e56e5af05d380eac642de6c570ae25d25"
 
 [[files]]
 file = "config/continuity.json"
@@ -957,6 +957,26 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "533523955fd5948e1c1d48eafa1aec49fbf2912f8e78fdb731f58ac5a1fc76db"
 
 [[files]]
+file = "mods/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar"
+hash = "03938ff551de675c36402bae792b1077fa1a6d076929b2c6c609e8735a999b34"
+
+[[files]]
+file = "mods/ParticleEffects-1.6.0+26.2+fabric.jar"
+hash = "239a3f74916e2718bc89f499063635c079202e2b93b0969ddc4389b91dc3773a"
+
+[[files]]
+file = "mods/PuzzlesLib-v26.2.4-mc26.2.x-Fabric.jar"
+hash = "f084097eb65928136ac12512249822696e81695929ad859a93d1a8fba0d94765"
+
+[[files]]
+file = "mods/ResourcefulLib-5.0.4.jar"
+hash = "466028131622b7fc3dc1c5ae0315d85365aa312ae90bb836b48f1838e8580566"
+
+[[files]]
+file = "mods/alexsmobs-2.2.2-fabric+26.2.jar"
+hash = "abdcf842e3234dcba73bbe41915ec11bef9e200c51d66ee235964ae9eda92322"
+
+[[files]]
 file = "mods/ambientsounds-fabric-v6-3-6-mc26-2.pw.toml"
 hash = "6e2f9c6469ac1db808601ca48c1860b0c397d9385fba958f881cf95672731d81"
 metafile = true
@@ -1022,6 +1042,10 @@ hash = "89c8e32ab1a0ff292763f22b4f7d0bc52330c6b34159839075cb08588a44db02"
 metafile = true
 
 [[files]]
+file = "mods/bettertab-2.2.1+26.2.jar"
+hash = "a8f11cd850dc7f7ee8c294291c103a24c6d0612b04becd11a03b7a0a61935450"
+
+[[files]]
 file = "mods/biomesoplenty-fabric-26-2-26-2-0-0-26.pw.toml"
 hash = "8fa017a96d2ec4c5b66c4eaca15598eb2b3ea6e81348de724a17eb8dd66c1942"
 metafile = true
@@ -1080,6 +1104,10 @@ metafile = true
 file = "mods/cloth-config-26-2-155.pw.toml"
 hash = "c6e147169c7367448e4f46f299ce99bbfaf54020e6f462bd1474d35d034f1b04"
 metafile = true
+
+[[files]]
+file = "mods/codxlib-1.6.1-fabric+26.2.jar"
+hash = "a08c517bd08dbc2c4c40e3d4769525c753b884f523a52c0ef0dbcde1582fcb38"
 
 [[files]]
 file = "mods/continuity-3-0-1-26-2.pw.toml"
@@ -1279,6 +1307,14 @@ metafile = true
 file = "mods/glowing-torchflower-fabric-mc26-2-1-4-0.pw.toml"
 hash = "79fa0de39996df6061b6a8ac9a3b4fa6685385c6facdd7e73dd1e0eea27b5d6e"
 metafile = true
+
+[[files]]
+file = "mods/gravestones-1.4.2+26.2+A.jar"
+hash = "b0951d36fd93d13f337027063f7ba123db5bbe15e310ef0863656e615e8727cd"
+
+[[files]]
+file = "mods/illagerblabber-26.2-Fabric-1.1.0.jar"
+hash = "ceecc1248d29786d4b1b595e50dd61f9be49b647f015d30b4373c544fcd9b0e5"
 
 [[files]]
 file = "mods/immediatelyfast-fabric-1-16-2-26-2.pw.toml"
@@ -1506,10 +1542,6 @@ hash = "f557f951e497578e89b167b9953cd8f14c4a35bd4837290b8644ee20f93d78c9"
 metafile = true
 
 [[files]]
-file = "mods/player-death-corpses-3.7.jar"
-hash = "20034d9d8a487620f59cc6199baf3c84efd63540c2cad5aade9c46efb933118b"
-
-[[files]]
 file = "mods/playeranimationlibmerged-1-2-5-mc-26-2.pw.toml"
 hash = "e15494f76dc09c75c3acb6706dffcbb47cf9d43e56629e4d2ea5ebae4af7ab15"
 metafile = true
@@ -1518,6 +1550,10 @@ metafile = true
 file = "mods/pneumonocore-1-3-1-26-2-a.pw.toml"
 hash = "d6226093888b8d890707f97326a9b65e8db88136b9c1b92f913bbc0becbeba7e"
 metafile = true
+
+[[files]]
+file = "mods/pneumonocore-1.3.1+26.2+A.jar"
+hash = "8740f3698563f35ade639a3e98eda22537e259f339abb629803b358d30e55ccd"
 
 [[files]]
 file = "mods/polytone-fabric-26-2-5-10-2.pw.toml"
@@ -1628,6 +1664,10 @@ hash = "26b6dceabbf7eb3221875a1e635fef8f4634af546b8ec94fa00db28cd02d71ac"
 metafile = true
 
 [[files]]
+file = "mods/soundsbegone-fabric-1.6.0+mc26.2.jar"
+hash = "7abb6f5facf44e74ea1a12e8ac0c669ef2ee44b32f2c1a22a6a237fc5d206f3d"
+
+[[files]]
 file = "mods/speed-happy-ghast-v1-0.pw.toml"
 hash = "9e426d50d6b0c914bd8a40c8fa48a432dabad34c1a13853f91cebe99b20012f9"
 metafile = true
@@ -1648,6 +1688,10 @@ hash = "c00d8603bfe52d1fd12ce4878095c7d7cbdad7524465329906ab67ce6cffe266"
 metafile = true
 
 [[files]]
+file = "mods/talking-heads-1.1.4+26.2+fabric.jar"
+hash = "c74812f4fe7fd3b1aee77771bbcf08c2960a3912bd9aa4c90c1358fb55975247"
+
+[[files]]
 file = "mods/tcdcommons-5-5-3-fn-26-2.pw.toml"
 hash = "4c8d3a14069d0896c01eefe5392e3f912d5781ae5f80537438d7099d792c6611"
 metafile = true
@@ -1661,6 +1705,10 @@ metafile = true
 file = "mods/terralith-26-2-v2-6-4.pw.toml"
 hash = "88bcb2a0df297375870dbb467cd05062a9e4adcae1108fe5ecd588ae60ca3fb6"
 metafile = true
+
+[[files]]
+file = "mods/variantsandventures-fabric-1.0.28+mc26.2.jar"
+hash = "409bd531f2cdfe6671644b37d2ca44fe0a19359c7760049a944af1df5dd4ca9b"
 
 [[files]]
 file = "mods/visuality-0-7-14-26-2.pw.toml"
@@ -1681,6 +1729,10 @@ metafile = true
 file = "mods/windy-1-1-1-26-1.pw.toml"
 hash = "b229ed9cfbfa0b43c95f1b0d803c3b65ee39d8f9e31f7a82305247a44871ef02"
 metafile = true
+
+[[files]]
+file = "mods/wither-spawn-animation-FABRIC-26.2-1.0.0.jar"
+hash = "e7e4867f4ca96170b5ab4a7f6edbce9e3db55a56081d210571d18afe68daf5a5"
 
 [[files]]
 file = "mods/worldplaytimereborn-1-2-5-26-2-fabric.pw.toml"
@@ -1731,6 +1783,10 @@ metafile = true
 file = "resourcepacks/9drodi-s-illagers-x-fa-v5-2.pw.toml"
 hash = "16302ab5600a1510d97b0f5785abf8373c0fb2b41ac21b3d88b8c7cdd8b40c7b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Clear Glass 1.3.0.zip"
+hash = "21da2dcd945ce1250e12b6aa56bee968d51b903f1e4cf3ded9f327f7fd10ede4"
 
 [[files]]
 file = "resourcepacks/Enchantment Outlines.zip.rpo"

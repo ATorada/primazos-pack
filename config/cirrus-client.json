@@ -29,7 +29,7 @@
     "topLayerOpacity": 0.15
   },
   "sky": {
-    "smoothTimeTransitions": true,
+    "smoothTimeTransitions": false,
     "timeTransitionSpeed": 1.0,
     "customStarsEnabled": true,
     "starDensity": 2000,
