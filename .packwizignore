@@ -5,3 +5,4 @@ packwiz-installer-bootstrap.jar
 *.log
 .gitignore
 _fuera/
+_amigos/

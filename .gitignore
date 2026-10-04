@@ -4,3 +4,4 @@ subir.bat
 subir.ps1
 packwiz-installer-bootstrap.jar
 _fuera/
+!_amigos/packwiz-installer-bootstrap.jar

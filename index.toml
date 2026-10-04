@@ -1007,6 +1007,10 @@ hash = "be1e41e2ec137843b37f9eaaef07f11d302ab15e942d05be4e457f0660e458b0"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric-26.2-26.2.0.9.jar"
+hash = "e7d9572d1edecce9e10073ac7d8daaaf61b847162587330eca6472b3177652cb"
+
+[[files]]
 file = "mods/bbe-fabric-1-3-7-mc26-2.pw.toml"
 hash = "61af541302078fa6f83c369bca6fb03563f4cd79af01d19d9d2751e298ee5295"
 metafile = true
@@ -1110,6 +1114,10 @@ file = "mods/codxlib-1.6.1-fabric+26.2.jar"
 hash = "a08c517bd08dbc2c4c40e3d4769525c753b884f523a52c0ef0dbcde1582fcb38"
 
 [[files]]
+file = "mods/collective-26.2.0-8.42.jar"
+hash = "0d2ddcf71123702b6451ec60d744e883a7ea09756a0ca8b6630e7ef09aa6f77d"
+
+[[files]]
 file = "mods/continuity-3-0-1-26-2.pw.toml"
 hash = "91be8cd3095a25c75f83a18fd6a56c6749fcba43acf737c963bd08adc0691bab"
 metafile = true
@@ -1143,6 +1151,10 @@ metafile = true
 file = "mods/daycount-1-6-0-fabric-mc26-1.pw.toml"
 hash = "15fb4dadf3962eadba16a1dfa671f02f8bd0a88fc8fed243ece6c0b2e4ba046e"
 metafile = true
+
+[[files]]
+file = "mods/dcintegration-fabric-MC26.2-3.2.1.jar"
+hash = "75e039ac6c8edad3c9423c91638ffd15d7c9b95dadb60bf69349da838afbf337"
 
 [[files]]
 file = "mods/deleteworldstotrash-v26-2-0-mc26-2-x-fabric.pw.toml"
@@ -1190,6 +1202,14 @@ hash = "7a8c978e4de8c3ec0f6196d1b793bebbf099a0af7ff9c4a1e3edcb2a9043b1b9"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered-5.0.2.jar"
+hash = "e5c045ba50c4f7dd6e1e0b7f08848aecd80e26845527065f5adfd5f2eae9e0b4"
+
+[[files]]
+file = "mods/elevatorid-fabric-26.2-1.16.4.jar"
+hash = "a3f6d18f4034cbcf3926f6874ede29ec97f0c456623009324e90fb35845f42db"
+
+[[files]]
 file = "mods/elytratrails-1-5-0-2-26-2.pw.toml"
 hash = "e796f006fa2bfca8e8be222c66afd9dcfc0eaa659e9947861be121de29834f4c"
 metafile = true
@@ -1198,6 +1218,10 @@ metafile = true
 file = "mods/elytratrims-fabric-4-8-3-26-2.pw.toml"
 hash = "404df9809ee8b515c9cd5139085140d815be35fb5270f1360fcfad7c091a9278"
 metafile = true
+
+[[files]]
+file = "mods/emoji-type-3.1.0-26.2-fabric.jar"
+hash = "531a722a6a259301eee465b59a37738e45d57af693818169bedc37b8265ee666"
 
 [[files]]
 file = "mods/emotecraft-for-mc26-2-3-4-0-b-build-162.pw.toml"
@@ -1275,6 +1299,10 @@ hash = "c319212a1471d80cf3899d5afe932f5c400a14921b5aecc17e7688f4157de2f7"
 metafile = true
 
 [[files]]
+file = "mods/fortress-of-war-1.2.jar"
+hash = "2f220c8c92d81e8781df30793433d760fcbadfffddd2ac7a99b69b38d2e399c7"
+
+[[files]]
 file = "mods/framework-fabric-26.2-0.13.26.jar"
 hash = "71a3790ae072073c93367722e94c3d91b8463ac35f576cb0d1ec9bf909faae4c"
 
@@ -1311,6 +1339,10 @@ metafile = true
 [[files]]
 file = "mods/gravestones-1.4.2+26.2+A.jar"
 hash = "b0951d36fd93d13f337027063f7ba123db5bbe15e310ef0863656e615e8727cd"
+
+[[files]]
+file = "mods/hostile-mobs-improve-over-time-2.3.jar"
+hash = "f55d8e1999f21bb3a0bea5c5f29a1b2d20a11d476f3339cbff76a9f3454aa30a"
 
 [[files]]
 file = "mods/illagerblabber-26.2-Fabric-1.1.0.jar"
@@ -1470,6 +1502,10 @@ metafile = true
 file = "mods/netherportalfix-fabric-26-2-26-2-0-1.pw.toml"
 hash = "e923e617e4a58a1199d84b665c3bb7e1cc692483de68a12f06c96728548b9858"
 metafile = true
+
+[[files]]
+file = "mods/netherportalfix-fabric-26.2-26.2.0.1.jar"
+hash = "41195db54371f0c43c95eb0c96bf03425c61c2d4adf6ae9abd37bbfbc133e1bb"
 
 [[files]]
 file = "mods/nochatreports-fabric-26-2-v2-20-1.pw.toml"
@@ -1659,6 +1695,10 @@ hash = "0742b1a4aa1ece5519a4ce1b948348bc23d601567d0ee5dc528f3d5888129ac9"
 metafile = true
 
 [[files]]
+file = "mods/softimprints-fabric-26.2-2.8.0.jar"
+hash = "833050fe4d36db4eb8634980c2bfa06e08fc7886e7ded8b4ee77c36b8732859d"
+
+[[files]]
 file = "mods/sound-physics-remastered-fabric-1-5-1-26-2.pw.toml"
 hash = "26b6dceabbf7eb3221875a1e635fef8f4634af546b8ec94fa00db28cd02d71ac"
 metafile = true
@@ -1705,6 +1745,10 @@ metafile = true
 file = "mods/terralith-26-2-v2-6-4.pw.toml"
 hash = "88bcb2a0df297375870dbb467cd05062a9e4adcae1108fe5ecd588ae60ca3fb6"
 metafile = true
+
+[[files]]
+file = "mods/treeharvester-26.2.0-9.5.jar"
+hash = "87cfd9a118de2daf3a7520631c575c400c015527fd9f86021757a2855774ffa5"
 
 [[files]]
 file = "mods/variantsandventures-fabric-1.0.28+mc26.2.jar"
