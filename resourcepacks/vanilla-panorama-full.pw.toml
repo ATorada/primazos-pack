@@ -1,0 +1,13 @@
+name = "Vanilla Panorama + [Full]"
+filename = "Vanilla Panorama + [Full].zip"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "37636c2348b99ecafa09af4d73ba6927275ffcd7d28bc7a2c9f71c638be90f8d7551b431ee9ea38cf01b10ecb2ff586d6daa6eaf6d96aa562fab85d5a0511a86"
+url = "https://cdn.modrinth.com/data/SIFwHkLf/versions/exxoQ8DX/Vanilla%20Panorama%20%2B%20%5BFull%5D.zip"
+
+[update]
+[update.modrinth]
+mod-id = "SIFwHkLf"
+version = "exxoQ8DX"

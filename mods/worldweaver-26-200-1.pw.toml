@@ -1,0 +1,13 @@
+name = "worldweaver-26.200.1"
+filename = "worldweaver-26.200.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "d1259daa3b431b720dfa15f406d5a42e85915e62936da698c89b979c7e1ef74f72da2106d5017360b0a57e30f4b9dc3d0d9e97f27ef4a3e79b6ee32b0fc75a94"
+url = "https://cdn.modrinth.com/data/RiN8rDVs/versions/dLEKOep2/worldweaver-26.200.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "RiN8rDVs"
+version = "dLEKOep2"

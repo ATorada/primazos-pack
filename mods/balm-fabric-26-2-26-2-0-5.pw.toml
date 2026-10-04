@@ -1,0 +1,13 @@
+name = "balm-fabric-26.2-26.2.0.5"
+filename = "balm-fabric-26.2-26.2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "6b40e8bb2b43ccbde61232d045615100e17fee4b7fdcf124e013f4bece75a09b4fae7df74b09571df1b7b9324b2eccc7c1216458b9dc45810f226906b579b28e"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/ln6vafmE/balm-fabric-26.2-26.2.0.5.jar"
+
+[update]
+[update.modrinth]
+mod-id = "MBAkmtvl"
+version = "ln6vafmE"

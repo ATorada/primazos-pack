@@ -1,0 +1,28 @@
+{
+  "totalPatsCounter": {
+    "pats": 183
+  },
+  "entities": {
+    "minecraft:cat": {
+      "pats": 28
+    },
+    "minecraft:trader_llama": {
+      "pats": 22
+    },
+    "minecraft:villager": {
+      "pats": 2
+    },
+    "minecraft:copper_golem": {
+      "pats": 3
+    },
+    "minecraft:player": {
+      "pats": 52
+    },
+    "minecraft:spider": {
+      "pats": 10
+    },
+    "minecraft:wolf": {
+      "pats": 59
+    }
+  }
+}

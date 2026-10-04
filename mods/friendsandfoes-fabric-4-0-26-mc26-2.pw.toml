@@ -1,0 +1,13 @@
+name = "friendsandfoes-fabric-4.0.26+mc26.2"
+filename = "friendsandfoes-fabric-4.0.26+mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "de54631a28007dd26a8be39abb0a590c8358626b3f59b5b97486dc184db2d7e1c6a69f5e3aa8d347e9e39ac2145271a5bf7740dee63566be35844445fe51cd87"
+url = "https://cdn.modrinth.com/data/POQ2i9zu/versions/BtDb4Lcu/friendsandfoes-fabric-4.0.26%2Bmc26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "POQ2i9zu"
+version = "BtDb4Lcu"

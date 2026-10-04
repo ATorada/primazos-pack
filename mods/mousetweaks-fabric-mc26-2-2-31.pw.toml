@@ -1,0 +1,13 @@
+name = "MouseTweaks-fabric-mc26.2-2.31"
+filename = "MouseTweaks-fabric-mc26.2-2.31.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "bc77723465dc4aef7a3a8fa2fea3641df1e6ba7cc8a2d86cd2659ef65ca661f6a763d3997fdaed1f8ff6c78a4c6061f8074160ca3162a29021735779a6c55e46"
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/jOiTBIaB/MouseTweaks-fabric-mc26.2-2.31.jar"
+
+[update]
+[update.modrinth]
+mod-id = "aC3cM3Vq"
+version = "jOiTBIaB"

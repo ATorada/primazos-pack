@@ -1,0 +1,13 @@
+name = "betterstats-5.5.3+fn-26.2"
+filename = "betterstats-5.5.3+fn-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "fe278a7c0db3d412207fc5f9669efa5a63e38c5bf7cbbc8c34df942c71f5a455e9d85320030f7e64044fe3fc09dd29a0d6cea0aa4607302ecf009ab420396e01"
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/P7x6Dp6P/betterstats-5.5.3%2Bfn-26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "n6PXGAoM"
+version = "P7x6Dp6P"

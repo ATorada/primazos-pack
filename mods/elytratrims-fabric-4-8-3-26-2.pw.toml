@@ -1,0 +1,13 @@
+name = "elytratrims-fabric-4.8.3+26.2"
+filename = "elytratrims-fabric-4.8.3+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "812c09154c1b38d3cedd93c25d8bd9dbb57e54d553089d4f8ee6a19d70de178bb541db09755327bd854f887edaa6ce82759d46c717b5636686205d9fce20fb70"
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/xe4XXryG/elytratrims-fabric-4.8.3%2B26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "xe4XXryG"

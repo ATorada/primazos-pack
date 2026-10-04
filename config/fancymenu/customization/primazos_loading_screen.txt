@@ -1,0 +1,80 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = true
+  last_edited_time = 1791047981308
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0001-1791047981308] = [groups:][instances:]
+}
+
+menu_background {
+  instance_identifier = 6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0002-1791047981308
+  background_type = color_fancymenu
+  show_background = true
+  color = #F5A8BCFF
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/primazos_mojang_logo.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0003-1791047981308
+  appearance_delay = no_delay
+  fade_in_v2 = no_fading
+  fade_out = no_fading
+  auto_sizing = false
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -190
+  y = -112
+  width = 380
+  height = 182
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0004-1791047981308
+  [loading_requirement_container_meta:6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0004-1791047981308] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0101-1791047981308
+  [executable_block:6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0101-1791047981308][type:generic] = [executables:]
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 10
+  height = 10
+  is_hidden = true
+  element_loading_requirement_container_identifier = 6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0201-1791047981308
+  [loading_requirement_container_meta:6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0201-1791047981308] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0102-1791047981308
+  [executable_block:6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0102-1791047981308][type:generic] = [executables:]
+  element_type = vanilla_button
+  instance_identifier = drippy_overlay_logo
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 10
+  height = 10
+  is_hidden = true
+  element_loading_requirement_container_identifier = 6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0202-1791047981308
+  [loading_requirement_container_meta:6f1d3a52-1b7e-4c0a-9d41-0a5f6f0c0202-1791047981308] = [groups:][instances:]
+}

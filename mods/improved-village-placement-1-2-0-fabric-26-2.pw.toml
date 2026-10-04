@@ -1,0 +1,13 @@
+name = "improved-village-placement-1.2.0-fabric-26.2"
+filename = "improved-village-placement-1.2.0-fabric-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b07ee36ce9d83a68c9c1236a2d98b2485feb4f0f51f7f09a690aa29ce6feec0f0fb82450a9c21b4bdb6905a929a544f50bcfb85580667f88b53418f17ed5e7ee"
+url = "https://cdn.modrinth.com/data/KA0MllEw/versions/6hW9Z7bg/improved-village-placement-1.2.0-fabric-26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "KA0MllEw"
+version = "6hW9Z7bg"

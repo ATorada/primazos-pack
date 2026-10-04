@@ -1,0 +1,13 @@
+name = "bclib-26.200.1"
+filename = "bclib-26.200.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "a16ccd328f52bd48f6fe7fa6ab0e284950b4cb1a4b0d65e658d35f7644356bc6a681e6e15fbc10687d324b0b63ae3f3f638f7fa1bef789822d1fce51a5054aa6"
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/rnrtBasF/bclib-26.200.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "BgNRHReB"
+version = "rnrtBasF"

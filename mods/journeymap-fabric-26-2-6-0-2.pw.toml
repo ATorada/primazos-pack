@@ -1,0 +1,13 @@
+name = "journeymap-fabric-26.2-6.0.2"
+filename = "journeymap-fabric-26.2-6.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "4d4205465b7a533ba1e49738098c99d8f88f5ae11f22289b386a2dc28cd6e518c2f53cbe9060f06d13d7c044a8df5fdd56c90c75ff90a28a489742c77c889bc1"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/gNAWSuoC/journeymap-fabric-26.2-6.0.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "gNAWSuoC"

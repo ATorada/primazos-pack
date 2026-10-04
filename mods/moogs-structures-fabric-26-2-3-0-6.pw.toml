@@ -1,0 +1,13 @@
+name = "moogs_structures-fabric-26.2-3.0.6"
+filename = "moogs_structures-fabric-26.2-3.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "913b6488e604d6dedf289c6a2f69e9d56a8acc19ca52622b74235be146a4d6147530460cd9a0a6291f9c1b62abbb571bd30d8c43b64d4aa44a63a5a8767408b5"
+url = "https://cdn.modrinth.com/data/1oUDhxuy/versions/FnOLiCGi/moogs_structures-fabric-26.2-3.0.6.jar"
+
+[update]
+[update.modrinth]
+mod-id = "1oUDhxuy"
+version = "FnOLiCGi"

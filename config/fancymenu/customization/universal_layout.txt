@@ -1,0 +1,36 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1791050000000
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:4d40d252-8d37-43ee-be2e-06f39813d4f3-1785860211546] = [groups:][instances:7c1f0a52-3b7e-4c0a-9d41-0a5f6f0c0777-1791049150250;]
+  [loading_requirement:fancymenu_loading_requirement_is_world_loaded][requirement_mode:if_not][req_id:7c1f0a52-3b7e-4c0a-9d41-0a5f6f0c0777-1791049150250] = 
+}
+
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/animated_menu.gif
+  slide = false
+  repeat_texture = false
+  fallback_path = [source:local]/config/fancymenu/assets/menu.png
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}

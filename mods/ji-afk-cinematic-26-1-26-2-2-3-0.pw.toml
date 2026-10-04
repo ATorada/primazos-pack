@@ -1,0 +1,13 @@
+name = "ji-afk-cinematic-26.1-26.2-2.3.0"
+filename = "ji-afk-cinematic-26.1-26.2-2.3.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "5d6469cd09e2cd4437d2034a75c40269dfaf70a40213ba69bd4d31b29312902885f3bff2543501a0364f3220101e3b9c24f423af5c7a83b329a8b46740f3c077"
+url = "https://cdn.modrinth.com/data/NYveE6yC/versions/eVWpLMwP/ji-afk-cinematic-26.1-26.2-2.3.0.jar"
+
+[update]
+[update.modrinth]
+mod-id = "NYveE6yC"
+version = "eVWpLMwP"
