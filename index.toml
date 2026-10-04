@@ -1369,6 +1369,14 @@ hash = "56dfc1b04052ab7880f4d4fb3c2ddf73c2ff58903eab89d50f044bb8321d245f"
 metafile = true
 
 [[files]]
+file = "mods/inventorysorter-fabric-3.0.1+mc26.2.jar"
+hash = "4781b3c99155f3b4dac5432224d308ab6fa13a081d2d453d2f921cef3a22472d"
+
+[[files]]
+file = "mods/inventorytotem-26.2.0-3.5.jar"
+hash = "56ab66cf55e082da2b1a29d14dfee7805ea0e54489fe3cdd7672a024ada3da88"
+
+[[files]]
 file = "mods/iris-fabric-1-11-2-mc26-2.pw.toml"
 hash = "ce52758dfe20db76bd7dab791fcd90e71531825fa8436fc828d74ef700c6c238"
 metafile = true
