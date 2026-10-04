@@ -1421,11 +1421,6 @@ hash = "5733ab7b1be5e9070b495db54a8d2725acd72070b407a322ac79b26856cb9c86"
 metafile = true
 
 [[files]]
-file = "mods/myskins.pw.toml"
-hash = "517d01c4f4a6a93156077d033a490f505a7c7d983f262eec79af819bb3e63a80"
-metafile = true
-
-[[files]]
 file = "mods/naturally-trimmed-3-5-0-26-1-fabric.pw.toml"
 hash = "c0fade9370f638f6522ecee76b1f2f7b280c85f80a858b40fca402a5161a5468"
 metafile = true
