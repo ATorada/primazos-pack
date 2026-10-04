@@ -1266,8 +1266,9 @@ hash = "288edd19ce4b4a792cc422dd99f58819a8390ef18c7d5d76a7d5242bfef9f6fb"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-neoforge-26.3-5.5.6.jar"
-hash = "dae13d6b9e02a1e8d43f9c448f0abd3b67204616da8e249d1f3a60d7ac650dd2"
+file = "mods/geckolib.pw.toml"
+hash = "764e24fad550b80bae1a06306d56d00cadd61fd7cf7b398e85cf3bd633d16bc7"
+metafile = true
 
 [[files]]
 file = "mods/glitchcore-fabric-26-2-26-2-0-0-0.pw.toml"
@@ -1385,8 +1386,9 @@ hash = "405514411c8c3b600beb0b8c4b6d5c2855a81615cba9982924846fe94b7bccce"
 metafile = true
 
 [[files]]
-file = "mods/mielon's-the-sift-1.1.2-mc26.2-fabric.jar"
-hash = "1013807c2dea8f366f97347ab74cc895518799caf0e9513ff19a660567d33886"
+file = "mods/mielons-the-sift.pw.toml"
+hash = "23797ac9aa4e3d708d89282f7e72817531da16af0bda690e4b62e4d1ca61c39e"
+metafile = true
 
 [[files]]
 file = "mods/modmenu-20-0-1.pw.toml"
@@ -1419,8 +1421,9 @@ hash = "5733ab7b1be5e9070b495db54a8d2725acd72070b407a322ac79b26856cb9c86"
 metafile = true
 
 [[files]]
-file = "mods/myskins-1.0.5.jar"
-hash = "87ddafc02a18ca15f7ce726d2cb743af0ab19605df2fad2e22d57c005e5b9454"
+file = "mods/myskins.pw.toml"
+hash = "517d01c4f4a6a93156077d033a490f505a7c7d983f262eec79af819bb3e63a80"
+metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed-3-5-0-26-1-fabric.pw.toml"
@@ -1645,8 +1648,9 @@ hash = "51a0ee5bffafde2f5e7877d311b0e5948c46b37b8882140dc433c27202512a1a"
 metafile = true
 
 [[files]]
-file = "mods/swinginglanterns-fabric-26.2-2.0.2.jar"
-hash = "98dfc4ed4a3897d51794d95c00ec81fdc01e4affeb4b177b418a7941cfab97c9"
+file = "mods/swinging-lanterns.pw.toml"
+hash = "c00d8603bfe52d1fd12ce4878095c7d7cbdad7524465329906ab67ce6cffe266"
+metafile = true
 
 [[files]]
 file = "mods/tcdcommons-5-5-3-fn-26-2.pw.toml"

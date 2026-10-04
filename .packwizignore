@@ -4,3 +4,4 @@ packwiz.exe
 packwiz-installer-bootstrap.jar
 *.log
 .gitignore
+_fuera/

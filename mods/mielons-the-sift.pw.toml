@@ -1,0 +1,13 @@
+name = "Mielon's The Sift"
+filename = "mielon's-the-sift-1.1.2-mc26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j0IfTxBq/versions/FjiiWlMl/mielon%27s-the-sift-1.1.2-mc26.2-fabric.jar"
+hash-format = "sha512"
+hash = "bd88a886d07bd3edaddfc245de50dbb324fe0feac0cde2694658b4fb056d4624f3d5b17ce2c91b51f2cf476a8b05c708477e6f7de688c4b7df653f04e8913f00"
+
+[update]
+[update.modrinth]
+mod-id = "j0IfTxBq"
+version = "FjiiWlMl"
