@@ -973,6 +973,10 @@ file = "mods/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar"
 hash = "03938ff551de675c36402bae792b1077fa1a6d076929b2c6c609e8735a999b34"
 
 [[files]]
+file = "mods/PacketFixer-fabric-3.3.6.jar"
+hash = "bc7b95364d0e5e2c38b042ae2cc0ce509330f1081eb964d4f310d0cde27fa7f4"
+
+[[files]]
 file = "mods/ParticleEffects-1.6.0+26.2+fabric.jar"
 hash = "239a3f74916e2718bc89f499063635c079202e2b93b0969ddc4389b91dc3773a"
 
@@ -1435,6 +1439,10 @@ hash = "37782ad02b86f941fe18fd14eb3f3a1e30c6e50def083bb5353d727d20bc89e0"
 metafile = true
 
 [[files]]
+file = "mods/krypton-0.3.1.jar"
+hash = "5ea8901561973d29e51e751469d52d92100f348ab461e1186f67012e93420c48"
+
+[[files]]
 file = "mods/language-reload-1-7-7-26-2.pw.toml"
 hash = "a537037b6e4d529962eda0a1ca4825cf4ce94a7840028e5a2b1076275935a8c2"
 metafile = true
@@ -1876,7 +1884,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5d002a216dfe0dccc56d1e7d73d416ad9c0078d190f789041135c820bdfc2aea"
+hash = "46155455ba94a015b9030697e671205f556bbb42a3ea5d4a8f99c2ca62edc668"
 preserve = true
 
 [[files]]
@@ -2016,6 +2024,10 @@ metafile = true
 file = "resourcepacks/freshanimations-v1-10-5.pw.toml"
 hash = "e7ddae1320b2dfe124a3a259b8594d032573853b195c9e0897f1c3fcb6bd9dc3"
 metafile = true
+
+[[files]]
+file = "resourcepacks/pocket_dimension-26.2.3.2_resources.zip"
+hash = "905f6314ed90e53caf12328c94e35655c6555931390185d3ee9d5d84f951db8c"
 
 [[files]]
 file = "resourcepacks/pop-out-clock-1-21-5.pw.toml"
