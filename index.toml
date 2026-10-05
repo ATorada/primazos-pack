@@ -750,11 +750,11 @@ hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "a0ee4877aa3574f8a4224231e2c109cb691298d3e7c74894f8c1a8d55184dd5b"
+hash = "9d72b778f74bb789c2aaf7431844af256b0f54a64f6409689f617929b5841ffc"
 
 [[files]]
 file = "config/roughlyenoughitems/favorites.json5"
-hash = "11516316ab412a97fb30feeb0dd771b14489d9e869ec32116ccfccd7d4fbc019"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -762,15 +762,23 @@ hash = "81e89f263886e6ed0bee03bb2a785b18ae7d8925b536998317b321ef2ffed941"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "895319d66551b3b6d178f827c8fa42f966b126c7c0bfcd027582a8796742bcdd"
+hash = "fcc3162891405b9db1c2166ad8f13604f59aa12bcf98d7bef919c44317ef31d6"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "79d93125c6e02f22e9249b1fc4dbfd53425f6de6a28a19bb29890b6538c45b9e"
+hash = "0bea44b26154fdb841542e37f891c1453e16608f18fa94ef474b02a21514623b"
 
 [[files]]
 file = "config/scribble.client.json"
 hash = "017e416a97f3197103c91fbf04742089810f3162dd7afcc8215579a44a4cb186"
+
+[[files]]
+file = "config/seamless_sleep.toml"
+hash = "1fa268b26c99afa4a6aab5c1866ca10b3c6cdeb4d02ebf44d249e2007e8fe69c"
+
+[[files]]
+file = "config/showmeyourskin.json"
+hash = "cea36b54a627c79e00db08c9eb8ae197f0e32b9fe5f7a2a7c6d369a036ef882c"
 
 [[files]]
 file = "config/shulkerboxtooltip_mp_ender_chest_cache.dat"
@@ -1393,10 +1401,6 @@ file = "mods/inventorymanagement-fabric-2.0.2+26.2.jar"
 hash = "189b466172d6e58c0ad4100ba83f6168a41926d3c97414827ffe15c7f7c5b1d8"
 
 [[files]]
-file = "mods/inventorysorter-fabric-3.0.1+mc26.2.jar"
-hash = "4781b3c99155f3b4dac5432224d308ab6fa13a081d2d453d2f921cef3a22472d"
-
-[[files]]
 file = "mods/inventorytotem-26.2.0-3.5.jar"
 hash = "56ab66cf55e082da2b1a29d14dfee7805ea0e54489fe3cdd7672a024ada3da88"
 
@@ -1860,7 +1864,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "02abac4c6131e49201bca11409acaa96cca4fec7c08bb7b626b39f6a81d6d17f"
+hash = "f7d873e36f1ade41dc4cb8691cf723d967fd0ea09a7fbbf0d43093cadd678c22"
 preserve = true
 
 [[files]]

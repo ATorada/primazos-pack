@@ -4,7 +4,7 @@
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		"cheating": false,
-		"favoritesEnabled": true,
+		"favoritesEnabled": false,
 		"reduceMotion": false,
 		"keyBindings": {
 			"useNativeKeybinds": false,
@@ -74,7 +74,7 @@
 		"rainbow": false,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 1.0,
-		"horizontalEntriesBoundariesColumns": 50,
+		"horizontalEntriesBoundariesColumns": 9,
 		"verticalEntriesBoundariesRows": 1000,
 		"horizontalEntriesBoundariesAlignment": 1.0,
 		"verticalEntriesBoundariesAlignment": 0.5,
@@ -86,7 +86,7 @@
 	"functionality": {
 		"inputMethod": null,
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether mob effects should be on the left side instead of the right side.
 		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.
@@ -162,7 +162,30 @@
 			"forceLocalRecipes": "AUTO",
 			"categorySettings": {
 				"filteringQuickCraftCategories": { },
-				"categoryOrdering": [],
+				"categoryOrdering": [
+					"minecraft:plugins/crafting",
+					"minecraft:plugins/smelting",
+					"minecraft:plugins/smoking",
+					"minecraft:plugins/blasting",
+					"minecraft:plugins/campfire",
+					"minecraft:plugins/stone_cutting",
+					"minecraft:plugins/fuel",
+					"minecraft:plugins/brewing",
+					"minecraft:plugins/composting",
+					"minecraft:plugins/stripping",
+					"minecraft:plugins/smithing",
+					"minecraft:plugins/anvil",
+					"minecraft:plugins/beacon_base",
+					"minecraft:plugins/beacon_payment",
+					"minecraft:plugins/tilling",
+					"minecraft:plugins/pathing",
+					"minecraft:plugins/waxing",
+					"minecraft:plugins/wax_scraping",
+					"minecraft:plugins/oxidizing",
+					"minecraft:plugins/oxidation_scraping",
+					"roughlyenoughitems:plugins/information",
+					"minecraft:plugins/tag"
+				],
 				"hiddenCategories": []
 			}
 		},

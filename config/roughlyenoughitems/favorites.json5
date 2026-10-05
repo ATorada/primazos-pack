@@ -1,7 +1,5 @@
 {
-	"favorites": [
-		"{data:{type:\"minecraft:item\",value:{components:{\"minecraft:potion_contents\":{potion:\"minecraft:thick\"}},count:1,id:\"minecraft:tipped_arrow\"}},type:\"roughlyenoughitems:entry_stack\"}"
-	],
+	"favorites": [],
 	"hiddenFavorites": [],
 	"displays": []
 }
