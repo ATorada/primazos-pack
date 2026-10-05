@@ -1644,8 +1644,8 @@ file = "mods/pneumonocore-1.3.1+26.2+A.jar"
 hash = "8740f3698563f35ade639a3e98eda22537e259f339abb629803b358d30e55ccd"
 
 [[files]]
-file = "mods/pocket_dimension-fabric-26.2-3.2.jar"
-hash = "1daba57663f1cf0d46b9f31e3e3198c04f3dab6fc4f4e5a6c91072e2ebb72028"
+file = "mods/pocket_dimension-fabric-26.2-3.2-primazos.jar"
+hash = "c93203ba7efe372fcea4a3494a7517becb2f2dd08c6413026e9ef62d33671f5a"
 
 [[files]]
 file = "mods/polytone-fabric-26-2-5-10-2.pw.toml"
