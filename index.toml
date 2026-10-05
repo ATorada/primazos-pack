@@ -1229,6 +1229,10 @@ hash = "065e8dd7fdca661fd7c421f017bd8b69769d32cd3c7098fc92aa33dfe573f971"
 metafile = true
 
 [[files]]
+file = "mods/endrem-fabric-26.2-6.2.1.jar"
+hash = "e3a0cedad2d77f0267a186f282afb3d2db63504e8ceea67bc76dcc894d75bdef"
+
+[[files]]
 file = "mods/entity-model-features-3-2-6-26-2-fabric.pw.toml"
 hash = "ed4e42c3be97accb3e86c56f2b79b23e6474cb4d7198fb470ea7ecef94e40bff"
 metafile = true
@@ -1297,10 +1301,6 @@ metafile = true
 file = "mods/forgeconfigapiport-v26-2-1-mc26-2-x-fabric.pw.toml"
 hash = "c319212a1471d80cf3899d5afe932f5c400a14921b5aecc17e7688f4157de2f7"
 metafile = true
-
-[[files]]
-file = "mods/fortress-of-war-1.2.jar"
-hash = "2f220c8c92d81e8781df30793433d760fcbadfffddd2ac7a99b69b38d2e399c7"
 
 [[files]]
 file = "mods/framework-fabric-26.2-0.13.26.jar"
