@@ -514,7 +514,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ji-afk-cinematic.json"
-hash = "4d71aecabb0717f2f0e61607d668ff0353cc64588424a4ca41636a054d54a898"
+hash = "0568d3f673193db31a73281a277b6245dd9e90fbaffa6bc734829ee83571e5f3"
 
 [[files]]
 file = "config/journeymap-server.json"
@@ -1341,10 +1341,6 @@ file = "mods/gravestones-1.4.2+26.2+A.jar"
 hash = "b0951d36fd93d13f337027063f7ba123db5bbe15e310ef0863656e615e8727cd"
 
 [[files]]
-file = "mods/hostile-mobs-improve-over-time-2.3.jar"
-hash = "f55d8e1999f21bb3a0bea5c5f29a1b2d20a11d476f3339cbff76a9f3454aa30a"
-
-[[files]]
 file = "mods/illagerblabber-26.2-Fabric-1.1.0.jar"
 hash = "ceecc1248d29786d4b1b595e50dd61f9be49b647f015d30b4373c544fcd9b0e5"
 
@@ -1755,10 +1751,6 @@ hash = "88bcb2a0df297375870dbb467cd05062a9e4adcae1108fe5ecd588ae60ca3fb6"
 metafile = true
 
 [[files]]
-file = "mods/treeharvester-26.2.0-9.5.jar"
-hash = "87cfd9a118de2daf3a7520631c575c400c015527fd9f86021757a2855774ffa5"
-
-[[files]]
 file = "mods/variantsandventures-fabric-1.0.28+mc26.2.jar"
 hash = "409bd531f2cdfe6671644b37d2ca44fe0a19359c7760049a944af1df5dd4ca9b"
 
@@ -1808,7 +1800,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "023b9f91db5f2bac671cc9934bacf6e4fc114f6acb138de478860a51333e64d5"
+hash = "02abac4c6131e49201bca11409acaa96cca4fec7c08bb7b626b39f6a81d6d17f"
 preserve = true
 
 [[files]]
