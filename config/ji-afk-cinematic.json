@@ -1,7 +1,7 @@
 {
   "configVersion": 5,
   "shotDurationSeconds": 10,
-  "afkThresholdSeconds": 10,
+  "afkThresholdSeconds": 121,
   "maxCycles": 3,
   "cameraSpeed": 0.5,
   "characterShotPercentage": 30,

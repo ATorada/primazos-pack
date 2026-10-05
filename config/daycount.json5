@@ -10,13 +10,13 @@
 	// Vertical size of the Day Counter | default: 2.0
 	"sizeY": 1.2000000476837158,
 	// Horizontal position of the Day Counter | default: 2.0
-	"locationX": 3.0,
+	"locationX": 2.0,
 	// Vertical position of the Day Counter | default: 2.0
 	"locationY": 2.0,
 	// Color of the Day Counter (with transparency) | default: FFFFFFFF (the first FFs are the transparency value)
 	"textColorWithTransparency": "FFFFFFFF",
 	// DayCounter String | default: 'Day: '
-	"dayCounterString": "Day: ",
+	"dayCounterString": "DíA:",
 	// If true, the Day Count number will be formatted with locale-specific separators (e.g. 1,000) | default: false
 	"useLocaleFormatting": false,
 	// Enable background box | default: false
