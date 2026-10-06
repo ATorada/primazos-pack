@@ -965,6 +965,10 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "533523955fd5948e1c1d48eafa1aec49fbf2912f8e78fdb731f58ac5a1fc76db"
 
 [[files]]
+file = "mods/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
+hash = "f6be638d63462d765004d08f912a105db981dc6a24ba2dd6b5e22b5fab416589"
+
+[[files]]
 file = "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
 hash = "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac"
 
@@ -1772,10 +1776,6 @@ metafile = true
 file = "mods/sodium-fabric-0-9-1-mc26-2.pw.toml"
 hash = "3712b173b6818932eaab35225733323f4da4d2f17804b26427e5046218031bcd"
 metafile = true
-
-[[files]]
-file = "mods/sodium-fabric-0.9.1+mc26.2.jar"
-hash = "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks-fabric-7-0-0.pw.toml"
