@@ -993,6 +993,10 @@ file = "mods/SereneSeasons-fabric-26.2-26.1.2.0.6.jar"
 hash = "a6b117c1b9370dad3c74ea54dc8962683f73845673178b49b84a6da437d4e781"
 
 [[files]]
+file = "mods/advancednetherite-fabric-2.4.2-26.2.jar"
+hash = "9bb98e0bfe8a3c16aedff3d6cccf900b3754cea28627b472d846f10ca124351e"
+
+[[files]]
 file = "mods/alexsmobs-2.2.2-fabric+26.2.jar"
 hash = "abdcf842e3234dcba73bbe41915ec11bef9e200c51d66ee235964ae9eda92322"
 
@@ -1483,6 +1487,10 @@ hash = "816b553bd4e05b13b81056b8973d3b4f041fafd595a59aa825c4fef4984b88e8"
 metafile = true
 
 [[files]]
+file = "mods/lod-server-support-fabric-0.16.0+26.2.jar"
+hash = "9c5307223c61a6e771954b0f7c3e247cfb8fc2adceadd3622efe91a9f1ea840a"
+
+[[files]]
 file = "mods/malilib-fabric-26-2-0-29-3.pw.toml"
 hash = "476f25278e2eb855f0bce5b724d17fe004f99e32af3473dfcd3aeef796f38d77"
 metafile = true
@@ -1644,8 +1652,8 @@ file = "mods/pneumonocore-1.3.1+26.2+A.jar"
 hash = "8740f3698563f35ade639a3e98eda22537e259f339abb629803b358d30e55ccd"
 
 [[files]]
-file = "mods/pocket_dimension-fabric-26.2-3.2-primazos.jar"
-hash = "c93203ba7efe372fcea4a3494a7517becb2f2dd08c6413026e9ef62d33671f5a"
+file = "mods/pocket_dimension-fabric-26.2-3.2-primazos-paredes.jar"
+hash = "49fc253809b015f22685344145b1b12570d5317054c064479c243a9d1c5424f8"
 
 [[files]]
 file = "mods/polytone-fabric-26-2-5-10-2.pw.toml"
@@ -1690,6 +1698,10 @@ metafile = true
 file = "mods/respackopts-26-2-0.pw.toml"
 hash = "4755801463c94630811cd9d379a54c62c1169ad01456f14be879b3d7e461a9dc"
 metafile = true
+
+[[files]]
+file = "mods/respawnable-pets-fabric-26.2-r2.jar"
+hash = "6bd649b4e35ad486a037999e38a26420aa64fab080ad460803b3c9f04bd2ee36"
 
 [[files]]
 file = "mods/rightclickharvest-fabric-4-6-2-26-2-x.pw.toml"
@@ -1758,6 +1770,10 @@ hash = "3712b173b6818932eaab35225733323f4da4d2f17804b26427e5046218031bcd"
 metafile = true
 
 [[files]]
+file = "mods/sodium-fabric-0.9.1+mc26.2.jar"
+hash = "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
+
+[[files]]
 file = "mods/sodium-shadowy-path-blocks-fabric-7-0-0.pw.toml"
 hash = "0742b1a4aa1ece5519a4ce1b948348bc23d601567d0ee5dc528f3d5888129ac9"
 metafile = true
@@ -1784,6 +1800,10 @@ metafile = true
 file = "mods/status-effect-bars-1-0-12.pw.toml"
 hash = "62e9ddf42dac2a8456d2860c10a643a9fe5390e8a038dcab832768c160d9355e"
 metafile = true
+
+[[files]]
+file = "mods/strawberrylib-fabric-26.2-r5.jar"
+hash = "324d47b62b8318124381097f79831e3f09fab16c9a17ec572f408e5c64df8fd8"
 
 [[files]]
 file = "mods/streamotes-FABRIC-1.2.15+26.2.jar"
@@ -1850,6 +1870,10 @@ file = "mods/voicemessages-fabric-1.0.13-26.2.jar"
 hash = "e085f52277ac8af9e723ae885ebc58e7245eef78c3dba58c7a67148e48cdb87d"
 
 [[files]]
+file = "mods/voxy-0.2.19-beta.jar"
+hash = "a06e4d93db88dc22d6cde6dfe1e58d8428ae271d1f432bbb430735336f4b5c12"
+
+[[files]]
 file = "mods/windy-1-1-1-26-1.pw.toml"
 hash = "b229ed9cfbfa0b43c95f1b0d803c3b65ee39d8f9e31f7a82305247a44871ef02"
 metafile = true
@@ -1884,7 +1908,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "46155455ba94a015b9030697e671205f556bbb42a3ea5d4a8f99c2ca62edc668"
+hash = "57c9c6f7a8303586743ce49db5e270dd716856195035c92afb5ec16370415317"
 preserve = true
 
 [[files]]
@@ -1923,6 +1947,110 @@ hash = "465bad25b4069522ab153959024c8baf79bc4c255f9e614fcd5a356cee66c8c5"
 [[files]]
 file = "resourcepacks/Fresh Buckets.zip.rpo"
 hash = "c69f871746e824ae7f042a9dc7a4d11b2b3b970767aeb75d576e3e1947a4cce3"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/blank.json"
+hash = "21504612daefff33f8a719fac0d994856bdd04197f5f88e50a83b34710a5f89c"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/pocket.json"
+hash = "af080b0d8899359bf93e70231a4ef49b6669f19eafa03c8a416f317fc7795413"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/pocket_display/inside.json"
+hash = "01a009e3aa76a00df63e8ea4ac8bfcfb2e97666338ab4d1e62fc7a959ebcafbb"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/pocket_display/outside.json"
+hash = "f7c66cb61a3260f21921971b1d0708c675b7145e22e4d7d014ff9b08d72be62e"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/pocket_display/outside_animation.json"
+hash = "df6547eef3e965b1e4c44756280b907582bcaefbf158c1f96b3f2c8e64691840"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/pocket_display/outside_side.json"
+hash = "cc3ca513dd64256748a697e61d8d4fe2d3688e327bb31b9ffdc1ffe7cc0efd01"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/pocket_display/teleport.json"
+hash = "17a56f5186b4e94e531d3f679be6f562155bc1b339530453236124c4e626fd8b"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/uunstable_pocket.json"
+hash = "02550a75c3aa73996da0cc4df71518ab985570108e8c0fcaaf746085bb03f9af"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket.png"
+hash = "8016cff1bc6660ac4575b7e93ffadf3b13025b787a1191c196e80caf9672e709"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket.png.mcmeta"
+hash = "500ea0d4f13019a00c297085116485270a47b889abff1d08e4c83bfe1220f6e5"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket.png.psd"
+hash = "a0d06ab8e6bb37e462ce8b9db59b79e79a3706bfc8abc2a068e9ef1ba8df5a62"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/back_inside.xcf"
+hash = "8ef03853ba1875ca6325bbfcb7ec845f18ad46de61d93a3b0f1fa0e5eb611a8f"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/bottom_inside_old.xcf"
+hash = "500251a550d0bb117014cc1563cad1378fa1f5ccb1e7da59b731a7af07ea75c6"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/inside.png"
+hash = "a5f6488041a5641976530aead4c8e3911fc8a43827cf49a0d31b92249ca3bc62"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/inside_template.png"
+hash = "d44240644f76b50abfa0a541bb9591615f2a6184a67222106808be8791a34cff"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/inside_template.xcf"
+hash = "bb2083b4be0d3b1810a8ad3ce83a3683472c8b8b57bafcb4aed30603b444f70b"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/pocket_full_layout.af"
+hash = "0221fa4320074c4c2960a3adcb5d7df580cf4a9fcf4f5b357a9e3ca420b2cbef"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/pocket_full_layout.xcf"
+hash = "9f4291e7ee639e79bac6d2ff0cdefafc72e9a266f9243e03a9cc50608950f5dd"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/teleport.png"
+hash = "5168275f5119803f311e835fa183effeb2ae0d7937ec1bd08319ab27667e5df3"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/pocket_display/top_inside.xcf"
+hash = "5915aabb7bf965a92eefc0711876f1d3132a824b27a2016fb5267446fa977069"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/unstable_pocket.png"
+hash = "ca7eaca560e019bca008bb76da65e35cdfc0843e96ee8c51fc39ff8fcf404edc"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/unstable_pocket.png.mcmeta"
+hash = "500ea0d4f13019a00c297085116485270a47b889abff1d08e4c83bfe1220f6e5"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/textures/item/unstable_pocket.png.psd"
+hash = "60fc2e381cecddcd60728b01dcee1aa2397693c8591b149e9e25f40811b03ea9"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/pack.mcmeta"
+hash = "12d29e4c31e435a57f31a9ae9d29c5ce08007f2df98dee9f635aa05468fa82f6"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/pack.png"
+hash = "c3b3838db71fffde15850eedac938febd2a8c56ead98af4136c90ac7c174b6b6"
+
+[[files]]
+file = "resourcepacks/Pocket Dimension Resources/pocket_dimension_pack.png"
+hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos Sounds.zip"
@@ -2024,10 +2152,6 @@ metafile = true
 file = "resourcepacks/freshanimations-v1-10-5.pw.toml"
 hash = "e7ddae1320b2dfe124a3a259b8594d032573853b195c9e0897f1c3fcb6bd9dc3"
 metafile = true
-
-[[files]]
-file = "resourcepacks/pocket_dimension-26.2.3.2_resources.zip"
-hash = "905f6314ed90e53caf12328c94e35655c6555931390185d3ee9d5d84f951db8c"
 
 [[files]]
 file = "resourcepacks/pop-out-clock-1-21-5.pw.toml"
