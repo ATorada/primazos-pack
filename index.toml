@@ -1175,6 +1175,10 @@ hash = "62ba73dd9ec007e50f19e229b233fffea6869083aa0f9cc2aa276ce487fc5ea9"
 metafile = true
 
 [[files]]
+file = "mods/customchestmenus-fabric-26.2-2.4.0.jar"
+hash = "ffca6f7c2cd24d0c92825dbc32fe5d8a8db2795ca1150c348ea1520d0d7f1f96"
+
+[[files]]
 file = "mods/cutthrough-v26-2-0-mc26-2-x-fabric.pw.toml"
 hash = "5d909f320f35f7900e15aa51152e5a66ea1c699fb9e12d7a7503f2f368166266"
 metafile = true
