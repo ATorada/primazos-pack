@@ -16,8 +16,8 @@ element {
   button_element_executable_block_identifier = 7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d02-1791320000000
   [executable_action_instance:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d03-1791320000000][action_type:sendmessage] = /ccm open guia
   [executable_block:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d02-1791320000000][type:generic] = [executables:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d03-1791320000000;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/ayuda_boton.gif
-  backgroundhovered = [source:local]/config/fancymenu/assets/ayuda_boton_hover.gif
+  backgroundnormal = [source:local]/config/fancymenu/assets/ayuda_boton.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/ayuda_boton_hover.png
   restartbackgroundanimations = false
   loopbackgroundanimations = true
   nine_slice_custom_background = false

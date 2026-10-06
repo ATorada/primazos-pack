@@ -261,12 +261,12 @@ file = "config/fancymenu/assets/animated_menu.gif"
 hash = "30fb6c359cb6455c0b63f66d9551080b6c286f9bf6136d7a0033d9050c195ffe"
 
 [[files]]
-file = "config/fancymenu/assets/ayuda_boton.gif"
-hash = "847e73cc5831da86c94c74257031fd01668eaaf8fd028566d2d38b883f7cf863"
+file = "config/fancymenu/assets/ayuda_boton.png"
+hash = "1bd855b6d7f84d9b2f1461c547ed9348c58f759b76705d54cdf068dd916c9d54"
 
 [[files]]
-file = "config/fancymenu/assets/ayuda_boton_hover.gif"
-hash = "7714e14f8bc57e767fdacbb765bddbf24a09a0739be47c283170e0df100d1d28"
+file = "config/fancymenu/assets/ayuda_boton_hover.png"
+hash = "ec2cbe81dfed4f25717b43793ab4944869d9c7c07aa0cccc40971415f1a4adca"
 
 [[files]]
 file = "config/fancymenu/assets/hovered_accessibility_button.png"
@@ -366,7 +366,7 @@ hash = "4c861c9f77b94c40242114ecca1ad43ef21ef2e6ff7252892f659a5325bcdc34"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_pause_screen.txt"
-hash = "2857346cd5e6dbcc5f46160d8232489a4408e9dfe8e5df21983e7ec5dbfaf993"
+hash = "ee3e6ea10677b31388c92f43524df7f277e3a3f0679a246e39af775e77e2e075"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -989,6 +989,10 @@ file = "mods/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar"
 hash = "03938ff551de675c36402bae792b1077fa1a6d076929b2c6c609e8735a999b34"
 
 [[files]]
+file = "mods/LocatorColors-26.2-1.1.2.jar"
+hash = "523264ca935010e644db564e039b49a70ca66ed614d15f3712f7f28c29831302"
+
+[[files]]
 file = "mods/PacketFixer-fabric-3.3.6.jar"
 hash = "bc7b95364d0e5e2c38b042ae2cc0ce509330f1081eb964d4f310d0cde27fa7f4"
 
@@ -1117,6 +1121,10 @@ metafile = true
 file = "mods/borderlessfullscreen-v2-4-1-mc26-2.pw.toml"
 hash = "f81dde29392ab4068556a0e7f5d6ae8f0fa700db93dc7636e3aab4aa1449dda1"
 metafile = true
+
+[[files]]
+file = "mods/camerapture-1.10.15+mc26.2.jar"
+hash = "df41451f3c20b529294b01732389c1a15be1c7f268ae48ac372db40dc9bee7df"
 
 [[files]]
 file = "mods/carryon-fabric-26-2-2-11-0.pw.toml"
@@ -2074,7 +2082,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos Sounds.zip"
-hash = "7f12a347741e9ff33eba551828becf3cc2bfebcc6d5ac766885ce88b0705a7d2"
+hash = "5553fd96a15e991fe620b6936560246407c885f2736d5377b741e2892770b518"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
