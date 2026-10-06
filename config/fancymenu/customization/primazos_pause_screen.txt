@@ -16,12 +16,14 @@ element {
   button_element_executable_block_identifier = 7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d02-1791320000000
   [executable_action_instance:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d03-1791320000000][action_type:sendmessage] = /ccm open guia
   [executable_block:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d02-1791320000000][type:generic] = [executables:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d03-1791320000000;]
-  restartbackgroundanimations = true
+  backgroundnormal = [source:local]/config/fancymenu/assets/ayuda_boton.gif
+  backgroundhovered = [source:local]/config/fancymenu/assets/ayuda_boton_hover.gif
+  restartbackgroundanimations = false
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Ayuda
+  label = §6§l✦ §e§lAyuda §6§l✦
   navigatable = true
   widget_active_state_requirement_container_identifier = 7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d04-1791320000000
   [loading_requirement_container_meta:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d04-1791320000000] = [groups:][instances:]
@@ -38,10 +40,11 @@ element {
   auto_sizing_base_screen_width = 0
   auto_sizing_base_screen_height = 0
   sticky_anchor = false
-  anchor_point = element
-  anchor_point_element = vanillabtn:button_compatibility_id:mc_pausescreen_disconnect_button
+  anchor_point = top-left
   x = 0
-  y = 24
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-204)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiheight"}-166)/4+26","decimal":"false"}}
   width = 204
   height = 20
   stretch_x = false
@@ -50,3 +53,4 @@ element {
   element_loading_requirement_container_identifier = 7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d06-1791320000000
   [loading_requirement_container_meta:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d06-1791320000000] = [groups:][instances:]
 }
+

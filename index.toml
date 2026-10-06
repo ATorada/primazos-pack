@@ -261,6 +261,14 @@ file = "config/fancymenu/assets/animated_menu.gif"
 hash = "30fb6c359cb6455c0b63f66d9551080b6c286f9bf6136d7a0033d9050c195ffe"
 
 [[files]]
+file = "config/fancymenu/assets/ayuda_boton.gif"
+hash = "847e73cc5831da86c94c74257031fd01668eaaf8fd028566d2d38b883f7cf863"
+
+[[files]]
+file = "config/fancymenu/assets/ayuda_boton_hover.gif"
+hash = "7714e14f8bc57e767fdacbb765bddbf24a09a0739be47c283170e0df100d1d28"
+
+[[files]]
 file = "config/fancymenu/assets/hovered_accessibility_button.png"
 hash = "de4f5fa06c516ce71b42d312e304f71ba53f510ba08f4f6ea57aea89fcaffbba"
 
@@ -358,7 +366,7 @@ hash = "4c861c9f77b94c40242114ecca1ad43ef21ef2e6ff7252892f659a5325bcdc34"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_pause_screen.txt"
-hash = "70506352281b6ade6c9220d51597ca1d2e328a43ef6c62a7b98bf10e2fbc8743"
+hash = "2857346cd5e6dbcc5f46160d8232489a4408e9dfe8e5df21983e7ec5dbfaf993"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
