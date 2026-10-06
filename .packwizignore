@@ -6,3 +6,4 @@ packwiz-installer-bootstrap.jar
 .gitignore
 _fuera/
 _amigos/
+.gitattributes
