@@ -1,4 +1,5 @@
 *.log
+_servidor
 packwiz.exe
 subir.bat
 subir.ps1

@@ -346,7 +346,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "c0fb5b46e3ff13eb2b2931422e2cbfccb64072e22fb4339b07ff2ebed10a9d48"
+hash = "34d63a9e3ec91d7e7ef83762f474f2c30f99a139ae7a59a8885646b2db5c01db"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_level_loading.txt"
@@ -355,6 +355,10 @@ hash = "da486ccb6980fa22d9465d39def64c86c1ecb03d51725b2a65d47366a3268fb5"
 [[files]]
 file = "config/fancymenu/customization/primazos_loading_screen.txt"
 hash = "4c861c9f77b94c40242114ecca1ad43ef21ef2e6ff7252892f659a5325bcdc34"
+
+[[files]]
+file = "config/fancymenu/customization/primazos_pause_screen.txt"
+hash = "70506352281b6ade6c9220d51597ca1d2e328a43ef6c62a7b98bf10e2fbc8743"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -1573,6 +1577,11 @@ hash = "5849aae32c8ff92eefb14c927eef962b4c6342fe48076dc8245b0f832a56696a"
 metafile = true
 
 [[files]]
+file = "mods/norecipebook.pw.toml"
+hash = "085774269106317a4503f42eb39753fdbbc6c2b791e51c3b1be58d16bdab2de0"
+metafile = true
+
+[[files]]
 file = "mods/notenoughanimations-fabric-1-12-4-mc26-2.pw.toml"
 hash = "21def133e0d3c844c67858f7a2be7fe233dbd2d9b46a609f80d7052d111290fa"
 metafile = true
@@ -2057,7 +2066,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos Sounds.zip"
-hash = "f0740977a7cbd2ddceaae8eb62e6672a7efc734508fdeb9b2125a55f1ef406df"
+hash = "7f12a347741e9ff33eba551828becf3cc2bfebcc6d5ac766885ce88b0705a7d2"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
