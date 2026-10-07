@@ -350,7 +350,7 @@ hash = "99b866b9c277927e703c7f556f9251e2877c2daf348f545b13ed7f6ec42aea02"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "cf64ac94c3b814d9fdc52b34edb579fb5e1b8bdd193abd2dbce2d04568e31556"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -365,8 +365,20 @@ file = "config/fancymenu/customization/primazos_loading_screen.txt"
 hash = "4c861c9f77b94c40242114ecca1ad43ef21ef2e6ff7252892f659a5325bcdc34"
 
 [[files]]
+file = "config/fancymenu/customization/primazos_options_screen.txt"
+hash = "3c0f6204a097304c69166a28d793745e23cf743fb99b9224c085e823a77c16b2"
+
+[[files]]
 file = "config/fancymenu/customization/primazos_pause_screen.txt"
 hash = "ee3e6ea10677b31388c92f43524df7f277e3a3f0679a246e39af775e77e2e075"
+
+[[files]]
+file = "config/fancymenu/customization/primazos_presets_ok_screen.txt"
+hash = "5e6e225aef360039374780e1f6fff7c04b66369aab3ed5774f0309ef28c0371b"
+
+[[files]]
+file = "config/fancymenu/customization/primazos_presets_screen.txt"
+hash = "737b812e9d7f308d70b7a1d123da9f0331cbce4e35b6038ef8c595b9b6d3b0bf"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -474,7 +486,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "b88e3537f8df96dc6f56540d33fb59011afa862b22dcecc668438ec6e16df736"
+hash = "994f02cb2bf347fbbf0d3b82ee43a5900edd84c19d9f5311d575b89d5b02f022"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -715,6 +727,146 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 [[files]]
 file = "config/presencefootsteps/userconfig.json5"
 hash = "124f41f08b0b4a6e4d049c4d680134794f832bcc079e1d28b2a45b4f6c6dcf8f"
+
+[[files]]
+file = "config/primazos_presets/alto/entity_model_features.json"
+hash = "6bfc37d85bd4e0b76ed3a477d5feeec148c7f758018f741d709f4aa90b0c12b3"
+
+[[files]]
+file = "config/primazos_presets/alto/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "config/primazos_presets/alto/fallingleaves2.json"
+hash = "37955b087c078f5fa6a4d3639e67565f396f7a66ec763e74d0e8f50e23ac6343"
+
+[[files]]
+file = "config/primazos_presets/alto/iris.properties"
+hash = "35e6551bab5b8206d38d3046679391beff57685e81b9972f094475699f30ff24"
+
+[[files]]
+file = "config/primazos_presets/alto/particle_effects.json5"
+hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+
+[[files]]
+file = "config/primazos_presets/alto/sodium-extra-options.json"
+hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
+
+[[files]]
+file = "config/primazos_presets/alto/visuality.json"
+hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+
+[[files]]
+file = "config/primazos_presets/basico/entity_model_features.json"
+hash = "7b5ecf55adeb8b96ce221434a7a7c4aef80cd53fc7bb58bb7ec4d9372fc10dcf"
+
+[[files]]
+file = "config/primazos_presets/basico/entityculling.json"
+hash = "383b9478c2f78d9e4042c58486fb7df3f717df7c769879dba5ab04bcd26c7d02"
+
+[[files]]
+file = "config/primazos_presets/basico/fallingleaves2.json"
+hash = "6c1c9bda14e287ec5267c35b2145d5d4b5379502035cd77dc4d5070a1ff3f3fb"
+
+[[files]]
+file = "config/primazos_presets/basico/iris.properties"
+hash = "d124d6e57b95b41b6fa327a570ea4e524ae03ca0cbb58f583d2178ba3fe2e971"
+
+[[files]]
+file = "config/primazos_presets/basico/particle_effects.json5"
+hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
+
+[[files]]
+file = "config/primazos_presets/basico/sodium-extra-options.json"
+hash = "9d41bab81aa06a894c625a6043c30ad7f7e07486dced95a95a57c5881f4ab8c6"
+
+[[files]]
+file = "config/primazos_presets/basico/visuality.json"
+hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
+
+[[files]]
+file = "config/primazos_presets/medio/entity_model_features.json"
+hash = "12406188592c0338172b736351d7d8a0fb5e4af6ec6ed0f4f162838f990c36ca"
+
+[[files]]
+file = "config/primazos_presets/medio/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "config/primazos_presets/medio/fallingleaves2.json"
+hash = "1c26092abd4794b7e133d1cd9ad94a1cd320584ec9807410c64529428c19ae98"
+
+[[files]]
+file = "config/primazos_presets/medio/iris.properties"
+hash = "1b319df212aac246eee97625e360fb88a9918fea912a7b0fc8675df05c8c9ce0"
+
+[[files]]
+file = "config/primazos_presets/medio/particle_effects.json5"
+hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
+
+[[files]]
+file = "config/primazos_presets/medio/sodium-extra-options.json"
+hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
+
+[[files]]
+file = "config/primazos_presets/medio/visuality.json"
+hash = "0b1501485a1de26efe337a00881cee9434ecc6efde674afeafdb7d5d264390e4"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/entity_model_features.json"
+hash = "e8198920f66400121f15f2e6546da89e7d0e616e71377eb0bd7be102bf7e445e"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/entityculling.json"
+hash = "395987197d64dc3007068f50a973f14d18593556f8e5cd6018a257c4fff9154b"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/fallingleaves2.json"
+hash = "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/iris.properties"
+hash = "994f02cb2bf347fbbf0d3b82ee43a5900edd84c19d9f5311d575b89d5b02f022"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/particle_effects.json5"
+hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/sodium-extra-options.json"
+hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/visuality.json"
+hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+
+[[files]]
+file = "config/primazos_presets/patata/entity_model_features.json"
+hash = "a3d753326b687a184762fe300c0b14129c1a0cf32a95b37bfb75e449bbf945e3"
+
+[[files]]
+file = "config/primazos_presets/patata/entityculling.json"
+hash = "dfce117dd64287a660c4b50e40ce7fdcbb7c45f7f78081ee1269cb0d493927de"
+
+[[files]]
+file = "config/primazos_presets/patata/fallingleaves2.json"
+hash = "6c1c9bda14e287ec5267c35b2145d5d4b5379502035cd77dc4d5070a1ff3f3fb"
+
+[[files]]
+file = "config/primazos_presets/patata/iris.properties"
+hash = "a3a759d9ed35d16478bf282a564e427626cb00a222d90f6ea8ae5d233cc2144f"
+
+[[files]]
+file = "config/primazos_presets/patata/particle_effects.json5"
+hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
+
+[[files]]
+file = "config/primazos_presets/patata/sodium-extra-options.json"
+hash = "22c0f53c66f74fbea1be25cc20ebfcd85c96460f46f64f1f5a867f95d392ee6b"
+
+[[files]]
+file = "config/primazos_presets/patata/visuality.json"
+hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
 
 [[files]]
 file = "config/punchy/merged_animation_selection.json"
@@ -993,8 +1145,16 @@ file = "mods/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar"
 hash = "03938ff551de675c36402bae792b1077fa1a6d076929b2c6c609e8735a999b34"
 
 [[files]]
+file = "mods/InventoryParticles-3.2.0+26.2+fabric.jar"
+hash = "dd461dba2de86a9e18a7e16c36889aaddee4773d3abf1c282648547b6f67e04d"
+
+[[files]]
 file = "mods/LocatorColors-26.2-1.1.2.jar"
 hash = "523264ca935010e644db564e039b49a70ca66ed614d15f3712f7f28c29831302"
+
+[[files]]
+file = "mods/MossyLib-1.6.0+26.2+fabric.jar"
+hash = "0cf82f1ad21b89c6787c11eaaca9c71a601218c640ee5831a3ca7fa7bdbe7abd"
 
 [[files]]
 file = "mods/PacketFixer-fabric-3.3.6.jar"
@@ -1943,7 +2103,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c079f7ea56700e35d17722de7c93f2d8cb4dee5bd72a30827a53642a9c5ab572"
+hash = "3968b5b438f90b3362e5577ae925a5c5c235224f07b78965ccfb3df0aa408b5f"
 preserve = true
 
 [[files]]
@@ -2096,6 +2256,10 @@ file = "resourcepacks/Primazos Sounds.zip"
 hash = "8a73e73175257121e85d900bfe6c59974a3a3c920031dcddf87ff187af1a7980"
 
 [[files]]
+file = "resourcepacks/Primazos Traducciones.zip"
+hash = "a23e7e3d82f2705fb9a4f8ee61eef3cf7d3fb304a6307c963fb5a32b40e0c9f0"
+
+[[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
 hash = "de438f8a95e14b1716a28aee70ef14b06ddc267361b88ed421adb1e094823ec2"
 
@@ -2175,7 +2339,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchant-icons-1.21.5-v1.3.zip"
-hash = "23e9c5c8ed6c4626fa3a4e31726cf9b2c7206964c515f10f5621751a76fd0dd2"
+hash = "cbb6a4f36ab5e5e9ebe7b146c1a87eaef368a53019614cb9bce2708e3858f836"
 
 [[files]]
 file = "resourcepacks/enchantment-outlines.pw.toml"

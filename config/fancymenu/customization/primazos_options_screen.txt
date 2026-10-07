@@ -1,0 +1,56 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = net.minecraft.client.gui.screens.options.OptionsScreen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1791400000000
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:decb42ab-2939-43e4-acc8-b518e9f33b91-1791400000000] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = ea3f727e-e0a4-4bcf-ac26-d9a540d17b20-1791400000000
+  [executable_action_instance:5ff16e2a-444a-405b-b13c-e26e66cb0344-1791400000000][action_type:opengui] = primazos_presets
+  [executable_block:ea3f727e-e0a4-4bcf-ac26-d9a540d17b20-1791400000000][type:generic] = [executables:5ff16e2a-444a-405b-b13c-e26e66cb0344-1791400000000;]
+  backgroundnormal = [source:local]/config/fancymenu/assets/ayuda_boton.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/ayuda_boton_hover.png
+  restartbackgroundanimations = false
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = §6§l✦ §e§lPresets de Calidad §6§l✦
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 3bc88caa-6693-48bf-8eae-3c70410d3604-1791400000000
+  [loading_requirement_container_meta:3bc88caa-6693-48bf-8eae-3c70410d3604-1791400000000] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = bbf42eb8-733c-401f-b389-a91a95af2b89-1791400000000
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 0
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-204)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}-52","decimal":"false"}}
+  width = 204
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 08ed1ba3-fbd6-4670-9e73-fd9816e470b9-1791400000000
+  [loading_requirement_container_meta:08ed1ba3-fbd6-4670-9e73-fd9816e470b9-1791400000000] = [groups:][instances:]
+}
+
