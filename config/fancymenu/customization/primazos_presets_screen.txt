@@ -26,46 +26,11 @@ customization {
 
 element {
   source_mode = direct
-  source = §6§l✦ §e§lPresets de Calidad §6§l✦
+  source = §7Elige un preset y reinicia el juego
   shadow = true
   case_mode = normal
   scrolling = false
-  auto_line_wrapping = true
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = 6c615acc-fdf5-4968-afd2-a082dcccd3db-1791400000000
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 0
-  y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2","decimal":"false"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"14","decimal":"false"}}
-  width = 360
-  height = 12
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 0376759f-d9de-427a-95b3-5dabdec9e0af-1791400000000
-  [loading_requirement_container_meta:0376759f-d9de-427a-95b3-5dabdec9e0af-1791400000000] = [groups:][instances:]
-}
-
-element {
-  source_mode = direct
-  source = §7Elige un preset: ajusta gráficos, efectos y shaders de todos los mods. Después reinicia el juego.
-  shadow = true
-  case_mode = normal
-  scrolling = false
-  auto_line_wrapping = true
+  auto_line_wrapping = false
   parse_markdown = false
   element_type = text_v2
   instance_identifier = 7ed6fb92-a45f-44b5-aae1-3f56258b7054-1791400000000
@@ -83,10 +48,10 @@ element {
   anchor_point = top-left
   x = 0
   y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2","decimal":"false"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"28","decimal":"false"}}
-  width = 360
-  height = 20
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"22","decimal":"false"}}
+  width = 320
+  height = 16
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -126,7 +91,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §7§lPatata
+  label = §7§lPatata §8- §7Distancia 6, sin sombras ni shaders
   navigatable = true
   widget_active_state_requirement_container_identifier = a5a1f2cc-7706-48b2-bda1-507f151685c8-1791400000000
   [loading_requirement_container_meta:a5a1f2cc-7706-48b2-bda1-507f151685c8-1791400000000] = [groups:][instances:]
@@ -145,49 +110,16 @@ element {
   sticky_anchor = false
   anchor_point = top-left
   x = 0
-  y = 52
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2","decimal":"false"}}
-  width = 100
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"46","decimal":"false"}}
+  width = 320
   height = 22
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = fabfc4e6-b65c-429b-ac77-3b6f7e053dec-1791400000000
   [loading_requirement_container_meta:fabfc4e6-b65c-429b-ac77-3b6f7e053dec-1791400000000] = [groups:][instances:]
-}
-
-element {
-  source_mode = direct
-  source = Para equipos muy justos. Distancia 6, sin sombras ni nubes, partículas mínimas y sin shaders. Máximos FPS.
-  shadow = true
-  case_mode = normal
-  scrolling = false
-  auto_line_wrapping = true
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = 99fd1efd-ea6b-4d81-8fed-fc68bece6ff6-1791400000000
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 0
-  y = 53
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2+108","decimal":"false"}}
-  width = 252
-  height = 22
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = e964647c-0872-4ad2-8d3b-a2cfc6af03d6-1791400000000
-  [loading_requirement_container_meta:e964647c-0872-4ad2-8d3b-a2cfc6af03d6-1791400000000] = [groups:][instances:]
 }
 
 element {
@@ -221,7 +153,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §a§lBásico
+  label = §a§lBásico §8- §7Distancia 8, sin shaders
   navigatable = true
   widget_active_state_requirement_container_identifier = 8b5fde21-ae0f-4c0a-92c0-8171f97fa284-1791400000000
   [loading_requirement_container_meta:8b5fde21-ae0f-4c0a-92c0-8171f97fa284-1791400000000] = [groups:][instances:]
@@ -240,49 +172,16 @@ element {
   sticky_anchor = false
   anchor_point = top-left
   x = 0
-  y = 86
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2","decimal":"false"}}
-  width = 100
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"74","decimal":"false"}}
+  width = 320
   height = 22
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 5d70aa6b-8a63-403e-9545-5b154dd28005-1791400000000
   [loading_requirement_container_meta:5d70aa6b-8a63-403e-9545-5b154dd28005-1791400000000] = [groups:][instances:]
-}
-
-element {
-  source_mode = direct
-  source = Fluido en equipos modestos. Distancia 8, sombras y efectos reducidos, sin shaders.
-  shadow = true
-  case_mode = normal
-  scrolling = false
-  auto_line_wrapping = true
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = 3151a028-18af-4231-a87a-87b7162c1d4d-1791400000000
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 0
-  y = 87
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2+108","decimal":"false"}}
-  width = 252
-  height = 22
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 2156fee6-a5d0-4879-a24d-a4a6484c2a40-1791400000000
-  [loading_requirement_container_meta:2156fee6-a5d0-4879-a24d-a4a6484c2a40-1791400000000] = [groups:][instances:]
 }
 
 element {
@@ -316,7 +215,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §e§lMedio
+  label = §e§lMedio §8- §7Distancia 12, sin shaders
   navigatable = true
   widget_active_state_requirement_container_identifier = 97ee0796-d74a-444a-866d-e798eca682ac-1791400000000
   [loading_requirement_container_meta:97ee0796-d74a-444a-866d-e798eca682ac-1791400000000] = [groups:][instances:]
@@ -335,49 +234,16 @@ element {
   sticky_anchor = false
   anchor_point = top-left
   x = 0
-  y = 120
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2","decimal":"false"}}
-  width = 100
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"102","decimal":"false"}}
+  width = 320
   height = 22
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = b420e94a-fc0a-4b8e-9591-43c3d22fca51-1791400000000
   [loading_requirement_container_meta:b420e94a-fc0a-4b8e-9591-43c3d22fca51-1791400000000] = [groups:][instances:]
-}
-
-element {
-  source_mode = direct
-  source = Equilibrio entre rendimiento y estética. Distancia 12, sin shaders.
-  shadow = true
-  case_mode = normal
-  scrolling = false
-  auto_line_wrapping = true
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = eff958ac-ff71-40de-9870-26c58091a1a7-1791400000000
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 0
-  y = 121
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2+108","decimal":"false"}}
-  width = 252
-  height = 22
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 91f57220-830b-45d2-b61e-b744c504d1d9-1791400000000
-  [loading_requirement_container_meta:91f57220-830b-45d2-b61e-b744c504d1d9-1791400000000] = [groups:][instances:]
 }
 
 element {
@@ -411,7 +277,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §6§lAlto
+  label = §6§lAlto §8- §7Distancia 16, shaders ligeros
   navigatable = true
   widget_active_state_requirement_container_identifier = f97bc279-36dc-47e2-a557-7a23d3182b1f-1791400000000
   [loading_requirement_container_meta:f97bc279-36dc-47e2-a557-7a23d3182b1f-1791400000000] = [groups:][instances:]
@@ -430,49 +296,16 @@ element {
   sticky_anchor = false
   anchor_point = top-left
   x = 0
-  y = 154
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2","decimal":"false"}}
-  width = 100
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"130","decimal":"false"}}
+  width = 320
   height = 22
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 5cff0663-fa81-4b25-90cc-5fb8af204e8c-1791400000000
   [loading_requirement_container_meta:5cff0663-fa81-4b25-90cc-5fb8af204e8c-1791400000000] = [groups:][instances:]
-}
-
-element {
-  source_mode = direct
-  source = Mundo bonito y fluido. Distancia 16 con shaders ligeros (I Like Vanilla).
-  shadow = true
-  case_mode = normal
-  scrolling = false
-  auto_line_wrapping = true
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = 14d7bf9a-4501-4b7e-b598-76932fe7a0bd-1791400000000
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 0
-  y = 155
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2+108","decimal":"false"}}
-  width = 252
-  height = 22
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 95da8983-04c3-4d4c-a6c2-4e162dae9174-1791400000000
-  [loading_requirement_container_meta:95da8983-04c3-4d4c-a6c2-4e162dae9174-1791400000000] = [groups:][instances:]
 }
 
 element {
@@ -506,7 +339,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §c§lMuy alto
+  label = §c§lMuy alto §8- §7Distancia 24, shaders Complementary
   navigatable = true
   widget_active_state_requirement_container_identifier = a6bee767-974f-412c-9c3d-fb49ffc0c643-1791400000000
   [loading_requirement_container_meta:a6bee767-974f-412c-9c3d-fb49ffc0c643-1791400000000] = [groups:][instances:]
@@ -525,49 +358,16 @@ element {
   sticky_anchor = false
   anchor_point = top-left
   x = 0
-  y = 188
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2","decimal":"false"}}
-  width = 100
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"158","decimal":"false"}}
+  width = 320
   height = 22
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = b8f81915-1361-4b2f-a9c6-05715d68c541-1791400000000
   [loading_requirement_container_meta:b8f81915-1361-4b2f-a9c6-05715d68c541-1791400000000] = [groups:][instances:]
-}
-
-element {
-  source_mode = direct
-  source = Experiencia completa: distancia 24, todos los efectos y shaders Complementary + Euphoria. Requiere una buena gráfica.
-  shadow = true
-  case_mode = normal
-  scrolling = false
-  auto_line_wrapping = true
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = cf66721d-93be-47ac-b7c2-da4fa5c4a8a4-1791400000000
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 0
-  y = 189
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-360)/2+108","decimal":"false"}}
-  width = 252
-  height = 22
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 7d48d36a-47b9-4b8d-a244-1fd869c40cc2-1791400000000
-  [loading_requirement_container_meta:7d48d36a-47b9-4b8d-a244-1fd869c40cc2-1791400000000] = [groups:][instances:]
 }
 
 element {

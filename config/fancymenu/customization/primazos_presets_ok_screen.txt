@@ -30,7 +30,7 @@ element {
   shadow = true
   case_mode = normal
   scrolling = false
-  auto_line_wrapping = true
+  auto_line_wrapping = false
   parse_markdown = false
   element_type = text_v2
   instance_identifier = 31c83cef-56e4-4cc1-bd43-f5dc551e12ab-1791400000000
@@ -48,27 +48,27 @@ element {
   anchor_point = top-left
   x = 0
   y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-300)/2","decimal":"false"}}
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
   advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-50","decimal":"false"}}
-  width = 300
-  height = 12
+  width = 320
+  height = 16
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = fc4be04d-21ae-4541-bd21-f1433f38461f-1791400000000
-  [loading_requirement_container_meta:fc4be04d-21ae-4541-bd21-f1433f38461f-1791400000000] = [groups:][instances:]
+  element_loading_requirement_container_identifier = dc71c5b9-d22f-468d-9bc2-ee8eaf87af5b-1791400000000
+  [loading_requirement_container_meta:dc71c5b9-d22f-468d-9bc2-ee8eaf87af5b-1791400000000] = [groups:][instances:]
 }
 
 element {
   source_mode = direct
-  source = §7Los gráficos ya han cambiado. Los ajustes de los mods (shaders, efectos…) se cargan al iniciar, así que cierra el juego y vuelve a abrirlo desde el launcher.
+  source = §7Los ajustes de los mods (shaders, efectos…)
   shadow = true
   case_mode = normal
   scrolling = false
-  auto_line_wrapping = true
+  auto_line_wrapping = false
   parse_markdown = false
   element_type = text_v2
-  instance_identifier = 724852ad-4280-4c9a-a780-00468b921941-1791400000000
+  instance_identifier = c8c40cad-e201-4599-b518-1d7625ba4131-1791400000000
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in_v2 = no_fading
@@ -83,15 +83,85 @@ element {
   anchor_point = top-left
   x = 0
   y = 0
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-300)/2","decimal":"false"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-32","decimal":"false"}}
-  width = 300
-  height = 40
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-34","decimal":"false"}}
+  width = 320
+  height = 14
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = eddd70f2-5185-4986-bde6-15c8ed1273cb-1791400000000
-  [loading_requirement_container_meta:eddd70f2-5185-4986-bde6-15c8ed1273cb-1791400000000] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 0d30a6a2-9377-43ce-aa9a-55511d86f800-1791400000000
+  [loading_requirement_container_meta:0d30a6a2-9377-43ce-aa9a-55511d86f800-1791400000000] = [groups:][instances:]
+}
+
+element {
+  source_mode = direct
+  source = §7se cargan al iniciar. Cierra el juego y
+  shadow = true
+  case_mode = normal
+  scrolling = false
+  auto_line_wrapping = false
+  parse_markdown = false
+  element_type = text_v2
+  instance_identifier = 25f98cee-a1ca-4b1f-867d-d33414ff9a9c-1791400000000
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 0
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-20","decimal":"false"}}
+  width = 320
+  height = 14
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 413de089-44ea-459c-81e9-1e85d30f7951-1791400000000
+  [loading_requirement_container_meta:413de089-44ea-459c-81e9-1e85d30f7951-1791400000000] = [groups:][instances:]
+}
+
+element {
+  source_mode = direct
+  source = §7vuelve a abrirlo desde el launcher.
+  shadow = true
+  case_mode = normal
+  scrolling = false
+  auto_line_wrapping = false
+  parse_markdown = false
+  element_type = text_v2
+  instance_identifier = c7cefaf6-82d2-4d25-9244-c5d50385d73b-1791400000000
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 0
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}-320)/2","decimal":"false"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2-6","decimal":"false"}}
+  width = 320
+  height = 14
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 4a4d7017-e1a9-4caa-b123-cc8b857df604-1791400000000
+  [loading_requirement_container_meta:4a4d7017-e1a9-4caa-b123-cc8b857df604-1791400000000] = [groups:][instances:]
 }
 
 element {
@@ -132,8 +202,8 @@ element {
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = cc225924-69af-4c80-823c-b4dba8609e9a-1791400000000
-  [loading_requirement_container_meta:cc225924-69af-4c80-823c-b4dba8609e9a-1791400000000] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 0f8008c4-cf4e-45df-818e-66a1f754ad79-1791400000000
+  [loading_requirement_container_meta:0f8008c4-cf4e-45df-818e-66a1f754ad79-1791400000000] = [groups:][instances:]
 }
 
 element {
@@ -174,7 +244,7 @@ element {
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = ae24fd5d-0c75-43be-bae3-6060d9b0ab2e-1791400000000
-  [loading_requirement_container_meta:ae24fd5d-0c75-43be-bae3-6060d9b0ab2e-1791400000000] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 61150f51-6342-41f6-a919-090605b4e466-1791400000000
+  [loading_requirement_container_meta:61150f51-6342-41f6-a919-090605b4e466-1791400000000] = [groups:][instances:]
 }
 

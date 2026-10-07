@@ -374,11 +374,11 @@ hash = "ee3e6ea10677b31388c92f43524df7f277e3a3f0679a246e39af775e77e2e075"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_ok_screen.txt"
-hash = "5e6e225aef360039374780e1f6fff7c04b66369aab3ed5774f0309ef28c0371b"
+hash = "f753eae1b6ac532035dab180e747b7bfa8039e34082954332876a73d3eaa57f6"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "737b812e9d7f308d70b7a1d123da9f0331cbce4e35b6038ef8c595b9b6d3b0bf"
+hash = "d66df9c8c696262d72755292cf5869f2af86d87641374b01c7bd71259966d3cf"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
