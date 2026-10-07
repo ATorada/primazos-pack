@@ -6,7 +6,7 @@
     "fire": true,
     "portal": true,
     "block_animations": true,
-    "sculk_sensor": true
+    "sculk_sensor": false
   },
   "particle_settings": {
     "particles": true,

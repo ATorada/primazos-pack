@@ -59,7 +59,7 @@
     "beacon_beam": true,
     "limit_beacon_beam_height": true,
     "enchanting_table_book": false,
-    "item_frame_name_tag": true,
+    "item_frame_name_tag": false,
     "player_name_tag": true
   },
   "extra_settings": {

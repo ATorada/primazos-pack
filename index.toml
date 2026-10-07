@@ -378,7 +378,7 @@ hash = "f753eae1b6ac532035dab180e747b7bfa8039e34082954332876a73d3eaa57f6"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "d66df9c8c696262d72755292cf5869f2af86d87641374b01c7bd71259966d3cf"
+hash = "61d8139cf4d05d905205ad11c63df486cf6b8cc407e6201b86ff8b990e52244d"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -729,6 +729,10 @@ file = "config/presencefootsteps/userconfig.json5"
 hash = "124f41f08b0b4a6e4d049c4d680134794f832bcc079e1d28b2a45b4f6c6dcf8f"
 
 [[files]]
+file = "config/primazos_presets/alto/BBEConfig.json"
+hash = "d44f0835b5c76aa42a56a3ce89b8e4d1173564d1eb6321cc3ce415f56a67f91a"
+
+[[files]]
 file = "config/primazos_presets/alto/entity_model_features.json"
 hash = "6bfc37d85bd4e0b76ed3a477d5feeec148c7f758018f741d709f4aa90b0c12b3"
 
@@ -745,6 +749,14 @@ file = "config/primazos_presets/alto/iris.properties"
 hash = "35e6551bab5b8206d38d3046679391beff57685e81b9972f094475699f30ff24"
 
 [[files]]
+file = "config/primazos_presets/alto/lss-client-config.yaml"
+hash = "9a09f54ebcf875aef789072fc2d0cee2332c61f76690bc5e9dbb0b43e7c55532"
+
+[[files]]
+file = "config/primazos_presets/alto/moreculling.toml"
+hash = "93430d2637f35d7566fa2f64fb02d5760f6d3f84ea948fdfe00bd0aa453469c6"
+
+[[files]]
 file = "config/primazos_presets/alto/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
@@ -753,8 +765,24 @@ file = "config/primazos_presets/alto/sodium-extra-options.json"
 hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
 
 [[files]]
+file = "config/primazos_presets/alto/sodium-options.json"
+hash = "231060b6de49a98fae578caefea359caee1fc4199d0c68c7579626a661ccecaa"
+
+[[files]]
+file = "config/primazos_presets/alto/sodium-shadowy-path-blocks-options.json"
+hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
+
+[[files]]
 file = "config/primazos_presets/alto/visuality.json"
 hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+
+[[files]]
+file = "config/primazos_presets/alto/voxy-config.json"
+hash = "8fb2248778a9e4821922a9511479114fd2d76fcb236791389d40ed8e6e10841c"
+
+[[files]]
+file = "config/primazos_presets/basico/BBEConfig.json"
+hash = "f5a4444267f90abb3eee3d74cd16ce781e0c7dfc7aa02aaec0c5b2fae9af4a2a"
 
 [[files]]
 file = "config/primazos_presets/basico/entity_model_features.json"
@@ -773,16 +801,40 @@ file = "config/primazos_presets/basico/iris.properties"
 hash = "d124d6e57b95b41b6fa327a570ea4e524ae03ca0cbb58f583d2178ba3fe2e971"
 
 [[files]]
+file = "config/primazos_presets/basico/lss-client-config.yaml"
+hash = "0e7f111702e09d6c71f58bfe11a02fc492d547e30e52bc4378e15ecc78ca65d9"
+
+[[files]]
+file = "config/primazos_presets/basico/moreculling.toml"
+hash = "013036d63c2044814e583dc74a2528a74aac20f79f017b5e2ca6c692d114764e"
+
+[[files]]
 file = "config/primazos_presets/basico/particle_effects.json5"
 hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
 
 [[files]]
 file = "config/primazos_presets/basico/sodium-extra-options.json"
-hash = "9d41bab81aa06a894c625a6043c30ad7f7e07486dced95a95a57c5881f4ab8c6"
+hash = "8682e6cf5b7c5832c19a7de8cf2b095fbc1b966dd2ac328f88e55ec51bc150ae"
+
+[[files]]
+file = "config/primazos_presets/basico/sodium-options.json"
+hash = "3d4e36a43c24b3a719d9f123c5084d0d189e0e93a926c93136b1bdd8a0b7b705"
+
+[[files]]
+file = "config/primazos_presets/basico/sodium-shadowy-path-blocks-options.json"
+hash = "c22e489fa38a0c00272f6560f71614e2d4100a435593dd30ae39016b233e025c"
 
 [[files]]
 file = "config/primazos_presets/basico/visuality.json"
 hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
+
+[[files]]
+file = "config/primazos_presets/basico/voxy-config.json"
+hash = "dcfc00dfa3b884b628330dde74bf9842f4d337575938000dddbec54f1c758cc6"
+
+[[files]]
+file = "config/primazos_presets/medio/BBEConfig.json"
+hash = "400ce3df9bea1e4ae65f0deefe89022479a0d5864ea32787a37e1a3bd9df691b"
 
 [[files]]
 file = "config/primazos_presets/medio/entity_model_features.json"
@@ -801,16 +853,40 @@ file = "config/primazos_presets/medio/iris.properties"
 hash = "1b319df212aac246eee97625e360fb88a9918fea912a7b0fc8675df05c8c9ce0"
 
 [[files]]
+file = "config/primazos_presets/medio/lss-client-config.yaml"
+hash = "bd37c921591f764edef4b0ef68f99667efb2a2d8911492c3741999f33119db3d"
+
+[[files]]
+file = "config/primazos_presets/medio/moreculling.toml"
+hash = "7543bfadb43d28226da32ddc0541bc55f6b68fe613e41dabc1bfc890c9723226"
+
+[[files]]
 file = "config/primazos_presets/medio/particle_effects.json5"
 hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
 
 [[files]]
 file = "config/primazos_presets/medio/sodium-extra-options.json"
-hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
+hash = "9541eabb70a1adef7725344543e2578dd8d97ee7871c99bc9984f5adff7a84f9"
+
+[[files]]
+file = "config/primazos_presets/medio/sodium-options.json"
+hash = "f6f002ae6ee1308b3c19b308cc5ea6be55f81c082d7e297270c51308ac8002a5"
+
+[[files]]
+file = "config/primazos_presets/medio/sodium-shadowy-path-blocks-options.json"
+hash = "ae7238a452441374365d6f3b054646ac0e4cd97229fd68258e075075d46b365c"
 
 [[files]]
 file = "config/primazos_presets/medio/visuality.json"
 hash = "0b1501485a1de26efe337a00881cee9434ecc6efde674afeafdb7d5d264390e4"
+
+[[files]]
+file = "config/primazos_presets/medio/voxy-config.json"
+hash = "67371a577f3b4dce53baeadb3724ef41fea1a57adf0ddd97243e21c852522896"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/BBEConfig.json"
+hash = "689fae5507c789efa358244470b5374a710d210046b649259ea5f2ad0ca269c3"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/entity_model_features.json"
@@ -829,6 +905,14 @@ file = "config/primazos_presets/muy_alto/iris.properties"
 hash = "994f02cb2bf347fbbf0d3b82ee43a5900edd84c19d9f5311d575b89d5b02f022"
 
 [[files]]
+file = "config/primazos_presets/muy_alto/lss-client-config.yaml"
+hash = "d6b8c1f3e3cd60b55e37fb85cb3d922120a613be5c4a860b7dfb06a3b2d63c81"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/moreculling.toml"
+hash = "e895251edcb1aa83b45873e513a0c5d8d8355578da7f2358f4156a2d6cd0c137"
+
+[[files]]
 file = "config/primazos_presets/muy_alto/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
@@ -837,8 +921,24 @@ file = "config/primazos_presets/muy_alto/sodium-extra-options.json"
 hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
 
 [[files]]
+file = "config/primazos_presets/muy_alto/sodium-options.json"
+hash = "6d75a5b9b0abdd3c5c05879e82cf1d4c9f54f8739ff92cdc1957b79c2b9ebd24"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/sodium-shadowy-path-blocks-options.json"
+hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
+
+[[files]]
 file = "config/primazos_presets/muy_alto/visuality.json"
 hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/voxy-config.json"
+hash = "ed243ed0748bf12b71d882760abb15e84527af5a947923e4b84d1a60931498ea"
+
+[[files]]
+file = "config/primazos_presets/patata/BBEConfig.json"
+hash = "4818d0a6ae80d6f615f4ddab19157d71ba1346a2d76d0ec7903eeb7f18c4f55e"
 
 [[files]]
 file = "config/primazos_presets/patata/entity_model_features.json"
@@ -857,16 +957,36 @@ file = "config/primazos_presets/patata/iris.properties"
 hash = "a3a759d9ed35d16478bf282a564e427626cb00a222d90f6ea8ae5d233cc2144f"
 
 [[files]]
+file = "config/primazos_presets/patata/lss-client-config.yaml"
+hash = "5121ac3baebb2622bbfb9368d2df44d97690cbb80df73c69b241e3f4e3025fc5"
+
+[[files]]
+file = "config/primazos_presets/patata/moreculling.toml"
+hash = "6dc3962b00d0488a9c538e733b9126a209203caa923c8a79620429168c0c7d9b"
+
+[[files]]
 file = "config/primazos_presets/patata/particle_effects.json5"
 hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
 
 [[files]]
 file = "config/primazos_presets/patata/sodium-extra-options.json"
-hash = "22c0f53c66f74fbea1be25cc20ebfcd85c96460f46f64f1f5a867f95d392ee6b"
+hash = "e3cf0f591e870a54bdade3720c016c3e825f71815609695935b8434072fc6cf9"
+
+[[files]]
+file = "config/primazos_presets/patata/sodium-options.json"
+hash = "08c4a74ca9dade00ea3198a57f9d6a7d7478219c6b26dbb232c53dff99194ea9"
+
+[[files]]
+file = "config/primazos_presets/patata/sodium-shadowy-path-blocks-options.json"
+hash = "c22e489fa38a0c00272f6560f71614e2d4100a435593dd30ae39016b233e025c"
 
 [[files]]
 file = "config/primazos_presets/patata/visuality.json"
 hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
+
+[[files]]
+file = "config/primazos_presets/patata/voxy-config.json"
+hash = "988308490da80f787511e33fbeb73e156e2a95c1cd3f283973703e2ffd5ad951"
 
 [[files]]
 file = "config/punchy/merged_animation_selection.json"
