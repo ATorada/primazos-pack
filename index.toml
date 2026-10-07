@@ -374,7 +374,7 @@ hash = "ee3e6ea10677b31388c92f43524df7f277e3a3f0679a246e39af775e77e2e075"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_ok_screen.txt"
-hash = "50e324f3e6e8fa862bcfde38944df2e20f37e336577870efc39cbf3effaf0471"
+hash = "c84b96b97be842094a6a00084e49a7ed13988b7dc5ead7d3934d305ee0bdbe34"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
@@ -719,10 +719,6 @@ hash = "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea"
 [[files]]
 file = "config/pingwheel.server.json"
 hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
-
-[[files]]
-file = "config/placeholder.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
