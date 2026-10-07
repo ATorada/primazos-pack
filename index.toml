@@ -1301,6 +1301,10 @@ file = "mods/Totem Slot-1.0.6.jar"
 hash = "39f1213004f42d788b418801060b0e16e0beb81f7f97fa0536a6775b24703b02"
 
 [[files]]
+file = "mods/[26.2] SecurityCraft-fabric-V0.6.jar"
+hash = "a52ec07d81240734e33e13243967c5b6f9e99f5091c1676ae477321c1b41df98"
+
+[[files]]
 file = "mods/advancednetherite-fabric-2.4.2-26.2.jar"
 hash = "9bb98e0bfe8a3c16aedff3d6cccf900b3754cea28627b472d846f10ca124351e"
 
@@ -1742,6 +1746,10 @@ metafile = true
 file = "mods/ji-afk-cinematic-26-1-26-2-2-3-0.pw.toml"
 hash = "783587f751b5bf265ab5326c9e816455c64823478694bb30df57603b8a58ec16"
 metafile = true
+
+[[files]]
+file = "mods/jmsharedmaps-1.7-26.2-fabric.jar"
+hash = "e89f777c3a79abfa81a967be63bdeac82684c0327dc118624b07b5f797564359"
 
 [[files]]
 file = "mods/journeymap-fabric-26-2-6-0-2.pw.toml"
