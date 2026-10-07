@@ -374,11 +374,11 @@ hash = "ee3e6ea10677b31388c92f43524df7f277e3a3f0679a246e39af775e77e2e075"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_ok_screen.txt"
-hash = "c84b96b97be842094a6a00084e49a7ed13988b7dc5ead7d3934d305ee0bdbe34"
+hash = "8212beb5bd81717e73ee55be89b1566f507d394b8bee8ae073168fd90902f2cd"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "61d8139cf4d05d905205ad11c63df486cf6b8cc407e6201b86ff8b990e52244d"
+hash = "a8d1882c2e5552683c4cd3468c7eb0aaa5ef520863789554202a19cd7721c79c"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -1984,6 +1984,10 @@ metafile = true
 file = "mods/pricklemc-fabric-mc26-2-26-2-0-3.pw.toml"
 hash = "8192b4616df5021d6e3ac3c473d1798150397eb43527dfeaaa56b8e094279afb"
 metafile = true
+
+[[files]]
+file = "mods/primazos-presets-1.0.0.jar"
+hash = "117a03d93b502e0892038d8b211510dfd26b8e5f37dd5b9fe333e05442047616"
 
 [[files]]
 file = "mods/puzzleslib-v26-2-1-mc26-2-x-fabric.pw.toml"

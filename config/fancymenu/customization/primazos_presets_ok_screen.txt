@@ -26,7 +26,7 @@ customization {
 
 element {
   source_mode = direct
-  source = ^^^\n§a§l✔ Preset aplicado\n§7Los ajustes de los mods (shaders, efectos…)\n§7se cargan al iniciar. Cierra el juego y\n§7vuelve a abrirlo desde el launcher.\n^^^
+  source = ^^^\n§a§l✔ Preset guardado\n§7Se aplica al volver a abrir el juego.\n§7Cierra Minecraft por completo y ábrelo\n§7otra vez desde el launcher.\n^^^
   shadow = true
   case_mode = normal
   scrolling = false

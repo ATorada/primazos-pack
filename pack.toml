@@ -1,12 +1,12 @@
 name = "Primazos Underground"
 author = "sabiin"
-version = "1.0.37"
+version = "1.0.38"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03957a5c53c9a4318be00de8829c13570d38ca2989cc309898dfd67613875147"
+hash = "d91e3629df7c9073f2bf66c55894c490c09ac9717f68780d013d601bf2c246c2"
 
 [versions]
 fabric = "0.19.5"
