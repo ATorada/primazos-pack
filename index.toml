@@ -378,7 +378,7 @@ hash = "8212beb5bd81717e73ee55be89b1566f507d394b8bee8ae073168fd90902f2cd"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "a8d1882c2e5552683c4cd3468c7eb0aaa5ef520863789554202a19cd7721c79c"
+hash = "ddad4b921987fac0bf7f820b1704d5f979a0e22f5df309ec34ddcfa49d613af1"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -746,7 +746,7 @@ hash = "37955b087c078f5fa6a4d3639e67565f396f7a66ec763e74d0e8f50e23ac6343"
 
 [[files]]
 file = "config/primazos_presets/alto/iris.properties"
-hash = "35e6551bab5b8206d38d3046679391beff57685e81b9972f094475699f30ff24"
+hash = "264ff92847ac9ef4e03e3577f721036d10889c96282dfe0ca02449c27b186099"
 
 [[files]]
 file = "config/primazos_presets/alto/lss-client-config.yaml"
