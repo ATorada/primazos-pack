@@ -1986,6 +1986,10 @@ hash = "8192b4616df5021d6e3ac3c473d1798150397eb43527dfeaaa56b8e094279afb"
 metafile = true
 
 [[files]]
+file = "mods/primazos-presets-1.0.0.jar"
+hash = "695987577051870e91cc32a9594a7a0be241c40c6f17de3f91fab85bc235d8fb"
+
+[[files]]
 file = "mods/puzzleslib-v26-2-1-mc26-2-x-fabric.pw.toml"
 hash = "f3ce2ebbb27df6540929aa3bda325d84470bd592411b2c72e8e58dfd9fd8a858"
 metafile = true
