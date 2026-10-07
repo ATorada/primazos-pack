@@ -885,6 +885,10 @@ file = "config/transition.json"
 hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
 
 [[files]]
+file = "config/travelersbackpack-client.toml"
+hash = "193362397b3432b0237bb8caebb58192c1362177156d905f72eebe488fd3e056"
+
+[[files]]
 file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
@@ -1011,6 +1015,10 @@ hash = "466028131622b7fc3dc1c5ae0315d85365aa312ae90bb836b48f1838e8580566"
 [[files]]
 file = "mods/SereneSeasons-fabric-26.2-26.1.2.0.6.jar"
 hash = "a6b117c1b9370dad3c74ea54dc8962683f73845673178b49b84a6da437d4e781"
+
+[[files]]
+file = "mods/Totem Slot-1.0.6.jar"
+hash = "39f1213004f42d788b418801060b0e16e0beb81f7f97fa0536a6775b24703b02"
 
 [[files]]
 file = "mods/advancednetherite-fabric-2.4.2-26.2.jar"
@@ -2082,7 +2090,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos Sounds.zip"
-hash = "5553fd96a15e991fe620b6936560246407c885f2736d5377b741e2892770b518"
+hash = "8a73e73175257121e85d900bfe6c59974a3a3c920031dcddf87ff187af1a7980"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
