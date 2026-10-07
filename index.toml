@@ -1692,9 +1692,8 @@ file = "mods/pocket_dimension-fabric-26.2-3.2-primazos-paredes.jar"
 hash = "49fc253809b015f22685344145b1b12570d5317054c064479c243a9d1c5424f8"
 
 [[files]]
-file = "mods/polytone-fabric-26-2-5-10-2.pw.toml"
-hash = "9987a1260e4c362708d300c08bf4136da24fea667fd702a25cf701f524023df3"
-metafile = true
+file = "mods/polytone-26.2-6.8.5-fabric.jar"
+hash = "2db92dffe5337aa979d85619944f16e334f4083ae6ab1ce5bdb5efbf577443ba"
 
 [[files]]
 file = "mods/presencefootsteps-1-13-3-26-2.pw.toml"
@@ -1944,7 +1943,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "57c9c6f7a8303586743ce49db5e270dd716856195035c92afb5ec16370415317"
+hash = "c079f7ea56700e35d17722de7c93f2d8cb4dee5bd72a30827a53642a9c5ab572"
 preserve = true
 
 [[files]]
@@ -1983,6 +1982,10 @@ hash = "465bad25b4069522ab153959024c8baf79bc4c255f9e614fcd5a356cee66c8c5"
 [[files]]
 file = "resourcepacks/Fresh Buckets.zip.rpo"
 hash = "c69f871746e824ae7f042a9dc7a4d11b2b3b970767aeb75d576e3e1947a4cce3"
+
+[[files]]
+file = "resourcepacks/Fresh Food.zip"
+hash = "f762ad2d0abb9a16da8ea17763a4f4b61fc408c7d21ee650bab8df85945be555"
 
 [[files]]
 file = "resourcepacks/Pocket Dimension Resources/assets/pocket_dimension/models/blank.json"
