@@ -1748,10 +1748,6 @@ hash = "783587f751b5bf265ab5326c9e816455c64823478694bb30df57603b8a58ec16"
 metafile = true
 
 [[files]]
-file = "mods/jmsharedmaps-1.7-26.2-fabric.jar"
-hash = "e89f777c3a79abfa81a967be63bdeac82684c0327dc118624b07b5f797564359"
-
-[[files]]
 file = "mods/journeymap-fabric-26-2-6-0-2.pw.toml"
 hash = "1db5d4f01bb8ca9bb0ccff624f8945a53931e08aa1259705f90194e2f3dc3ce3"
 metafile = true
