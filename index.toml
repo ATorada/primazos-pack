@@ -1070,7 +1070,7 @@ hash = "c538e9442960f1ea1448c9051671104087365118cb65cf7aa25d470354099326"
 
 [[files]]
 file = "config/simple_datapacks.json"
-hash = "18623c6c0627e4fed67efe66214fe465dc5512b3f449f4a6c48d6d9c3ec20470"
+hash = "62bc7097675cfb58bf0d1b1b4cbadb7c6ab9cd586995ee6a5843c0a7550485a6"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -1923,11 +1923,6 @@ hash = "e5b511b0afe19a6bc4b19390b11b5af4408c4d78f2fde0f1e05b7f6955e1aa59"
 metafile = true
 
 [[files]]
-file = "mods/particleeffects-1-5-0-26-2-fabric.pw.toml"
-hash = "138c672832f1254158c189daa679468ad0c542059bebaab44f34f72d4ecb77f2"
-metafile = true
-
-[[files]]
 file = "mods/patpat-1-3-1-26-2-fabric.pw.toml"
 hash = "8e422fee543c798fe9b9c4529d4c408b85be73d8b64f5991d8c53b1c725d70b4"
 metafile = true
@@ -2385,11 +2380,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos Sounds.zip"
-hash = "8a73e73175257121e85d900bfe6c59974a3a3c920031dcddf87ff187af1a7980"
-
-[[files]]
-file = "resourcepacks/Primazos Traducciones.zip"
-hash = "a23e7e3d82f2705fb9a4f8ee61eef3cf7d3fb304a6307c963fb5a32b40e0c9f0"
+hash = "6d663e567e48c6431ae6ea72a8f15e8fc7750a793e70545f22942c76da0c3f04"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
