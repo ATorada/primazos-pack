@@ -1758,6 +1758,10 @@ file = "mods/krypton-0.3.1.jar"
 hash = "5ea8901561973d29e51e751469d52d92100f348ab461e1186f67012e93420c48"
 
 [[files]]
+file = "mods/lambdynamiclights-4.12.4+26.2.jar"
+hash = "fdb3971cd628e7da0a9ca222c2ad501cf2f59df1b73e7f04cbc7e03194689a52"
+
+[[files]]
 file = "mods/language-reload-1-7-7-26-2.pw.toml"
 hash = "a537037b6e4d529962eda0a1ca4825cf4ce94a7840028e5a2b1076275935a8c2"
 metafile = true
@@ -1985,8 +1989,8 @@ file = "mods/primazos-presets-1.0.0.jar"
 hash = "695987577051870e91cc32a9594a7a0be241c40c6f17de3f91fab85bc235d8fb"
 
 [[files]]
-file = "mods/primazos-progresion-2.1.0.jar"
-hash = "dc0d3582876e90be1001406483eefb51de02ebe6a4e4b6b8cb59560701c7a3c3"
+file = "mods/primazos-progresion-2.1.1.jar"
+hash = "7e0610e259e0b75a4003a7d4de3266e9f548a41ab1f590fc684dbfc60788aa10"
 
 [[files]]
 file = "mods/puzzleslib-v26-2-1-mc26-2-x-fabric.pw.toml"
