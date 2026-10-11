@@ -1985,8 +1985,8 @@ file = "mods/primazos-presets-1.0.0.jar"
 hash = "695987577051870e91cc32a9594a7a0be241c40c6f17de3f91fab85bc235d8fb"
 
 [[files]]
-file = "mods/primazos-progresion-2.0.1.jar"
-hash = "6871eca63a377cfae50c9b8f3ec64a1d5f028ad05a60e717bd65447248e2a4b6"
+file = "mods/primazos-progresion-2.1.0.jar"
+hash = "dc0d3582876e90be1001406483eefb51de02ebe6a4e4b6b8cb59560701c7a3c3"
 
 [[files]]
 file = "mods/puzzleslib-v26-2-1-mc26-2-x-fabric.pw.toml"
@@ -2376,7 +2376,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos Sounds.zip"
-hash = "be55e4611906a002d2430bc435b3388941c204fbeead34d1f6d12726965b04dc"
+hash = "5864e274e295426eebf84c29f5d0ca196e28593cc978bee3c4e9ce988ba2940e"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
