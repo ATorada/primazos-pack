@@ -1305,6 +1305,10 @@ file = "mods/advancednetherite-fabric-2.4.2-26.2.jar"
 hash = "9bb98e0bfe8a3c16aedff3d6cccf900b3754cea28627b472d846f10ca124351e"
 
 [[files]]
+file = "mods/aerialhell-0.7.7.9_fabric26.2.jar"
+hash = "2c00750e4ebdd53d7c8c53e0bc2e0280b813ca21ac6a99fcd3beab02438fc2bb"
+
+[[files]]
 file = "mods/alexsmobs-2.2.2-fabric+26.2.jar"
 hash = "abdcf842e3234dcba73bbe41915ec11bef9e200c51d66ee235964ae9eda92322"
 
