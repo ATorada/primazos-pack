@@ -1989,8 +1989,8 @@ file = "mods/primazos-presets-1.0.0.jar"
 hash = "695987577051870e91cc32a9594a7a0be241c40c6f17de3f91fab85bc235d8fb"
 
 [[files]]
-file = "mods/primazos-progresion-2.1.2.jar"
-hash = "f4cf695aebf29abedc6f6b371b011506ad2df243b6bbbb2b2db64e9cb1371c8e"
+file = "mods/primazos-progresion-2.2.0.jar"
+hash = "943517d5b323bd44d5895925f4aea8891d328b1fa78ded8943b02c746e2d3a9c"
 
 [[files]]
 file = "mods/puzzleslib-v26-2-1-mc26-2-x-fabric.pw.toml"
