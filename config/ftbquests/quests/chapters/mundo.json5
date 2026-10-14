@@ -1,0 +1,847 @@
+{
+  id: "472F67A339681000",
+  group: "41FFC5E97CCD6D87",
+  order_index: 2,
+  icon: {
+    id: "minecraft:grass_block",
+    count: 1,
+  },
+  filename: "mundo",
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  autofocus_id: "484C5BF94595D9BD",
+  quests: [
+    {
+      icon: {
+        id: "minecraft:iron_sword",
+        count: 1,
+      },
+      x: -7.6,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "484C5BF94595D9BD",
+      tasks: [
+        {
+          id: "43623B5FEF3DD218",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_a_mob",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4D7E36D4E27952D6",
+          type: "xp",
+          xp: 20,
+        },
+        {
+          id: "4FF1EDFC96928CE7",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:arrow",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:emerald",
+        count: 1,
+      },
+      x: -3.8,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "484C5BF94595D9BD",
+      ],
+      size: 1.0,
+      id: "46F339D47935077E",
+      tasks: [
+        {
+          id: "4D237321763FF3EF",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/trade",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "48736C50F022AD77",
+          type: "xp",
+          xp: 25,
+        },
+        {
+          id: "4349433CE063E6AE",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "explorerscompass:explorerscompass",
+        count: 1,
+      },
+      x: 0.0,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "46F339D47935077E",
+      ],
+      size: 1.0,
+      id: "4519ABCA6F2580E3",
+      tasks: [
+        {
+          id: "499909CCEB628CDE",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "explorerscompass:explorerscompass",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "explorerscompass:explorerscompass",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "46D6703F192870EC",
+          type: "xp",
+          xp: 40,
+        },
+        {
+          id: "482BC386E7EDF35B",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:map",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "naturescompass:naturescompass",
+        count: 1,
+      },
+      x: 3.8,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4519ABCA6F2580E3",
+      ],
+      size: 1.0,
+      id: "411E2E0395550CFD",
+      tasks: [
+        {
+          id: "493B76109D8F4346",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "naturescompass:naturescompass",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "naturescompass:naturescompass",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "43F66E838501D509",
+          type: "xp",
+          xp: 30,
+        },
+        {
+          id: "4184B264F8D7C85E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:cooked_beef",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:trial_key",
+        count: 1,
+      },
+      x: 7.6,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "411E2E0395550CFD",
+      ],
+      size: 1.0,
+      id: "4130540DB0E994B5",
+      tasks: [
+        {
+          id: "40E793B6DBA61E16",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/minecraft_trials_edition",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4A2E9EB178EB5346",
+          type: "xp",
+          xp: 60,
+        },
+        {
+          id: "45636776676751BD",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:trial_key",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:white_banner",
+        count: 1,
+      },
+      x: -11.4,
+      y: 3.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4C5441DAC3434226",
+      tasks: [
+        {
+          id: "4C79D3959A27A53E",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "nova_structures:adventure/find_pillager_outpost",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "41745AFB52B345C2",
+          type: "xp",
+          xp: 60,
+        },
+        {
+          id: "4AAEAC2DC70E2530",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:arrow",
+            count: 1,
+          },
+          count: 32,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:sandstone",
+        count: 1,
+      },
+      x: -7.6,
+      y: 3.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4C5441DAC3434226",
+      ],
+      size: 1.0,
+      id: "4831E531FA0F440C",
+      tasks: [
+        {
+          id: "4CBE6831D4944F3E",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "nova_structures:adventure/find_desert_ruins",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "48636FD14E20DE0C",
+          type: "xp",
+          xp: 60,
+        },
+        {
+          id: "4F2D902B1B5116DF",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:brush",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:cobblestone",
+        count: 1,
+      },
+      x: -3.8,
+      y: 3.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4831E531FA0F440C",
+      ],
+      size: 1.0,
+      id: "4B780CA04C180B91",
+      tasks: [
+        {
+          id: "444E952435BEA8C0",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "nova_structures:adventure/find_catacomb",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "47EEB35CAD630CE1",
+          type: "xp",
+          xp: 120,
+        },
+        {
+          id: "4A8D8D38DFC4C5F8",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:golden_apple",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:dark_oak_log",
+        count: 1,
+      },
+      x: 0.0,
+      y: 3.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4B780CA04C180B91",
+      ],
+      size: 1.2,
+      id: "405779D6A2587147",
+      tasks: [
+        {
+          id: "42CDBDA9444553D8",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "nova_structures:adventure/find_illager_mansion",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4C2EFCD12D3066C8",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "4B2DC45F28ACE1C5",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:packed_ice",
+        count: 1,
+      },
+      x: 3.8,
+      y: 3.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "405779D6A2587147",
+      ],
+      size: 1.0,
+      id: "4E76F3082EC1A118",
+      tasks: [
+        {
+          id: "4C51BC8489623C4D",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "nova_structures:adventure/find_stray_fort",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4625C16201AF8046",
+          type: "xp",
+          xp: 250,
+        },
+        {
+          id: "423F4D2C6B33FE67",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 3,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:slime_ball",
+        count: 1,
+      },
+      x: 7.6,
+      y: 3.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4E76F3082EC1A118",
+      ],
+      size: 1.0,
+      id: "4E13A833657A74CF",
+      tasks: [
+        {
+          id: "4DA30460E400557F",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "nova_structures:adventure/find_toxic_lair",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "48087909FF70B1AD",
+          type: "xp",
+          xp: 250,
+        },
+        {
+          id: "410D7DEB6418F7E4",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 3,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:trident",
+        count: 1,
+      },
+      x: 11.4,
+      y: 3.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4E13A833657A74CF",
+      ],
+      size: 1.3,
+      id: "495D6DD9DDA2FDE8",
+      tasks: [
+        {
+          id: "49D68A4E9141B649",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "nova_structures:adventure/find_trident_trial_monument",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4260D345C4E4D419",
+          type: "xp",
+          xp: 400,
+        },
+        {
+          id: "46AF945655859B12",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 4,
+        },
+        {
+          id: "4F47A3DCD15DE92A",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:heart_of_the_sea",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:white_banner",
+        count: 1,
+      },
+      x: -3.8,
+      y: 6.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "42E469F569BC040F",
+      tasks: [
+        {
+          id: "42961B6F81D3B4A9",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/voluntary_exile",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4BC2E26AC1420F1D",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "48FBF5DA5C901CE9",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:golden_apple",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:totem_of_undying",
+        count: 1,
+      },
+      x: 0.0,
+      y: 6.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "42E469F569BC040F",
+      ],
+      size: 1.5,
+      id: "49B3091602911AA7",
+      tasks: [
+        {
+          id: "4910D583FEB2464D",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/hero_of_the_village",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4DBE277AD0BBD974",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "40BA309628221574",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:totem_of_undying",
+            count: 1,
+          },
+        },
+        {
+          id: "43C9E672C478231A",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:heart_of_the_sea",
+        count: 1,
+      },
+      x: 3.8,
+      y: 6.0,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      size: 1.3,
+      id: "45733E782D248DDB",
+      tasks: [
+        {
+          id: "4AD94C3E561403DA",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_all_mobs",
+          criterion: "minecraft:elder_guardian",
+        },
+      ],
+      rewards: [
+        {
+          id: "48634BFF8F01799C",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "404BEDF589FD5003",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:sponge",
+            count: 1,
+          },
+          count: 4,
+        },
+        {
+          id: "44B2B014C3C277C5",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:prismarine_shard",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:sculk_shrieker",
+        count: 1,
+      },
+      x: -3.8,
+      y: 9.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4F5C936B1049344A",
+      tasks: [
+        {
+          id: "4652B0BD6994F510",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "the_sift:story/fallen_civilization",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "49C2FC2FD5927529",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "43605631AA798315",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:echo_shard",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:sculk_sensor",
+        count: 1,
+      },
+      x: 3.8,
+      y: 9.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "45F1B0B22B045F16",
+      tasks: [
+        {
+          id: "461A35CDE9023AC0",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/avoid_vibration",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4B8051110501642A",
+          type: "xp",
+          xp: 80,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:echo_shard",
+        count: 1,
+      },
+      x: 0.0,
+      y: 10.6,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4F5C936B1049344A",
+        "45F1B0B22B045F16",
+      ],
+      dependency_requirement: "one_completed",
+      size: 1.7,
+      progression_mode: "linear",
+      id: "4EE737AE7B6EB60A",
+      tasks: [
+        {
+          id: "4CE6B57AC7EF7CAB",
+          type: "kill",
+          disable_toast: true,
+          entity: "minecraft:warden",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "44854935B810C475",
+          type: "xp",
+          xp: 3000,
+        },
+        {
+          id: "4571525DC7942509",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 24,
+        },
+        {
+          id: "4DE4E4D9EA8DA3C7",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:totem_of_undying",
+            count: 1,
+          },
+          count: 2,
+        },
+        {
+          id: "4F4EF506B06003B7",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:echo_shard",
+            count: 1,
+          },
+          count: 8,
+        },
+        {
+          id: "456D1A7F8720B74B",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:enchanted_golden_apple",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:potion",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 15.7,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4B6D70BA9202F2B9",
+    },
+    {
+      icon: {
+        id: "minecraft:spyglass",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 13.6,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "4B6D70BA9202F2B9",
+      ],
+      size: 1.5,
+      optional: true,
+      id: "46F97F6F8FE8C459",
+      rewards: [
+        {
+          id: "469B4EE3058152B2",
+          type: "xp",
+          xp: 20,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

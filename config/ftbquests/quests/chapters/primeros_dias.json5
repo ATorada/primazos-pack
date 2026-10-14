@@ -1,0 +1,661 @@
+{
+  id: "48B5671AF2299C3D",
+  group: "41FFC5E97CCD6D87",
+  order_index: 0,
+  icon: {
+    id: "minecraft:crafting_table",
+    count: 1,
+  },
+  filename: "primeros_dias",
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  autofocus_id: "458308E602F81BA4",
+  quests: [
+    {
+      icon: {
+        id: "minecraft:crafting_table",
+        count: 1,
+      },
+      x: 0.0,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.2,
+      id: "458308E602F81BA4",
+      tasks: [
+        {
+          id: "40BC6A826FF68769",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/root",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "49F3BACA94B3035D",
+          type: "xp",
+          xp: 10,
+        },
+        {
+          id: "408BF6DD2943ECC5",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:torch",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:stone_pickaxe",
+        count: 1,
+      },
+      x: 2.2,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "458308E602F81BA4",
+      ],
+      size: 1.0,
+      id: "4DCCB5B03DF9A09D",
+      tasks: [
+        {
+          id: "47708BA4C1126E34",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/upgrade_tools",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4A176FFB10C49412",
+          type: "xp",
+          xp: 10,
+        },
+        {
+          id: "459747B09F66479D",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:bread",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:furnace",
+        count: 1,
+      },
+      x: 4.4,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4DCCB5B03DF9A09D",
+      ],
+      size: 1.0,
+      id: "4EFFE5E4DFC36936",
+      tasks: [
+        {
+          id: "4209791F29D5D266",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "minecraft:furnace",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "minecraft:furnace",
+                  "minecraft:blast_furnace",
+                  "minecraft:smoker",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "42349608699C72D0",
+          type: "xp",
+          xp: 10,
+        },
+        {
+          id: "4BC81946F277906D",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:coal",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:red_bed",
+        count: 1,
+      },
+      x: 6.6,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4EFFE5E4DFC36936",
+      ],
+      size: 1.0,
+      id: "4D540224CDED83AA",
+      tasks: [
+        {
+          id: "4AAA4F9FECC863CA",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/sleep_in_bed",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "48A573496E48712E",
+          type: "xp",
+          xp: 15,
+        },
+        {
+          id: "4F4CA5894E710BDD",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:cooked_beef",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:iron_ingot",
+        count: 1,
+      },
+      x: 8.8,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4D540224CDED83AA",
+      ],
+      size: 1.0,
+      id: "466612DF62AE6E9B",
+      tasks: [
+        {
+          id: "41C2F7A112218888",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/smelt_iron",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4E15B4A7B9B83B9C",
+          type: "xp",
+          xp: 15,
+        },
+        {
+          id: "47EB12287F51E4E5",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 3,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:iron_chestplate",
+        count: 1,
+      },
+      x: 8.8,
+      y: 2.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "466612DF62AE6E9B",
+      ],
+      size: 1.4,
+      id: "41483817167821AB",
+      tasks: [
+        {
+          id: "44E54B53CB3C9DD3",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/obtain_armor",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4D33055DBD15BDB1",
+          type: "xp",
+          xp: 40,
+        },
+        {
+          id: "43645163E2C406CE",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:golden_apple",
+            count: 1,
+          },
+        },
+        {
+          id: "454072A0B7F36D27",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:bread",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:shield",
+        count: 1,
+      },
+      x: 6.6,
+      y: 2.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "41483817167821AB",
+      ],
+      size: 1.0,
+      id: "434864C7956076ED",
+      tasks: [
+        {
+          id: "40DBABB099B6D467",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "minecraft:shield",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "minecraft:shield",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4BBC2B6994D43ACC",
+          type: "xp",
+          xp: 15,
+        },
+        {
+          id: "4C6182F551CAE07E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:arrow",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:bucket",
+        count: 1,
+      },
+      x: 4.4,
+      y: 2.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "434864C7956076ED",
+      ],
+      size: 1.0,
+      id: "47A4B5DD7E6B6595",
+      tasks: [
+        {
+          id: "431411692DE1904B",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "minecraft:bucket",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "minecraft:bucket",
+                  "minecraft:water_bucket",
+                  "minecraft:lava_bucket",
+                  "minecraft:milk_bucket",
+                  "minecraft:powder_snow_bucket",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "41D435D2EE789453",
+          type: "xp",
+          xp: 15,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:diamond",
+        count: 1,
+      },
+      x: 2.2,
+      y: 2.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47A4B5DD7E6B6595",
+      ],
+      size: 1.4,
+      id: "4F4DCF57DA3C89AB",
+      tasks: [
+        {
+          id: "43A6ABCD812967DF",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/mine_diamond",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "497066500B5AEE9F",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "43C5EC98297B04B7",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:enchanting_table",
+        count: 1,
+      },
+      x: 0.0,
+      y: 2.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4F4DCF57DA3C89AB",
+      ],
+      size: 1.0,
+      id: "48F0A50778861B76",
+      tasks: [
+        {
+          id: "49D655AB805B92DD",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/enchant_item",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "44040464099F8540",
+          type: "xp",
+          xp: 30,
+        },
+        {
+          id: "4E118A5E4A9505C6",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:lapis_lazuli",
+            count: 1,
+          },
+          count: 16,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:obsidian",
+        count: 1,
+      },
+      x: 0.0,
+      y: 5.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "48F0A50778861B76",
+      ],
+      size: 1.0,
+      id: "421B18AE435AC6AB",
+      tasks: [
+        {
+          id: "4A6FA959307B23F7",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/form_obsidian",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4D531CC8F15198DF",
+          type: "xp",
+          xp: 20,
+        },
+        {
+          id: "404261DA04D4088E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:flint_and_steel",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:netherrack",
+        count: 1,
+      },
+      x: 2.6,
+      y: 5.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "421B18AE435AC6AB",
+      ],
+      size: 1.6,
+      id: "491E031B2E3E9A88",
+      tasks: [
+        {
+          id: "412239584112B50B",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:story/enter_the_nether",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4C9F04661B9D4D71",
+          type: "xp",
+          xp: 60,
+        },
+        {
+          id: "4E9FA36C2CB0C8D2",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:golden_carrot",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "respawnable_pets:etheric_gem",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -0.35,
+      y: 10.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4AE0BE344A9331CD",
+    },
+    {
+      icon: {
+        id: "xpbook:xp_tome",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 1.55,
+      y: 10.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4FB95A4CADDF44AA",
+    },
+    {
+      icon: {
+        id: "travelersbackpack:standard",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 3.45,
+      y: 10.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "47162EF110CCA2CC",
+    },
+    {
+      icon: {
+        id: "sereneseasons:calendar",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 5.35,
+      y: 10.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "47326320D8DD71CB",
+    },
+    {
+      icon: {
+        id: "minecraft:wheat",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 7.25,
+      y: 10.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "46D0AFA879A4AA9F",
+    },
+    {
+      icon: {
+        id: "minecraft:knowledge_book",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 9.15,
+      y: 10.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4325AA702317DCA4",
+    },
+    {
+      icon: {
+        id: "minecraft:oak_sapling",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 4.4,
+      y: 8.0,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "4AE0BE344A9331CD",
+        "4FB95A4CADDF44AA",
+        "47162EF110CCA2CC",
+        "47326320D8DD71CB",
+        "46D0AFA879A4AA9F",
+        "4325AA702317DCA4",
+      ],
+      size: 1.5,
+      optional: true,
+      id: "4794662C9817B656",
+      rewards: [
+        {
+          id: "4DE2F182937A0825",
+          type: "xp",
+          xp: 48,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+    {
+      linked_quest: "4A7ECEFFB1CE929A",
+      x: 5.4,
+      y: 5.2,
+      shape: "circle",
+      id: "43862758B6187ED2",
+    },
+  ],
+  images: [
+  ],
+}

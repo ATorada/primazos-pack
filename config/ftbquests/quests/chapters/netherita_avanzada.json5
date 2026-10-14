@@ -1,0 +1,2685 @@
+{
+  id: "4E048EF21416D554",
+  group: "4B9BB1154CE5E86A",
+  order_index: 3,
+  icon: {
+    id: "advancednetherite:netherite_diamond_chestplate",
+    count: 1,
+  },
+  filename: "netherita_avanzada",
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  autofocus_id: "4433F2BE3D50AC29",
+  quests: [
+    {
+      icon: {
+        id: "advancednetherite:netherite_iron_ingot",
+        count: 1,
+      },
+      x: -9.5,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.4,
+      id: "4433F2BE3D50AC29",
+      tasks: [
+        {
+          id: "4BB8924C8EA9E0BE",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_iron_ingot",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_iron_ingot",
+                  "advancednetherite:netherite_iron_block",
+                  "advancednetherite:netherite_iron_chestplate",
+                  "advancednetherite:netherite_iron_helmet",
+                  "advancednetherite:netherite_iron_leggings",
+                  "advancednetherite:netherite_iron_boots",
+                  "advancednetherite:netherite_iron_sword",
+                  "advancednetherite:netherite_iron_pickaxe",
+                  "advancednetherite:netherite_iron_axe",
+                  "advancednetherite:netherite_iron_shovel",
+                  "advancednetherite:netherite_iron_hoe",
+                  "advancednetherite:netherite_iron_spear",
+                  "advancednetherite:netherite_gold_ingot",
+                  "advancednetherite:netherite_gold_block",
+                  "advancednetherite:netherite_gold_chestplate",
+                  "advancednetherite:netherite_gold_helmet",
+                  "advancednetherite:netherite_gold_leggings",
+                  "advancednetherite:netherite_gold_boots",
+                  "advancednetherite:netherite_gold_sword",
+                  "advancednetherite:netherite_gold_pickaxe",
+                  "advancednetherite:netherite_gold_axe",
+                  "advancednetherite:netherite_gold_shovel",
+                  "advancednetherite:netherite_gold_hoe",
+                  "advancednetherite:netherite_gold_spear",
+                  "advancednetherite:netherite_emerald_ingot",
+                  "advancednetherite:netherite_emerald_block",
+                  "advancednetherite:netherite_emerald_chestplate",
+                  "advancednetherite:netherite_emerald_helmet",
+                  "advancednetherite:netherite_emerald_leggings",
+                  "advancednetherite:netherite_emerald_boots",
+                  "advancednetherite:netherite_emerald_sword",
+                  "advancednetherite:netherite_emerald_pickaxe",
+                  "advancednetherite:netherite_emerald_axe",
+                  "advancednetherite:netherite_emerald_shovel",
+                  "advancednetherite:netherite_emerald_hoe",
+                  "advancednetherite:netherite_emerald_spear",
+                  "advancednetherite:netherite_diamond_ingot",
+                  "advancednetherite:netherite_diamond_block",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_diamond_spear",
+                  "advancednetherite:netherite_aeternium_ingot",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_aeternium_spear",
+                  "advancednetherite:netherite_siftite_ingot",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                  "advancednetherite:netherite_siftite_sword",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                  "advancednetherite:netherite_siftite_axe",
+                  "advancednetherite:netherite_siftite_shovel",
+                  "advancednetherite:netherite_siftite_hoe",
+                  "advancednetherite:netherite_siftite_spear",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4C3C079EA7B86991",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "4ABE842AF59A98C3",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_iron_chestplate",
+        count: 1,
+      },
+      x: -9.5,
+      y: 2.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4433F2BE3D50AC29",
+      ],
+      size: 1.0,
+      id: "48E98C1904256E92",
+      tasks: [
+        {
+          id: "4253D52B70D1FD99",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_iron_chestplate",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_iron_helmet",
+                  "advancednetherite:netherite_iron_chestplate",
+                  "advancednetherite:netherite_iron_leggings",
+                  "advancednetherite:netherite_iron_boots",
+                  "advancednetherite:netherite_gold_helmet",
+                  "advancednetherite:netherite_gold_chestplate",
+                  "advancednetherite:netherite_gold_leggings",
+                  "advancednetherite:netherite_gold_boots",
+                  "advancednetherite:netherite_emerald_helmet",
+                  "advancednetherite:netherite_emerald_chestplate",
+                  "advancednetherite:netherite_emerald_leggings",
+                  "advancednetherite:netherite_emerald_boots",
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4F6B21419D6BBF01",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "414039A63E5C4A62",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_iron_sword",
+        count: 1,
+      },
+      x: -9.5,
+      y: 3.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4433F2BE3D50AC29",
+      ],
+      size: 1.0,
+      id: "4097938B0F6614B1",
+      tasks: [
+        {
+          id: "4FD90B9D350C1EA1",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_iron_sword",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_iron_sword",
+                  "advancednetherite:netherite_gold_sword",
+                  "advancednetherite:netherite_emerald_sword",
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_siftite_sword",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "470EE82D6896CD8C",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "48A4F3DD62D5D2E4",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_iron_pickaxe",
+        count: 1,
+      },
+      x: -9.5,
+      y: 5.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4433F2BE3D50AC29",
+      ],
+      size: 1.0,
+      id: "468DB25A2D3D8055",
+      tasks: [
+        {
+          id: "483972CA5674D21A",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_iron_pickaxe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_iron_pickaxe",
+                  "advancednetherite:netherite_gold_pickaxe",
+                  "advancednetherite:netherite_emerald_pickaxe",
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4EE46FDF8629706A",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "41936F82970F997E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_iron_axe",
+        count: 1,
+      },
+      x: -9.5,
+      y: 7.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4433F2BE3D50AC29",
+      ],
+      size: 1.0,
+      id: "4A32AB9CCFF328EF",
+      tasks: [
+        {
+          id: "479D68780BF0CF27",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_iron_axe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_iron_axe",
+                  "advancednetherite:netherite_gold_axe",
+                  "advancednetherite:netherite_emerald_axe",
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_siftite_axe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "450E99BB2B828F39",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "4ACF4355DCBED2B7",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_iron_shovel",
+        count: 1,
+      },
+      x: -9.5,
+      y: 8.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4433F2BE3D50AC29",
+      ],
+      size: 1.0,
+      id: "4F9A0AAE52567C18",
+      tasks: [
+        {
+          id: "4CBB3343F0A2345F",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_iron_shovel",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_iron_shovel",
+                  "advancednetherite:netherite_gold_shovel",
+                  "advancednetherite:netherite_emerald_shovel",
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_siftite_shovel",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "40EF7F5635A58A6D",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "486CED28DD003799",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_iron_hoe",
+        count: 1,
+      },
+      x: -9.5,
+      y: 10.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4433F2BE3D50AC29",
+      ],
+      size: 1.0,
+      id: "45735D69FA7B5375",
+      tasks: [
+        {
+          id: "418E1FA74BFCAB11",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_iron_hoe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_iron_hoe",
+                  "advancednetherite:netherite_gold_hoe",
+                  "advancednetherite:netherite_emerald_hoe",
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_siftite_hoe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4925E0BE309BCC79",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "4A440B86285188A2",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_gold_ingot",
+        count: 1,
+      },
+      x: -5.7,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4433F2BE3D50AC29",
+      ],
+      size: 1.4,
+      id: "4BF2E19760115D35",
+      tasks: [
+        {
+          id: "4986E0039FE56DC7",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_gold_ingot",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_gold_ingot",
+                  "advancednetherite:netherite_gold_block",
+                  "advancednetherite:netherite_gold_chestplate",
+                  "advancednetherite:netherite_gold_helmet",
+                  "advancednetherite:netherite_gold_leggings",
+                  "advancednetherite:netherite_gold_boots",
+                  "advancednetherite:netherite_gold_sword",
+                  "advancednetherite:netherite_gold_pickaxe",
+                  "advancednetherite:netherite_gold_axe",
+                  "advancednetherite:netherite_gold_shovel",
+                  "advancednetherite:netherite_gold_hoe",
+                  "advancednetherite:netherite_gold_spear",
+                  "advancednetherite:netherite_emerald_ingot",
+                  "advancednetherite:netherite_emerald_block",
+                  "advancednetherite:netherite_emerald_chestplate",
+                  "advancednetherite:netherite_emerald_helmet",
+                  "advancednetherite:netherite_emerald_leggings",
+                  "advancednetherite:netherite_emerald_boots",
+                  "advancednetherite:netherite_emerald_sword",
+                  "advancednetherite:netherite_emerald_pickaxe",
+                  "advancednetherite:netherite_emerald_axe",
+                  "advancednetherite:netherite_emerald_shovel",
+                  "advancednetherite:netherite_emerald_hoe",
+                  "advancednetherite:netherite_emerald_spear",
+                  "advancednetherite:netherite_diamond_ingot",
+                  "advancednetherite:netherite_diamond_block",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_diamond_spear",
+                  "advancednetherite:netherite_aeternium_ingot",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_aeternium_spear",
+                  "advancednetherite:netherite_siftite_ingot",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                  "advancednetherite:netherite_siftite_sword",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                  "advancednetherite:netherite_siftite_axe",
+                  "advancednetherite:netherite_siftite_shovel",
+                  "advancednetherite:netherite_siftite_hoe",
+                  "advancednetherite:netherite_siftite_spear",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "48B5E9ACF05B8E25",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "47BBBC56C64A8D69",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_gold_chestplate",
+        count: 1,
+      },
+      x: -5.7,
+      y: 2.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BF2E19760115D35",
+      ],
+      size: 1.0,
+      id: "4D391B5EF25D36D2",
+      tasks: [
+        {
+          id: "4D10E3000F65474D",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_gold_chestplate",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_gold_helmet",
+                  "advancednetherite:netherite_gold_chestplate",
+                  "advancednetherite:netherite_gold_leggings",
+                  "advancednetherite:netherite_gold_boots",
+                  "advancednetherite:netherite_emerald_helmet",
+                  "advancednetherite:netherite_emerald_chestplate",
+                  "advancednetherite:netherite_emerald_leggings",
+                  "advancednetherite:netherite_emerald_boots",
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4F4D97CE74A60203",
+          type: "xp",
+          xp: 75,
+        },
+        {
+          id: "458BE2D87023518F",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:gold_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_gold_sword",
+        count: 1,
+      },
+      x: -5.7,
+      y: 3.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BF2E19760115D35",
+      ],
+      size: 1.0,
+      id: "4254DDDC72F48DCF",
+      tasks: [
+        {
+          id: "44C13D0340937F47",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_gold_sword",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_gold_sword",
+                  "advancednetherite:netherite_emerald_sword",
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_siftite_sword",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "40D33A68AE01AC21",
+          type: "xp",
+          xp: 75,
+        },
+        {
+          id: "4B060F122A34D567",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:gold_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_gold_pickaxe",
+        count: 1,
+      },
+      x: -5.7,
+      y: 5.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BF2E19760115D35",
+      ],
+      size: 1.0,
+      id: "4D38628AA9F7D5CF",
+      tasks: [
+        {
+          id: "49BCA49071072E03",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_gold_pickaxe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_gold_pickaxe",
+                  "advancednetherite:netherite_emerald_pickaxe",
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "41904DC77AEBC7C5",
+          type: "xp",
+          xp: 75,
+        },
+        {
+          id: "418142120D075207",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:gold_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_gold_axe",
+        count: 1,
+      },
+      x: -5.7,
+      y: 7.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BF2E19760115D35",
+      ],
+      size: 1.0,
+      id: "4004576E2759B285",
+      tasks: [
+        {
+          id: "4630068829A3BC48",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_gold_axe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_gold_axe",
+                  "advancednetherite:netherite_emerald_axe",
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_siftite_axe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "44A95AC35D6F61F6",
+          type: "xp",
+          xp: 75,
+        },
+        {
+          id: "441D17DB0B190F6A",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:gold_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_gold_shovel",
+        count: 1,
+      },
+      x: -5.7,
+      y: 8.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BF2E19760115D35",
+      ],
+      size: 1.0,
+      id: "481EDBDE60BABF9B",
+      tasks: [
+        {
+          id: "4228DE728502C741",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_gold_shovel",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_gold_shovel",
+                  "advancednetherite:netherite_emerald_shovel",
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_siftite_shovel",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "46E54CAEBE0F9ED7",
+          type: "xp",
+          xp: 75,
+        },
+        {
+          id: "4666A12C7EDD0EDD",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:gold_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_gold_hoe",
+        count: 1,
+      },
+      x: -5.7,
+      y: 10.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BF2E19760115D35",
+      ],
+      size: 1.0,
+      id: "441C87E617C2DBD8",
+      tasks: [
+        {
+          id: "4B8F766017F396F6",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_gold_hoe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_gold_hoe",
+                  "advancednetherite:netherite_emerald_hoe",
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_siftite_hoe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4CAB106CEC1E3904",
+          type: "xp",
+          xp: 75,
+        },
+        {
+          id: "4DC7CD1D85A44D81",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:gold_ingot",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_emerald_ingot",
+        count: 1,
+      },
+      x: -1.9,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BF2E19760115D35",
+      ],
+      size: 1.4,
+      id: "457AA80A2D4F4023",
+      tasks: [
+        {
+          id: "4CCAE9A11644BCF1",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_emerald_ingot",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_emerald_ingot",
+                  "advancednetherite:netherite_emerald_block",
+                  "advancednetherite:netherite_emerald_chestplate",
+                  "advancednetherite:netherite_emerald_helmet",
+                  "advancednetherite:netherite_emerald_leggings",
+                  "advancednetherite:netherite_emerald_boots",
+                  "advancednetherite:netherite_emerald_sword",
+                  "advancednetherite:netherite_emerald_pickaxe",
+                  "advancednetherite:netherite_emerald_axe",
+                  "advancednetherite:netherite_emerald_shovel",
+                  "advancednetherite:netherite_emerald_hoe",
+                  "advancednetherite:netherite_emerald_spear",
+                  "advancednetherite:netherite_diamond_ingot",
+                  "advancednetherite:netherite_diamond_block",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_diamond_spear",
+                  "advancednetherite:netherite_aeternium_ingot",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_aeternium_spear",
+                  "advancednetherite:netherite_siftite_ingot",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                  "advancednetherite:netherite_siftite_sword",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                  "advancednetherite:netherite_siftite_axe",
+                  "advancednetherite:netherite_siftite_shovel",
+                  "advancednetherite:netherite_siftite_hoe",
+                  "advancednetherite:netherite_siftite_spear",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "42D869113719E0ED",
+          type: "xp",
+          xp: 200,
+        },
+        {
+          id: "4BF12311AD1096D6",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_emerald_chestplate",
+        count: 1,
+      },
+      x: -1.9,
+      y: 2.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "457AA80A2D4F4023",
+      ],
+      size: 1.0,
+      id: "46C9BC5EC6255D17",
+      tasks: [
+        {
+          id: "41284E181180005A",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_emerald_chestplate",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_emerald_helmet",
+                  "advancednetherite:netherite_emerald_chestplate",
+                  "advancednetherite:netherite_emerald_leggings",
+                  "advancednetherite:netherite_emerald_boots",
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4368F311FF5C80FA",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "4BC7F4A050731369",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_emerald_sword",
+        count: 1,
+      },
+      x: -1.9,
+      y: 3.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "457AA80A2D4F4023",
+      ],
+      size: 1.0,
+      id: "44918EDB328A17B5",
+      tasks: [
+        {
+          id: "468CD3A951878F5B",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_emerald_sword",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_emerald_sword",
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_siftite_sword",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "464717A2CB3CFE54",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "4E9606340D95C533",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_emerald_pickaxe",
+        count: 1,
+      },
+      x: -1.9,
+      y: 5.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "457AA80A2D4F4023",
+      ],
+      size: 1.0,
+      id: "423F85066035FB61",
+      tasks: [
+        {
+          id: "4DB03FFF87F228A8",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_emerald_pickaxe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_emerald_pickaxe",
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "40C02E441FD292DD",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "462632C6E422CC3A",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_emerald_axe",
+        count: 1,
+      },
+      x: -1.9,
+      y: 7.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "457AA80A2D4F4023",
+      ],
+      size: 1.0,
+      id: "4703BD1251DD64F3",
+      tasks: [
+        {
+          id: "4BE6A7E618BD7A21",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_emerald_axe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_emerald_axe",
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_siftite_axe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "450E4B5067D9F310",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "4194D9A6B8B6796E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_emerald_shovel",
+        count: 1,
+      },
+      x: -1.9,
+      y: 8.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "457AA80A2D4F4023",
+      ],
+      size: 1.0,
+      id: "4E10979451E5253A",
+      tasks: [
+        {
+          id: "43263F562E5AD142",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_emerald_shovel",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_emerald_shovel",
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_siftite_shovel",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4DD76693D65B449C",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "439A861FC2C35A87",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_emerald_hoe",
+        count: 1,
+      },
+      x: -1.9,
+      y: 10.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "457AA80A2D4F4023",
+      ],
+      size: 1.0,
+      id: "4BE3BE4F2B21A506",
+      tasks: [
+        {
+          id: "49A29B16AB7D30AC",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_emerald_hoe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_emerald_hoe",
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_siftite_hoe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "40EBD0A03956726F",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "4DD84B94C3AF1414",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_ingot",
+        count: 1,
+      },
+      x: 1.9,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "457AA80A2D4F4023",
+      ],
+      size: 1.4,
+      id: "49BB7D60A127532D",
+      tasks: [
+        {
+          id: "409B006981213BB5",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_diamond_ingot",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_diamond_ingot",
+                  "advancednetherite:netherite_diamond_block",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_diamond_spear",
+                  "advancednetherite:netherite_aeternium_ingot",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_aeternium_spear",
+                  "advancednetherite:netherite_siftite_ingot",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                  "advancednetherite:netherite_siftite_sword",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                  "advancednetherite:netherite_siftite_axe",
+                  "advancednetherite:netherite_siftite_shovel",
+                  "advancednetherite:netherite_siftite_hoe",
+                  "advancednetherite:netherite_siftite_spear",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4DBB82B9F08F7D6C",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "44B825FE15C516F9",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_chestplate",
+        count: 1,
+      },
+      x: 1.9,
+      y: 2.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "49BB7D60A127532D",
+      ],
+      size: 1.0,
+      id: "4B812FA2C34BC439",
+      tasks: [
+        {
+          id: "4D7F981DDB877E14",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_diamond_chestplate",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_diamond_helmet",
+                  "advancednetherite:netherite_diamond_chestplate",
+                  "advancednetherite:netherite_diamond_leggings",
+                  "advancednetherite:netherite_diamond_boots",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4822018F9F7BE858",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "41EF0DFA54CD49FC",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_sword",
+        count: 1,
+      },
+      x: 1.9,
+      y: 3.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "49BB7D60A127532D",
+      ],
+      size: 1.0,
+      id: "46FF2CECCEA61248",
+      tasks: [
+        {
+          id: "4F5295F88F8919FC",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_diamond_sword",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_diamond_sword",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_siftite_sword",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "480F5EC45F2015CF",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "419BC6219CD71A2E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_pickaxe",
+        count: 1,
+      },
+      x: 1.9,
+      y: 5.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "49BB7D60A127532D",
+      ],
+      size: 1.0,
+      id: "4ABA12AFBC1828E8",
+      tasks: [
+        {
+          id: "4D8BF0C9AD43C954",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_diamond_pickaxe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_diamond_pickaxe",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4FCE759B4E23E565",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "4EC7003E7055AC36",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_axe",
+        count: 1,
+      },
+      x: 1.9,
+      y: 7.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "49BB7D60A127532D",
+      ],
+      size: 1.0,
+      id: "42FE9DA2C43AB326",
+      tasks: [
+        {
+          id: "4F4B0B6F0B45CB46",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_diamond_axe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_diamond_axe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_siftite_axe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4D96951E783FAA8F",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "4ACFA7245E20C6DB",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_shovel",
+        count: 1,
+      },
+      x: 1.9,
+      y: 8.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "49BB7D60A127532D",
+      ],
+      size: 1.0,
+      id: "460C0C7E41932BE3",
+      tasks: [
+        {
+          id: "49CDA2AC10E6E942",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_diamond_shovel",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_diamond_shovel",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_siftite_shovel",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "449BA27040926404",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "47522B7431D934C4",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_hoe",
+        count: 1,
+      },
+      x: 1.9,
+      y: 10.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "49BB7D60A127532D",
+      ],
+      size: 1.0,
+      id: "487D17AFE894CCE2",
+      tasks: [
+        {
+          id: "45C80939BDEE746C",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_diamond_hoe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_diamond_hoe",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_siftite_hoe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4A40C82E9CB0E635",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "4E0ED580ADCCF6C9",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_aeternium_ingot",
+        count: 1,
+      },
+      x: 5.7,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "49BB7D60A127532D",
+      ],
+      size: 1.4,
+      id: "47DC245602665367",
+      tasks: [
+        {
+          id: "4F38D452A8B4FA71",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_aeternium_ingot",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_aeternium_ingot",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_aeternium_spear",
+                  "advancednetherite:netherite_siftite_ingot",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                  "advancednetherite:netherite_siftite_sword",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                  "advancednetherite:netherite_siftite_axe",
+                  "advancednetherite:netherite_siftite_shovel",
+                  "advancednetherite:netherite_siftite_hoe",
+                  "advancednetherite:netherite_siftite_spear",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "40678FCA07C42255",
+          type: "xp",
+          xp: 450,
+        },
+        {
+          id: "4072434A88702441",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_aeternium_chestplate",
+        count: 1,
+      },
+      x: 5.7,
+      y: 2.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47DC245602665367",
+      ],
+      size: 1.0,
+      id: "46A97AE9D3EEC709",
+      tasks: [
+        {
+          id: "450BAF5816A48243",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_aeternium_chestplate",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "43505450972D21AB",
+          type: "xp",
+          xp: 225,
+        },
+        {
+          id: "42302CEE1F176A06",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "betterend:aeternium_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_aeternium_sword",
+        count: 1,
+      },
+      x: 5.7,
+      y: 3.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47DC245602665367",
+      ],
+      size: 1.0,
+      id: "444C1846D648E0B8",
+      tasks: [
+        {
+          id: "434D77BD88D1DC90",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_aeternium_sword",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_siftite_sword",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "47E90C5DE0E27054",
+          type: "xp",
+          xp: 225,
+        },
+        {
+          id: "42EB23F349758000",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "betterend:aeternium_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_aeternium_pickaxe",
+        count: 1,
+      },
+      x: 5.7,
+      y: 5.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47DC245602665367",
+      ],
+      size: 1.0,
+      id: "4B336602D62CEA64",
+      tasks: [
+        {
+          id: "471E224969671D43",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_aeternium_pickaxe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4BF085FE56C97021",
+          type: "xp",
+          xp: 225,
+        },
+        {
+          id: "4EE91F78ACF5D10D",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "betterend:aeternium_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_aeternium_axe",
+        count: 1,
+      },
+      x: 5.7,
+      y: 7.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47DC245602665367",
+      ],
+      size: 1.0,
+      id: "4A43128A97701FCC",
+      tasks: [
+        {
+          id: "49458C3CB2C339A0",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_aeternium_axe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_siftite_axe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4C9841AFFE7240FD",
+          type: "xp",
+          xp: 225,
+        },
+        {
+          id: "4F4B15997D416B49",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "betterend:aeternium_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_aeternium_shovel",
+        count: 1,
+      },
+      x: 5.7,
+      y: 8.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47DC245602665367",
+      ],
+      size: 1.0,
+      id: "401AC33D34D5277E",
+      tasks: [
+        {
+          id: "48CBAD92F14F9E18",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_aeternium_shovel",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_siftite_shovel",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "43DEBDE5C72994A2",
+          type: "xp",
+          xp: 225,
+        },
+        {
+          id: "459BDD6945BD8FC4",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "betterend:aeternium_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_aeternium_hoe",
+        count: 1,
+      },
+      x: 5.7,
+      y: 10.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47DC245602665367",
+      ],
+      size: 1.0,
+      id: "4B5B97D632382E32",
+      tasks: [
+        {
+          id: "42158337667C3728",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_aeternium_hoe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_siftite_hoe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4A688FF9F1D834DA",
+          type: "xp",
+          xp: 225,
+        },
+        {
+          id: "41E9E54102F7D57D",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "betterend:aeternium_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_siftite_ingot",
+        count: 1,
+      },
+      x: 9.5,
+      y: 0.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47DC245602665367",
+      ],
+      size: 1.4,
+      id: "4CA96DA59B997684",
+      tasks: [
+        {
+          id: "4D153351C4F81C0D",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_siftite_ingot",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_siftite_ingot",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                  "advancednetherite:netherite_siftite_sword",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                  "advancednetherite:netherite_siftite_axe",
+                  "advancednetherite:netherite_siftite_shovel",
+                  "advancednetherite:netherite_siftite_hoe",
+                  "advancednetherite:netherite_siftite_spear",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "492A4A53024F8636",
+          type: "xp",
+          xp: 600,
+        },
+        {
+          id: "4391C368DC25692A",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_siftite_chestplate",
+        count: 1,
+      },
+      x: 9.5,
+      y: 2.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4CA96DA59B997684",
+      ],
+      size: 1.0,
+      id: "4D7C52FDC829835F",
+      tasks: [
+        {
+          id: "4993697E995E2E62",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_siftite_chestplate",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4C42D8E77BAE982C",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "4CD16A2974D2E214",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "the_sift:siftite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_siftite_sword",
+        count: 1,
+      },
+      x: 9.5,
+      y: 3.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4CA96DA59B997684",
+      ],
+      size: 1.0,
+      id: "4A12D94FF40281F6",
+      tasks: [
+        {
+          id: "416317C81B794F89",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_siftite_sword",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_siftite_sword",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "44F6DA45D6290A85",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "4BF0E1A9EDAD947E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "the_sift:siftite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_siftite_pickaxe",
+        count: 1,
+      },
+      x: 9.5,
+      y: 5.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4CA96DA59B997684",
+      ],
+      size: 1.0,
+      id: "4EDFFABBCC2B9045",
+      tasks: [
+        {
+          id: "483FB5E0DFE6E534",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_siftite_pickaxe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_siftite_pickaxe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "499AE94ABEE5B90B",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "4AE33AA143E8FCA8",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "the_sift:siftite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_siftite_axe",
+        count: 1,
+      },
+      x: 9.5,
+      y: 7.0,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4CA96DA59B997684",
+      ],
+      size: 1.0,
+      id: "4291114A05CD3E92",
+      tasks: [
+        {
+          id: "49204475EC1824A7",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_siftite_axe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_siftite_axe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4AB2F3370940B2C8",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "400DAB27C7119734",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "the_sift:siftite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_siftite_shovel",
+        count: 1,
+      },
+      x: 9.5,
+      y: 8.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4CA96DA59B997684",
+      ],
+      size: 1.0,
+      id: "4344BA818FD11A79",
+      tasks: [
+        {
+          id: "4A0E5A5AB7C558F1",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_siftite_shovel",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_siftite_shovel",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4BFD75FFC8BED439",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "4EC836A9C0160A53",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "the_sift:siftite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_siftite_hoe",
+        count: 1,
+      },
+      x: 9.5,
+      y: 10.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4CA96DA59B997684",
+      ],
+      size: 1.0,
+      id: "46E137FE08AFCD68",
+      tasks: [
+        {
+          id: "4DEE5A8DB601DE8B",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "advancednetherite:netherite_siftite_hoe",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "advancednetherite:netherite_siftite_hoe",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "49C5B28563CAA4F2",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "4EB016B5FA5A2B48",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "the_sift:siftite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_block",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: -2.8,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "4433F2BE3D50AC29",
+        "48E98C1904256E92",
+        "4097938B0F6614B1",
+        "468DB25A2D3D8055",
+        "4A32AB9CCFF328EF",
+        "4F9A0AAE52567C18",
+        "45735D69FA7B5375",
+        "4BF2E19760115D35",
+        "4D391B5EF25D36D2",
+        "4254DDDC72F48DCF",
+        "4D38628AA9F7D5CF",
+        "4004576E2759B285",
+        "481EDBDE60BABF9B",
+        "441C87E617C2DBD8",
+        "457AA80A2D4F4023",
+        "46C9BC5EC6255D17",
+        "44918EDB328A17B5",
+        "423F85066035FB61",
+        "4703BD1251DD64F3",
+        "4E10979451E5253A",
+        "4BE3BE4F2B21A506",
+        "49BB7D60A127532D",
+        "4B812FA2C34BC439",
+        "46FF2CECCEA61248",
+        "4ABA12AFBC1828E8",
+        "42FE9DA2C43AB326",
+        "460C0C7E41932BE3",
+        "487D17AFE894CCE2",
+        "47DC245602665367",
+        "46A97AE9D3EEC709",
+        "444C1846D648E0B8",
+        "4B336602D62CEA64",
+        "4A43128A97701FCC",
+        "401AC33D34D5277E",
+        "4B5B97D632382E32",
+        "4CA96DA59B997684",
+        "4D7C52FDC829835F",
+        "4A12D94FF40281F6",
+        "4EDFFABBCC2B9045",
+        "4291114A05CD3E92",
+        "4344BA818FD11A79",
+        "46E137FE08AFCD68",
+      ],
+      size: 1.6,
+      optional: true,
+      id: "44D05B1A628D8F1C",
+      rewards: [
+        {
+          id: "434531F8868E6E93",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+    {
+      linked_quest: "4805740973780A15",
+      x: 11.5,
+      y: 0.0,
+      shape: "circle",
+      size: 0.8,
+      id: "4034518146097032",
+    },
+  ],
+  images: [
+  ],
+}

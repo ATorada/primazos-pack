@@ -1,0 +1,4021 @@
+{
+  "chapter_group.41FFC5E97CCD6D87.title": "&a&lAventura",
+  "chapter_group.4B9BB1154CE5E86A.title": "&f&lEquipo",
+  "chapter_group.4BB1469C9A1D849B.title": "&b&lEl Servidor",
+  "chapter_group.458EAD3B4BE27CCD.title": "&6&lEnciclopedia",
+  "chapter.49A60DE5C0DDB051.title": "&6&l★ Empieza aquí",
+  "quest.4227C911EB0F1706.title": "&eCómo leer este libro",
+  "quest.4227C911EB0F1706.quest_subtitle": "Qué significa cada forma y cada color.",
+  "quest.4227C911EB0F1706.quest_desc": [
+    "&fCírculo&7: un paso de tu aventura. Se completa solo al conseguirlo y da &6recompensas&7.",
+    "&fRombo&7: un jefe.",
+    "&fHexágono&7: cómo funciona el servidor.",
+    "&fCuadrado&7: información.",
+    "&fTuerca&7: el resumen de una sección. Cuando tenga la &e&l!&r&7, ábrela y recoge tu &6experiencia&7.",
+    "",
+    "Las &dpalabras clave&7 van en rosa, los &cpeligros&7 en rojo y las &6recompensas&7 en dorado."
+  ],
+  "quest.464931B3842EB6E2.title": "&eCómo abrir el libro",
+  "quest.464931B3842EB6E2.quest_subtitle": "Botón Progreso, el libro o un comando.",
+  "quest.464931B3842EB6E2.quest_desc": [
+    "Pulsa &e&lEsc&r&7 y el botón &6Progreso&7.",
+    "",
+    "Al entrar te damos el &6Atlas de Primazos&7: clic derecho con él.",
+    "",
+    "También: &e&l/ftbquests open_book&r&7, o asigna una tecla en Opciones → Controles → FTB Quests."
+  ],
+  "quest.4CA0580DF13FA630.title": "&a&lAventura",
+  "quest.4CA0580DF13FA630.quest_subtitle": "Qué hacer ahora. Avanza paso a paso.",
+  "quest.4CA0580DF13FA630.quest_desc": [
+    "La zona con &dprogreso&7: cada paso se completa solo cuando lo consigues y da &6recompensas&7.",
+    "",
+    "Primeros días → El Mundo → El Nether → El End → The Sift."
+  ],
+  "quest.44EFBB7B0E4010DF.title": "&f&lEquipo",
+  "quest.44EFBB7B0E4010DF.quest_subtitle": "Armaduras, armas y encantamientos.",
+  "quest.44EFBB7B0E4010DF.quest_desc": [
+    "Qué equipo es mejor, cómo mejorarlo y qué encantamientos ponerle.",
+    "",
+    "La &dNetherita avanzada&7 también da recompensas al conseguir cada lingote."
+  ],
+  "quest.4E9317F3918612F9.title": "&b&lEl Servidor",
+  "quest.4E9317F3918612F9.quest_subtitle": "Cómo funciona Primazos.",
+  "quest.4E9317F3918612F9.quest_desc": [
+    "Los sistemas propios del servidor: la &a&lÉgida&r&7, el &e&lSol&r&7, las &d&lEstrellas&r&7, los controles y qué pasa al morir."
+  ],
+  "quest.42734208667D6698.title": "&6&lEnciclopedia",
+  "quest.42734208667D6698.quest_subtitle": "Todos los mods del pack por temas.",
+  "quest.42734208667D6698.quest_desc": [
+    "Criaturas, hogar, biomas y todo lo que traen los mods, con sus objetos más importantes."
+  ],
+  "quest.4C34FABD0311BD78.title": "&6&lBienvenido/a a Primazos",
+  "quest.4C34FABD0311BD78.quest_subtitle": "Este libro es tu guía. Empieza por aquí.",
+  "quest.4C34FABD0311BD78.quest_desc": [
+    "Es un &dVanilla Plus&7: se juega como Minecraft normal, pero con más biomas, mobs, mazmorras y comodidades.",
+    "",
+    "A la izquierda tienes el libro dividido en &6zonas&7."
+  ],
+  "chapter.48B5671AF2299C3D.title": "&aPrimeros días",
+  "task.40BC6A826FF68769.title": "Tener una mesa de trabajo",
+  "quest.458308E602F81BA4.title": "&aUna mesa para empezar",
+  "quest.458308E602F81BA4.quest_subtitle": "Ten una mesa de trabajo.",
+  "quest.458308E602F81BA4.quest_desc": [
+    "Tala un árbol, haz tablones y con cuatro tablones fabrica la mesa.",
+    "",
+    "En &dREI&7: &e&lR&r&7 enseña la receta y &e&lU&r&7 los usos."
+  ],
+  "task.47708BA4C1126E34.title": "Mejorar el pico",
+  "quest.4DCCB5B03DF9A09D.title": "&aHerramientas de piedra",
+  "quest.4DCCB5B03DF9A09D.quest_subtitle": "Consigue un pico mejor.",
+  "quest.4DCCB5B03DF9A09D.quest_desc": [
+    "Con piedra ya puedes picar &dhierro&7."
+  ],
+  "task.4209791F29D5D266.title": "Tener un horno",
+  "quest.4EFFE5E4DFC36936.title": "&aCocinar y fundir",
+  "quest.4EFFE5E4DFC36936.quest_subtitle": "Ten un horno.",
+  "quest.4EFFE5E4DFC36936.quest_desc": [
+    "Ocho de piedra en círculo. Arriba lo que quieras cocinar o fundir, abajo el combustible."
+  ],
+  "task.4AAA4F9FECC863CA.title": "Dormir en una cama",
+  "quest.4D540224CDED83AA.title": "&aLa primera noche",
+  "quest.4D540224CDED83AA.quest_subtitle": "Duerme en una cama.",
+  "quest.4D540224CDED83AA.quest_desc": [
+    "Tres lanas y tres tablones. Dormir fija tu &dpunto de reaparición&7.",
+    "",
+    "De noche las &d&lEstrellas&r&7 te cuidan."
+  ],
+  "task.41C2F7A112218888.title": "Fundir hierro",
+  "quest.466612DF62AE6E9B.title": "&aEl primer hierro",
+  "quest.466612DF62AE6E9B.quest_subtitle": "Funde un lingote de hierro.",
+  "quest.466612DF62AE6E9B.quest_desc": [
+    "El hierro abre la puerta a la armadura, el escudo y el cubo."
+  ],
+  "task.44E54B53CB3C9DD3.title": "Equipar armadura de hierro",
+  "quest.41483817167821AB.title": "&a&lVestido de hierro",
+  "quest.41483817167821AB.quest_subtitle": "Ponte una pieza de armadura de hierro.",
+  "quest.41483817167821AB.quest_desc": [
+    "Tu primer &6hito&7. A partir de aquí ya aguantas a los monstruos de la noche."
+  ],
+  "task.40DBABB099B6D467.title": "Tener un escudo",
+  "quest.434864C7956076ED.title": "&aUn escudo",
+  "quest.434864C7956076ED.quest_subtitle": "Ten un escudo.",
+  "quest.434864C7956076ED.quest_desc": [
+    "Un lingote de hierro y seis tablones. Llévalo en la &dmano izquierda&7 y bloquea con clic derecho."
+  ],
+  "task.431411692DE1904B.title": "Tener un cubo",
+  "quest.47A4B5DD7E6B6595.title": "&aUn cubo",
+  "quest.47A4B5DD7E6B6595.quest_subtitle": "Ten un cubo.",
+  "quest.47A4B5DD7E6B6595.quest_desc": [
+    "Para el agua, la lava y la &dobsidiana&7."
+  ],
+  "task.43A6ABCD812967DF.title": "Conseguir un diamante",
+  "quest.4F4DCF57DA3C89AB.title": "&b&l¡Diamantes!",
+  "quest.4F4DCF57DA3C89AB.quest_subtitle": "Encuentra un diamante.",
+  "quest.4F4DCF57DA3C89AB.quest_desc": [
+    "Están en lo más profundo, cerca de la lava. Mina con &ccuidado&7."
+  ],
+  "task.49D655AB805B92DD.title": "Encantar un objeto",
+  "quest.48F0A50778861B76.title": "&aEncantar",
+  "quest.48F0A50778861B76.quest_subtitle": "Encanta un objeto.",
+  "quest.48F0A50778861B76.quest_desc": [
+    "Mesa de encantamientos: un libro, dos diamantes y cuatro de obsidiana.",
+    "",
+    "Rodéala de &destanterías&7 para mejores encantamientos."
+  ],
+  "task.4A6FA959307B23F7.title": "Conseguir obsidiana",
+  "quest.421B18AE435AC6AB.title": "&aObsidiana",
+  "quest.421B18AE435AC6AB.quest_subtitle": "Consigue obsidiana.",
+  "quest.421B18AE435AC6AB.quest_desc": [
+    "Echa agua sobre lava quieta y pícala con un &dpico de diamante&7."
+  ],
+  "task.412239584112B50B.title": "Entrar en el Nether",
+  "quest.491E031B2E3E9A88.title": "&c&lAl Nether",
+  "quest.491E031B2E3E9A88.quest_subtitle": "Entra en el Nether.",
+  "quest.491E031B2E3E9A88.quest_desc": [
+    "Un marco de obsidiana de 4×5 y un mechero. Al otro lado todo es más &cpeligroso&7.",
+    "",
+    "Aquí termina tu primer día. Sigue en &aEl Mundo&7 y &cEl Nether&7."
+  ],
+  "quest.4AE0BE344A9331CD.title": "&dMascotas que reviven",
+  "quest.4AE0BE344A9331CD.quest_subtitle": "&7Tus mascotas domesticadas pueden volver a la vida si mueren.",
+  "quest.4AE0BE344A9331CD.quest_desc": [
+    "&7Tus mascotas domesticadas pueden volver a la vida si mueren.",
+    "",
+    "&7La Gema etérica es la clave: busca su receta en &r&dREI&r&7 (tecla R).",
+    "",
+    "&8Mod: Respawnable Pets"
+  ],
+  "quest.4FB95A4CADDF44AA.title": "&aGuardar experiencia",
+  "quest.4FB95A4CADDF44AA.quest_subtitle": "&7El Tomo de experiencia (XP Tome)",
+  "quest.4FB95A4CADDF44AA.quest_desc": [
+    "&r&7El Tomo de experiencia (&r&dXP&r&7 Tome)",
+    "&7guarda tus niveles para no perderlos al morir o para pasarlos a otro jugador.",
+    "",
+    "&r&8Mod: &r&dXP&r&8 Tome"
+  ],
+  "quest.47162EF110CCA2CC.title": "&6Mochila",
+  "quest.47162EF110CCA2CC.quest_subtitle": "&7Fabrica una Mochila del Viajero: más inventario, tanques de líquidos…",
+  "quest.47162EF110CCA2CC.quest_desc": [
+    "&7Fabrica una Mochila del Viajero: más inventario, tanques de líquidos y un saco de dormir.",
+    "",
+    "&7Se mejora con hierro, oro, diamante y netherita.",
+    "",
+    "&8Mod: Traveler's Backpack"
+  ],
+  "quest.47326320D8DD71CB.title": "&eEstaciones del año",
+  "quest.47326320D8DD71CB.quest_subtitle": "&7Hay primavera, verano, otoño e invierno. En invierno nieva más y…",
+  "quest.47326320D8DD71CB.quest_desc": [
+    "&7Hay primavera, verano, otoño e invierno. En invierno nieva más y muchos cultivos &r&dNO&r&7 crecen.",
+    "",
+    "&7Fabrica un Calendario para saber en qué estación estás.",
+    "",
+    "&8Mod: Serene Seasons"
+  ],
+  "quest.46D0AFA879A4AA9F.title": "&aCultivos",
+  "quest.46D0AFA879A4AA9F.quest_subtitle": "&7Clic derecho sobre un cultivo maduro para cosecharlo y replantarlo…",
+  "quest.46D0AFA879A4AA9F.quest_desc": [
+    "&7Clic derecho sobre un cultivo maduro para cosecharlo y replantarlo solo.",
+    "",
+    "&7Con lluvia los cultivos crecen más rápido.",
+    "",
+    "&8Mods: RightClickHarvest, Crops Love Rain"
+  ],
+  "quest.4325AA702317DCA4.title": "&e¿Cómo se fabrica algo?",
+  "quest.4325AA702317DCA4.quest_subtitle": "&7Abre el inventario y busca el objeto en la lista de la derecha (REI).",
+  "quest.4325AA702317DCA4.quest_desc": [
+    "&7Abre el inventario y busca el objeto en la lista de la derecha (&r&dREI&r&7).",
+    "",
+    "&7Pasa el ratón por encima y pulsa R para ver su receta, o U para ver para qué sirve."
+  ],
+  "quest.4794662C9817B656.title": "&a&lPara tus primeros días",
+  "quest.4794662C9817B656.quest_subtitle": "&7Cosas que te harán la vida más fácil desde el principio.",
+  "quest.4794662C9817B656.quest_desc": [
+    "Cosas que te harán la vida más fácil desde el principio."
+  ],
+  "chapter.472F67A339681000.title": "&2El Mundo",
+  "task.43623B5FEF3DD218.title": "Matar a un monstruo",
+  "quest.484C5BF94595D9BD.title": "&2Cazador de monstruos",
+  "quest.484C5BF94595D9BD.quest_subtitle": "Mata a un monstruo.",
+  "quest.484C5BF94595D9BD.quest_desc": [
+    "Los monstruos se hacen más fuertes cuanto más juegas: mira &dMonstruos que escalan&7 en El Servidor."
+  ],
+  "task.4D237321763FF3EF.title": "Comerciar con un aldeano",
+  "quest.46F339D47935077E.title": "&2Comerciar",
+  "quest.46F339D47935077E.quest_subtitle": "Comercia con un aldeano.",
+  "quest.46F339D47935077E.quest_desc": [
+    "Las aldeas de &dLio's Overhauled Villages&7 y &dRepurposed Structures&7 son grandes y variadas. Las esmeraldas compran libros, herramientas y hasta un &dOjo malvado&7 para el End."
+  ],
+  "task.499909CCEB628CDE.title": "Tener la brújula del explorador",
+  "quest.4519ABCA6F2580E3.title": "&2Brújula del explorador",
+  "quest.4519ABCA6F2580E3.quest_subtitle": "Ten la brújula de estructuras.",
+  "quest.4519ABCA6F2580E3.quest_desc": [
+    "Te lleva a la &destructura&7 que elijas: aldeas, mazmorras, templos...",
+    "",
+    "Mira las listas en &a› Mazmorras&7."
+  ],
+  "task.493B76109D8F4346.title": "Tener la brújula",
+  "quest.411E2E0395550CFD.title": "&2Brújula de la naturaleza",
+  "quest.411E2E0395550CFD.quest_subtitle": "Ten la brújula de biomas.",
+  "quest.411E2E0395550CFD.quest_desc": [
+    "Te lleva al &dbioma&7 que elijas. Con tantos biomas nuevos, es imprescindible."
+  ],
+  "task.40E793B6DBA61E16.title": "Entrar en unas cámaras de desafío",
+  "quest.4130540DB0E994B5.title": "&2Cámaras de desafío",
+  "quest.4130540DB0E994B5.quest_subtitle": "Entra en unas cámaras de desafío.",
+  "quest.4130540DB0E994B5.quest_desc": [
+    "Oleadas de mobs con &6botín&7 en cofres y bóvedas."
+  ],
+  "task.4C79D3959A27A53E.title": "Encontrar un puesto de saqueadores",
+  "quest.4C5441DAC3434226.title": "&ePuesto de saqueadores",
+  "quest.4C5441DAC3434226.quest_subtitle": "Encuentra un puesto de saqueadores.",
+  "quest.4C5441DAC3434226.quest_desc": [
+    "La torre de los &dsaqueadores&7. Su capitán lleva el estandarte."
+  ],
+  "task.4CBE6831D4944F3E.title": "Encontrar ruinas del desierto",
+  "quest.4831E531FA0F440C.title": "&eRuinas del desierto",
+  "quest.4831E531FA0F440C.quest_subtitle": "Encuentra unas ruinas del desierto.",
+  "quest.4831E531FA0F440C.quest_desc": [
+    "Ruinas enterradas con &darqueología&7."
+  ],
+  "task.444E952435BEA8C0.title": "Encontrar unas catacumbas",
+  "quest.4B780CA04C180B91.title": "&6Catacumbas",
+  "quest.4B780CA04C180B91.quest_subtitle": "Encuentra unas catacumbas.",
+  "quest.4B780CA04C180B91.quest_desc": [
+    "&cPeligrosas&7: muchos no-muertos bajo tierra."
+  ],
+  "task.42CDBDA9444553D8.title": "Encontrar una mansión",
+  "quest.405779D6A2587147.title": "&6Mansión del bosque",
+  "quest.405779D6A2587147.quest_subtitle": "Encuentra una mansión del bosque.",
+  "quest.405779D6A2587147.quest_desc": [
+    "Llena de &cevocadores y vindicadores&7. Puede tener el &dOjo mágico&7."
+  ],
+  "task.4C51BC8489623C4D.title": "Encontrar un fuerte helado",
+  "quest.4E76F3082EC1A118.title": "&cFuerte helado",
+  "quest.4E76F3082EC1A118.quest_subtitle": "Encuentra un fuerte de los esqueletos glaciales.",
+  "quest.4E76F3082EC1A118.quest_desc": [
+    "&cMuy difícil&7: &desqueletos glaciales&7 a montones."
+  ],
+  "task.4DA30460E400557F.title": "Encontrar la guarida tóxica",
+  "quest.4E13A833657A74CF.title": "&cGuarida tóxica",
+  "quest.4E13A833657A74CF.quest_subtitle": "Encuentra la guarida tóxica.",
+  "quest.4E13A833657A74CF.quest_desc": [
+    "En los pantanos. Su jefe guarda el encantamiento &dAntídoto&7."
+  ],
+  "task.49D68A4E9141B649.title": "Encontrar el Monumento del Tridente",
+  "quest.495D6DD9DDA2FDE8.title": "&4&lMonumento del Tridente",
+  "quest.495D6DD9DDA2FDE8.quest_subtitle": "Encuentra el Monumento del Tridente.",
+  "quest.495D6DD9DDA2FDE8.quest_desc": [
+    "&cMuy difícil&7 y bajo el agua. Lleva respiración acuática."
+  ],
+  "task.42961B6F81D3B4A9.title": "Matar a un capitán",
+  "quest.42E469F569BC040F.title": "&2Capitán abatido",
+  "quest.42E469F569BC040F.quest_subtitle": "Mata al capitán de una patrulla.",
+  "quest.42E469F569BC040F.quest_desc": [
+    "Te da &cMal presagio&7: si entras en una aldea empieza un &dasalto&7."
+  ],
+  "task.4910D583FEB2464D.title": "Ganar un asalto",
+  "quest.49B3091602911AA7.title": "&6&lHéroe de la aldea",
+  "quest.49B3091602911AA7.quest_subtitle": "Gana un asalto.",
+  "quest.49B3091602911AA7.quest_desc": [
+    "Los saqueadores disparan &ccohetes&7 y vienen illagers nuevos: mira &7› Asaltos e illagers&7.",
+    "",
+    "Los aldeanos te harán &6descuentos&7."
+  ],
+  "task.4AD94C3E561403DA.title": "Matar a un Guardián anciano",
+  "quest.45733E782D248DDB.title": "&bGuardián anciano",
+  "quest.45733E782D248DDB.quest_subtitle": "&780 de vida y fatiga minera. Suelta el Ojo guardián para el End. Lleva…",
+  "quest.45733E782D248DDB.quest_desc": [
+    "&780 de vida y fatiga minera. Suelta el Ojo guardián para el End. Lleva respiración acuática."
+  ],
+  "task.4652B0BD6994F510.title": "Entrar en una ciudad antigua",
+  "quest.4F5C936B1049344A.title": "&3Civilización caída",
+  "quest.4F5C936B1049344A.quest_subtitle": "Entra en una ciudad antigua.",
+  "quest.4F5C936B1049344A.quest_desc": [
+    "Donde vive el &cWarden&7. Muévete agachado y no hagas ruido."
+  ],
+  "task.461A35CDE9023AC0.title": "Sigilo 100",
+  "quest.45F1B0B22B045F16.title": "&3Sigilo 100",
+  "quest.45F1B0B22B045F16.quest_subtitle": "Pasa agachado junto a un sensor de sculk.",
+  "quest.45F1B0B22B045F16.quest_desc": [
+    "Agáchate cerca de un &dsensor de sculk&7 o un &dchillador&7 para que no te detecte."
+  ],
+  "task.4CE6B57AC7EF7CAB.title": "Matar al Warden",
+  "quest.4EE737AE7B6EB60A.title": "&3&lWarden",
+  "quest.4EE737AE7B6EB60A.quest_subtitle": "Mata al Warden. Sí, de verdad.",
+  "quest.4EE737AE7B6EB60A.quest_desc": [
+    "&7500 de vida y golpes de 45 en difícil. Mejor no luchar: muévete agachado y no hagas ruido.",
+    "",
+    "Se desbloquea al entrar en una &dciudad antigua&7 o conseguir &dSigilo 100&7.",
+    "",
+    "&6Recompensa a la altura&7: diamantes, mucha experiencia y tótems."
+  ],
+  "quest.4B6D70BA9202F2B9.title": "&dAntes de entrar",
+  "quest.4B6D70BA9202F2B9.quest_subtitle": "&7Comida dorada, pociones de curación y resistencia al fuego, tótem y…",
+  "quest.4B6D70BA9202F2B9.quest_desc": [
+    "&7Comida dorada, pociones de curación y resistencia al fuego, tótem y bloques para escapar.",
+    "",
+    "&7Bajo el agua: respiración acuática y Agilidad acuática.",
+    "",
+    "&7Si mueres, tu tumba te espera donde caíste."
+  ],
+  "quest.46F97F6F8FE8C459.title": "&e&lAntes de explorar",
+  "quest.46F97F6F8FE8C459.quest_subtitle": "&7Cómo prepararte y cómo se ha calculado la dificultad.",
+  "quest.46F97F6F8FE8C459.quest_desc": [
+    "Cómo prepararte y cómo se ha calculado la dificultad."
+  ],
+  "chapter.456AC8A24AB94CAC.title": "&7› &aMazmorras fáciles",
+  "quest.476CB1E61042EE37.title": "&fPirámides, templos y mansiones variantes (RS)",
+  "quest.476CB1E61042EE37.quest_subtitle": "&7Dónde: End, Mundo normal, Océano",
+  "quest.476CB1E61042EE37.quest_desc": [
+    "&bDónde: End, Mundo normal, Océano",
+    "&fMobs: lepismas, endermites, zombis momificados, creepers",
+    "&6Pueden juntarse muchos mobs a la vez."
+  ],
+  "quest.4414DC669190292D.title": "&fTorres de MVS (suavizadas)",
+  "quest.4414DC669190292D.quest_subtitle": "&7Dónde: Mundo normal, Océano",
+  "quest.4414DC669190292D.quest_desc": [
+    "&bDónde: Mundo normal, Océano",
+    "&9Bajo el agua: 58% de la estructura",
+    "&fMobs: guardianes, ahogados, esqueletos",
+    "",
+    "&7Sus spawners están limitados en este servidor."
+  ],
+  "quest.4CBC753287770C8F.title": "&fSantuarios de bioma (D＆T)",
+  "quest.4CBC753287770C8F.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4CBC753287770C8F.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: endermites, esqueletos resecos, zombis, esqueletos"
+  ],
+  "quest.485E131ABDBBB9EB.title": "&fAldeas fortificadas (Terralith)",
+  "quest.485E131ABDBBB9EB.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.485E131ABDBBB9EB.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: zombis"
+  ],
+  "quest.49205601D176D0DD.title": "&fPirámide del desierto y templo de la jungla",
+  "quest.49205601D176D0DD.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.49205601D176D0DD.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: trampas",
+    "",
+    "&7Sin mobs especiales, pero cuidado con la &r&dTNT&r&7 y las flechas."
+  ],
+  "quest.4993D86D396B3816.title": "&fEstructuras pequeñas (MVS, Terralith, Lio)",
+  "quest.4993D86D396B3816.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4993D86D396B3816.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: casi ninguno",
+    "",
+    "&7Casas, pozos, ruinas, aldeas y portales antiguos. Ideales para empezar."
+  ],
+  "quest.42471ED1D4566EBA.title": "&aFácil",
+  "quest.42471ED1D4566EBA.quest_subtitle": "&7Equipo recomendado:",
+  "quest.42471ED1D4566EBA.quest_desc": [
+    "&eEquipo recomendado:",
+    "&7Hierro y escudo.",
+    "",
+    "&76 grupos de estructuras."
+  ],
+  "chapter.4AD6E4301A9C2DE3.title": "&7› &eMazmorras medias",
+  "quest.471DC801BB945A9C.title": "&fPuestos de saqueadores variantes (RS)",
+  "quest.471DC801BB945A9C.quest_subtitle": "&7Dónde: End, Mundo normal, Nether, Océano",
+  "quest.471DC801BB945A9C.quest_desc": [
+    "&bDónde: End, Mundo normal, Nether, Océano",
+    "&9Bajo el agua: 57% de la estructura",
+    "&fMobs: saqueadores, piglins, piglins zombi, hoglins",
+    "&6Pueden juntarse muchos mobs a la vez.",
+    "",
+    "&7Los del Nether y del océano son bastante más duros que los normales."
+  ],
+  "quest.45136EBF596364C9.title": "&fRuinas y guaridas (D＆T)",
+  "quest.45136EBF596364C9.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.45136EBF596364C9.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: esqueletos pantanosos, zombis, arañas de cueva, brujas",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!"
+  ],
+  "quest.4BE4664D917ADCA6.title": "&fTorres y complejo de magos (Terralith)",
+  "quest.4BE4664D917ADCA6.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4BE4664D917ADCA6.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: saqueadores, brujas, vindicadores, evocadores",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!"
+  ],
+  "quest.4D78C77CD0A4EE5E.title": "&fTorres de esqueletos del Nether (D＆T)",
+  "quest.4D78C77CD0A4EE5E.quest_subtitle": "&7Dónde: Mundo normal, Nether",
+  "quest.4D78C77CD0A4EE5E.quest_desc": [
+    "&bDónde: Mundo normal, Nether",
+    "&fMobs: esqueletos wither, esqueletos",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!"
+  ],
+  "quest.4F947DE45E24D9ED.title": "&fFuertes y torres illager (Illager Invasion)",
+  "quest.4F947DE45E24D9ED.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4F947DE45E24D9ED.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: vindicadores, provocadores, bashers, merodeadores",
+    "&6Pueden juntarse muchos mobs a la vez.",
+    "",
+    "&7Inquisidores (80 de vida, golpes de 15). El Invocador es un jefe."
+  ],
+  "quest.4B2367F4553995FD.title": "&fPuesto minero de las Badlands (D＆T)",
+  "quest.4B2367F4553995FD.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4B2367F4553995FD.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: evocadores, saqueadores, vindicadores, brujas",
+    "&6Pueden juntarse muchos mobs a la vez."
+  ],
+  "quest.42E9FB1363E95306.title": "&fCámaras de desafío (vanilla)",
+  "quest.42E9FB1363E95306.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.42E9FB1363E95306.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: esqueletos glaciales, esqueletos pantanosos, slimes, lepismas",
+    "&6Pueden juntarse muchos mobs a la vez.",
+    "",
+    "&7Oleadas de mobs según cuántos jugadores entréis."
+  ],
+  "quest.445542EC25E1D7AA.title": "&fMinas variantes (RS)",
+  "quest.445542EC25E1D7AA.quest_subtitle": "&7Dónde: End, Mundo normal, Nether, Océano",
+  "quest.445542EC25E1D7AA.quest_desc": [
+    "&bDónde: End, Mundo normal, Nether, Océano",
+    "&9Bajo el agua: 54% de la estructura",
+    "&fMobs: arañas de cueva",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Spawners de arañas de cueva: lleva leche para el veneno."
+  ],
+  "quest.401A1AD85994715A.title": "&fCiudad, templos y naufragios del Nether (RS)",
+  "quest.401A1AD85994715A.quest_subtitle": "&7Dónde: Nether",
+  "quest.401A1AD85994715A.quest_desc": [
+    "&bDónde: Nether",
+    "&fMobs: piglins zombi, esqueletos wither, blazes, zoglins"
+  ],
+  "quest.4A9A614AED7B9EE8.title": "&fCiudades antiguas variantes (RS)",
+  "quest.4A9A614AED7B9EE8.quest_subtitle": "&7Dónde: End, Nether, Océano",
+  "quest.4A9A614AED7B9EE8.quest_desc": [
+    "&bDónde: End, Nether, Océano",
+    "&fMobs: ahogados, ghasts, endermites, cubos de magma",
+    "&6Pueden juntarse muchos mobs a la vez.",
+    "",
+    "&7Son 3 estructuras distintas: una en el fondo del océano, otra en el Nether y otra en el End. Cuidado con el ruido: puede aparecer el Warden."
+  ],
+  "quest.4C56F8173BFD60C3.title": "&fMonumento oceánico (vanilla)",
+  "quest.4C56F8173BFD60C3.quest_subtitle": "&7Dónde: Océano",
+  "quest.4C56F8173BFD60C3.quest_desc": [
+    "&bDónde: Océano",
+    "&9Bajo el agua: 90% de la estructura",
+    "&fMobs: guardianes, guardianes ancianos",
+    "",
+    "&7Suavizado en este servidor: muchos menos guardianes. Sigue habiendo 3 ancianos (fatiga minera)."
+  ],
+  "quest.4393E18D5C697E8B.title": "&6Media",
+  "quest.4393E18D5C697E8B.quest_subtitle": "&7Equipo recomendado:",
+  "quest.4393E18D5C697E8B.quest_desc": [
+    "&eEquipo recomendado:",
+    "&7Diamante con Protección III, escudo y buena comida.",
+    "",
+    "&711 grupos de estructuras."
+  ],
+  "chapter.4FC740B1A27DA7FB.title": "&7› &6Mazmorras difíciles",
+  "quest.4B752AE291866D82.title": "&fAldea oceánica (RS)",
+  "quest.4B752AE291866D82.quest_subtitle": "&7Dónde: Océano",
+  "quest.4B752AE291866D82.quest_desc": [
+    "&bDónde: Océano",
+    "&9Bajo el agua: 45% de la estructura",
+    "&fMobs: ahogados",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Llena de ahogados bajo el agua."
+  ],
+  "quest.433608D07BC9D1C5.title": "&fSantuarios de combate (D＆T)",
+  "quest.433608D07BC9D1C5.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.433608D07BC9D1C5.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: zombis momificados, zombis, slimes, arañas de cueva",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Son como las cámaras de desafío:",
+    "&7oleadas de mobs (ya suavizadas en el servidor)."
+  ],
+  "quest.47A4C5CE9FB3F9A0.title": "&fBastión (vanilla)",
+  "quest.47A4C5CE9FB3F9A0.quest_subtitle": "&7Dónde: Nether",
+  "quest.47A4C5CE9FB3F9A0.quest_desc": [
+    "&bDónde: Nether",
+    "&fMobs: piglins, piglins bárbaros, hoglins, cubos de magma",
+    "&6Pueden juntarse muchos mobs a la vez.",
+    "",
+    "&7Piglins bárbaros. Lleva oro."
+  ],
+  "quest.41AC8FB580070FB8.title": "&fMina, catedral y torre de jungla (MVS)",
+  "quest.41AC8FB580070FB8.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.41AC8FB580070FB8.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: esqueletos, zombis, esqueletos pantanosos, creepers",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Muchos spawners de esqueletos y zombis."
+  ],
+  "quest.4E53D14B4CC4D489.title": "&fCiudadela del Wildfire (Friends ＆ Foes)",
+  "quest.4E53D14B4CC4D489.quest_subtitle": "&7Dónde: Nether",
+  "quest.4E53D14B4CC4D489.quest_desc": [
+    "&bDónde: Nether",
+    "&fMobs: esqueletos wither, Wildfire (jefe)",
+    "",
+    "&7Jefe Wildfire (120 de vida).",
+    "&7Resistencia al fuego."
+  ],
+  "quest.4C2785811F062AFC.title": "&fFortaleza del Nether (vanilla)",
+  "quest.4C2785811F062AFC.quest_subtitle": "&7Dónde: Nether",
+  "quest.4C2785811F062AFC.quest_desc": [
+    "&bDónde: Nether",
+    "&fMobs: blazes, esqueletos wither, cubos de magma",
+    "",
+    "&7Spawners de blaze y esqueletos wither que aparecen solos."
+  ],
+  "quest.40481D2399539C25.title": "&fMansión del bosque (vanilla)",
+  "quest.40481D2399539C25.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.40481D2399539C25.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: vindicadores, evocadores",
+    "",
+    "&7Muchos illagers en habitaciones. Los evocadores sueltan tótems."
+  ],
+  "quest.4AA86769F198B138.title": "&fCiudad del End (vanilla)",
+  "quest.4AA86769F198B138.quest_subtitle": "&7Dónde: End",
+  "quest.4AA86769F198B138.quest_desc": [
+    "&bDónde: End",
+    "&fMobs: shulkers",
+    "",
+    "&7Te hacen levitar sobre el vacío.",
+    "&7Aquí están los élitros."
+  ],
+  "quest.4D97780531C57F80.title": "&cDifícil",
+  "quest.4D97780531C57F80.quest_subtitle": "&7Equipo recomendado:",
+  "quest.4D97780531C57F80.quest_desc": [
+    "&eEquipo recomendado:",
+    "&7Netherita o diamante con Protección IV, comida dorada, pociones y tótem.",
+    "",
+    "&78 grupos de estructuras."
+  ],
+  "chapter.44E0AB9E92909346.title": "&7› &c&lMazmorras muy difíciles",
+  "quest.442690B428D7A993.title": "&fCiudad antigua (vanilla)",
+  "quest.442690B428D7A993.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.442690B428D7A993.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: Warden (500 de vida, golpes de 45)",
+    "",
+    "&7No hay spawners: el peligro es el Warden si haces ruido. Muévete agachado y no rompas sensores."
+  ],
+  "quest.4CE2A3BD10169302.title": "&fFortalezas del Nether (D＆T)",
+  "quest.4CE2A3BD10169302.quest_subtitle": "&7Dónde: Nether",
+  "quest.4CE2A3BD10169302.quest_desc": [
+    "&bDónde: Nether",
+    "&fMobs: blazes, esqueletos wither, esqueletos, cubos de magma",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Llenas de spawners de blaze.",
+    "&7Resistencia al fuego obligatoria."
+  ],
+  "quest.4F5BB6DA8DBCB041.title": "&fBases illager (D＆T)",
+  "quest.4F5BB6DA8DBCB041.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4F5BB6DA8DBCB041.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: saqueadores, vindicadores, brujas, evocadores",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Muchos evocadores y vindicadores juntos. Lleva escudo y tótems."
+  ],
+  "quest.42B1CB8F10419FE6.title": "&fAldeas del Nether (RS)",
+  "quest.42B1CB8F10419FE6.quest_subtitle": "&7Dónde: Nether",
+  "quest.42B1CB8F10419FE6.quest_desc": [
+    "&bDónde: Nether",
+    "&fMobs: piglins, hoglins, piglins bárbaros, zoglins",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Decenas de piglins y hoglins. Lleva una pieza de oro."
+  ],
+  "quest.4BD494F68908729F.title": "&fFuertes y ciudadela helados (D＆T)",
+  "quest.4BD494F68908729F.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4BD494F68908729F.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: esqueletos glaciales, aldeanos zombi, esqueletos resecos, esqueletos pantanosos",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Muchos esqueletos glaciales: te ralentizan con sus flechas."
+  ],
+  "quest.4516D98A21B7DF58.title": "&fCastillo, barco y faro del End (D＆T)",
+  "quest.4516D98A21B7DF58.quest_subtitle": "&7Dónde: End",
+  "quest.4516D98A21B7DF58.quest_desc": [
+    "&bDónde: End",
+    "&fMobs: shulkers, endermites, phantoms",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Shulkers que te hacen levitar sobre el vacío. Lleva caída de pluma y bloques."
+  ],
+  "quest.40D015B43B7C1AC4.title": "&fCampamentos piglin (D＆T)",
+  "quest.40D015B43B7C1AC4.quest_subtitle": "&7Dónde: Nether",
+  "quest.40D015B43B7C1AC4.quest_desc": [
+    "&bDónde: Nether",
+    "&fMobs: piglins, cubos de magma, piglins bárbaros, hoglins",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Piglins bárbaros: pegan muchísimo.",
+    "&7Pieza de oro obligatoria."
+  ],
+  "quest.45B50862D75D33B6.title": "&fFortalezas subterráneas variantes (RS)",
+  "quest.45B50862D75D33B6.quest_subtitle": "&7Dónde: End, Nether",
+  "quest.45B50862D75D33B6.quest_desc": [
+    "&bDónde: End, Nether",
+    "&fMobs: endermites, blazes, endermans, esqueletos wither",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7La del Nether está llena de spawners de blaze."
+  ],
+  "quest.488258276014F847.title": "&fBúnker, catacumbas y criptas (D＆T)",
+  "quest.488258276014F847.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.488258276014F847.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&fMobs: esqueletos, zombis, arañas, creepers",
+    "&cPueden juntarse más de 60 mobs:",
+    "&c¡lag!",
+    "",
+    "&7Pasillos estrechos con muchos spawners."
+  ],
+  "quest.4B90B95AB7CD8586.title": "&fMonumento del Tridente (D＆T)",
+  "quest.4B90B95AB7CD8586.quest_subtitle": "&7Dónde: Mundo normal",
+  "quest.4B90B95AB7CD8586.quest_desc": [
+    "&bDónde: Mundo normal",
+    "&9Bajo el agua: 65% de la estructura",
+    "&fMobs: guardianes, ahogados, guardianes ancianos",
+    "&6Pueden juntarse muchos mobs a la vez.",
+    "",
+    "&7Enorme y casi todo bajo el agua.",
+    "&7Suavizado en este servidor: pocos guardianes (antes salían decenas).",
+    "&7Lleno de ahogados con tridente.",
+    "&7Respiración acuática obligatoria."
+  ],
+  "quest.4A8673E476997357.title": "&4Muy difícil",
+  "quest.4A8673E476997357.quest_subtitle": "&7Equipo recomendado:",
+  "quest.4A8673E476997357.quest_desc": [
+    "&eEquipo recomendado:",
+    "&7Netherita avanzada encantada (Protección IV), tótems, pociones y en grupo de 3 o más.",
+    "",
+    "&710 grupos de estructuras."
+  ],
+  "chapter.43D8126DC96590CE.title": "&7› &6Asaltos e illagers",
+  "quest.4C184774761E4952.title": "&cCohetes de los saqueadores",
+  "quest.4C184774761E4952.quest_subtitle": "&7Cada 10 niveles del jugador MÁS CERCANO, sus cohetes llevan una…",
+  "quest.4C184774761E4952.quest_desc": [
+    "&r&7Cada 10 niveles del jugador &r&dMÁS CERCANO&r&7, sus cohetes llevan una explosión más.",
+    "&7Desde el nivel 75 disparan 3 cohetes a la vez.",
+    "",
+    "&eDaño por cohete en difícil:",
+    "&r&7Nivel 20: &r&c6,8 ❤&r&7   Nivel 40: &r&c9,8 ❤ Nivel 60: &r&c12,8 ❤&r&7   Nivel 90: &r&c17,3 ❤",
+    "",
+    "&7Explotan en área. Tienes 10 ❤ en total.",
+    "",
+    "&r&7Cohete Perdido: el &r&e&lSol&r&7 deshace el 20% de los cohetes antes de que lleguen."
+  ],
+  "quest.4E8F409FF7102984.title": "&fCon armadura de HIERRO",
+  "quest.4E8F409FF7102984.quest_subtitle": "&7Un cohete de nivel 60 te quita:",
+  "quest.4E8F409FF7102984.quest_desc": [
+    "&7Un cohete de nivel 60 te quita:",
+    "",
+    "&r&7Sin encantar → &r&c11,2 ❤",
+    "&r&eProtección IV ×4 → &r&c4 ❤",
+    "&r&aProt. explosiones IV ×4 → &r&c2,2 ❤",
+    "",
+    "&7Sin encantar, un solo cohete te mata."
+  ],
+  "quest.471D2D91C7F7E177.title": "&bCon armadura de DIAMANTE",
+  "quest.471D2D91C7F7E177.quest_subtitle": "&7Un cohete de nivel 60 te quita:",
+  "quest.471D2D91C7F7E177.quest_desc": [
+    "&7Un cohete de nivel 60 te quita:",
+    "",
+    "&r&7Sin encantar → &r&c5,8 ❤",
+    "&r&eProtección IV ×4 → &r&c2,1 ❤ Prot. explosiones IV ×4 → &r&c1,2 ❤"
+  ],
+  "quest.44D107455EA71E9B.title": "&6Con armadura de NETHERITA",
+  "quest.44D107455EA71E9B.quest_subtitle": "&7Un cohete de nivel 60 te quita:",
+  "quest.44D107455EA71E9B.quest_desc": [
+    "&7Un cohete de nivel 60 te quita:",
+    "",
+    "&r&7Sin encantar → &r&c5,2 ❤",
+    "&r&eProtección IV ×4 → &r&c1,9 ❤ Prot. explosiones IV ×4 → &r&c1 ❤"
+  ],
+  "quest.48A5F45DC2AE4CBC.title": "&dCon NETHERITA Y DIAMANTE",
+  "quest.48A5F45DC2AE4CBC.quest_subtitle": "&7Un cohete de nivel 60 te quita:",
+  "quest.48A5F45DC2AE4CBC.quest_desc": [
+    "&7Un cohete de nivel 60 te quita:",
+    "",
+    "&r&7Sin encantar → &r&c2,5 ❤",
+    "&r&eProtección IV ×4 → &r&c0,9 ❤ Prot. explosiones IV ×4 → &r&c0,5 ❤",
+    "",
+    "&7Ya llega al máximo de protección contra este cohete. Netherita y aeternio, y netherita y siftita, aguantan mejor los golpes aún más fuertes."
+  ],
+  "quest.46F70611939EB189.title": "&aCómo protegerte",
+  "quest.46F70611939EB189.quest_subtitle": "&7Los cohetes cuentan como EXPLOSIÓN: la Protección contra explosiones…",
+  "quest.46F70611939EB189.quest_desc": [
+    "&7Los cohetes cuentan como EXPLOSIÓN&r&7: la Protección contra explosiones los para mucho mejor que la Protección normal.",
+    "",
+    "&r&7Deslumbramiento: a veces el &r&e&lSol frena a vindicadores, inquisidores y marauders.",
+    "",
+    "&r&7El &r&dESCUDO&r&7 bloquea los cohetes de frente.",
+    "",
+    "&7Ve con el jugador de nivel más BAJO&r&7 cerca: los saqueadores usan el nivel del jugador más cercano."
+  ],
+  "quest.46E15D7D143DFD32.title": "&aRecompensas al ganar",
+  "quest.46E15D7D143DFD32.quest_subtitle": "&7Héroe de la aldea:",
+  "quest.46E15D7D143DFD32.quest_desc": [
+    "&eHéroe de la aldea:",
+    "&r&7Los aldeanos te hacen &r&dDESCUENTOS&r&7 y te lanzan regalos. Cuanto más fuerte el Mal presagio, mejor el descuento.",
+    "",
+    "&7Además, los illagers sueltan su botín: el Evocador un &r&dTÓTEM&r&7, el devastador una montura, el capitán una botella ominosa...",
+    "",
+    "&ede cada uno."
+  ],
+  "quest.4C250AE8D861CDB0.title": "&6Raids (asaltos a aldeas)",
+  "quest.4C250AE8D861CDB0.quest_subtitle": "&7Los saqueadores disparan COHETES que suben con tu nivel, y vienen…",
+  "quest.4C250AE8D861CDB0.quest_desc": [
+    "&r&7Los saqueadores disparan &r&dCOHETES que suben con tu nivel, y vienen illagers nuevos de Illager Invasion.",
+    "",
+    "&eprotegerte"
+  ],
+  "task.42BF9B3DB005E90C.title": "Matar a un saqueador",
+  "quest.40603EDA0B76B8FC.title": "&7Saqueador",
+  "quest.40603EDA0B76B8FC.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.40603EDA0B76B8FC.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&cflechas y COHETES (3 ❤ a 17 ❤)",
+    "&r&7Suelta: &r&aflechas, a veces su ballesta",
+    "",
+    "&7Los cohetes suben con el nivel: mira el menú de Raids."
+  ],
+  "task.4EDC9EB136AEF4BE.title": "Matar a un vindicador",
+  "quest.449A36616B5F60EE.title": "&7Vindicador",
+  "quest.449A36616B5F60EE.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.449A36616B5F60EE.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&chacha, 9,8 ❤ por golpe Suelta: &r&aesmeralda, a veces su hacha",
+    "",
+    "&7Con nivel 50: +50% vida y +24% daño.",
+    "&r&7Nivel 100: llevan &r&dTÓTEM&r&7."
+  ],
+  "task.48AC83C7E1380EAB.title": "Matar a un evocador",
+  "quest.4E089140E36D02D8.title": "&5Evocador",
+  "quest.4E089140E36D02D8.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4E089140E36D02D8.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&ccolmillos, 3 ❤, e invoca vexes Suelta: &r&aTÓTEM de inmortalidad siempre, esmeralda"
+  ],
+  "task.48DB371C93949588.title": "Matar a un vex",
+  "quest.41D88D2BD970804B.title": "&bVex",
+  "quest.41D88D2BD970804B.quest_subtitle": "&7Vida: 7 ❤",
+  "quest.41D88D2BD970804B.quest_desc": [
+    "&r&7Vida: &r&f7 ❤",
+    "&r&7Ataque: &r&c6,8 ❤ por golpe, atraviesa paredes Suelta: &r&anada"
+  ],
+  "task.43CEE54DB5D3ABE1.title": "Matar a un devastador",
+  "quest.4FB689A1C2D793D6.title": "&8Devastador",
+  "quest.4FB689A1C2D793D6.quest_subtitle": "&7Vida: 50 ❤",
+  "quest.4FB689A1C2D793D6.quest_desc": [
+    "&r&7Vida: &r&f50 ❤",
+    "&r&7Ataque: &r&c9 ❤ por golpe, rompe tu escudo Suelta: &r&amontura"
+  ],
+  "task.42B627A560B48BBC.title": "Matar a una bruja",
+  "quest.4A7F51591860062B.title": "&2Bruja",
+  "quest.4A7F51591860062B.quest_subtitle": "&7Vida: 13 ❤",
+  "quest.4A7F51591860062B.quest_desc": [
+    "&r&7Vida: &r&f13 ❤",
+    "&r&7Ataque: &r&cpociones (daño 3 ❤, veneno, lentitud)",
+    "&r&7Suelta: &r&apociones, pólvora, redstone, azúcar..."
+  ],
+  "task.4981D5BDA855E19A.title": "Matar a un ilusionista",
+  "quest.419C5F27909E5EBD.title": "&9Ilusionista",
+  "quest.419C5F27909E5EBD.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.419C5F27909E5EBD.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&cflechas, copias de sí mismo y ceguera Suelta: &r&aTÓTEM de ilusión, esmeralda, flechas",
+    "",
+    "&8Friends ＆ Foes"
+  ],
+  "task.4819542653CE7ACF.title": "Matar a un iceologer",
+  "quest.44332876F45AC625.title": "&bIceologer",
+  "quest.44332876F45AC625.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.44332876F45AC625.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&cte lanza bloques de hielo Suelta: &r&aTÓTEM de congelación, esmeralda, hielo azul",
+    "",
+    "&7No viene en las raids: vive en cabañas en la nieve.",
+    "",
+    "&8Friends ＆ Foes"
+  ],
+  "task.4792663CDD1AEB9D.title": "Matar a Inquisidor",
+  "quest.4346A79A006025A0.title": "&cInquisidor",
+  "quest.4346A79A006025A0.quest_subtitle": "&7Vida: 40 ❤",
+  "quest.4346A79A006025A0.quest_desc": [
+    "&r&7Vida: &r&f40 ❤",
+    "&r&7Ataque: &r&c7,5 ❤ por golpe, rompe tu escudo Suelta: &r&aesmeralda, hierro, cuero y PLATINO (50%)",
+    "",
+    "&74 trozos de platino = lámina de platino (adornos de armadura con efectos).",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.408AF4F7658BD6D8.title": "Matar a Basher",
+  "quest.41528023F72A5EF7.title": "&7Basher",
+  "quest.41528023F72A5EF7.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.41528023F72A5EF7.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Ataque: &r&c2,3 ❤ por golpe, te tumba el escudo Suelta: &r&aesmeralda, pepitas de hierro",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4C889CA06165EA03.title": "Matar a Marauder",
+  "quest.4E6434D6BE1421FE.title": "&7Marauder",
+  "quest.4E6434D6BE1421FE.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4E6434D6BE1421FE.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&chachas que lanza Suelta: &r&aesmeralda; el capitán, botella ominosa",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.419AB43FF9AD41CB.title": "Matar a Provoker",
+  "quest.4DE808797F699106.title": "&7Provoker",
+  "quest.4DE808797F699106.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4DE808797F699106.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&cflechas, y anima a los demás Suelta: &r&aesmeralda, flechas",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.42C5BF2235BB3C59.title": "Matar a Nigromante",
+  "quest.4130AB73031DAEC2.title": "&8Nigromante",
+  "quest.4130AB73031DAEC2.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.4130AB73031DAEC2.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Ataque: &r&clevanta zombis y esqueletos Suelta: &r&aesmeralda, calavera o cabeza de zombi",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.40368A16C0BE926B.title": "Matar a Hechicero",
+  "quest.463F2ACC683BF208.title": "&dHechicero",
+  "quest.463F2ACC683BF208.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.463F2ACC683BF208.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Ataque: &r&chechizos a distancia Suelta: &r&aesmeralda, libro y POLVO INUSUAL (40%)",
+    "",
+    "&7El polvo sirve para la Gema sagrada y el Cuerno de la visión.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.42CBB2E30111A7ED.title": "Matar a Archivista",
+  "quest.4A548E13D71447FF.title": "&bArchivista",
+  "quest.4A548E13D71447FF.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4A548E13D71447FF.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&cte hace LEVITAR (cuidado con la caída)",
+    "&r&7Suelta: &r&aesmeralda, libro, papel",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.421E2DF8DB028EC1.title": "Matar a Alquimista",
+  "quest.4FC53B2E563B9681.title": "&aAlquimista",
+  "quest.4FC53B2E563B9681.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4FC53B2E563B9681.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Ataque: &r&clanza pociones",
+    "&r&7Suelta: &r&aesmeralda, pólvora, frasco",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4A347AA1DFF55A6F.title": "Matar a Firecaller",
+  "quest.44F5206B785704FD.title": "&6Firecaller",
+  "quest.44F5206B785704FD.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.44F5206B785704FD.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Ataque: &r&cfuego mágico",
+    "&r&7Suelta: &r&aesmeralda, carga ígnea",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.488E9B53C665B5AD.title": "Matar al Invocador",
+  "quest.46625BC48516BC58.title": "&5Invocador (jefe)",
+  "quest.46625BC48516BC58.quest_subtitle": "&7Vida: 125 ❤",
+  "quest.46625BC48516BC58.quest_desc": [
+    "&r&7Vida: &r&f125 ❤",
+    "&r&7Ataque: &r&c6 ❤ por golpe, colmillos e invocaciones Suelta: &r&aesmeralda y ESENCIA PRIMIGENIA",
+    "",
+    "&7No viene en las raids. La esencia sirve para la Mesa de imbuir.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4BAA756BDEC2BABF.title": "Matar a Surrendered",
+  "quest.4E42C25AF4A08E3A.title": "&fSurrendered",
+  "quest.4E42C25AF4A08E3A.quest_subtitle": "&7Vida: 7 ❤",
+  "quest.4E42C25AF4A08E3A.quest_desc": [
+    "&r&7Vida: &r&f7 ❤",
+    "&r&7Ataque: &r&c3,8 ❤ por golpe",
+    "&r&7Suelta: &r&anada",
+    "",
+    "&7Espíritu que invoca el Invocador.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "quest.4639B7B1EE211ECD.title": "&4Illagers",
+  "quest.4639B7B1EE211ECD.quest_subtitle": "&7Daños en difícil y SIN armadura.",
+  "quest.4639B7B1EE211ECD.quest_desc": [
+    "&r&7Daños en difícil y &r&dSIN&r&7 armadura.",
+    "&7Tienes 10 ❤.",
+    "",
+    "&7Saqueadores, vindicadores, brujas y devastadores pegan más cuanto más nivel tiene el jugador más cercano."
+  ],
+  "chapter.442D47D50D40226A.title": "&cEl Nether",
+  "task.47F2AA4E79FBE90D.title": "Entrar en el Nether",
+  "quest.4AB966CAFDBC5119.title": "&cAl otro lado",
+  "quest.4AB966CAFDBC5119.quest_subtitle": "Entra en el Nether.",
+  "quest.4AB966CAFDBC5119.quest_desc": [
+    "Lleva &duna pieza de oro&7 para que los piglins no te ataquen y bloques para cubrirte."
+  ],
+  "task.4298FF1CD1FD9647.title": "Encontrar una fortaleza",
+  "quest.4E8C55C7FEFB5385.title": "&cUna fortaleza",
+  "quest.4E8C55C7FEFB5385.quest_subtitle": "Encuentra una fortaleza del Nether.",
+  "quest.4E8C55C7FEFB5385.quest_desc": [
+    "Aquí están los &dblazes&7 y los &cesqueletos wither&7. Sus cofres pueden tener el &dOjo del Nether&7."
+  ],
+  "task.4C24DF4F28670B89.title": "Conseguir una vara de blaze",
+  "quest.417379B58220C8EF.title": "&cVara de blaze",
+  "quest.417379B58220C8EF.quest_subtitle": "Consigue una vara de blaze.",
+  "quest.417379B58220C8EF.quest_desc": [
+    "Para las &dpociones&7 y para el End."
+  ],
+  "task.4D352B829E021BBC.title": "Entrar en un bastión",
+  "quest.44EC6F5D35EC04BC.title": "&6Un bastión",
+  "quest.44EC6F5D35EC04BC.quest_subtitle": "Entra en un bastión.",
+  "quest.44EC6F5D35EC04BC.quest_desc": [
+    "&cMuy peligroso&7: piglins brutos. Su cofre del tesoro puede tener el &dOjo maldito&7."
+  ],
+  "task.450E2E5912FA1008.title": "Conseguir escombros ancestrales",
+  "quest.4505F9731C4C0888.title": "&5Escombros ancestrales",
+  "quest.4505F9731C4C0888.quest_subtitle": "Encuentra escombros ancestrales.",
+  "quest.4505F9731C4C0888.quest_desc": [
+    "Muy abajo, cerca de la capa 15. Explota la zona con camas o TNT."
+  ],
+  "task.4E6DD61A20EA57CF.title": "Tener netherita",
+  "quest.4BF1A53EC8D08209.title": "&5&lNetherita",
+  "quest.4BF1A53EC8D08209.quest_subtitle": "Ten un lingote o equipo de netherita.",
+  "quest.4BF1A53EC8D08209.quest_desc": [
+    "4 chatarras y 4 lingotes de oro. Con el &e&lSol&r&7 de tu lado: &dForja Bendecida&7 y &dCalor del Sol&7."
+  ],
+  "task.4CC9C77CBDB8DABF.title": "Armadura de netherita completa",
+  "quest.4CCBDC9DD754E4E1.title": "&5&lCubierto de netherita",
+  "quest.4CCBDC9DD754E4E1.quest_subtitle": "Lleva la armadura de netherita completa.",
+  "quest.4CCBDC9DD754E4E1.quest_desc": [
+    "La base de todo lo que viene después.",
+    "",
+    "Siguiente paso: &bEquipo → Netherita avanzada&7."
+  ],
+  "task.49E731EB50694AEC.title": "Matar al Wither",
+  "quest.45DDA816909586AB.title": "&8Wither",
+  "quest.45DDA816909586AB.quest_subtitle": "&7300 de vida. Invócalo lejos de tu base. Suelta el Ojo descompuesto…",
+  "quest.45DDA816909586AB.quest_desc": [
+    "&7300 de vida. Invócalo lejos de tu base. Suelta el Ojo descompuesto que necesitas para el End."
+  ],
+  "task.44F10EFEF5B26DAB.title": "Encontrar la ciudadela",
+  "quest.42AB4A43EEAB4E0A.title": "&cCiudadela del Wildfire",
+  "quest.42AB4A43EEAB4E0A.quest_subtitle": "Encuentra la ciudadela.",
+  "quest.42AB4A43EEAB4E0A.quest_desc": [
+    "La casa del &cWildfire&7. Resistencia al fuego obligatoria."
+  ],
+  "task.4459F821F93022D8.title": "Matar al Wildfire",
+  "quest.415248638104CB8D.title": "&6Wildfire",
+  "quest.415248638104CB8D.quest_subtitle": "&7120 de vida. Vive en la Ciudadela del Nether. Resistencia al fuego…",
+  "quest.415248638104CB8D.quest_desc": [
+    "&7120 de vida. Vive en la Ciudadela del Nether. Resistencia al fuego obligatoria."
+  ],
+  "quest.49AFE87459E48250.title": "&6Cincinnasita",
+  "quest.49AFE87459E48250.quest_subtitle": "&7Mineral del Nether. Armadura con defensa 17.",
+  "quest.49AFE87459E48250.quest_desc": [
+    "&7Mineral del Nether. Armadura con defensa 17."
+  ],
+  "quest.4DC2922C1462EB5C.title": "&cRubí del Nether",
+  "quest.4DC2922C1462EB5C.quest_subtitle": "&7Gema del Nether. Armadura con defensa 18.",
+  "quest.4DC2922C1462EB5C.quest_desc": [
+    "&7Gema del Nether. Armadura con defensa 18."
+  ],
+  "quest.46B4A97E925ACEF6.title": "&6Armadura de rubí de fuego",
+  "quest.46B4A97E925ACEF6.quest_subtitle": "&7Defensa 20 · Dureza 2,6",
+  "quest.46B4A97E925ACEF6.quest_desc": [
+    "&7Defensa 20 · Dureza 2,6",
+    "&7Mejora de la de rubí con su plantilla. Encantamiento propio:",
+    "&7Fuego de rubí."
+  ],
+  "quest.424A4C0C96BEFBA5.title": "&6Espada de rubí de fuego",
+  "quest.424A4C0C96BEFBA5.quest_subtitle": "&7De las espadas con más daño del pack.",
+  "quest.424A4C0C96BEFBA5.quest_desc": [
+    "&7De las espadas con más daño del pack."
+  ],
+  "chapter.4B953832B0648166.title": "&bEl End",
+  "quest.49758A31802979AE.title": "&6Ojo viejo",
+  "quest.49758A31802979AE.quest_subtitle": "&7Dónde:",
+  "quest.49758A31802979AE.quest_desc": [
+    "&eDónde:",
+    "&7Cofres de las pirámides del desierto.",
+    "",
+    "&7Probabilidad baja (15%)."
+  ],
+  "quest.4C62142B6F34A05E.title": "&aOjo astuto",
+  "quest.4C62142B6F34A05E.quest_subtitle": "&7Dónde:",
+  "quest.4C62142B6F34A05E.quest_desc": [
+    "&eDónde:",
+    "&7Cofres de los templos de la jungla.",
+    "",
+    "&7Probabilidad 40%."
+  ],
+  "quest.4B0B617D2EA24B01.title": "&cOjo del Nether",
+  "quest.4B0B617D2EA24B01.quest_subtitle": "&7Dónde:",
+  "quest.4B0B617D2EA24B01.quest_desc": [
+    "&eDónde:",
+    "&7Cofres de las fortalezas del Nether.",
+    "",
+    "&7Probabilidad 30%."
+  ],
+  "quest.4C0F5DB17DEB9DF2.title": "&bOjo frío",
+  "quest.4C0F5DB17DEB9DF2.quest_subtitle": "&7Dónde:",
+  "quest.4C0F5DB17DEB9DF2.quest_desc": [
+    "&eDónde:",
+    "&7Cofres de los iglús.",
+    "",
+    "&7Probabilidad 70%."
+  ],
+  "quest.42789F5D99610BD7.title": "&dOjo mágico",
+  "quest.42789F5D99610BD7.quest_subtitle": "&7Dónde:",
+  "quest.42789F5D99610BD7.quest_desc": [
+    "&eDónde:",
+    "&7Cofres de las mansiones del bosque, o al matar Evocadores.",
+    "",
+    "&7Raro (10% en cofre, 5% del Evocador)."
+  ],
+  "quest.41118E5BE53DD1C0.title": "&8Ojo negro",
+  "quest.41118E5BE53DD1C0.quest_subtitle": "&7Dónde:",
+  "quest.41118E5BE53DD1C0.quest_desc": [
+    "&eDónde:",
+    "&7Tesoros enterrados (mapas del tesoro).",
+    "",
+    "&7Probabilidad 30%."
+  ],
+  "quest.4A391BC657F358AC.title": "&7Ojo perdido",
+  "quest.4A391BC657F358AC.quest_subtitle": "&7Dónde:",
+  "quest.4A391BC657F358AC.quest_desc": [
+    "&eDónde:",
+    "&7Cofres de las minas abandonadas.",
+    "",
+    "&7Probabilidad 20%."
+  ],
+  "quest.4DDA1B063506E090.title": "&5Ojo corrupto",
+  "quest.4DDA1B063506E090.quest_subtitle": "&7Dónde:",
+  "quest.4DDA1B063506E090.quest_desc": [
+    "&eDónde:",
+    "&7Cofres de los puestos de saqueadores.",
+    "",
+    "&7Probabilidad 30%."
+  ],
+  "quest.4ECB42C1FB9EA610.title": "&4Ojo maldito",
+  "quest.4ECB42C1FB9EA610.quest_subtitle": "&7Dónde:",
+  "quest.4ECB42C1FB9EA610.quest_desc": [
+    "&eDónde:",
+    "&7Cofres del tesoro de los bastiones (Nether).",
+    "",
+    "&7Probabilidad 70%."
+  ],
+  "quest.49DBD5F90254F641.title": "&bOjo guardián",
+  "quest.49DBD5F90254F641.quest_subtitle": "&7Dónde:",
+  "quest.49DBD5F90254F641.quest_desc": [
+    "&eDónde:",
+    "&7Lo suelta el Guardián anciano (monumentos oceánicos).",
+    "",
+    "&7Probabilidad 35%."
+  ],
+  "quest.4365C934CD72F751.title": "&8Ojo descompuesto",
+  "quest.4365C934CD72F751.quest_subtitle": "&7Dónde:",
+  "quest.4365C934CD72F751.quest_desc": [
+    "&eDónde:",
+    "&7Lo suelta el Wither.",
+    "",
+    "&7Casi seguro."
+  ],
+  "quest.483DDF72ACBA7B2D.title": "&2Ojo de bruja",
+  "quest.483DDF72ACBA7B2D.quest_subtitle": "&7Dónde:",
+  "quest.483DDF72ACBA7B2D.quest_desc": [
+    "&eDónde:",
+    "&7Se fabrica: Ojo de Ender + Pupila de bruja.",
+    "",
+    "&7Las brujas sueltan la pupila (10%)."
+  ],
+  "quest.49B1DE1F14E3980D.title": "&7Ojo no muerto",
+  "quest.49B1DE1F14E3980D.quest_subtitle": "&7Dónde:",
+  "quest.49B1DE1F14E3980D.quest_desc": [
+    "&eDónde:",
+    "&7Se fabrica con un Alma no muerta.",
+    "",
+    "&7El alma la sueltan los caballos esqueleto (25%)."
+  ],
+  "quest.412A22019999520E.title": "&dOjo exótico",
+  "quest.412A22019999520E.quest_subtitle": "&7Dónde:",
+  "quest.412A22019999520E.quest_desc": [
+    "&eDónde:",
+    "&7Se fabrica con corales, Ojo de Ender y tinta luminosa.",
+    "",
+    "&r&7Mira la receta con &r&dREI&r&7 (R)."
+  ],
+  "quest.4A42009F06B8FB87.title": "&cOjo malvado",
+  "quest.4A42009F06B8FB87.quest_subtitle": "&7Dónde:",
+  "quest.4A42009F06B8FB87.quest_desc": [
+    "&eDónde:",
+    "&7Lo vende un aldeano.",
+    "",
+    "&716 esmeraldas + pata de conejo."
+  ],
+  "quest.449360C24071FC03.title": "&5Ojo críptico",
+  "quest.449360C24071FC03.quest_subtitle": "&7Dónde:",
+  "quest.449360C24071FC03.quest_desc": [
+    "&eDónde:",
+    "&7Secreto...",
+    "",
+    "&7Nadie sabe dónde está."
+  ],
+  "quest.4CD861137CBE5D84.title": "&3Cómo abrir el portal del End",
+  "quest.4CD861137CBE5D84.quest_subtitle": "&7Los Ojos de Ender normales ya no sirven.",
+  "quest.4CD861137CBE5D84.quest_desc": [
+    "&7Los Ojos de Ender normales ya no sirven.",
+    "",
+    "&7Cada marco del portal necesita un ojo especial &r&dDISTINTO&r&7.",
+    "",
+    "&7Encuentra suficientes ojos y colócalos en los marcos de la fortaleza.",
+    "",
+    "&8Mod: End Remastered"
+  ],
+  "task.455C246D6F546A8D.title": "Entrar en el End",
+  "quest.45BD71C6BF878287.title": "&b&lEl End",
+  "quest.45BD71C6BF878287.quest_subtitle": "Entra en el End.",
+  "quest.45BD71C6BF878287.quest_desc": [
+    "Prepárate antes: la &cdragona remasterizada&7 es mucho más dura. Mejor en grupo."
+  ],
+  "task.42F8459F1C13590A.title": "Matar a la dragona",
+  "quest.47C0A5A79B1553E5.title": "&5&lLa dragona",
+  "quest.47C0A5A79B1553E5.quest_subtitle": "Mata a la dragona del End.",
+  "quest.47C0A5A79B1553E5.quest_desc": [
+    "Lleva arco, pociones de curación y de caída lenta."
+  ],
+  "task.4B0AD7017837470E.title": "Entrar en una ciudad del End",
+  "quest.412E8FA9D2C3DCA1.title": "&dUna ciudad del End",
+  "quest.412E8FA9D2C3DCA1.quest_subtitle": "Encuentra una ciudad del End.",
+  "quest.412E8FA9D2C3DCA1.quest_desc": [
+    "Usa las &dpuertas del End&7 para llegar a las islas exteriores. Cuidado con los &cshulkers&7."
+  ],
+  "task.44F9705194A5B072.title": "Conseguir élitros",
+  "quest.4EB141DD04450A4E.title": "&dÉlitros",
+  "quest.4EB141DD04450A4E.quest_subtitle": "Consigue unos élitros.",
+  "quest.4EB141DD04450A4E.quest_desc": [
+    "Están en los barcos del End."
+  ],
+  "task.4430931FE17DE2C4.title": "Tener aeternio",
+  "quest.4D94B8B0F8872001.title": "&2Aeternio",
+  "quest.4D94B8B0F8872001.quest_subtitle": "Ten aeternio o equipo de aeternio.",
+  "quest.4D94B8B0F8872001.quest_desc": [
+    "El metal de &dBetterEnd&7. Hace falta para el siguiente tier de netherita."
+  ],
+  "task.406A567040E9C993.title": "Matar al Gusano del vacío",
+  "quest.405156E666096B7A.title": "&5Gusano del vacío",
+  "quest.405156E666096B7A.quest_subtitle": "&7Jefe del End de Alex's Mobs. Ataca desde el vacío.",
+  "quest.405156E666096B7A.quest_desc": [
+    "&7Jefe del End de Alex's Mobs. Ataca desde el vacío."
+  ],
+  "quest.497A313AEEAB6AE5.title": "&bTalismanio",
+  "quest.497A313AEEAB6AE5.quest_subtitle": "&7Primer metal del End. Armadura flojita (defensa 12).",
+  "quest.497A313AEEAB6AE5.quest_desc": [
+    "&7Primer metal del End. Armadura flojita (defensa 12)."
+  ],
+  "quest.4C4C978D77FAC102.title": "&aTerminita",
+  "quest.4C4C978D77FAC102.quest_subtitle": "&7Hierro + polvo del End en el fundidor. Armadura de defensa 19.",
+  "quest.4C4C978D77FAC102.quest_desc": [
+    "&7Hierro + polvo del End en el fundidor. Armadura de defensa 19."
+  ],
+  "quest.41E00C94BD983455.title": "&2Aeternio",
+  "quest.41E00C94BD983455.quest_subtitle": "&7Terminita + netherita en el fundidor del End. El mejor metal del End.",
+  "quest.41E00C94BD983455.quest_desc": [
+    "&7Terminita + netherita en el fundidor del End. El mejor metal del End.",
+    "",
+    "&7Con 4 lingotes + un lingote de netherita y diamante haces el de netherita y aeternio (Advanced Netherite)."
+  ],
+  "quest.46096983E406CE87.title": "&2Armadura de aeternio",
+  "quest.46096983E406CE87.quest_subtitle": "&7Defensa 24 · Dureza 3,5",
+  "quest.46096983E406CE87.quest_desc": [
+    "&6Defensa 24 · Dureza 3,5",
+    "&7Mejor que la netherita normal.",
+    "&7Para una armadura aún mejor:",
+    "&7netherita y aeternio (Equipo → Netherita avanzada)."
+  ],
+  "quest.422BEC11EE327C07.title": "&dArmadura de cristalita",
+  "quest.422BEC11EE327C07.quest_subtitle": "&7Defensa 20 · Dureza 1,2",
+  "quest.422BEC11EE327C07.quest_desc": [
+    "&7Defensa 20 · Dureza 1,2",
+    "&7Terminita infusionada con cristales."
+  ],
+  "quest.497D926DE531C966.title": "&2Espada de aeternio",
+  "quest.497D926DE531C966.quest_subtitle": "&7Arma top del End.",
+  "quest.497D926DE531C966.quest_desc": [
+    "&7Arma top del End."
+  ],
+  "quest.432B7F6B39537768.title": "&2Martillo de aeternio",
+  "quest.432B7F6B39537768.quest_subtitle": "&7Herramienta para triturar.",
+  "quest.432B7F6B39537768.quest_desc": [
+    "&7Herramienta para triturar."
+  ],
+  "quest.4043F673B9368664.title": "&7Élitros blindados",
+  "quest.4043F673B9368664.quest_subtitle": "&7Élitros que también protegen.",
+  "quest.4043F673B9368664.quest_desc": [
+    "&7Élitros que también protegen."
+  ],
+  "quest.40B2871D7D419677.title": "&bCristal eterno",
+  "quest.40B2871D7D419677.quest_subtitle": "&7Material del portal eterno.",
+  "quest.40B2871D7D419677.quest_desc": [
+    "&7Material del portal eterno."
+  ],
+  "chapter.489C4B5B50DB34CA.title": "&5The Sift",
+  "task.41EEA3C0B2B7B7CE.title": "Tener una grieta (o siftita)",
+  "quest.4F992696B60A7931.title": "&5Grieta de The Sift",
+  "quest.4F992696B60A7931.quest_subtitle": "Consigue una grieta.",
+  "quest.4F992696B60A7931.quest_desc": [
+    "La forma de llegar a la dimensión. Se queda abierta &d5 minutos&7."
+  ],
+  "task.4DFF94BA2B0FC95C.title": "Entrar en The Sift",
+  "quest.4D711FC7B839432D.title": "&5&lThe Sift",
+  "quest.4D711FC7B839432D.quest_subtitle": "Entra en The Sift.",
+  "quest.4D711FC7B839432D.quest_desc": [
+    "Sus criaturas son de las más &cpeligrosas&7 del pack. Ve con netherita y aeternio."
+  ],
+  "task.4659E65FDB12C1E4.title": "Tener siftita",
+  "quest.4DB281B41AE80969.title": "&dSiftita",
+  "quest.4DB281B41AE80969.quest_subtitle": "Ten siftita.",
+  "quest.4DB281B41AE80969.quest_desc": [
+    "Nueve pepitas hacen un lingote."
+  ],
+  "task.4B910E9A7320A14F.title": "Tener un lingote de siftita",
+  "quest.4805740973780A15.title": "&dLingote de siftita",
+  "quest.4805740973780A15.quest_subtitle": "Ten un lingote o equipo de siftita.",
+  "quest.4805740973780A15.quest_desc": [
+    "Mejora la netherita."
+  ],
+  "quest.4CFF9EEE7ACD9073.title": "&3Grieta de The Sift",
+  "quest.4CFF9EEE7ACD9073.quest_subtitle": "&7La forma de llegar a la dimensión.",
+  "quest.4CFF9EEE7ACD9073.quest_desc": [
+    "&7La forma de llegar a la dimensión.",
+    "&7Se queda abierta 5 minutos."
+  ],
+  "quest.419C0FE25809D551.title": "&dPortales abandonados",
+  "quest.419C0FE25809D551.quest_subtitle": "&7Las únicas estructuras de The Sift.",
+  "quest.419C0FE25809D551.quest_desc": [
+    "&7Las únicas estructuras de The Sift.",
+    "&7Tienen botín valioso."
+  ],
+  "quest.419BF3EEA6CFBDF9.title": "&3Siftita",
+  "quest.419BF3EEA6CFBDF9.quest_subtitle": "&7Se hace con 9 pepitas. Mejora la netherita.",
+  "quest.419BF3EEA6CFBDF9.quest_desc": [
+    "&7Se hace con 9 pepitas. Mejora la netherita.",
+    "",
+    "&7Con 4 lingotes + un lingote de netherita y aeternio haces el de netherita y siftita (Advanced Netherite)."
+  ],
+  "quest.4289E0FAEAD91000.title": "&dPlantilla de mejora de siftita",
+  "quest.4289E0FAEAD91000.quest_subtitle": "&7Se duplica con diamantes y pizarra de The Sift.",
+  "quest.4289E0FAEAD91000.quest_desc": [
+    "&7Se duplica con diamantes y pizarra de The Sift."
+  ],
+  "quest.4D81AEFBE035D5FF.title": "&3Armadura de siftita",
+  "quest.4D81AEFBE035D5FF.quest_subtitle": "&7Defensa 22 · Dureza 3,5",
+  "quest.4D81AEFBE035D5FF.quest_desc": [
+    "&7Defensa 22 · Dureza 3,5",
+    "&7Mejor que la netherita normal.",
+    "&7Mesa de herrería: pieza de netherita + plantilla + siftita.",
+    "",
+    "&7Para la mejor armadura del modpack:",
+    "&7netherita y siftita (Equipo → Netherita avanzada)."
+  ],
+  "quest.4E5FB47D18C5E806.title": "&3Lanza de siftita",
+  "quest.4E5FB47D18C5E806.quest_subtitle": "&7Arma de la dimensión.",
+  "quest.4E5FB47D18C5E806.quest_desc": [
+    "&7Arma de la dimensión."
+  ],
+  "quest.474AF4895DCE4569.title": "&6Botella de icor",
+  "quest.474AF4895DCE4569.quest_subtitle": "&7Te da regeneración.",
+  "quest.474AF4895DCE4569.quest_desc": [
+    "&7Te da regeneración."
+  ],
+  "quest.4B8EEED4F12200B9.title": "&dCharoita",
+  "quest.4B8EEED4F12200B9.quest_subtitle": "&7Gema de The Sift.",
+  "quest.4B8EEED4F12200B9.quest_desc": [
+    "&7Gema de The Sift."
+  ],
+  "quest.48B7CA32F62186C8.title": "&4Criaturas de The Sift",
+  "quest.48B7CA32F62186C8.quest_subtitle": "&7Sifter: depredador rápido. 40 de vida, golpes de 15 en difícil (entre…",
+  "quest.48B7CA32F62186C8.quest_desc": [
+    "&fSifter: depredador rápido. 40 de vida, golpes de 15 en difícil (entre un esqueleto wither y un vindicador).",
+    "&fDark Sniffer: sniffer infectado por el sculk. 40 de vida, golpes de 10,5 (como un enderman).",
+    "&fEcho Golem: raro y solitario.",
+    "&fBlub y Singer: tranquilos.",
+    "",
+    "&r&7Con &r&dNETHERITA&r&7 y Protección IV el Sifter te quita algo más de 1 corazón por golpe."
+  ],
+  "quest.4298BEF86346F62D.title": "&5&lLa dimensión",
+  "quest.4298BEF86346F62D.quest_subtitle": "&7Qué hay en The Sift y qué sacar de allí.",
+  "quest.4298BEF86346F62D.quest_desc": [
+    "Qué hay en The Sift y qué sacar de allí."
+  ],
+  "chapter.4619C2E767BB6C2C.title": "&2&lEl Velo",
+  "task.482C06AA6C9F113A.title": "Vencer al eco",
+  "quest.40BFC8AD8DCEE173.title": "&d&lSacerdote lunar",
+  "quest.40BFC8AD8DCEE173.quest_subtitle": "&7Eco de quien guiaba a los perdidos bajo la luna. Hoy predica lo que…",
+  "quest.40BFC8AD8DCEE173.quest_desc": [
+    "&7Eco de quien guiaba a los perdidos bajo la luna. Hoy predica lo que susurran los de fuera.",
+    "",
+    "&7Botín propio: cristal lunar.",
+    "",
+    "&r&7Cristal: &r&eCristal del Sacerdote Lunático Pieza: &r&a&lCasco del Velo Roto"
+  ],
+  "task.4248663E5CCCA941.title": "Cristal del Sacerdote Lunático",
+  "quest.41C5BD1F93A47BA4.title": "&e&lCristal del Sacerdote Lunático",
+  "quest.41C5BD1F93A47BA4.quest_subtitle": "&7Poder divino que resta del eco de Sacerdote lunar.",
+  "quest.41C5BD1F93A47BA4.quest_desc": [
+    "&r&7Poder divino que resta del eco de &lSacerdote lunar&r&7.",
+    "",
+    "&r&7Fúndelo con un lingote de &r&bnetherita y siftita&r&7 en la mesa de crafteo."
+  ],
+  "task.4D9313CE48EAA9C2.title": "Lingote del Velo Roto (Lunático)",
+  "quest.4B105AC521620CA6.title": "&a&lLingote del Velo Roto (Lunático)",
+  "quest.4B105AC521620CA6.quest_subtitle": "&7Para la pieza: Casco.",
+  "quest.4B105AC521620CA6.quest_desc": [
+    "&r&7Para la pieza: &r&a&lCasco&r&7.",
+    "",
+    "&r&bMesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + este lingote."
+  ],
+  "task.409DDABFAA127C7C.title": "Vencer al eco",
+  "quest.45E463870A19D0D2.title": "&6&lDios encadenado",
+  "quest.45E463870A19D0D2.quest_subtitle": "&7Eco del dios que guardaba el velo.",
+  "quest.45E463870A19D0D2.quest_desc": [
+    "&7Eco del dios que guardaba el velo.",
+    "&7Sus cadenas ahora lo atan a la corrupción.",
+    "",
+    "&7Botín propio (entre otros): filete del Nether dorado y lingote de pirómano.",
+    "",
+    "&r&7Cristal: &r&eCristal del Dios Encadenado Pieza: &r&a&lPechera del Velo Roto"
+  ],
+  "task.422D538DE519A9E6.title": "Cristal del Dios Encadenado",
+  "quest.42534F09BAEB8529.title": "&e&lCristal del Dios Encadenado",
+  "quest.42534F09BAEB8529.quest_subtitle": "&7Poder divino que resta del eco de Dios encadenado.",
+  "quest.42534F09BAEB8529.quest_desc": [
+    "&r&7Poder divino que resta del eco de &lDios encadenado&r&7.",
+    "",
+    "&r&7Fúndelo con un lingote de &r&bnetherita y siftita&r&7 en la mesa de crafteo."
+  ],
+  "task.4E43AFFAC78B84B4.title": "Lingote del Velo Roto (Encadenado)",
+  "quest.483CDFB97F92B64A.title": "&a&lLingote del Velo Roto (Encadenado)",
+  "quest.483CDFB97F92B64A.quest_subtitle": "&7Para la pieza: Pechera.",
+  "quest.483CDFB97F92B64A.quest_desc": [
+    "&r&7Para la pieza: &r&a&lPechera&r&7.",
+    "",
+    "&r&bMesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + este lingote."
+  ],
+  "task.4A6EBD7AE4F08BE1.title": "Vencer al eco",
+  "quest.4A670853ADBE78BC.title": "&5&lLilith",
+  "quest.4A670853ADBE78BC.quest_subtitle": "&7Eco de quien velaba los sueños desde la sombra. Hoy los susurros se…",
+  "quest.4A670853ADBE78BC.quest_desc": [
+    "&7Eco de quien velaba los sueños desde la sombra. Hoy los susurros se cuelan en ellos.",
+    "",
+    "&r&7Cristal: &r&eCristal de Lilith Pieza: &r&a&lPantalones del Velo Roto"
+  ],
+  "task.47D0E2DB0F858B38.title": "Cristal de Lilith",
+  "quest.47494E685930C5DB.title": "&e&lCristal de Lilith",
+  "quest.47494E685930C5DB.quest_subtitle": "&7Poder divino que resta del eco de Lilith.",
+  "quest.47494E685930C5DB.quest_desc": [
+    "&r&7Poder divino que resta del eco de &lLilith&r&7.",
+    "",
+    "&r&7Fúndelo con un lingote de &r&bnetherita y siftita&r&7 en la mesa de crafteo."
+  ],
+  "task.49374497F3DB0DE7.title": "Lingote del Velo Roto (Sombrío)",
+  "quest.47A76A21C7113A86.title": "&a&lLingote del Velo Roto (Sombrío)",
+  "quest.47A76A21C7113A86.quest_subtitle": "&7Para la pieza: Pantalones.",
+  "quest.47A76A21C7113A86.quest_desc": [
+    "&r&7Para la pieza: &r&a&lPantalones&r&7.",
+    "",
+    "&r&bMesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + este lingote."
+  ],
+  "task.4706AE713E89F700.title": "Vencer al eco",
+  "quest.413576029EF4BD79.title": "&2&lMago del ciclo de lodo",
+  "quest.413576029EF4BD79.quest_subtitle": "&7Eco de quien custodiaba el ciclo del barro y la vida. Hoy gira para…",
+  "quest.413576029EF4BD79.quest_desc": [
+    "&7Eco de quien custodiaba el ciclo del barro y la vida. Hoy gira para los de fuera.",
+    "",
+    "&7Botín propio (entre otros): hueso de lodo y fragmento de obsidiana.",
+    "",
+    "&r&7Cristal: &r&eCristal del Mago del Ciclo de Barro Pieza: &r&a&lBotas del Velo Roto"
+  ],
+  "task.47237F362F40C55E.title": "Cristal del Mago del Ciclo de Barro",
+  "quest.4BC5D1EA27DAFFCA.title": "&e&lCristal del Mago del Ciclo de Barro",
+  "quest.4BC5D1EA27DAFFCA.quest_subtitle": "&7Poder divino que resta del eco de Mago del ciclo de lodo.",
+  "quest.4BC5D1EA27DAFFCA.quest_desc": [
+    "&r&7Poder divino que resta del eco de &lMago del ciclo de lodo&r&7.",
+    "",
+    "&r&7Fúndelo con un lingote de &r&bnetherita y siftita&r&7 en la mesa de crafteo."
+  ],
+  "task.4F84771B8D8EE002.title": "Lingote del Velo Roto (Barro)",
+  "quest.44750FDDB03C65CC.title": "&a&lLingote del Velo Roto (Barro)",
+  "quest.44750FDDB03C65CC.quest_subtitle": "&7Para la pieza: Botas.",
+  "quest.44750FDDB03C65CC.quest_desc": [
+    "&r&7Para la pieza: &r&a&lBotas&r&7.",
+    "",
+    "&r&bMesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + este lingote."
+  ],
+  "quest.409A041597EC8F4B.title": "&2&lEl Velo Roto",
+  "quest.409A041597EC8F4B.quest_subtitle": "Reúne las cuatro piezas del Velo Roto.",
+  "quest.409A041597EC8F4B.quest_desc": [
+    "Con las cuatro puestas despiertan los &dSusurros de un Poder Divino&7."
+  ],
+  "quest.4808884CA6FC720E.title": "&e&lCruzar el Velo",
+  "quest.4808884CA6FC720E.quest_subtitle": "&7Solo cuando el Velo se debilita:",
+  "quest.4808884CA6FC720E.quest_desc": [
+    "&r&7Solo cuando el &r&e&lVelo&r&7 se debilita:",
+    "&7el chat avisa con un mensaje verde y un coro de susurros.",
+    "",
+    "&r&7Sube hasta el &r&etecho del mundo&r&7 y sigue subiendo para cruzar.",
+    "",
+    "&7Llegas a las islas, no a lo alto.",
+    "&r&7Si caes al vacío, vuelves al &r&bOverworld&r&7.",
+    "",
+    "&r&7Con el &r&e&lVelo&r&7 cerrado, una fuerza invisible te frena."
+  ],
+  "quest.44411FC6C725352F.title": "&5&lSeres del otro lado",
+  "quest.44411FC6C725352F.quest_subtitle": "&7Los mobs del Overworld que nacen allí son corrompidos por un poder…",
+  "quest.44411FC6C725352F.quest_desc": [
+    "&7Los mobs del Overworld que nacen allí son &r&e&lcorrompidos&r&7 por un poder que no son capaces de tolerar y que &r&e&lsupuran&r&7.",
+    "",
+    "&r&7Lo siguen siendo aunque los &r&fdomestiques&r&7.",
+    "&7Susurran cuando estás cerca.",
+    "",
+    "&r&7Los mobs propios de &r&aAerial Hell&r&7 no cambian."
+  ],
+  "quest.4EAA13D611CE5347.title": "&2&lCorrupción Divina",
+  "quest.4EAA13D611CE5347.quest_subtitle": "&7El toque de los seres corrompidos.",
+  "quest.4EAA13D611CE5347.quest_desc": [
+    "&7El toque de los seres corrompidos.",
+    "",
+    "&r&7Duración: &r&f7 s",
+    "&r&7Daño: &r&f1 por segundo&r&7 (+0,5 por nivel, hasta el nivel &r&f3&r&7)",
+    "&r&7Atraviesa la armadura; solo &r&bProtección la reduce.",
+    "&r&7Nunca mata: se detiene con &r&c1 corazón&r&7.",
+    "",
+    "&r&a&lInmunidad: &r&72 piezas del Velo Roto."
+  ],
+  "quest.4BD2F98DE32C556F.title": "&e&lForjar el Velo Roto",
+  "quest.4BD2F98DE32C556F.quest_subtitle": "&71. Derrota a un eco divino: deja su cristal.",
+  "quest.4BD2F98DE32C556F.quest_desc": [
+    "&r&71. Derrota a un &r&deco divino&r&7: deja su &r&ecristal&r&7.",
+    "&r&72. &r&eCristal&r&7 + lingote de netherita y siftita = &r&alingote del Velo Roto&r&7.",
+    "&r&73. &r&bMesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + lingote del Velo Roto."
+  ],
+  "quest.41F63852B02F57EE.title": "&e&lAerial Hell",
+  "quest.41F63852B02F57EE.quest_subtitle": "&7Más allá del velo, el cielo ya no pertenece a quienes lo cuidaban.",
+  "quest.41F63852B02F57EE.quest_desc": [
+    "&7Más allá del velo, el cielo ya no pertenece a quienes lo cuidaban.",
+    "",
+    "&r&7Los &r&5&ldemonios del exterior&r&7 hallaron este rincón del mundo, corrompieron a los seres del cielo y dominan a los inferiores con susurros.",
+    "",
+    "&r&7Se ocultaban tras un &r&e&lVelo&r&7.",
+    "&r&7Hoy, a veces, el &r&e&lVelo&r&7 se debilita."
+  ],
+  "quest.4160F2D432C5E4CA.title": "&2&lEl bioma del otro lado",
+  "quest.4160F2D432C5E4CA.quest_subtitle": "&7Cómo es la dimensión de Aerial Hell.",
+  "quest.4160F2D432C5E4CA.quest_desc": [
+    "Cómo es la dimensión de Aerial Hell."
+  ],
+  "chapter.4658AA70AFF93CE0.title": "&fArmaduras",
+  "quest.43A1C010FA28AEAF.title": "&61. Cuero",
+  "quest.43A1C010FA28AEAF.quest_subtitle": "&7Defensa total: 7",
+  "quest.43A1C010FA28AEAF.quest_desc": [
+    "&fDefensa total: 7",
+    "&fDureza: 0",
+    "",
+    "&7Vanilla. Solo para empezar."
+  ],
+  "quest.448D65BEE3808546.title": "&62. Cobre",
+  "quest.448D65BEE3808546.quest_subtitle": "&7Defensa total: 10",
+  "quest.448D65BEE3808546.quest_desc": [
+    "&fDefensa total: 10",
+    "&fDureza: 0",
+    "",
+    "&7Vanilla. Barata, mejor que el cuero."
+  ],
+  "quest.416F20E65476D05D.title": "&e3. Oro",
+  "quest.416F20E65476D05D.quest_subtitle": "&7Defensa total: 11",
+  "quest.416F20E65476D05D.quest_desc": [
+    "&fDefensa total: 11",
+    "&fDureza: 0",
+    "",
+    "&7Vanilla. Los piglins no te atacan si llevas una pieza."
+  ],
+  "quest.485442D5072EF34E.title": "&74. Malla",
+  "quest.485442D5072EF34E.quest_subtitle": "&7Defensa total: 12",
+  "quest.485442D5072EF34E.quest_desc": [
+    "&fDefensa total: 12",
+    "&fDureza: 0",
+    "",
+    "&7Vanilla. Solo en cofres o comerciando."
+  ],
+  "quest.49B62F5D17005CC8.title": "&b4. Talismanio (End)",
+  "quest.49B62F5D17005CC8.quest_subtitle": "&7Defensa total: 12",
+  "quest.49B62F5D17005CC8.quest_desc": [
+    "&fDefensa total: 12",
+    "&fDureza: 0",
+    "",
+    "&7BetterEnd. Floja: no merece la pena."
+  ],
+  "quest.4FC866220700337A.title": "&f5. Hierro",
+  "quest.4FC866220700337A.quest_subtitle": "&7Defensa total: 15",
+  "quest.4FC866220700337A.quest_desc": [
+    "&fDefensa total: 15",
+    "&fDureza: 0",
+    "",
+    "&7Vanilla. La base para explorar."
+  ],
+  "quest.4696E4F26CEFB1CD.title": "&66. Cincinnasita (Nether)",
+  "quest.4696E4F26CEFB1CD.quest_subtitle": "&7Defensa total: 17",
+  "quest.4696E4F26CEFB1CD.quest_desc": [
+    "&fDefensa total: 17",
+    "&fDureza: 1",
+    "&fResistencia al empuje: 0.05",
+    "",
+    "&7BetterNether. Mejor que el hierro."
+  ],
+  "quest.41DFE33EB145D60B.title": "&c7. Rubí del Nether",
+  "quest.41DFE33EB145D60B.quest_subtitle": "&7Defensa total: 18",
+  "quest.41DFE33EB145D60B.quest_desc": [
+    "&fDefensa total: 18",
+    "&fDureza: 1.4",
+    "&fResistencia al empuje: 0.2",
+    "",
+    "&7BetterNether."
+  ],
+  "quest.4508BE567CA728AE.title": "&a8. Terminita (End)",
+  "quest.4508BE567CA728AE.quest_subtitle": "&7Defensa total: 19",
+  "quest.4508BE567CA728AE.quest_desc": [
+    "&fDefensa total: 19",
+    "&fDureza: 1",
+    "&fResistencia al empuje: 0.05",
+    "",
+    "&7BetterEnd. Base para el aeternio."
+  ],
+  "quest.42ACD3F175FCABC8.title": "&b9. Diamante",
+  "quest.42ACD3F175FCABC8.quest_subtitle": "&7Defensa total: 20",
+  "quest.42ACD3F175FCABC8.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDureza: 2",
+    "",
+    "&7Vanilla. Lo mínimo para mazmorras difíciles."
+  ],
+  "quest.4C4FCB47BE46BC5C.title": "&d9. Cristalita (End)",
+  "quest.4C4FCB47BE46BC5C.quest_subtitle": "&7Defensa total: 20",
+  "quest.4C4FCB47BE46BC5C.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDureza: 1.2",
+    "&fResistencia al empuje: 0.1",
+    "",
+    "&7BetterEnd."
+  ],
+  "quest.44F054AC866335CE.title": "&610. Rubí de fuego (Nether)",
+  "quest.44F054AC866335CE.quest_subtitle": "&7Defensa total: 20",
+  "quest.44F054AC866335CE.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDureza: 2.6",
+    "&fResistencia al empuje: 0.3",
+    "",
+    "&7BetterNether. Casi netherita."
+  ],
+  "quest.49F9354ADE0290C7.title": "&811. Netherita",
+  "quest.49F9354ADE0290C7.quest_subtitle": "&7Defensa total: 20",
+  "quest.49F9354ADE0290C7.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDureza: 3",
+    "&fResistencia al empuje: 0.1",
+    "",
+    "&7Vanilla. La base de todo lo que viene."
+  ],
+  "quest.48116E451ABE30B9.title": "&a12. Siftita (The Sift)",
+  "quest.48116E451ABE30B9.quest_subtitle": "&7Defensa total: 22",
+  "quest.48116E451ABE30B9.quest_desc": [
+    "&fDefensa total: 22",
+    "&fDureza: 3.5",
+    "&fResistencia al empuje: 0.15",
+    "",
+    "&7The Sift. Un poco mejor que la netherita."
+  ],
+  "quest.4C9967AB52045B7C.title": "&712. Netherita y hierro",
+  "quest.4C9967AB52045B7C.quest_subtitle": "&7Defensa total: 22",
+  "quest.4C9967AB52045B7C.quest_desc": [
+    "&fDefensa total: 22",
+    "&fDureza: 3.5",
+    "&fResistencia al empuje: 0.1",
+    "",
+    "&7Advanced Netherite. Primera mejora real."
+  ],
+  "quest.42446F28F7077964.title": "&213. Aeternio (End)",
+  "quest.42446F28F7077964.quest_subtitle": "&7Defensa total: 24",
+  "quest.42446F28F7077964.quest_desc": [
+    "&fDefensa total: 24",
+    "&fDureza: 3.5",
+    "&fResistencia al empuje: 0.2",
+    "",
+    "&7BetterEnd. Mejor que la netherita normal."
+  ],
+  "quest.4F6DACC21AE307BF.title": "&613. Netherita y oro",
+  "quest.4F6DACC21AE307BF.quest_subtitle": "&7Defensa total: 24",
+  "quest.4F6DACC21AE307BF.quest_desc": [
+    "&fDefensa total: 24",
+    "&fDureza: 3.5",
+    "&fResistencia al empuje: 0.1",
+    "",
+    "&7Advanced Netherite. La que mejor se encanta."
+  ],
+  "quest.4E0CA9916875D763.title": "&a13. Netherita y esmeralda",
+  "quest.4E0CA9916875D763.quest_subtitle": "&7Defensa total: 24",
+  "quest.4E0CA9916875D763.quest_desc": [
+    "&fDefensa total: 24",
+    "&fDureza: 3.5",
+    "&fResistencia al empuje: 0.1",
+    "",
+    "&7Advanced Netherite."
+  ],
+  "quest.4AC2B7E19DD7B7F0.title": "&b14. Netherita y diamante",
+  "quest.4AC2B7E19DD7B7F0.quest_subtitle": "&7Defensa total: 26",
+  "quest.4AC2B7E19DD7B7F0.quest_desc": [
+    "&fDefensa total: 26",
+    "&fDureza: 4",
+    "&fResistencia al empuje: 0.1",
+    "",
+    "&7Advanced Netherite. La mejor de su línea."
+  ],
+  "quest.48B561B451F7F04B.title": "&215. Netherita y aeternio (End)",
+  "quest.48B561B451F7F04B.quest_subtitle": "&7Defensa total: 28",
+  "quest.48B561B451F7F04B.quest_desc": [
+    "&fDefensa total: 28",
+    "&fDureza: 4.5",
+    "&fResistencia al empuje: 0.15",
+    "",
+    "&7Advanced Netherite + aeternio. Mejor que netherita y diamante y &r&dNO&r&7 te levitan los shulker."
+  ],
+  "quest.496B2AA10B280586.title": "&a16. Netherita y siftita (The Sift)",
+  "quest.496B2AA10B280586.quest_subtitle": "&7Defensa total: 30",
+  "quest.496B2AA10B280586.quest_desc": [
+    "&fDefensa total: 30",
+    "&fDureza: 5",
+    "&fResistencia al empuje: 0.2",
+    "",
+    "&r&7Advanced Netherite + siftita. &r&dLA MEJOR&r&7 del modpack. También resiste la oscuridad."
+  ],
+  "quest.4372F5A0D6500E03.title": "&dArmaduras: de peor a mejor",
+  "quest.4372F5A0D6500E03.quest_subtitle": "&7Todas las armaduras de todos los mods ordenadas por defensa.",
+  "quest.4372F5A0D6500E03.quest_desc": [
+    "&7Todas las armaduras de todos los mods ordenadas por defensa.",
+    "",
+    "&7De menos a más: Advanced Netherite, Netherita y aeternio (End) y Netherita y siftita (The Sift), la mejor del modpack."
+  ],
+  "quest.485979860545D2C2.title": "&eCómo leer estos números",
+  "quest.485979860545D2C2.quest_subtitle": "&7Defensa: cuánto daño quitas (máximo 30).",
+  "quest.485979860545D2C2.quest_desc": [
+    "&7Defensa: cuánto daño quitas (máximo 30).",
+    "&7Dureza: protege más contra golpes fuertes.",
+    "&7Empuje: cuánto menos te lanzan.",
+    "",
+    "&7Los valores son del set completo. En REI&r&7 (inventario) ves los de cada pieza."
+  ],
+  "chapter.4272A6076F1D6175.title": "&7› &2Armaduras del Velo",
+  "quest.4D99CEF3AEB4F9BC.title": "&e&l17. Netherita del Velo Roto (Aerial Hell)",
+  "quest.4D99CEF3AEB4F9BC.quest_subtitle": "&7Defensa total: 34",
+  "quest.4D99CEF3AEB4F9BC.quest_desc": [
+    "&r&fDefensa total: &r&734",
+    "&r&fDureza: &r&76",
+    "&r&fResistencia al empuje: &r&70.25",
+    "",
+    "&r&7Forjada con los &r&ecristales de los dioses caídos&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina &l4 piezas&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "",
+    "&r&7LA &r&dMEJOR&r&7 del modpack."
+  ],
+  "quest.4EE3E1A53C37569A.title": "&e&lCasco de netherita del Velo Roto",
+  "quest.4EE3E1A53C37569A.quest_subtitle": "&7Defensa 7 · Dureza 6 · Empuje 0.25",
+  "quest.4EE3E1A53C37569A.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&dcristal de Sacerdote lunar Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aLunático&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.4C6467831C5F1552.title": "&e&lPechera de netherita del Velo Roto",
+  "quest.4C6467831C5F1552.quest_subtitle": "&7Defensa 11 · Dureza 6 · Empuje 0.25",
+  "quest.4C6467831C5F1552.quest_desc": [
+    "&r&fDefensa 11&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&6cristal de Dios encadenado Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aEncadenado&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.4CE96C4B1EF0D422.title": "&e&lPantalones de netherita del Velo Roto",
+  "quest.4CE96C4B1EF0D422.quest_subtitle": "&7Defensa 9 · Dureza 6 · Empuje 0.25",
+  "quest.4CE96C4B1EF0D422.quest_desc": [
+    "&r&fDefensa 9&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&5cristal de Lilith Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aSombrío&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.42F9B74CFCDF3FF3.title": "&e&lBotas de netherita del Velo Roto",
+  "quest.42F9B74CFCDF3FF3.quest_subtitle": "&7Defensa 7 · Dureza 6 · Empuje 0.25",
+  "quest.42F9B74CFCDF3FF3.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&2cristal de Mago del ciclo de lodo Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aBarro&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.4B99EA5D24A4C043.title": "&2&lArmaduras del Velo",
+  "quest.4B99EA5D24A4C043.quest_subtitle": "&7El equipo que solo existe más allá del Velo.",
+  "quest.4B99EA5D24A4C043.quest_desc": [
+    "El equipo que solo existe más allá del Velo."
+  ],
+  "chapter.427D5A9D97452282.title": "&fArmas y herramientas",
+  "quest.4F6F968576717381.title": "&fHierro",
+  "quest.4F6F968576717381.quest_subtitle": "&7La espada básica.",
+  "quest.4F6F968576717381.quest_desc": [
+    "&7La espada básica."
+  ],
+  "quest.4AA017664C4E93F9.title": "&bDiamante",
+  "quest.4AA017664C4E93F9.quest_subtitle": "&7Bastante mejor que el hierro.",
+  "quest.4AA017664C4E93F9.quest_desc": [
+    "&7Bastante mejor que el hierro."
+  ],
+  "quest.450F0D9668090D1C.title": "&cRubí del Nether",
+  "quest.450F0D9668090D1C.quest_subtitle": "&7BetterNether.",
+  "quest.450F0D9668090D1C.quest_desc": [
+    "&7BetterNether."
+  ],
+  "quest.420DC32F91CAC4B7.title": "&aTerminita",
+  "quest.420DC32F91CAC4B7.quest_subtitle": "&7BetterEnd.",
+  "quest.420DC32F91CAC4B7.quest_desc": [
+    "&7BetterEnd."
+  ],
+  "quest.418B5790E0EDC135.title": "&8Netherita",
+  "quest.418B5790E0EDC135.quest_subtitle": "&7Vanilla.",
+  "quest.418B5790E0EDC135.quest_desc": [
+    "&7Vanilla."
+  ],
+  "quest.436A042F5EC000B6.title": "&2Aeternio",
+  "quest.436A042F5EC000B6.quest_subtitle": "&7BetterEnd. Un poco más de daño que la netherita.",
+  "quest.436A042F5EC000B6.quest_desc": [
+    "&7BetterEnd. Un poco más de daño que la netherita."
+  ],
+  "quest.4DBDDC5CCADDF1BB.title": "&aSiftita",
+  "quest.4DBDDC5CCADDF1BB.quest_subtitle": "&7The Sift. Algo más de daño que la de aeternio.",
+  "quest.4DBDDC5CCADDF1BB.quest_desc": [
+    "&7The Sift. Algo más de daño que la de aeternio."
+  ],
+  "quest.47215ABA8D3F1B2C.title": "&6Rubí de fuego",
+  "quest.47215ABA8D3F1B2C.quest_subtitle": "&7BetterNether. De las que más pegan.",
+  "quest.47215ABA8D3F1B2C.quest_desc": [
+    "&7BetterNether. De las que más pegan."
+  ],
+  "quest.429EB782557E6E3A.title": "&bNetherita y diamante",
+  "quest.429EB782557E6E3A.quest_subtitle": "&7Advanced Netherite.",
+  "quest.429EB782557E6E3A.quest_desc": [
+    "&7Advanced Netherite."
+  ],
+  "quest.4DE4FBBCBBD294D2.title": "&2Netherita y aeternio",
+  "quest.4DE4FBBCBBD294D2.quest_subtitle": "&7Advanced Netherite + aeternio. Más daño que netherita y diamante.",
+  "quest.4DE4FBBCBBD294D2.quest_desc": [
+    "&7Advanced Netherite + aeternio. Más daño que netherita y diamante."
+  ],
+  "quest.42F03219A8C9B656.title": "&aNetherita y siftita",
+  "quest.42F03219A8C9B656.quest_subtitle": "&7Advanced Netherite + siftita. La que más pega.",
+  "quest.42F03219A8C9B656.quest_desc": [
+    "&7Advanced Netherite + siftita. La que más pega."
+  ],
+  "quest.47B160918DBA5E02.title": "&bArmas",
+  "quest.47B160918DBA5E02.quest_subtitle": "&7Las espadas de cada material. El daño exacto lo ves buscando el arma…",
+  "quest.47B160918DBA5E02.quest_desc": [
+    "&7Las espadas de cada material. El daño exacto lo ves buscando el arma en &r&dREI&r&7 (inventario)."
+  ],
+  "chapter.4E048EF21416D554.title": "&bNetherita avanzada",
+  "task.4BB8924C8EA9E0BE.title": "Tener un lingote o equipo de este tier",
+  "quest.4433F2BE3D50AC29.title": "&7Lingote de netherita y hierro",
+  "quest.4433F2BE3D50AC29.quest_subtitle": "&7Tier 1 de 6 · Hierro",
+  "quest.4433F2BE3D50AC29.quest_desc": [
+    "&7Lingote de netherita + 4 lingotes de hierro en la mesa de crafteo.",
+    "",
+    "&7Mesa de herrería: pieza de netherita + plantilla de mejora de netherita + este lingote.",
+    "",
+    "&7Cada pieza hay que subirla nivel a nivel: hierro → oro → esmeralda → diamante."
+  ],
+  "task.4253D52B70D1FD99.title": "Mejorar la armadura a este tier (o mejor)",
+  "quest.48E98C1904256E92.title": "&7Armadura de netherita y hierro",
+  "quest.48E98C1904256E92.quest_subtitle": "&7Defensa 22 · Dureza 3.5 (set completo)",
+  "quest.48E98C1904256E92.quest_desc": [
+    "&fDefensa 22 · Dureza 3.5 (set completo)",
+    "",
+    "&r&7Los &r&dPHANTOMS&r&7 no te atacan."
+  ],
+  "task.4FD90B9D350C1EA1.title": "Mejorar la espada a este tier (o mejor)",
+  "quest.4097938B0F6614B1.title": "&7Espada de netherita y hierro",
+  "quest.4097938B0F6614B1.quest_subtitle": "&7Más daño que la de netherita.",
+  "quest.4097938B0F6614B1.quest_desc": [
+    "&7Más daño que la de netherita.",
+    "",
+    "&7Los phantoms sueltan membranas EXTRA&r&7.",
+    "",
+    "&7También hay lanza de este material."
+  ],
+  "task.483972CA5674D21A.title": "Mejorar el pico a este tier (o mejor)",
+  "quest.468DB25A2D3D8055.title": "&7Pico de netherita y hierro",
+  "quest.468DB25A2D3D8055.quest_subtitle": "&7Pica más rápido que el de netherita.",
+  "quest.468DB25A2D3D8055.quest_desc": [
+    "&7Pica más rápido que el de netherita.",
+    "",
+    "&r&7A veces da hierro &r&dEXTRA&r&7 al picar hierro."
+  ],
+  "task.479D68780BF0CF27.title": "Mejorar el hacha a este tier (o mejor)",
+  "quest.4A32AB9CCFF328EF.title": "&7Hacha de netherita y hierro",
+  "quest.4A32AB9CCFF328EF.quest_subtitle": "&7Corta más rápido y pega fuerte.",
+  "quest.4A32AB9CCFF328EF.quest_desc": [
+    "&7Corta más rápido y pega fuerte."
+  ],
+  "task.4CBB3343F0A2345F.title": "Mejorar la pala a este tier (o mejor)",
+  "quest.4F9A0AAE52567C18.title": "&7Pala de netherita y hierro",
+  "quest.4F9A0AAE52567C18.quest_subtitle": "&7Cava más rápido.",
+  "quest.4F9A0AAE52567C18.quest_desc": [
+    "&7Cava más rápido."
+  ],
+  "task.418E1FA74BFCAB11.title": "Mejorar la azada a este tier (o mejor)",
+  "quest.45735D69FA7B5375.title": "&7Azada de netherita y hierro",
+  "quest.45735D69FA7B5375.quest_subtitle": "&7Al cosechar cultivos maduros, a veces da cosecha EXTRA.",
+  "quest.45735D69FA7B5375.quest_desc": [
+    "&7Al cosechar cultivos maduros, a veces da cosecha &r&dEXTRA&r&7."
+  ],
+  "task.4986E0039FE56DC7.title": "Tener un lingote o equipo de este tier",
+  "quest.4BF2E19760115D35.title": "&6Lingote de netherita y oro",
+  "quest.4BF2E19760115D35.quest_subtitle": "&7Tier 2 de 6 · Oro",
+  "quest.4BF2E19760115D35.quest_desc": [
+    "&7Lingote de netherita y hierro + 4 lingotes de oro en la mesa de crafteo.",
+    "",
+    "&7Mesa de herrería: pieza de netherita y hierro + plantilla de mejora de netherita + este lingote.",
+    "",
+    "&7Cada pieza hay que subirla nivel a nivel: hierro → oro → esmeralda → diamante."
+  ],
+  "task.4D10E3000F65474D.title": "Mejorar la armadura a este tier (o mejor)",
+  "quest.4D391B5EF25D36D2.title": "&6Armadura de netherita y oro",
+  "quest.4D391B5EF25D36D2.quest_subtitle": "&7Defensa 24 · Dureza 3.5 (set completo)",
+  "quest.4D391B5EF25D36D2.quest_desc": [
+    "&fDefensa 24 · Dureza 3.5 (set completo)",
+    "",
+    "&r&7Los &r&dPIGLINS&r&7 no te atacan.",
+    "&7Encantabilidad alta: salen mejores encantamientos."
+  ],
+  "task.44C13D0340937F47.title": "Mejorar la espada a este tier (o mejor)",
+  "quest.4254DDDC72F48DCF.title": "&6Espada de netherita y oro",
+  "quest.4254DDDC72F48DCF.quest_subtitle": "&7Más daño que la de netherita.",
+  "quest.4254DDDC72F48DCF.quest_desc": [
+    "&7Más daño que la de netherita.",
+    "",
+    "&7Piglins y piglins zombi sueltan oro EXTRA&r&7.",
+    "",
+    "&7También hay lanza de este material."
+  ],
+  "task.49BCA49071072E03.title": "Mejorar el pico a este tier (o mejor)",
+  "quest.4D38628AA9F7D5CF.title": "&6Pico de netherita y oro",
+  "quest.4D38628AA9F7D5CF.quest_subtitle": "&7Pica más rápido que el de netherita.",
+  "quest.4D38628AA9F7D5CF.quest_desc": [
+    "&7Pica más rápido que el de netherita.",
+    "",
+    "&r&7A veces da oro &r&dEXTRA&r&7 al picar oro."
+  ],
+  "task.4630068829A3BC48.title": "Mejorar el hacha a este tier (o mejor)",
+  "quest.4004576E2759B285.title": "&6Hacha de netherita y oro",
+  "quest.4004576E2759B285.quest_subtitle": "&7Corta más rápido y pega fuerte.",
+  "quest.4004576E2759B285.quest_desc": [
+    "&7Corta más rápido y pega fuerte."
+  ],
+  "task.4228DE728502C741.title": "Mejorar la pala a este tier (o mejor)",
+  "quest.481EDBDE60BABF9B.title": "&6Pala de netherita y oro",
+  "quest.481EDBDE60BABF9B.quest_subtitle": "&7Cava más rápido.",
+  "quest.481EDBDE60BABF9B.quest_desc": [
+    "&7Cava más rápido."
+  ],
+  "task.4B8F766017F396F6.title": "Mejorar la azada a este tier (o mejor)",
+  "quest.441C87E617C2DBD8.title": "&6Azada de netherita y oro",
+  "quest.441C87E617C2DBD8.quest_subtitle": "&7Al cosechar cultivos maduros, a veces da cosecha EXTRA.",
+  "quest.441C87E617C2DBD8.quest_desc": [
+    "&7Al cosechar cultivos maduros, a veces da cosecha &r&dEXTRA&r&7."
+  ],
+  "task.4CCAE9A11644BCF1.title": "Tener un lingote o equipo de este tier",
+  "quest.457AA80A2D4F4023.title": "&aLingote de netherita y esmeralda",
+  "quest.457AA80A2D4F4023.quest_subtitle": "&7Tier 3 de 6 · Esmeralda",
+  "quest.457AA80A2D4F4023.quest_desc": [
+    "&7Lingote de netherita y oro + 4 esmeraldas en la mesa de crafteo.",
+    "",
+    "&7Mesa de herrería: pieza de netherita y oro + plantilla de mejora de netherita + este lingote.",
+    "",
+    "&7Cada pieza hay que subirla nivel a nivel: hierro → oro → esmeralda → diamante."
+  ],
+  "task.41284E181180005A.title": "Mejorar la armadura a este tier (o mejor)",
+  "quest.46C9BC5EC6255D17.title": "&aArmadura de netherita y esmeralda",
+  "quest.46C9BC5EC6255D17.quest_subtitle": "&7Defensa 24 · Dureza 3.5 (set completo)",
+  "quest.46C9BC5EC6255D17.quest_desc": [
+    "&fDefensa 24 · Dureza 3.5 (set completo)",
+    "",
+    "&r&7Los &r&dENDERMAN&r&7 no se enfadan si los miras."
+  ],
+  "task.468CD3A951878F5B.title": "Mejorar la espada a este tier (o mejor)",
+  "quest.44918EDB328A17B5.title": "&aEspada de netherita y esmeralda",
+  "quest.44918EDB328A17B5.quest_subtitle": "&7Más daño que la de netherita.",
+  "quest.44918EDB328A17B5.quest_desc": [
+    "&7Más daño que la de netherita.",
+    "",
+    "&r&7Los enderman sueltan perlas &r&dEXTRA&r&7.",
+    "",
+    "&7También hay lanza de este material."
+  ],
+  "task.4DB03FFF87F228A8.title": "Mejorar el pico a este tier (o mejor)",
+  "quest.423F85066035FB61.title": "&aPico de netherita y esmeralda",
+  "quest.423F85066035FB61.quest_subtitle": "&7Pica más rápido que el de netherita.",
+  "quest.423F85066035FB61.quest_desc": [
+    "&7Pica más rápido que el de netherita.",
+    "",
+    "&r&7A veces da esmeralda &r&dEXTRA&r&7 al picar esmeraldas."
+  ],
+  "task.4BE6A7E618BD7A21.title": "Mejorar el hacha a este tier (o mejor)",
+  "quest.4703BD1251DD64F3.title": "&aHacha de netherita y esmeralda",
+  "quest.4703BD1251DD64F3.quest_subtitle": "&7Corta más rápido y pega fuerte.",
+  "quest.4703BD1251DD64F3.quest_desc": [
+    "&7Corta más rápido y pega fuerte."
+  ],
+  "task.43263F562E5AD142.title": "Mejorar la pala a este tier (o mejor)",
+  "quest.4E10979451E5253A.title": "&aPala de netherita y esmeralda",
+  "quest.4E10979451E5253A.quest_subtitle": "&7Cava más rápido.",
+  "quest.4E10979451E5253A.quest_desc": [
+    "&7Cava más rápido."
+  ],
+  "task.49A29B16AB7D30AC.title": "Mejorar la azada a este tier (o mejor)",
+  "quest.4BE3BE4F2B21A506.title": "&aAzada de netherita y esmeralda",
+  "quest.4BE3BE4F2B21A506.quest_subtitle": "&7Al cosechar cultivos maduros, a veces da cosecha EXTRA.",
+  "quest.4BE3BE4F2B21A506.quest_desc": [
+    "&7Al cosechar cultivos maduros, a veces da cosecha &r&dEXTRA&r&7."
+  ],
+  "task.409B006981213BB5.title": "Tener un lingote o equipo de este tier",
+  "quest.49BB7D60A127532D.title": "&bLingote de netherita y diamante",
+  "quest.49BB7D60A127532D.quest_subtitle": "&7Tier 4 de 6 · Diamante",
+  "quest.49BB7D60A127532D.quest_desc": [
+    "&7Lingote de netherita y esmeralda + 4 diamantes en la mesa de crafteo.",
+    "",
+    "&7Mesa de herrería: pieza de netherita y esmeralda + plantilla de mejora de netherita + este lingote.",
+    "",
+    "&7Cada pieza hay que subirla nivel a nivel: hierro → oro → esmeralda → diamante."
+  ],
+  "task.4D7F981DDB877E14.title": "Mejorar la armadura a este tier (o mejor)",
+  "quest.4B812FA2C34BC439.title": "&bArmadura de netherita y diamante",
+  "quest.4B812FA2C34BC439.quest_subtitle": "&7Defensa 26 · Dureza 4 (set completo)",
+  "quest.4B812FA2C34BC439.quest_desc": [
+    "&fDefensa 26 · Dureza 4 (set completo)",
+    "",
+    "&7Phantoms, piglins y enderman:",
+    "&r&dNINGUNO&r&7 te molesta.",
+    "&7La mejor armadura de Advanced Netherite."
+  ],
+  "task.4F5295F88F8919FC.title": "Mejorar la espada a este tier (o mejor)",
+  "quest.46FF2CECCEA61248.title": "&bEspada de netherita y diamante",
+  "quest.46FF2CECCEA61248.quest_subtitle": "&7Más daño que la de netherita.",
+  "quest.46FF2CECCEA61248.quest_desc": [
+    "&7Más daño que la de netherita.",
+    "",
+    "&r&7Botín &r&dEXTRA&r&7 de phantoms, piglins y enderman.",
+    "",
+    "&7También hay lanza de este material."
+  ],
+  "task.4D8BF0C9AD43C954.title": "Mejorar el pico a este tier (o mejor)",
+  "quest.4ABA12AFBC1828E8.title": "&bPico de netherita y diamante",
+  "quest.4ABA12AFBC1828E8.quest_subtitle": "&7Pica más rápido que el de netherita.",
+  "quest.4ABA12AFBC1828E8.quest_desc": [
+    "&7Pica más rápido que el de netherita.",
+    "",
+    "&r&7A veces da diamante &r&dEXTRA&r&7 al picar diamantes."
+  ],
+  "task.4F4B0B6F0B45CB46.title": "Mejorar el hacha a este tier (o mejor)",
+  "quest.42FE9DA2C43AB326.title": "&bHacha de netherita y diamante",
+  "quest.42FE9DA2C43AB326.quest_subtitle": "&7Corta más rápido y pega fuerte.",
+  "quest.42FE9DA2C43AB326.quest_desc": [
+    "&7Corta más rápido y pega fuerte."
+  ],
+  "task.49CDA2AC10E6E942.title": "Mejorar la pala a este tier (o mejor)",
+  "quest.460C0C7E41932BE3.title": "&bPala de netherita y diamante",
+  "quest.460C0C7E41932BE3.quest_subtitle": "&7Cava más rápido.",
+  "quest.460C0C7E41932BE3.quest_desc": [
+    "&7Cava más rápido."
+  ],
+  "task.45C80939BDEE746C.title": "Mejorar la azada a este tier (o mejor)",
+  "quest.487D17AFE894CCE2.title": "&bAzada de netherita y diamante",
+  "quest.487D17AFE894CCE2.quest_subtitle": "&7Al cosechar cultivos maduros, a veces da cosecha EXTRA.",
+  "quest.487D17AFE894CCE2.quest_desc": [
+    "&7Al cosechar cultivos maduros, a veces da cosecha &r&dEXTRA&r&7."
+  ],
+  "task.4F38D452A8B4FA71.title": "Tener un lingote o equipo de este tier",
+  "quest.47DC245602665367.title": "&2Lingote de netherita y aeternio",
+  "quest.47DC245602665367.quest_subtitle": "&7Tier 5 de 6 · Aeternio (End)",
+  "quest.47DC245602665367.quest_desc": [
+    "&7Lingote de netherita y diamante + 4 lingotes de aeternio (BetterEnd) en la mesa de crafteo.",
+    "",
+    "&7Mesa de herrería: pieza de netherita y diamante + plantilla de mejora de netherita + este lingote.",
+    "",
+    "&7Mejora cada pieza de netherita y diamante (nivel 5) con la plantilla de netherita + este lingote."
+  ],
+  "task.450BAF5816A48243.title": "Mejorar la armadura a este tier (o mejor)",
+  "quest.46A97AE9D3EEC709.title": "&2Armadura de netherita y aeternio",
+  "quest.46A97AE9D3EEC709.quest_subtitle": "&7Defensa 28 · Dureza 4.5 (set completo)",
+  "quest.46A97AE9D3EEC709.quest_desc": [
+    "&fDefensa 28 · Dureza 4.5 (set completo)",
+    "",
+    "&7Phantoms, piglins y enderman:",
+    "&r&dNINGUNO&r&7 te molesta. &r&dNUEVO&r&7: los SHULKER&r&7 ya no te levantan.",
+    "&7Mejor que netherita y diamante en todo: defensa, dureza, durabilidad y encantabilidad."
+  ],
+  "task.434D77BD88D1DC90.title": "Mejorar la espada a este tier (o mejor)",
+  "quest.444C1846D648E0B8.title": "&2Espada de netherita y aeternio",
+  "quest.444C1846D648E0B8.quest_subtitle": "&7Más daño que la de netherita.",
+  "quest.444C1846D648E0B8.quest_desc": [
+    "&7Más daño que la de netherita.",
+    "",
+    "&r&7Todo el botín &r&dEXTRA&r&7 de la de diamante, y además &r&dCÁSCARAS&r&7 de shulker extra al matar shulkers.",
+    "",
+    "&7También hay lanza de este material."
+  ],
+  "task.471E224969671D43.title": "Mejorar el pico a este tier (o mejor)",
+  "quest.4B336602D62CEA64.title": "&2Pico de netherita y aeternio",
+  "quest.4B336602D62CEA64.quest_subtitle": "&7Pica más rápido que el de netherita.",
+  "quest.4B336602D62CEA64.quest_desc": [
+    "&7Pica más rápido que el de netherita.",
+    "",
+    "&r&7Diamante &r&dEXTRA&r&7 al picar diamantes y &r&dTALISMANIO&r&7 en bruto extra al picar talismanio (el metal base del aeternio)."
+  ],
+  "task.49458C3CB2C339A0.title": "Mejorar el hacha a este tier (o mejor)",
+  "quest.4A43128A97701FCC.title": "&2Hacha de netherita y aeternio",
+  "quest.4A43128A97701FCC.quest_subtitle": "&7Corta más rápido y pega fuerte.",
+  "quest.4A43128A97701FCC.quest_desc": [
+    "&7Corta más rápido y pega fuerte."
+  ],
+  "task.48CBAD92F14F9E18.title": "Mejorar la pala a este tier (o mejor)",
+  "quest.401AC33D34D5277E.title": "&2Pala de netherita y aeternio",
+  "quest.401AC33D34D5277E.quest_subtitle": "&7Cava más rápido.",
+  "quest.401AC33D34D5277E.quest_desc": [
+    "&7Cava más rápido."
+  ],
+  "task.42158337667C3728.title": "Mejorar la azada a este tier (o mejor)",
+  "quest.4B5B97D632382E32.title": "&2Azada de netherita y aeternio",
+  "quest.4B5B97D632382E32.quest_subtitle": "&7Al cosechar cultivos maduros, a veces da cosecha EXTRA.",
+  "quest.4B5B97D632382E32.quest_desc": [
+    "&7Al cosechar cultivos maduros, a veces da cosecha &r&dEXTRA&r&7."
+  ],
+  "task.4D153351C4F81C0D.title": "Tener un lingote o equipo de este tier",
+  "quest.4CA96DA59B997684.title": "&aLingote de netherita y siftita",
+  "quest.4CA96DA59B997684.quest_subtitle": "&7Tier 6 de 6 · Siftita (The Sift)",
+  "quest.4CA96DA59B997684.quest_desc": [
+    "&7Lingote de netherita y aeternio + 4 lingotes de siftita (The Sift) en la mesa de crafteo.",
+    "",
+    "&7Mesa de herrería: pieza de netherita y aeternio + plantilla de mejora de netherita + este lingote.",
+    "",
+    "&7Mejora cada pieza de netherita y aeternio (nivel 6) con la plantilla de netherita + este lingote."
+  ],
+  "task.4993697E995E2E62.title": "Mejorar la armadura a este tier (o mejor)",
+  "quest.4D7C52FDC829835F.title": "&aArmadura de netherita y siftita",
+  "quest.4D7C52FDC829835F.quest_subtitle": "&7Defensa 30 · Dureza 5 (set completo)",
+  "quest.4D7C52FDC829835F.quest_desc": [
+    "&fDefensa 30 · Dureza 5 (set completo)",
+    "",
+    "&7Phantoms, piglins y enderman:",
+    "&r&dNINGUNO&r&7 te molesta. Los &r&dSHULKER no te levantan. &r&dNUEVO&r&7: resistencia a la &r&dOSCURIDAD&r&7 (Warden).",
+    "&7La mejor del modpack: supera a netherita y aeternio en todo."
+  ],
+  "task.416317C81B794F89.title": "Mejorar la espada a este tier (o mejor)",
+  "quest.4A12D94FF40281F6.title": "&aEspada de netherita y siftita",
+  "quest.4A12D94FF40281F6.quest_subtitle": "&7Más daño que la de netherita.",
+  "quest.4A12D94FF40281F6.quest_desc": [
+    "&7Más daño que la de netherita.",
+    "",
+    "&r&7Todo el botín &r&dEXTRA&r&7 de la de aeternio (con cáscaras de shulker), y además &r&dPEPITAS&r&7 &r&dDE&r&7 &r&dSIFTITA&r&7 al matar Sniffers oscuros.",
+    "",
+    "&7También hay lanza de este material."
+  ],
+  "task.483FB5E0DFE6E534.title": "Mejorar el pico a este tier (o mejor)",
+  "quest.4EDFFABBCC2B9045.title": "&aPico de netherita y siftita",
+  "quest.4EDFFABBCC2B9045.quest_subtitle": "&7Pica más rápido que el de netherita.",
+  "quest.4EDFFABBCC2B9045.quest_desc": [
+    "&7Pica más rápido que el de netherita.",
+    "",
+    "&r&7Diamante y talismanio &r&dEXTRA&r&7, y PEPITAS&r&7 &r&dDE&r&7 &r&dSIFTITA&r&7 extra al picar siftita (el material del que está hecha)."
+  ],
+  "task.49204475EC1824A7.title": "Mejorar el hacha a este tier (o mejor)",
+  "quest.4291114A05CD3E92.title": "&aHacha de netherita y siftita",
+  "quest.4291114A05CD3E92.quest_subtitle": "&7Corta más rápido y pega fuerte.",
+  "quest.4291114A05CD3E92.quest_desc": [
+    "&7Corta más rápido y pega fuerte."
+  ],
+  "task.4A0E5A5AB7C558F1.title": "Mejorar la pala a este tier (o mejor)",
+  "quest.4344BA818FD11A79.title": "&aPala de netherita y siftita",
+  "quest.4344BA818FD11A79.quest_subtitle": "&7Cava más rápido.",
+  "quest.4344BA818FD11A79.quest_desc": [
+    "&7Cava más rápido."
+  ],
+  "task.4DEE5A8DB601DE8B.title": "Mejorar la azada a este tier (o mejor)",
+  "quest.46E137FE08AFCD68.title": "&aAzada de netherita y siftita",
+  "quest.46E137FE08AFCD68.quest_subtitle": "&7Al cosechar cultivos maduros, a veces da cosecha EXTRA.",
+  "quest.46E137FE08AFCD68.quest_desc": [
+    "&7Al cosechar cultivos maduros, a veces da cosecha &r&dEXTRA&r&7."
+  ],
+  "quest.44D05B1A628D8F1C.title": "&dAdvanced Netherite",
+  "quest.44D05B1A628D8F1C.quest_subtitle": "&7Una fila por material, de peor a mejor:",
+  "quest.44D05B1A628D8F1C.quest_desc": [
+    "&7Una fila por material, de peor a mejor:",
+    "&7hierro → oro → esmeralda → diamante → aeternio (End) → siftita (The Sift).",
+    "",
+    "&7Cada material tiene su ventaja especial. Los dos últimos son mejoras añadidas por Primazos."
+  ],
+  "chapter.47C573CD412004CD.title": "&7› &2Netherita del Velo",
+  "quest.418CD3FDAD19C357.title": "&e&lCasco de netherita del Velo Roto",
+  "quest.418CD3FDAD19C357.quest_subtitle": "&7Defensa 7 · Dureza 6 · Empuje 0.25",
+  "quest.418CD3FDAD19C357.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&dcristal de Sacerdote lunar Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aLunático&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.4FB63B0543E4BA57.title": "&e&lPechera de netherita del Velo Roto",
+  "quest.4FB63B0543E4BA57.quest_subtitle": "&7Defensa 11 · Dureza 6 · Empuje 0.25",
+  "quest.4FB63B0543E4BA57.quest_desc": [
+    "&r&fDefensa 11&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&6cristal de Dios encadenado Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aEncadenado&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.460CDC47514D0EE9.title": "&e&lPantalones de netherita del Velo Roto",
+  "quest.460CDC47514D0EE9.quest_subtitle": "&7Defensa 9 · Dureza 6 · Empuje 0.25",
+  "quest.460CDC47514D0EE9.quest_desc": [
+    "&r&fDefensa 9&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&5cristal de Lilith Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aSombrío&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.45B6907ED0A7C811.title": "&e&lBotas de netherita del Velo Roto",
+  "quest.45B6907ED0A7C811.quest_subtitle": "&7Defensa 7 · Dureza 6 · Empuje 0.25",
+  "quest.45B6907ED0A7C811.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDureza 6&r&7 · &r&fEmpuje 0.25",
+    "",
+    "&r&7Forjada con el &r&2cristal de Mago del ciclo de lodo Mesa de herrería&r&7: pieza de netherita y siftita + plantilla de netherita + &r&alingote del Velo Roto (&r&aBarro&r&7).",
+    "",
+    "&r&6&lSet completo&r&7: &r&e&lSusurros de un Poder Divino +15%&r&7 de daño y &r&2&lCorrupción reactiva&r&7.",
+    "&r&6&l2 piezas&r&7: inmune a la &r&2Corrupción Divina&r&7."
+  ],
+  "quest.495850DE95BB0866.title": "&2&lEl tier del Velo Roto",
+  "quest.495850DE95BB0866.quest_subtitle": "&7Después de la siftita: una pieza por cada eco de los dioses.",
+  "quest.495850DE95BB0866.quest_desc": [
+    "Después de la siftita: una pieza por cada eco de los dioses.",
+    "",
+    "Mira &aAventura → El Velo&7 para conseguirlas."
+  ],
+  "chapter.4C6FC243F51FFE4E.title": "&5Encantamientos",
+  "quest.42CECEFB22CDD882.title": "&bCasco",
+  "quest.42CECEFB22CDD882.quest_subtitle": "&7Protección IV",
+  "quest.42CECEFB22CDD882.quest_desc": [
+    "&dProtección &f&lIV",
+    "&dIrrompibilidad &f&lIII",
+    "&dReparación",
+    "&dRespiración &f&lIII",
+    "&dAfinidad acuática"
+  ],
+  "quest.450216DFE0A93326.title": "&bPechera",
+  "quest.450216DFE0A93326.quest_subtitle": "&7Protección IV",
+  "quest.450216DFE0A93326.quest_desc": [
+    "&dProtección &f&lIV",
+    "&dIrrompibilidad &f&lIII",
+    "&dReparación",
+    "&a&lAntídoto (Dungeons and Taverns)"
+  ],
+  "quest.40CB1D0B8C4B0C24.title": "&bPantalones",
+  "quest.40CB1D0B8C4B0C24.quest_subtitle": "&7Protección IV",
+  "quest.40CB1D0B8C4B0C24.quest_desc": [
+    "&dProtección &f&lIV",
+    "&dIrrompibilidad &f&lIII",
+    "&dReparación",
+    "&dSigilo rápido &f&lIII"
+  ],
+  "quest.4B5A7887C73A0B75.title": "&bBotas",
+  "quest.4B5A7887C73A0B75.quest_subtitle": "&7Protección IV",
+  "quest.4B5A7887C73A0B75.quest_desc": [
+    "&dProtección &f&lIV",
+    "&dCaída de pluma &f&lIV",
+    "&dIrrompibilidad &f&lIII",
+    "&dReparación",
+    "&dAgilidad acuática &f&lIII",
+    "&dVelocidad de alma &f&lIII",
+    "&a&lViajero (Dungeons and Taverns)"
+  ],
+  "quest.40DB3C9465D11CAE.title": "&bEspada",
+  "quest.40DB3C9465D11CAE.quest_subtitle": "&7Filo V",
+  "quest.40DB3C9465D11CAE.quest_desc": [
+    "&dFilo &f&lV",
+    "&dBotín &f&lIII",
+    "&dAspecto ígneo &f&lII",
+    "&dBarrido &f&lIII",
+    "&dIrrompibilidad &f&lIII",
+    "&dReparación",
+    "&a&lPerdición de saqueadores (D＆T)",
+    "&dcontra illagers"
+  ],
+  "quest.4306A5EEB50F68CA.title": "&bPico",
+  "quest.4306A5EEB50F68CA.quest_subtitle": "&7Eficiencia V",
+  "quest.4306A5EEB50F68CA.quest_desc": [
+    "&dEficiencia &f&lV",
+    "&a&lFortuna III (o Toque de seda)",
+    "&dIrrompibilidad &f&lIII",
+    "&dReparación"
+  ],
+  "quest.40D8AFC007F4A2C5.title": "&bArco",
+  "quest.40D8AFC007F4A2C5.quest_subtitle": "&7Poder V",
+  "quest.40D8AFC007F4A2C5.quest_desc": [
+    "&dPoder &f&lV",
+    "&a&lInfinidad (o Reparación)",
+    "&dFuego",
+    "&dRetroceso",
+    "&a&lDisparo triple o Atravesar (D＆T)"
+  ],
+  "quest.4DAD96FCA495E875.title": "&bÉlitros",
+  "quest.4DAD96FCA495E875.quest_subtitle": "&7Irrompibilidad III",
+  "quest.4DAD96FCA495E875.quest_desc": [
+    "&dIrrompibilidad &f&lIII",
+    "&dReparación",
+    "&a&lAlas de cera (D＆T)"
+  ],
+  "quest.440F0F06CC057ED5.title": "&bQué poner en cada pieza",
+  "quest.440F0F06CC057ED5.quest_subtitle": "&7El set de encantamientos recomendado para armadura, armas y…",
+  "quest.440F0F06CC057ED5.quest_desc": [
+    "&7El set de encantamientos recomendado para armadura, armas y herramientas."
+  ],
+  "quest.4168CACB46B73BBF.title": "&aAntídoto",
+  "quest.4168CACB46B73BBF.quest_subtitle": "&7Pechera: absorbe el daño por veneno.",
+  "quest.4168CACB46B73BBF.quest_desc": [
+    "&7Pechera: absorbe el daño por veneno.",
+    "",
+    "&eDónde:",
+    "&fGuarida tóxica (pantano): cofres y cámara del jefe.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.48E1C871FCAD6A52.title": "&aPerdición de los saqueadores",
+  "quest.48E1C871FCAD6A52.quest_subtitle": "&7Más daño a illagers y brujas.",
+  "quest.48E1C871FCAD6A52.quest_desc": [
+    "&7Más daño a illagers y brujas.",
+    "",
+    "&eDónde:",
+    "&fBibliotecas de mansiones, escondites illager y residencias pálidas.",
+    "&fTesoro de los puestos de saqueadores.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4076C303135A6495.title": "&aPerdición aérea",
+  "quest.4076C303135A6495.quest_subtitle": "&7Más daño a mobs voladores.",
+  "quest.4076C303135A6495.quest_desc": [
+    "&7Más daño a mobs voladores.",
+    "",
+    "&eDónde:",
+    "&fCastillo y barcos del End.",
+    "&fCámaras del jefe de las Salas del sello.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4B6CE9E8FEA08BE7.title": "&aRencor",
+  "quest.4B6CE9E8FEA08BE7.quest_subtitle": "&7Más daño con poca vida y a veces Fuerza.",
+  "quest.4B6CE9E8FEA08BE7.quest_desc": [
+    "&7Más daño con poca vida y a veces Fuerza.",
+    "",
+    "&eDónde:",
+    "&fSantuarios de combate: cámaras ominosas y vasijas.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.470BCABB920F2DFB.title": "&aViajero",
+  "quest.470BCABB920F2DFB.quest_subtitle": "&7Esprintas más rápido y subes bloques sin saltar.",
+  "quest.470BCABB920F2DFB.quest_desc": [
+    "&7Esprintas más rápido y subes bloques sin saltar.",
+    "",
+    "&eDónde:",
+    "&fTesoros de los santuarios de combate.",
+    "&fAltar del búnker y torres de vigilancia.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4C82D3905C4CE5A6.title": "&aFotosíntesis",
+  "quest.4C82D3905C4CE5A6.quest_subtitle": "&7Repara el objeto con la luz del sol.",
+  "quest.4C82D3905C4CE5A6.quest_desc": [
+    "&7Repara el objeto con la luz del sol.",
+    "",
+    "&eDónde:",
+    "&fTemplo de las ruinas de la jungla y sus vasijas.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.45D1B17FC2CBEEA7.title": "&aAlcance",
+  "quest.45D1B17FC2CBEEA7.quest_subtitle": "&7Interactúas con bloques desde más lejos.",
+  "quest.45D1B17FC2CBEEA7.quest_desc": [
+    "&7Interactúas con bloques desde más lejos.",
+    "",
+    "&eDónde:",
+    "&fRuinas del desierto: cofres, vasijas y arqueología.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.43E7E85EE1F6B664.title": "&aAlas de cera",
+  "quest.43E7E85EE1F6B664.quest_subtitle": "&7Los élitros no se gastan al planear despacio.",
+  "quest.43E7E85EE1F6B664.quest_desc": [
+    "&7Los élitros no se gastan al planear despacio.",
+    "",
+    "&eDónde:",
+    "&fCámaras de los barcos del End.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4727917D66A178E0.title": "&aDisparo triple / Atravesar",
+  "quest.4727917D66A178E0.quest_subtitle": "&7Para arcos: 3 flechas o atravesar enemigos.",
+  "quest.4727917D66A178E0.quest_desc": [
+    "&7Para arcos: 3 flechas o atravesar enemigos.",
+    "",
+    "&eDónde:",
+    "&fGuarida tóxica: cámara del jefe araña.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4AB87EFF84C31DA4.title": "&aGravedad",
+  "quest.4AB87EFF84C31DA4.quest_subtitle": "&7Flechas que atraen a los enemigos.",
+  "quest.4AB87EFF84C31DA4.quest_desc": [
+    "&7Flechas que atraen a los enemigos.",
+    "",
+    "&eDónde:",
+    "&fCastillo, barcos y faro del End.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4807235ACC419247.title": "&aGhastificado",
+  "quest.4807235ACC419247.quest_subtitle": "&7Flechas que son bolas de fuego.",
+  "quest.4807235ACC419247.quest_desc": [
+    "&7Flechas que son bolas de fuego.",
+    "",
+    "&eDónde:",
+    "&fSalas del sello (Nether): jefe y vasijas.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.49B481D1F942718C.title": "&aVelo acuático / Vuelo veloz",
+  "quest.49B481D1F942718C.quest_subtitle": "&7Mejoras para el Ghast Feliz.",
+  "quest.49B481D1F942718C.quest_desc": [
+    "&7Mejoras para el Ghast Feliz.",
+    "",
+    "&eDónde:",
+    "&fFortalezas del Nether de D＆T y Salas del sello.",
+    "&fVuelo veloz también en el puerto del Nether.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4CD86439FB75C23A.title": "&aRecubrimiento de descomposición",
+  "quest.4CD86439FB75C23A.quest_subtitle": "&7Aplica Wither al golpear, gasta más durabilidad.",
+  "quest.4CD86439FB75C23A.quest_desc": [
+    "&7Aplica Wither al golpear, gasta más durabilidad.",
+    "",
+    "&eDónde:",
+    "&fFortalezas del Nether de D＆T y Salas del sello.",
+    "&fAlgunos esqueletos wither lo llevan puesto.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4E8A9F43C671BD2C.title": "&cMaldición de conductividad",
+  "quest.4E8A9F43C671BD2C.quest_subtitle": "&7¡Maldición! Atrae rayos en tormenta.",
+  "quest.4E8A9F43C671BD2C.quest_desc": [
+    "&7¡Maldición! Atrae rayos en tormenta.",
+    "",
+    "&eDónde:",
+    "&fBiblioteca y vasijas de la villa de la bruja.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.41B0FAE57666C7AF.title": "&eBibliotecarios secretos",
+  "quest.41B0FAE57666C7AF.quest_subtitle": "&7Un bibliotecario que viva DENTRO de una de esas estructuras te cambia…",
+  "quest.41B0FAE57666C7AF.quest_desc": [
+    "&r&7Un bibliotecario que viva &r&dDENTRO de una de esas estructuras te cambia el libro por la llave del jefe de esa estructura.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4372BF67B99FB3ED.title": "&6Fuego de rubí",
+  "quest.4372BF67B99FB3ED.quest_subtitle": "&7Pico: funde los minerales. Armadura y espada: fuego y empuje.",
+  "quest.4372BF67B99FB3ED.quest_desc": [
+    "&7Pico: funde los minerales. Armadura y espada: fuego y empuje.",
+    "",
+    "&eDónde:",
+    "&r&fNo se encanta: viene &r&dPUESTO&r&f en el equipo de rubí de fuego.",
+    "",
+    "&8BetterNether"
+  ],
+  "quest.4D01A14F32FD1B98.title": "&6Rompedor de obsidiana",
+  "quest.4D01A14F32FD1B98.quest_subtitle": "&7Rompes la obsidiana mucho más rápido.",
+  "quest.4D01A14F32FD1B98.quest_desc": [
+    "&7Rompes la obsidiana mucho más rápido.",
+    "",
+    "&eDónde:",
+    "&r&fNo se encanta: viene &r&dPUESTO&r&f en algunos picos de BetterNether.",
+    "",
+    "&8BetterNether"
+  ],
+  "quest.422716798758A90C.title": "&5Velo del End",
+  "quest.422716798758A90C.quest_subtitle": "&7Puedes mirar a los Enderman sin que se enfaden.",
+  "quest.422716798758A90C.quest_desc": [
+    "&7Puedes mirar a los Enderman sin que se enfaden.",
+    "",
+    "&eDónde:",
+    "&r&fEs una &r&dPOCIÓN&r&f: poción rara + polvo del End en el soporte para pociones.",
+    "",
+    "&8BetterEnd"
+  ],
+  "quest.4E2073747FFA4AD8.title": "&dEncantamientos de los mods",
+  "quest.4E2073747FFA4AD8.quest_subtitle": "&7Los encantamientos nuevos que traen los mods y para qué sirven.",
+  "quest.4E2073747FFA4AD8.quest_desc": [
+    "&7Los encantamientos nuevos que traen los mods y para qué sirven."
+  ],
+  "quest.4FB49D9479A7979C.title": "&eConsejos",
+  "quest.4FB49D9479A7979C.quest_subtitle": "&7Easy Magic: la mesa guarda tus objetos y lapislázuli.",
+  "quest.4FB49D9479A7979C.quest_desc": [
+    "&7Easy Magic: la mesa guarda tus objetos y lapislázuli.",
+    "&7Easy Anvils: el yunque cobra menos niveles.",
+    "&7La netherita de oro (Advanced Netherite) da mejores encantamientos.",
+    "&7La Mesa de imbuir (Illager Invasion)",
+    "&7sube encantamientos por encima del máximo."
+  ],
+  "chapter.4C8D0CBF387CF035.title": "&eRuta recomendada",
+  "quest.4F77C40DB519E79B.title": "&fFase 1: Sobrevivir",
+  "quest.4F77C40DB519E79B.quest_subtitle": "&7Herramientas de piedra, comida, cama y una base. Fabrica una mochila…",
+  "quest.4F77C40DB519E79B.quest_desc": [
+    "&7Herramientas de piedra, comida, cama y una base. Fabrica una mochila y un calendario."
+  ],
+  "quest.4D8431B3AF6BB688.title": "&fFase 2: Hierro y explorar",
+  "quest.4D8431B3AF6BB688.quest_subtitle": "&7Armadura de hierro y escudo. Explora estructuras fáciles y busca ojos…",
+  "quest.4D8431B3AF6BB688.quest_desc": [
+    "&7Armadura de hierro y escudo. Explora estructuras fáciles y busca ojos del End desde ya."
+  ],
+  "quest.4667020EDA4B9FE1.title": "&bFase 3: Diamante y Nether",
+  "quest.4667020EDA4B9FE1.quest_subtitle": "&7Ve al Nether con diamante y una pieza de oro. Las fortalezas y aldeas…",
+  "quest.4667020EDA4B9FE1.quest_desc": [
+    "&7Ve al Nether con diamante y una pieza de oro. Las fortalezas y aldeas del Nether son de lo más peligroso. BetterNether te da cincinnasita y rubíes."
+  ],
+  "quest.4596518D509AC349.title": "&8Fase 4: Netherita",
+  "quest.4596518D509AC349.quest_subtitle": "&7Busca escombros ancestrales y pasa todo a netherita. Encanta bien tu…",
+  "quest.4596518D509AC349.quest_desc": [
+    "&7Busca escombros ancestrales y pasa todo a netherita. Encanta bien tu equipo."
+  ],
+  "quest.41EF52622DC8DDF7.title": "&bFase 5: Netherita avanzada",
+  "quest.41EF52622DC8DDF7.quest_subtitle": "&7Mejora a netherita de hierro, oro, esmeralda y por último diamante…",
+  "quest.41EF52622DC8DDF7.quest_desc": [
+    "&7Mejora a netherita de hierro, oro, esmeralda y por último diamante (defensa 26). Más adelante tendrá dos mejoras más: aeternio y siftita."
+  ],
+  "quest.496AF721CFBDE226.title": "&3Fase 6: Abrir el End",
+  "quest.496AF721CFBDE226.quest_subtitle": "&7Junta los ojos especiales de End Remastered y prepárate para la…",
+  "quest.496AF721CFBDE226.quest_desc": [
+    "&7Junta los ojos especiales de End Remastered y prepárate para la dragona remasterizada. Mejor en grupo."
+  ],
+  "quest.4DFD392D27514515.title": "&5Fase 7: El End de verdad",
+  "quest.4DFD392D27514515.quest_subtitle": "&7Explora BetterEnd: terminita, cristalita y aeternio. Con 4 lingotes…",
+  "quest.4DFD392D27514515.quest_desc": [
+    "&7Explora BetterEnd: terminita, cristalita y aeternio. Con 4 lingotes de aeternio y un lingote de netherita y diamante haces netherita y aeternio (defensa 28, y los shulker ya no te levantan). Las ciudades del End y los élitros."
+  ],
+  "quest.4C5C2202670202A5.title": "&3Fase 8: The Sift y jefes",
+  "quest.4C5C2202670202A5.quest_subtitle": "&7Con todo lo anterior, explora The Sift, los jefes y las mazmorras más…",
+  "quest.4C5C2202670202A5.quest_desc": [
+    "&7Con todo lo anterior, explora The Sift, los jefes y las mazmorras más difíciles.",
+    "",
+    "&7The Sift no tiene mazmorras: con 4 lingotes de siftita y un lingote de netherita y aeternio haces netherita y siftita, el mejor equipo del modpack (defensa 30, resiste la oscuridad). El Sifter pega como un mob élite."
+  ],
+  "quest.49F3FDB4BB632ADC.title": "&aRuta recomendada",
+  "quest.49F3FDB4BB632ADC.quest_subtitle": "&7Qué hacer en cada fase de la partida para no ir perdido.",
+  "quest.49F3FDB4BB632ADC.quest_desc": [
+    "&7Qué hacer en cada fase de la partida para no ir perdido."
+  ],
+  "chapter.48116F9F4DFBB1BA.title": "&7› &2Ruta: el Velo",
+  "quest.47C1575671C9D30E.title": "&e&lFase 9: Aerial Hell y el Velo Roto",
+  "quest.47C1575671C9D30E.quest_subtitle": "&7Cuando el Velo se debilite, sube al techo del mundo y cruza.",
+  "quest.47C1575671C9D30E.quest_desc": [
+    "&r&7Cuando el &r&e&lVelo&r&7 se debilite, sube al techo del mundo y cruza.",
+    "&r&7Derrota a los &r&d4 ecos divinos&r&7 y forja la &r&aarmadura del Velo Roto&r&7."
+  ],
+  "quest.48767560B4568E4A.title": "&2&lDespués de todo",
+  "quest.48767560B4568E4A.quest_subtitle": "&7La última fase de la partida.",
+  "quest.48767560B4568E4A.quest_desc": [
+    "La última fase de la partida."
+  ],
+  "chapter.47E2FC8676212358.title": "&bControles y comandos",
+  "quest.46EF21490829FEFF.title": "&aMapa (JourneyMap)",
+  "quest.46EF21490829FEFF.quest_subtitle": "&7. (punto): mapa completo.",
+  "quest.46EF21490829FEFF.quest_desc": [
+    "&e&l. (punto)&r&7: mapa completo.",
+    "&e&l, (coma)&r&7: mostrar u ocultar el minimapa.",
+    "&e&l+ y -&r&7: zoom.",
+    "&e&lO (en el mapa)&r&7: opciones."
+  ],
+  "quest.4692468053346220.title": "&eRecetas (REI)",
+  "quest.4692468053346220.quest_subtitle": "&7En el inventario, con el ratón encima de un objeto:",
+  "quest.4692468053346220.quest_desc": [
+    "&7En el inventario, con el ratón encima de un objeto:",
+    "&e&lR&r&7: cómo se fabrica.",
+    "&e&lU&r&7: para qué sirve."
+  ],
+  "quest.41FB317AF553458E.title": "&6Mochila",
+  "quest.41FB317AF553458E.quest_subtitle": "&7B: abrir la mochila que llevas puesta.",
+  "quest.41FB317AF553458E.quest_desc": [
+    "&e&lB&r&7: abrir la mochila que llevas puesta.",
+    "&e&lZ&r&7: cambiar la herramienta de la mochila."
+  ],
+  "quest.414AE7643F85C292.title": "&bChat de voz",
+  "quest.414AE7643F85C292.quest_subtitle": "&7V: menú del chat de voz.",
+  "quest.414AE7643F85C292.quest_desc": [
+    "&e&lV&r&7: menú del chat de voz.",
+    "&e&lM&r&7: silenciar tu micrófono.",
+    "&e&lN&r&7: desactivar el chat de voz.",
+    "",
+    "&7Se habla por activación de voz (no hay que pulsar nada)."
+  ],
+  "quest.4458F39F18C964AF.title": "&eMarcar sitios",
+  "quest.4458F39F18C964AF.quest_subtitle": "&7Botón lateral del ratón (botón 5):",
+  "quest.4458F39F18C964AF.quest_desc": [
+    "&7&e&lBotón lateral del ratón&r&7 (&e&lbotón 5&r&7):",
+    "&7marcar un sitio o mob para tus amigos."
+  ],
+  "quest.4B89D3C8ECB4B85C.title": "&eCoger cofres y animales",
+  "quest.4B89D3C8ECB4B85C.quest_subtitle": "&7Alt izquierdo + clic derecho con la mano vacía (Carry On).",
+  "quest.4B89D3C8ECB4B85C.quest_desc": [
+    "&7&e&lAlt izquierdo&r&7 + &e&lclic derecho&r&7 con la mano vacía (Carry On)."
+  ],
+  "quest.4E336E1BF7123B65.title": "&fZoom",
+  "quest.4E336E1BF7123B65.quest_subtitle": "&7C: zoom.",
+  "quest.4E336E1BF7123B65.quest_desc": [
+    "&e&lC&r&7: zoom."
+  ],
+  "quest.4412C64872013A9E.title": "&6Ver dónde salen monstruos",
+  "quest.4412C64872013A9E.quest_subtitle": "&7F9: muestra en el suelo los bloques donde pueden aparecer monstruos.",
+  "quest.4412C64872013A9E.quest_desc": [
+    "&e&lF9&r&7: muestra en el suelo los bloques donde pueden aparecer monstruos."
+  ],
+  "quest.4916E0291B3ADC02.title": "&bInformación (Jade)",
+  "quest.4916E0291B3ADC02.quest_subtitle": "&7Insert: más detalles de lo que miras.",
+  "quest.4916E0291B3ADC02.quest_desc": [
+    "&e&lInsert&r&7: más detalles de lo que miras.",
+    "&e&lTeclado numérico 3 y 4&r&7: recetas y usos de lo que miras."
+  ],
+  "quest.4A45E9CF87EBA7D9.title": "&6Emotes",
+  "quest.4A45E9CF87EBA7D9.quest_subtitle": "&7Retroceso (borrar): elegir un emote rápido.",
+  "quest.4A45E9CF87EBA7D9.quest_desc": [
+    "&e&lRetroceso (borrar)&r&7: elegir un emote rápido."
+  ],
+  "quest.4C49108BDF53CA97.title": "&7Otros",
+  "quest.4C49108BDF53CA97.quest_subtitle": "&7Bloq Despl: mostrar u ocultar el contador de días.",
+  "quest.4C49108BDF53CA97.quest_desc": [
+    "&e&lBloq Despl&r&7: mostrar u ocultar el contador de días.",
+    "&e&lH&r&7: caras que se mueven al hablar (Talking Heads).",
+    "&e&lR&r&7: recargar los shaders."
+  ],
+  "quest.44F07F55A2D4932F.title": "&7Cambiar teclas",
+  "quest.44F07F55A2D4932F.quest_subtitle": "&7Opciones > Controles > Asignar teclas.",
+  "quest.44F07F55A2D4932F.quest_desc": [
+    "&7&e&lOpciones > Controles > Asignar teclas&r&7.",
+    "&7Hay un buscador para encontrar cualquier acción por su nombre."
+  ],
+  "quest.4044E978069E6E42.title": "&dComandos",
+  "quest.4044E978069E6E42.quest_subtitle": "&7Botón del libro en el inventario, o el libro que te dan al entrar",
+  "quest.4044E978069E6E42.quest_desc": [
+    "&7Botón del libro en el inventario, o el libro que te dan al entrar",
+    "&7Abre este libro."
+  ],
+  "quest.4A4E451521967243.title": "&eControles y comandos",
+  "quest.4A4E451521967243.quest_subtitle": "&7Teclas útiles, el mapa, el chat de voz y comandos del servidor.",
+  "quest.4A4E451521967243.quest_desc": [
+    "&7Teclas útiles, el mapa, el chat de voz y comandos del servidor."
+  ],
+  "quest.4DC3263B600E81A4.title": "&aJourneyMap",
+  "quest.4DC3263B600E81A4.quest_subtitle": "&7Minimapa y mapa completo (tecla .",
+  "quest.4DC3263B600E81A4.quest_desc": [
+    "&7Minimapa y mapa completo (tecla .",
+    "&7punto). Puedes guardar puntos de interés (waypoints)."
+  ],
+  "quest.4559726C5407C4AD.title": "&ePing Wheel",
+  "quest.4559726C5407C4AD.quest_subtitle": "&7Marca sitios o mobs (botón lateral del ratón) para que tus amigos los…",
+  "quest.4559726C5407C4AD.quest_desc": [
+    "&7Marca sitios o mobs (botón lateral del ratón) para que tus amigos los vean, y aparecen en su JourneyMap."
+  ],
+  "quest.4F5587D6763708E3.title": "&bSimple Voice Chat",
+  "quest.4F5587D6763708E3.quest_subtitle": "&7Chat de voz por proximidad: cuanto más cerca, más se oye. Menú con la…",
+  "quest.4F5587D6763708E3.quest_desc": [
+    "&e&lChat de voz por proximidad&r&7: cuanto más cerca, más se oye. Menú con la tecla V, silenciar micro con M.",
+    "",
+    "&7También hay mensajes de voz en el chat."
+  ],
+  "quest.44C86C913A30C685.title": "&dDiscord",
+  "quest.44C86C913A30C685.quest_subtitle": "&7El chat del servidor está conectado con nuestro Discord.",
+  "quest.44C86C913A30C685.quest_desc": [
+    "&7El chat del servidor está conectado con nuestro Discord."
+  ],
+  "quest.41B4299533EF96E5.title": "&fChat mejorado",
+  "quest.41B4299533EF96E5.quest_subtitle": "&7Caras de los jugadores en el chat, emojis, emotes de Twitch y más…",
+  "quest.41B4299533EF96E5.quest_desc": [
+    "&7Caras de los jugadores en el chat, emojis, emotes de Twitch y más historial."
+  ],
+  "quest.477FF157EF548BBA.title": "&eDay Count",
+  "quest.477FF157EF548BBA.quest_subtitle": "&7Contador de días en pantalla.",
+  "quest.477FF157EF548BBA.quest_desc": [
+    "&7Contador de días en pantalla."
+  ],
+  "quest.497B42A6138C841B.title": "&fBetter Tab",
+  "quest.497B42A6138C841B.quest_subtitle": "&7La lista de jugadores (Tab) muestra el ping exacto y se puede…",
+  "quest.497B42A6138C841B.quest_desc": [
+    "&7La lista de jugadores (&e&lTab&r&7) muestra el ping exacto y se puede desplazar."
+  ],
+  "quest.4D76DD0A074EA494.title": "&6Show Me Your Skin",
+  "quest.4D76DD0A074EA494.quest_subtitle": "&7Oculta o personaliza cómo se ve tu armadura, para lucir tu skin.",
+  "quest.4D76DD0A074EA494.quest_desc": [
+    "&7Oculta o personaliza cómo se ve tu armadura, para lucir tu skin."
+  ],
+  "quest.442E7979A4536AEF.title": "&dMapa y comunicación",
+  "quest.442E7979A4536AEF.quest_subtitle": "&7Mapa en tiempo real, marcar sitios, chat de voz, emotes y Discord.",
+  "quest.442E7979A4536AEF.quest_desc": [
+    "&7Mapa en tiempo real, marcar sitios, chat de voz, emotes y Discord."
+  ],
+  "chapter.48B9611DC0D886EC.title": "&cSi mueres",
+  "quest.4DB9A40D131B98D7.title": "&7Si mueres: tu tumba",
+  "quest.4DB9A40D131B98D7.quest_subtitle": "&7Al morir aparece una lápida con TODAS tus cosas donde caíste.",
+  "quest.4DB9A40D131B98D7.quest_desc": [
+    "&7Al morir aparece una lápida con TODAS&r&7 tus cosas donde caíste.",
+    "",
+    "&7Vuelve y haz clic derecho en ella para recuperarlo. Nadie más debería abrirla.",
+    "",
+    "&8Mod: Gravestones"
+  ],
+  "quest.4F13AE37C252E255.title": "&6Tótem desde el inventario",
+  "quest.4F13AE37C252E255.quest_subtitle": "&7El Tótem de la inmortalidad funciona aunque esté en el inventario, no…",
+  "quest.4F13AE37C252E255.quest_desc": [
+    "&7El Tótem de la inmortalidad funciona aunque esté en el inventario, no hace falta llevarlo en la mano.",
+    "",
+    "&8Mod: Inventory Totem"
+  ],
+  "quest.4D57FE8694C497E6.title": "&dMascotas que reviven",
+  "quest.4D57FE8694C497E6.quest_subtitle": "&7Tus mascotas domesticadas pueden volver a la vida si mueren.",
+  "quest.4D57FE8694C497E6.quest_desc": [
+    "&7Tus mascotas domesticadas pueden volver a la vida si mueren.",
+    "",
+    "&7La Gema etérica es la clave: busca su receta en &r&dREI&r&7 (tecla R).",
+    "",
+    "&8Mod: Respawnable Pets"
+  ],
+  "quest.4A5518F0139D5407.title": "&aGuardar experiencia",
+  "quest.4A5518F0139D5407.quest_subtitle": "&7El Tomo de experiencia (XP Tome)",
+  "quest.4A5518F0139D5407.quest_desc": [
+    "&r&7El Tomo de experiencia (&r&dXP&r&7 Tome)",
+    "&7guarda tus niveles para no perderlos al morir o para pasarlos a otro jugador.",
+    "",
+    "&r&8Mod: &r&dXP&r&8 Tome"
+  ],
+  "quest.44142FAFEF3E3A65.title": "&c&lSi mueres",
+  "quest.44142FAFEF3E3A65.quest_subtitle": "&7Morir en Primazos no es el fin: tus cosas te esperan y la Égida te…",
+  "quest.44142FAFEF3E3A65.quest_desc": [
+    "Morir en Primazos no es el fin: tus cosas te esperan y la &a&lÉgida&r&7 te ayuda si mueres seguido."
+  ],
+  "chapter.4DB240077E0917AE.title": "&a&lÉgida de Protección",
+  "quest.4A7ECEFFB1CE929A.title": "&a&lÉgida&r&7",
+  "quest.4A7ECEFFB1CE929A.quest_subtitle": "Si mueres varias veces seguidas.",
+  "quest.4A7ECEFFB1CE929A.quest_desc": [
+    "Al reaparecer, la &a&lÉgida&r&7 te cubre durante &d15 minutos&7:",
+    "&aRapidez, Regeneración y Fuerza&7",
+    "Cuantas más muertes seguidas (hasta 5), más fuerte.",
+    "",
+    "&eBajo el agua, además: &bApnea y Visión nocturna&7",
+    "",
+    "&eProbabilidad de un &dTÓTEM&7&e:",
+    "&71: &f5%&7 · 2: &f10%&7 · 3: &f15%&7 · 4: &f25%&7 · 5: &650%",
+    "",
+    "&8No se activa si te mata otro jugador."
+  ],
+  "quest.4676ADFB8603167E.title": "&6Spawners Cegados",
+  "quest.4676ADFB8603167E.quest_subtitle": "Los spawners sacan menos monstruos.",
+  "quest.4676ADFB8603167E.quest_desc": [
+    "Los rayos del &e&lSol&r&7 ciegan los spawners: sacan muchos menos monstruos de lo normal.",
+    "",
+    "&8Monumentos, torres y spawners de prueba."
+  ],
+  "quest.4BD515C40CD0CD0C.title": "&bEvaporación Instantánea",
+  "quest.4BD515C40CD0CD0C.quest_subtitle": "Menos guardianes.",
+  "quest.4BD515C40CD0CD0C.quest_desc": [
+    "Si los guardianes se pasan de mitosis (más de 20), el &e&lSol&r&7 evapora a la &dMITAD&7 sin dejar rastro."
+  ],
+  "quest.4C43DF55E70F0A48.title": "&6Cohete Perdido",
+  "quest.4C43DF55E70F0A48.quest_subtitle": "20% de que un cohete se deshaga.",
+  "quest.4C43DF55E70F0A48.quest_desc": [
+    "Cada cohete que dispara un saqueador tiene un &d20%&7 de deshacerse en humo antes de llegar a ti."
+  ],
+  "quest.4E3055876B934EA9.title": "&eDeslumbramiento",
+  "quest.4E3055876B934EA9.quest_subtitle": "25% de deslumbrar al illager.",
+  "quest.4E3055876B934EA9.quest_desc": [
+    "Cuando un vindicador, inquisidor o marauder te golpea, hay un &d25%&7 de que el &e&lSol&r&7 lo deslumbre:",
+    "&c3 ❤ de daño&7",
+    "&bDébil y casi congelado 10 segundos&7"
+  ],
+  "quest.4C84E15B6B2634F6.title": "&5Forja Bendecida",
+  "quest.4C84E15B6B2634F6.quest_subtitle": "20% de un lingote extra.",
+  "quest.4C84E15B6B2634F6.quest_desc": [
+    "Al fabricar un lingote de netherita, hay un &d20%&7 de que el &e&lSol&r&7 te regale otro."
+  ],
+  "quest.4B16A06875A5D051.title": "&6Calor del Sol",
+  "quest.4B16A06875A5D051.quest_subtitle": "20% de chatarra extra.",
+  "quest.4B16A06875A5D051.quest_desc": [
+    "Al sacar chatarra de netherita del horno, cada una tiene un &d20%&7 de darte otra más.",
+    "",
+    "&8Sacándola tú: con tolvas no cuenta."
+  ],
+  "quest.4480F963C9234B4A.title": "&5Plantilla Bendecida",
+  "quest.4480F963C9234B4A.quest_subtitle": "25% de una plantilla extra.",
+  "quest.4480F963C9234B4A.quest_desc": [
+    "Al duplicar una plantilla de mejora de netherita, hay un &d25%&7 de que el &e&lSol&r&7 te dé una más."
+  ],
+  "quest.40D481890F723CF4.title": "&dBrebaje Roto",
+  "quest.40D481890F723CF4.quest_subtitle": "25% de romper la poción de una bruja.",
+  "quest.40D481890F723CF4.quest_desc": [
+    "Cada poción que te lanza una bruja tiene un &d25%&7 de romperse en el aire."
+  ],
+  "quest.4B2CACA647FCCD72.title": "&bTridente Partido",
+  "quest.4B2CACA647FCCD72.quest_subtitle": "20% de partir un tridente.",
+  "quest.4B2CACA647FCCD72.quest_desc": [
+    "Cada tridente que lanza un ahogado tiene un &d20%&7 de partirse en polvo de estrellas."
+  ],
+  "quest.44DF2E7F9D84C824.title": "&fFlecha Perdida",
+  "quest.44DF2E7F9D84C824.quest_subtitle": "15% de perder una flecha.",
+  "quest.44DF2E7F9D84C824.quest_desc": [
+    "Cada flecha de un esqueleto (de cualquier tipo) tiene un &d15%&7 de perderse en la noche."
+  ],
+  "quest.4AB2F0C9EB89246A.title": "&aMecha Apagada",
+  "quest.4AB2F0C9EB89246A.quest_subtitle": "30% de apagar un creeper.",
+  "quest.4AB2F0C9EB89246A.quest_desc": [
+    "Cuando un creeper llega a tu lado, hay un &d30%&7 de que las &d&lEstrellas&r&7 le apaguen la mecha."
+  ],
+  "quest.40511FDA626F7CE1.title": "&7Cielo Despejado",
+  "quest.40511FDA626F7CE1.quest_subtitle": "30% de borrar un phantom.",
+  "quest.40511FDA626F7CE1.quest_desc": [
+    "Cada phantom que aparece tiene un &d30%&7 de que las &d&lEstrellas&r&7 lo borren del cielo."
+  ],
+  "quest.4F47932405EE7D6D.title": "&2Infusión de Vida No-Muerta",
+  "quest.4F47932405EE7D6D.quest_subtitle": "20% de dañar al zombi que te pega.",
+  "quest.4F47932405EE7D6D.quest_desc": [
+    "Cuando un zombi te golpea, hay un &d20%&7 de que reciba:",
+    "&cCuración instantánea: 3 ❤ de daño&7",
+    "&bLentitud VI durante 5 segundos&7"
+  ],
+  "quest.42B3A405FBB94B9F.title": "&dRefundición Estelar",
+  "quest.42B3A405FBB94B9F.quest_subtitle": "10% de reparar una pieza cada 5 min.",
+  "quest.42B3A405FBB94B9F.quest_desc": [
+    "Cada 5 minutos al aire libre de noche, hay un &d10%&7 de que las &d&lEstrellas&r&7 reparen &dPOR COMPLETO&7 una pieza gastada.",
+    "",
+    "&8Bajo techo o en cuevas no te ven."
+  ],
+  "quest.43D07842A1056114.title": "&dConstelación",
+  "quest.43D07842A1056114.quest_subtitle": "Más experiencia en grupo.",
+  "quest.43D07842A1056114.quest_desc": [
+    "Las &d&lEstrellas&r&7 son más bonitas en compañía. De noche, a 32 bloques o menos:",
+    "&73 jugadores: &f+25%",
+    "&74 o más: &6+50%",
+    "",
+    "&8Lo verás arriba de la pantalla."
+  ],
+  "quest.48352B8BC49CB196.title": "&e&lProtección Solar",
+  "quest.48352B8BC49CB196.quest_subtitle": "El &e&lSol&r&7&r os protege de los excesos.",
+  "quest.48352B8BC49CB196.quest_desc": [
+    "El &e&lSol&r&7 es un dios benevolente que vela por los jugadores de Primazos.",
+    "",
+    "Estas son sus bendiciones."
+  ],
+  "quest.43EDB872081104E2.title": "&d&lProtección de las Estrellas",
+  "quest.43EDB872081104E2.quest_subtitle": "Las &d&lEstrellas&r&7&r guían a quien camina en la oscuridad.",
+  "quest.43EDB872081104E2.quest_desc": [
+    "Las &d&lEstrellas&r&7 son un dios benevolente. No dan poder: dan guía, para que las noches difíciles sean un poco más fáciles.",
+    "",
+    "&fSolo actúan de noche (desde que anochece) o en tormenta."
+  ],
+  "quest.42283FA0885C276E.title": "&a&lÉgida de Protección",
+  "quest.42283FA0885C276E.quest_subtitle": "Dos dioses benevolentes velan por Primazos.",
+  "quest.42283FA0885C276E.quest_desc": [
+    "El &e&lSol&r&7 de día y las &d&lEstrellas&r&7 de noche.",
+    "",
+    "Y cuando todo sale mal, la &a&lÉgida&r&7 te cubre."
+  ],
+  "chapter.49245C1C892580C8.title": "&4Monstruos que escalan",
+  "quest.4DC647F23DED0C4B.title": "&eCómo funciona",
+  "quest.4DC647F23DED0C4B.quest_subtitle": "&7Cada jugador sube 1 nivel por cada 20 minutos jugados, hasta el 100.",
+  "quest.4DC647F23DED0C4B.quest_desc": [
+    "&7Cada jugador sube 1 nivel por cada 20 minutos jugados, hasta el 100.",
+    "&7",
+    "&7Los monstruos que aparecen cerca usan el nivel del jugador &r&dMÁS CERCANO&r&7.",
+    "&7",
+    "&7Si vas con alguien de nivel alto, los monstruos de su alrededor serán más duros para todos.",
+    "&7",
+    "&7En &dYoth&7 no cuenta: tu nivel &dni sube ni baja&7 y los monstruos de allí no se mejoran."
+  ],
+  "quest.471998B7E9B2D38F.title": "&2Zombis",
+  "quest.471998B7E9B2D38F.quest_subtitle": "&7Nivel 25: +25% vida, +38% daño.",
+  "quest.471998B7E9B2D38F.quest_desc": [
+    "&7&6&lNivel 25&r&7: &c+25% vida&7, &c+38% daño&7.",
+    "&7&6&lNivel 50&r&7: &c+50% vida&7, &c+75% daño&7.",
+    "&7&6&lNivel 100&r&7: &cel doble&7 de vida y &c+150% daño&7, y llaman refuerzos."
+  ],
+  "quest.4AD5E99117F257D7.title": "&fEsqueletos",
+  "quest.4AD5E99117F257D7.quest_subtitle": "&7Nivel 25: +25% vida, arco con Poder I.",
+  "quest.4AD5E99117F257D7.quest_desc": [
+    "&7&6&lNivel 25&r&7: &c+25% vida&7, arco con &cPoder I&7.",
+    "&7&6&lNivel 50&r&7: &c+50% vida&7, &cPoder II&7 y &carmadura&7.",
+    "&7&6&lNivel 100&r&7: doble vida, &cPoder V&7, Empuje y Fuego."
+  ],
+  "quest.40A3F7D3C2DF97E8.title": "&8Arañas",
+  "quest.40A3F7D3C2DF97E8.quest_subtitle": "&7Las que más vida ganan:",
+  "quest.40A3F7D3C2DF97E8.quest_desc": [
+    "&7Las que más vida ganan:",
+    "&7&6&lNivel 25&r&7: &c+75% vida&7.",
+    "&7&6&lNivel 50&r&7: &c+150% vida&7.",
+    "&7&6&lNivel 100&r&7: &ccuatro veces&7 más vida."
+  ],
+  "quest.4EAB4B2498695AF2.title": "&aCreepers",
+  "quest.4EAB4B2498695AF2.quest_subtitle": "&7Explotan antes y más fuerte.",
+  "quest.4EAB4B2498695AF2.quest_desc": [
+    "&7Explotan antes y más fuerte.",
+    "&7&6&lNivel 50&r&7: radio de explosión 4.",
+    "&7&6&lNivel 100&r&7: radio 6 y mecha mucho más corta."
+  ],
+  "quest.4D60181555FDC5B2.title": "&bGuardianes",
+  "quest.4D60181555FDC5B2.quest_subtitle": "&7Nivel 50: +75% vida y armadura.",
+  "quest.4D60181555FDC5B2.quest_desc": [
+    "&7&6&lNivel 50&r&7: &c+75% vida y &carmadura&7&7.",
+    "&7&6&lNivel 100&r&7: &c+150% vida y +25% daño&7."
+  ],
+  "quest.43BAF7436C24984B.title": "&3Ahogados",
+  "quest.43BAF7436C24984B.quest_subtitle": "&7Nivel 50: +75% vida, la mitad llevan tridente.",
+  "quest.43BAF7436C24984B.quest_desc": [
+    "&7&6&lNivel 50&r&7: &c+75% vida&7, la mitad llevan &ctridente&7.",
+    "&7&6&lNivel 100&r&7: &c+150% vida y todos con &ctridente&7&7."
+  ],
+  "quest.4BD80EE2EF4F3106.title": "&7Saqueadores e illagers",
+  "quest.4BD80EE2EF4F3106.quest_subtitle": "&7Más vida, armadura y daño. Los saqueadores llegan a disparar cohetes…",
+  "quest.4BD80EE2EF4F3106.quest_desc": [
+    "&7Más vida, &carmadura&7 y daño. Los saqueadores llegan a disparar cohetes de fuegos artificiales."
+  ],
+  "quest.40C3A04C45E87EE9.title": "&6Consejo",
+  "quest.40C3A04C45E87EE9.quest_subtitle": "&7Las mazmorras difíciles, mejor con jugadores de nivel bajo cerca... o…",
+  "quest.40C3A04C45E87EE9.quest_desc": [
+    "&7Las mazmorras difíciles, mejor con jugadores de nivel bajo cerca... o con muy buen equipo."
+  ],
+  "quest.4F62A4268F38F40B.title": "&4Los monstruos se hacen más fuertes",
+  "quest.4F62A4268F38F40B.quest_subtitle": "&7Cuanto más juegas, más fuertes son los monstruos que te rodean.",
+  "quest.4F62A4268F38F40B.quest_desc": [
+    "&7Cuanto más juegas, más fuertes son los monstruos que te rodean."
+  ],
+  "chapter.48A16BDEC86E0F14.title": "&aComodidades",
+  "quest.4C692BC8BC9736ED.title": "&a1. Lo básico",
+  "quest.4C692BC8BC9736ED.quest_subtitle": "&7Es un Vanilla Plus: se juega como Minecraft normal, pero con más…",
+  "quest.4C692BC8BC9736ED.quest_desc": [
+    "&7Es un Vanilla Plus: se juega como Minecraft normal, pero con más biomas, mobs, mazmorras y comodidades.",
+    "",
+    "&7Primero: madera, herramientas de piedra, comida y una cama."
+  ],
+  "quest.44D5585EA6235AF7.title": "&cDormir",
+  "quest.44D5585EA6235AF7.quest_subtitle": "&7Si duerme parte del servidor, la noche pasa con una animación suave.",
+  "quest.44D5585EA6235AF7.quest_desc": [
+    "&7Si duerme parte del servidor, la noche pasa con una animación suave.",
+    "",
+    "&8Mod: Seamless Sleep"
+  ],
+  "quest.44FB2EBBEE1F7826.title": "&bEncontrar biomas",
+  "quest.44FB2EBBEE1F7826.quest_subtitle": "&7La Brújula de la naturaleza te guía hasta cualquier bioma que elijas.",
+  "quest.44FB2EBBEE1F7826.quest_desc": [
+    "&7La Brújula de la naturaleza te guía hasta cualquier bioma que elijas.",
+    "&7Ideal con tantos biomas nuevos.",
+    "",
+    "&8Mod: Nature's Compass"
+  ],
+  "quest.45F048CC0E51D713.title": "&b¿Qué es ese bloque o mob?",
+  "quest.45F048CC0E51D713.quest_subtitle": "&7Al mirar algo aparece arriba un recuadro con su nombre y el mod al…",
+  "quest.45F048CC0E51D713.quest_desc": [
+    "&7Al mirar algo aparece arriba un recuadro con su nombre y el mod al que pertenece.",
+    "",
+    "&8Mod: Jade"
+  ],
+  "quest.430B23EA4B20877E.title": "&aPrimeros pasos",
+  "quest.430B23EA4B20877E.quest_subtitle": "&7Qué hacer al empezar, qué pasa al morir, mascotas, experiencia y…",
+  "quest.430B23EA4B20877E.quest_desc": [
+    "&7Qué hacer al empezar, qué pasa al morir, mascotas, experiencia y estaciones."
+  ],
+  "quest.4ED9299B6D03E005.title": "&6Traveler's Backpack",
+  "quest.4ED9299B6D03E005.quest_subtitle": "&7Mochilas con inventario extra, tanques de líquidos, saco de dormir y…",
+  "quest.4ED9299B6D03E005.quest_desc": [
+    "&7Mochilas con inventario extra, tanques de líquidos, saco de dormir y mejoras (horno, imán, crafteo...)."
+  ],
+  "quest.4B0BEAFDCDAF5FE0.title": "&7Gravestones",
+  "quest.4B0BEAFDCDAF5FE0.quest_subtitle": "&7Al morir tus cosas se quedan en una lápida. Vuelve a por ellas.",
+  "quest.4B0BEAFDCDAF5FE0.quest_desc": [
+    "&7Al morir tus cosas se quedan en una lápida. Vuelve a por ellas."
+  ],
+  "quest.4AD6A76EF5A0C5EF.title": "&aXP Tome",
+  "quest.4AD6A76EF5A0C5EF.quest_subtitle": "&7Guarda tu experiencia en un libro para no perderla.",
+  "quest.4AD6A76EF5A0C5EF.quest_desc": [
+    "&7Guarda tu experiencia en un libro para no perderla."
+  ],
+  "quest.40C0E86C23749FA0.title": "&dRespawnable Pets",
+  "quest.40C0E86C23749FA0.quest_subtitle": "&7Tus mascotas pueden revivir tras morir.",
+  "quest.40C0E86C23749FA0.quest_desc": [
+    "&7Tus mascotas pueden revivir tras morir."
+  ],
+  "quest.4B8834430C69708A.title": "&bNature's Compass",
+  "quest.4B8834430C69708A.quest_subtitle": "&7Brújula que te lleva al bioma que elijas.",
+  "quest.4B8834430C69708A.quest_desc": [
+    "&7Brújula que te lleva al bioma que elijas."
+  ],
+  "quest.45E9F45A2E27D2FB.title": "&6Inventory Totem",
+  "quest.45E9F45A2E27D2FB.quest_subtitle": "&7El tótem te salva aunque lo lleves en el inventario.",
+  "quest.45E9F45A2E27D2FB.quest_desc": [
+    "&7El tótem te salva aunque lo lleves en el inventario."
+  ],
+  "quest.4838644783E4382A.title": "&aFallingTree",
+  "quest.4838644783E4382A.quest_subtitle": "&7Al talar un tronco se cae el árbol entero.",
+  "quest.4838644783E4382A.quest_desc": [
+    "&7Al talar un tronco se cae el árbol entero."
+  ],
+  "quest.433F9B00AFC35131.title": "&eCarry On",
+  "quest.433F9B00AFC35131.quest_subtitle": "&7Con la mano vacía, mantén Alt izquierdo y haz clic derecho para coger…",
+  "quest.433F9B00AFC35131.quest_desc": [
+    "&7Con la mano vacía, mantén Alt izquierdo y haz clic derecho para coger cofres (con lo de dentro) o animales y llevarlos encima."
+  ],
+  "quest.440370794A2245AF.title": "&7Easy Anvils y Easy Magic",
+  "quest.440370794A2245AF.quest_subtitle": "&7Yunques más justos (sin \"Demasiado caro\" tan pronto) y mesas de…",
+  "quest.440370794A2245AF.quest_desc": [
+    "&7Yunques más justos (sin \"Demasiado caro\" tan pronto) y mesas de encantar que guardan los objetos."
+  ],
+  "quest.46C3CC27C35E0B17.title": "&dShulkers mejoradas",
+  "quest.46C3CC27C35E0B17.quest_subtitle": "&7Ves el contenido de las shulkers desde el inventario y puedes meter y…",
+  "quest.46C3CC27C35E0B17.quest_desc": [
+    "&7Ves el contenido de las shulkers desde el inventario y puedes meter y sacar cosas sin colocarlas."
+  ],
+  "quest.40E15D68886B723A.title": "&aCosecha fácil",
+  "quest.40E15D68886B723A.quest_subtitle": "&7Clic derecho para cosechar y replantar. Con lluvia los cultivos…",
+  "quest.40E15D68886B723A.quest_desc": [
+    "&7Clic derecho para cosechar y replantar. Con lluvia los cultivos crecen más rápido."
+  ],
+  "quest.47FFF200389D1B8C.title": "&fSit",
+  "quest.47FFF200389D1B8C.quest_subtitle": "&7Haz clic derecho en una losa o escalera para sentarte.",
+  "quest.47FFF200389D1B8C.quest_desc": [
+    "&7Haz clic derecho en una losa o escalera para sentarte."
+  ],
+  "quest.4CB3FAECE93E5E32.title": "&7Inventario",
+  "quest.4CB3FAECE93E5E32.quest_subtitle": "&7Botones para ordenar cofres e inventario, y atajos de ratón para…",
+  "quest.4CB3FAECE93E5E32.quest_desc": [
+    "&7Botones para ordenar cofres e inventario, y atajos de ratón para mover objetos rápido (Mouse Tweaks)."
+  ],
+  "quest.464FDD1524822097.title": "&fSpeed Happy Ghast",
+  "quest.464FDD1524822097.quest_subtitle": "&7El Ghast Feliz vuela más rápido cuando lo montas.",
+  "quest.464FDD1524822097.quest_desc": [
+    "&7El Ghast Feliz vuela más rápido cuando lo montas."
+  ],
+  "quest.437CD7D9B077B9E9.title": "&fExplorer's Compass",
+  "quest.437CD7D9B077B9E9.quest_subtitle": "&7Brújula que te lleva a la estructura que elijas: aldeas, templos,…",
+  "quest.437CD7D9B077B9E9.quest_desc": [
+    "Brújula que te lleva a la &destructura&7 que elijas: aldeas, templos, mazmorras de los mods...",
+    "",
+    "Fabrícala y haz clic derecho para elegir a dónde ir.",
+    "",
+    "&8Mod: Explorer's Compass"
+  ],
+  "quest.45B4B38CBCAD408C.title": "&eUtilidades",
+  "quest.45B4B38CBCAD408C.quest_subtitle": "&7Mochilas, tumbas, guardar experiencia, mascotas que reviven, cosechar…",
+  "quest.45B4B38CBCAD408C.quest_desc": [
+    "&7Mochilas, tumbas, guardar experiencia, mascotas que reviven, cosechar fácil..."
+  ],
+  "chapter.40191BDA19B86834.title": "&6Criaturas",
+  "quest.4CDA439E526FC98E.title": "&6Alex's Mobs",
+  "quest.4CDA439E526FC98E.quest_subtitle": "&7Más de 80 animales y criaturas nuevas, cada una con sus objetos y…",
+  "quest.4CDA439E526FC98E.quest_desc": [
+    "&7Más de 80 animales y criaturas nuevas, cada una con sus objetos y armaduras especiales."
+  ],
+  "quest.4229E36FBBC694B5.title": "&2Useless Reptile",
+  "quest.4229E36FBBC694B5.quest_subtitle": "&7Dragones y criaturas dracónicas que puedes domesticar y montar, con…",
+  "quest.4229E36FBBC694B5.quest_desc": [
+    "&7Dragones y criaturas dracónicas que puedes domesticar y montar, con armaduras propias."
+  ],
+  "quest.45D47E02445B6646.title": "&6Friends ＆ Foes",
+  "quest.45D47E02445B6646.quest_subtitle": "&7Los mobs de las votaciones de Mojang: gólems de cobre y toba,…",
+  "quest.45D47E02445B6646.quest_desc": [
+    "&7Los mobs de las votaciones de Mojang: gólems de cobre y toba, moobloom, cangrejo, glare, iceologer... y el Wildfire."
+  ],
+  "quest.40262B6F6C81B500.title": "&aVariants ＆ Ventures",
+  "quest.40262B6F6C81B500.quest_subtitle": "&7Nuevas variantes de zombis y esqueletos según el bioma: Gelid (frío),…",
+  "quest.40262B6F6C81B500.quest_desc": [
+    "&7Nuevas variantes de zombis y esqueletos según el bioma: Gelid (frío), Murk (agua), Thicket y Verdant (bosque)."
+  ],
+  "quest.44989C0401A99EAC.title": "&cIllager Invasion",
+  "quest.44989C0401A99EAC.quest_subtitle": "&7Muchos illagers nuevos y peligrosos.",
+  "quest.44989C0401A99EAC.quest_desc": [
+    "&7Muchos illagers nuevos y peligrosos."
+  ],
+  "quest.44B4E389106E8932.title": "&5Mobs del End y del Nether",
+  "quest.44B4E389106E8932.quest_subtitle": "&7BetterEnd y BetterNether añaden criaturas propias: libélulas,…",
+  "quest.44B4E389106E8932.quest_desc": [
+    "&7BetterEnd y BetterNether añaden criaturas propias: libélulas, medusas, nagas, cerdos voladores..."
+  ],
+  "quest.456CFD1714FC7557.title": "&3Mobs de The Sift",
+  "quest.456CFD1714FC7557.quest_subtitle": "&7La dimensión de The Sift tiene sus propias criaturas (Sifter, Echo…",
+  "quest.456CFD1714FC7557.quest_desc": [
+    "&7La dimensión de The Sift tiene sus propias criaturas (Sifter, Echo Golem, Singer...)."
+  ],
+  "quest.47D6CF2F6014C7EF.title": "&fSit, PatPat y más",
+  "quest.47D6CF2F6014C7EF.quest_subtitle": "&7Pequeños extras: acariciar a los mobs (PatPat) y animaciones nuevas…",
+  "quest.47D6CF2F6014C7EF.quest_desc": [
+    "&7Pequeños extras: acariciar a los mobs (PatPat) y animaciones nuevas para las criaturas."
+  ],
+  "quest.48C46EB22B06804A.title": "&6Mobs y criaturas",
+  "quest.48C46EB22B06804A.quest_subtitle": "&7Animales y monstruos nuevos: Alex's Mobs, dragones, variantes de…",
+  "quest.48C46EB22B06804A.quest_desc": [
+    "&7Animales y monstruos nuevos: Alex's Mobs, dragones, variantes de zombis..."
+  ],
+  "chapter.47499DF7C7D5B3A5.title": "&7› &6Alex's Mobs",
+  "task.4A2B472E0B5D156F.title": "Pedir el diccionario",
+  "quest.457414AEDC2A22D1.title": "&6&lDiccionario animal",
+  "quest.457414AEDC2A22D1.quest_subtitle": "Pídelo cuando quieras (si lo pierdes, otra vez).",
+  "quest.457414AEDC2A22D1.quest_desc": [
+    "El libro con todas las criaturas de &dAlex's Mobs&7: dónde viven, qué sueltan y cómo domesticarlas.",
+    "",
+    "Pulsa el &a✔&7 y recoge la recompensa. Puedes repetirlo cada 10 minutos."
+  ],
+  "quest.4889000668C4FCED.title": "&6Enciclopedia de animales",
+  "quest.4889000668C4FCED.quest_subtitle": "&7Libro con información de todos los mobs del mod.",
+  "quest.4889000668C4FCED.quest_desc": [
+    "&7Libro con información de todos los mobs del mod."
+  ],
+  "quest.4C9696C35FED1440.title": "&6Oso grizzly",
+  "quest.4C9696C35FED1440.quest_subtitle": "&7Se puede domesticar con salmón y miel.",
+  "quest.4C9696C35FED1440.quest_desc": [
+    "&7Se puede domesticar con salmón y miel."
+  ],
+  "quest.439E584E911EA34E.title": "&2Cocodrilo",
+  "quest.439E584E911EA34E.quest_subtitle": "&7Peligroso en ríos y pantanos. Suelta escamas para su peto.",
+  "quest.439E584E911EA34E.quest_desc": [
+    "&7Peligroso en ríos y pantanos. Suelta escamas para su peto."
+  ],
+  "quest.402F6A706A6BDB55.title": "&7Elefante",
+  "quest.402F6A706A6BDB55.quest_subtitle": "&7Se puede montar y llevar cofres.",
+  "quest.402F6A706A6BDB55.quest_desc": [
+    "&7Se puede montar y llevar cofres."
+  ],
+  "quest.4805705D52F12AF0.title": "&2Dragón de Komodo",
+  "quest.4805705D52F12AF0.quest_subtitle": "&7Muerde con veneno.",
+  "quest.4805705D52F12AF0.quest_desc": [
+    "&7Muerde con veneno."
+  ],
+  "quest.413ACF493B9B16B4.title": "&fÁguila",
+  "quest.413ACF493B9B16B4.quest_subtitle": "&7Se puede usar en cetrería con el guante.",
+  "quest.413ACF493B9B16B4.quest_desc": [
+    "&7Se puede usar en cetrería con el guante."
+  ],
+  "quest.4DA751386404D35A.title": "&fSerpiente ósea",
+  "quest.4DA751386404D35A.quest_subtitle": "&7Nada en los lagos de lava del Nether.",
+  "quest.4DA751386404D35A.quest_desc": [
+    "&7Nada en los lagos de lava del Nether."
+  ],
+  "quest.4EFA0BD8A50FCC7E.title": "&bSapo distorsionado",
+  "quest.4EFA0BD8A50FCC7E.quest_subtitle": "&7Del Nether.",
+  "quest.4EFA0BD8A50FCC7E.quest_desc": [
+    "&7Del Nether."
+  ],
+  "quest.4D27F55B20D8C4C2.title": "&5Gusano del vacío",
+  "quest.4D27F55B20D8C4C2.quest_subtitle": "&7Jefe del End. Muy peligroso.",
+  "quest.4D27F55B20D8C4C2.quest_desc": [
+    "&cJefe del End. Muy peligroso."
+  ],
+  "quest.40F457D627947B80.title": "&4Farseer",
+  "quest.40F457D627947B80.quest_subtitle": "&7Criatura hostil muy rara y peligrosa.",
+  "quest.40F457D627947B80.quest_desc": [
+    "&cCriatura hostil muy rara y peligrosa."
+  ],
+  "quest.48B5AD4AA062D624.title": "&3Cachalote",
+  "quest.48B5AD4AA062D624.quest_subtitle": "&7Gigante del océano. Suelta ámbar gris.",
+  "quest.48B5AD4AA062D624.quest_desc": [
+    "&7Gigante del océano. Suelta ámbar gris."
+  ],
+  "quest.493ADDA79CB9D2E1.title": "&dPulpo mimo",
+  "quest.493ADDA79CB9D2E1.quest_subtitle": "&7Imita a otros mobs.",
+  "quest.493ADDA79CB9D2E1.quest_desc": [
+    "&7Imita a otros mobs."
+  ],
+  "quest.426F46FF0CB655BB.title": "&aPeto de cocodrilo",
+  "quest.426F46FF0CB655BB.quest_subtitle": "&7Armadura especial que te ayuda bajo el agua.",
+  "quest.426F46FF0CB655BB.quest_desc": [
+    "&7Armadura especial que te ayuda bajo el agua."
+  ],
+  "quest.4F001F4479C5F322.title": "&eBotas de correcaminos",
+  "quest.4F001F4479C5F322.quest_subtitle": "&7Corres más rápido sobre la arena.",
+  "quest.4F001F4479C5F322.quest_desc": [
+    "&7Corres más rápido sobre la arena."
+  ],
+  "quest.4D8534FA6EA0DC34.title": "&bCasco de hielo",
+  "quest.4D8534FA6EA0DC34.quest_subtitle": "&7Para climas fríos.",
+  "quest.4D8534FA6EA0DC34.quest_desc": [
+    "&7Para climas fríos."
+  ],
+  "quest.4BA3C1B656BC7BA9.title": "&6Tocado de asta",
+  "quest.4BA3C1B656BC7BA9.quest_subtitle": "&7Aumenta el empuje al golpear.",
+  "quest.4BA3C1B656BC7BA9.quest_desc": [
+    "&7Aumenta el empuje al golpear."
+  ],
+  "quest.4C09A5D1DDD19C14.title": "&4Exoesqueleto de ciempiés",
+  "quest.4C09A5D1DDD19C14.quest_subtitle": "&7Te ayuda a trepar.",
+  "quest.4C09A5D1DDD19C14.quest_desc": [
+    "&7Te ayuda a trepar."
+  ],
+  "quest.426E18FDDD616C76.title": "&bBotas de pez volador",
+  "quest.426E18FDDD616C76.quest_subtitle": "&7Saltos más largos en el agua.",
+  "quest.426E18FDDD616C76.quest_desc": [
+    "&7Saltos más largos en el agua."
+  ],
+  "quest.493E6FF87C2F7D0A.title": "&6Élitros de avispa",
+  "quest.493E6FF87C2F7D0A.quest_subtitle": "&7Élitros alternativos.",
+  "quest.493E6FF87C2F7D0A.quest_desc": [
+    "&7Élitros alternativos."
+  ],
+  "quest.45CC4FC437875B8E.title": "&fGuante de cetrería",
+  "quest.45CC4FC437875B8E.quest_subtitle": "&7Para llevar tu ave en el brazo.",
+  "quest.45CC4FC437875B8E.quest_desc": [
+    "&7Para llevar tu ave en el brazo."
+  ],
+  "quest.4FCA6F35517DD9A1.title": "&5Tallador de dimensiones",
+  "quest.4FCA6F35517DD9A1.quest_subtitle": "&7Abre portales temporales.",
+  "quest.4FCA6F35517DD9A1.quest_desc": [
+    "&7Abre portales temporales."
+  ],
+  "quest.490157946178000D.title": "&bEcolocalizador",
+  "quest.490157946178000D.quest_subtitle": "&7Localiza estructuras ocultas.",
+  "quest.490157946178000D.quest_desc": [
+    "&7Localiza estructuras ocultas."
+  ],
+  "quest.4F7CCD409BB42D13.title": "&fPico fantasmal",
+  "quest.4F7CCD409BB42D13.quest_subtitle": "&7Pico especial obtenido de un mob.",
+  "quest.4F7CCD409BB42D13.quest_desc": [
+    "&7Pico especial obtenido de un mob."
+  ],
+  "quest.414EDCEAC702B0EA.title": "&7Peto acorazado",
+  "quest.414EDCEAC702B0EA.quest_subtitle": "&7Te permite rodar como un armadillo.",
+  "quest.414EDCEAC702B0EA.quest_desc": [
+    "&7Te permite rodar como un armadillo."
+  ],
+  "quest.4B83910CDCB2CF34.title": "&6&lLo más útil",
+  "quest.4B83910CDCB2CF34.quest_subtitle": "&7Los objetos y criaturas más importantes del mod.",
+  "quest.4B83910CDCB2CF34.quest_desc": [
+    "Los objetos y criaturas más importantes del mod."
+  ],
+  "chapter.496A2C7739A0CE84.title": "&7› &6Friends ＆ Foes",
+  "quest.4F8DEF8330AF1176.title": "&6Wildfire",
+  "quest.4F8DEF8330AF1176.quest_subtitle": "&7Jefe del Nether, vive en la Ciudadela.",
+  "quest.4F8DEF8330AF1176.quest_desc": [
+    "&cJefe del Nether, vive en la Ciudadela.",
+    "&7Suelta fragmentos de su corona."
+  ],
+  "quest.470213A24B92135B.title": "&6Corona infernal",
+  "quest.470213A24B92135B.quest_subtitle": "&7Casco del Wildfire. Te protege del fuego.",
+  "quest.470213A24B92135B.quest_desc": [
+    "&7Casco del Wildfire. Te protege del fuego."
+  ],
+  "quest.4D0304F6BD49C6AE.title": "&bIceologer",
+  "quest.4D0304F6BD49C6AE.quest_subtitle": "&7Illager de hielo, vive en cabañas en la nieve.",
+  "quest.4D0304F6BD49C6AE.quest_desc": [
+    "&7Illager de hielo, vive en cabañas en la nieve."
+  ],
+  "quest.4CF9CFB50BB92ECC.title": "&9Illusioner",
+  "quest.4CF9CFB50BB92ECC.quest_subtitle": "&7Crea copias de sí mismo.",
+  "quest.4CF9CFB50BB92ECC.quest_desc": [
+    "&7Crea copias de sí mismo."
+  ],
+  "quest.49BE7A91139225C5.title": "&7Gólem de toba",
+  "quest.49BE7A91139225C5.quest_subtitle": "&7Sujeta y muestra objetos como una estatua.",
+  "quest.49BE7A91139225C5.quest_desc": [
+    "&7Sujeta y muestra objetos como una estatua."
+  ],
+  "quest.4620FD6305399B4F.title": "&eMoobloom",
+  "quest.4620FD6305399B4F.quest_subtitle": "&7Vaca de flores.",
+  "quest.4620FD6305399B4F.quest_desc": [
+    "&7Vaca de flores."
+  ],
+  "quest.47EE58CB6759B881.title": "&cCangrejo",
+  "quest.47EE58CB6759B881.quest_subtitle": "&7Su pinza te da más alcance.",
+  "quest.47EE58CB6759B881.quest_desc": [
+    "&7Su pinza te da más alcance."
+  ],
+  "quest.46233CAD2A6B0348.title": "&aGlare",
+  "quest.46233CAD2A6B0348.quest_subtitle": "&7Te avisa de las zonas oscuras donde salen monstruos.",
+  "quest.46233CAD2A6B0348.quest_desc": [
+    "&7Te avisa de las zonas oscuras donde salen monstruos."
+  ],
+  "quest.48CD0087B5A2EFF3.title": "&7Rascal",
+  "quest.48CD0087B5A2EFF3.quest_subtitle": "&7Se esconde en las minas.",
+  "quest.48CD0087B5A2EFF3.quest_desc": [
+    "&7Se esconde en las minas.",
+    "&7¡Encuéntralo!"
+  ],
+  "quest.447047A912FF6A2B.title": "&6Mauler",
+  "quest.447047A912FF6A2B.quest_subtitle": "&7Depredador de los desiertos.",
+  "quest.447047A912FF6A2B.quest_desc": [
+    "&7Depredador de los desiertos."
+  ],
+  "quest.43C2713FDF7DC123.title": "&bTótem de congelación",
+  "quest.43C2713FDF7DC123.quest_subtitle": "&7Tótem especial del Iceologer.",
+  "quest.43C2713FDF7DC123.quest_desc": [
+    "&7Tótem especial del Iceologer."
+  ],
+  "quest.465F4B5003D246A0.title": "&dTótem de ilusión",
+  "quest.465F4B5003D246A0.quest_subtitle": "&7Tótem especial del Illusioner.",
+  "quest.465F4B5003D246A0.quest_desc": [
+    "&7Tótem especial del Illusioner."
+  ],
+  "quest.4A7C7F66FB445420.title": "&cPinza de cangrejo",
+  "quest.4A7C7F66FB445420.quest_subtitle": "&7Aumenta tu alcance para colocar bloques.",
+  "quest.4A7C7F66FB445420.quest_desc": [
+    "&7Aumenta tu alcance para colocar bloques."
+  ],
+  "quest.4C3125044E8D36B5.title": "&6Friends ＆ Foes",
+  "quest.4C3125044E8D36B5.quest_subtitle": "&7Los mobs de las votaciones de Mojang: gólems de cobre y toba,…",
+  "quest.4C3125044E8D36B5.quest_desc": [
+    "&7Los mobs de las votaciones de Mojang: gólems de cobre y toba, moobloom, cangrejo, glare, iceologer... y el Wildfire."
+  ],
+  "chapter.4D9A475CF55E2077.title": "&7› &6Useless Reptile",
+  "quest.4EB01E40F3569BDA.title": "&2Wyvern de pantano",
+  "quest.4EB01E40F3569BDA.quest_subtitle": "&7Dónde: pantanos.",
+  "quest.4EB01E40F3569BDA.quest_desc": [
+    "&bDónde: pantanos.",
+    "&eDomarlo:",
+    "&r&7Dale 1-2 stacks de &r&dpollo&r&7 (crudo o cocinado) o 4 stacks de cualquier otra carne (vale la carne podrida).",
+    "&eObjetos:",
+    "&r&dMontura&r&7 o &r&dMontura&r&7 &r&ddoble&r&7 (para ir dos). Con un &r&dfrasco&r&7 &r&dvacío&r&7 le sacas ácido, que se usa como una poción.",
+    "&r&dNO&r&7 puede llevar armadura.",
+    "&eHabilidades (G y R):",
+    "&r&7Escupe bolas de &r&dácido&r&7 (puntería regular) y muerde."
+  ],
+  "quest.4028E6C369FD4CB0.title": "&eLightning Chaser",
+  "quest.4028E6C369FD4CB0.quest_subtitle": "&7Dónde: aparece en las tormentas cerca de los jugadores.",
+  "quest.4028E6C369FD4CB0.quest_desc": [
+    "&bDónde: aparece en las tormentas cerca de los jugadores.",
+    "&eDomarlo:",
+    "&7Hay que vencerlo: bájale la vida y golpéalo con &r&d3&r&7 &r&drayos&r&7 (tridente con &r&dCanalización&r&7).",
+    "&eObjetos:",
+    "&r&dMontura&r&7, &r&darmadura&r&7 &r&dde&r&7 &r&ddragón (casco, peto y cola de hierro, oro, diamante o netherita) y estandartes.",
+    "&eHabilidades (G y R):",
+    "&r&dAliento&r&7 &r&dde&r&7 &r&drayo&r&7: rompe bloques y hace lo mismo que un rayo (creepers cargados, brujas...).",
+    "&r&dOnda&r&7 &r&dexpansiva&r&7 (solo volando):",
+    "&7desvía flechas y empuja a los mobs.",
+    "&7En el suelo, muerde.",
+    "&r&7Ambos ataques dan &r&dShock&r&7: el enemigo va más lento, pega menos y ve peor."
+  ],
+  "quest.4262A3CF669E9159.title": "&6Moleclaw",
+  "quest.4262A3CF669E9159.quest_subtitle": "&7Dónde: cuevas.",
+  "quest.4262A3CF669E9159.quest_desc": [
+    "&bDónde: cuevas.",
+    "&eDomarlo:",
+    "&7Dale de media a una stack de remolacha&r&7.",
+    "&eObjetos:",
+    "&r&dMontura&r&7, &r&darmadura&r&7 &r&dde&r&7 &r&ddragón y su &r&dcasco&r&7 &r&dde&r&7 &r&dMoleclaw&r&7: sin el casco le da miedo la luz.",
+    "&eHabilidades (G y R):",
+    "&r&dExcava&r&7 lo que rompe un pico de madera. Con poción de &r&dFuerza&r&7 rompe bloques más duros; con &r&dDebilidad no rompe nada.",
+    "&7Ataques cuerpo a cuerpo que dan a todo lo que tiene delante."
+  ],
+  "quest.4AA866B9AC7C316F.title": "&bRiver Pikehorn",
+  "quest.4AA866B9AC7C316F.quest_subtitle": "&7Dónde: ríos y playas que no estén congelados.",
+  "quest.4AA866B9AC7C316F.quest_desc": [
+    "&bDónde: ríos y playas que no estén congelados.",
+    "&eDomarlo:",
+    "&r&7Un &r&dcubo&r&7 &r&dcon&r&7 &r&dpez&r&7 &r&dtropical&r&7 o 4-8 peces tropicales.",
+    "&eObjetos:",
+    "&r&7Con la &r&dFlauta&r&7 le mandas pescar para ti o atacar a un mob.",
+    "&r&dNO&r&7 se monta: se lleva en la cabeza (agáchate y haz clic en un bloque para ponértelo o quitártelo).",
+    "&eHabilidades:",
+    "&7Solo ataca cuerpo a cuerpo."
+  ],
+  "quest.466A8F910111B077.title": "&cMagmamuncher",
+  "quest.466A8F910111B077.quest_subtitle": "&7Dónde: Nether, cerca de los lagos de lava.",
+  "quest.466A8F910111B077.quest_desc": [
+    "&bDónde: Nether, cerca de los lagos de lava.",
+    "&eDomarlo:",
+    "&r&7Dale entre 4 y 12 &r&dvaras&r&7 &r&dde blaze&r&7.",
+    "&eObjetos:",
+    "&r&dNO&r&7 se monta: se lleva en la cabeza como el Pikehorn.",
+    "&r&7Si lleva &r&dcombustible&r&7 en su inventario (carbón...), te da Resistencia&r&7 &r&dal&r&7 &r&dfuego&r&7 cuando te prendes.",
+    "&eHabilidades:",
+    "&7Excava bloques de magma (a veces saca carbón). Sus mordiscos queman y es inmune al fuego."
+  ],
+  "quest.4F3998BAF5DA2293.title": "&eÓrdenes y cuidados",
+  "quest.4F3998BAF5DA2293.quest_subtitle": "&7Sirve para todos los dragones domados:",
+  "quest.4F3998BAF5DA2293.quest_desc": [
+    "&7Sirve para todos los dragones domados:",
+    "",
+    "&r&dAgáchate&r&7 &r&d+&r&7 &r&dclic&r&7 &r&dderecho&r&7:",
+    "&7abrir su inventario y darle órdenes (seguir, quedarse, sentarse).",
+    "&r&dPalo&r&7 o cuerno agachado: sentarlo o levantarlo.",
+    "&7Pociones agachado: dárselas al dragón.",
+    "&7Si le pones comida en el inventario, come solo."
+  ],
+  "quest.42CD36F88043CB23.title": "&bArmadura de dragón",
+  "quest.42CD36F88043CB23.quest_subtitle": "&7Casco, peto y cola de hierro, oro, diamante o netherita (la de…",
+  "quest.42CD36F88043CB23.quest_desc": [
+    "&7Casco, peto y cola de hierro, oro, diamante o netherita (la de netherita, en la mesa de herrería).",
+    "",
+    "&r&7Solo para el &r&dLightning&r&7 &r&dChaser&r&7 y el &r&dMoleclaw&r&7."
+  ],
+  "quest.47518FCD7A890C0F.title": "&7Casco de Moleclaw",
+  "quest.47518FCD7A890C0F.quest_subtitle": "&7Hace que el Moleclaw no tenga miedo de la luz.",
+  "quest.47518FCD7A890C0F.quest_desc": [
+    "&7Hace que el Moleclaw no tenga miedo de la luz."
+  ],
+  "quest.4E656E9748B1534E.title": "&6Montura doble",
+  "quest.4E656E9748B1534E.quest_subtitle": "&7Solo para el Wyvern: para montar dos jugadores a la vez.",
+  "quest.4E656E9748B1534E.quest_desc": [
+    "&7Solo para el Wyvern: para montar dos jugadores a la vez."
+  ],
+  "quest.41A856F95FB3CC76.title": "&eFlauta",
+  "quest.41A856F95FB3CC76.quest_subtitle": "&7Da órdenes a distancia: llamar, sentarse, levantarse, atacar o pescar.",
+  "quest.41A856F95FB3CC76.quest_desc": [
+    "&7Da órdenes a distancia: llamar, sentarse, levantarse, atacar o pescar.",
+    "",
+    "&r&dAgachado&r&7 &r&d+&r&7 &r&dclic&r&7 &r&dderecho&r&7 &r&dal aire&r&7: cambiar de orden.",
+    "&r&dClic&r&7 &r&dderecho&r&7 &r&den&r&7 &r&dun&r&7 &r&ddragón&r&7:",
+    "&7elegir a qué tipo de dragón mandas."
+  ],
+  "quest.479914831587CC98.title": "&dCuerno del vórtice",
+  "quest.479914831587CC98.quest_subtitle": "&7Cuerno de cabra mejorado que GUARDA a tus dragones dentro para…",
+  "quest.479914831587CC98.quest_desc": [
+    "&7Cuerno de cabra mejorado que GUARDA&r&7 a tus dragones dentro para llevarlos contigo.",
+    "",
+    "&7Hay versiones de hierro, oro, diamante y netherita: cuanto mejor, más dragones caben."
+  ],
+  "quest.473E7C48EF200BEC.title": "&6Llamar a tu dragón",
+  "quest.473E7C48EF200BEC.quest_subtitle": "&7Haz clic derecho con un cuerno de cabra sobre tu dragón para…",
+  "quest.473E7C48EF200BEC.quest_desc": [
+    "&r&7Haz clic derecho con un &r&dcuerno de&r&7 &r&dcabra&r&7 sobre tu dragón para vincularlo.",
+    "",
+    "&7Al tocar ese cuerno, el dragón vendrá aunque esté sentado."
+  ],
+  "quest.455D7936C805FA99.title": "&2Piel de wyvern",
+  "quest.455D7936C805FA99.quest_subtitle": "&7Solo sirve para sacar 2 de cuero.",
+  "quest.455D7936C805FA99.quest_desc": [
+    "&7Solo sirve para sacar 2 de cuero."
+  ],
+  "quest.42C5627372EC7267.title": "&6Controles al montar",
+  "quest.42C5627372EC7267.quest_subtitle": "&7W/S mover · Ctrl bajar",
+  "quest.42C5627372EC7267.quest_desc": [
+    "&r&dW/S&r&7 mover · &r&dCtrl&r&7 bajar",
+    "&r&dG&r&7 y &r&dR&r&7 habilidades · &r&dZ&r&7 mirar libre",
+    "",
+    "&7Los dragones no se mueven de lado.",
+    "&7Las teclas se cambian en Opciones > Controles."
+  ],
+  "chapter.4C40184AC9BD5AFD.title": "&7› &6Illager Invasion",
+  "quest.41028C857DB629EC.title": "&5Invocador",
+  "quest.41028C857DB629EC.quest_subtitle": "&7Jefe illager muy peligroso: invoca colmillos y se vuelve invisible.",
+  "quest.41028C857DB629EC.quest_desc": [
+    "&7Jefe illager muy peligroso: invoca colmillos y se vuelve invisible."
+  ],
+  "quest.4B9A62D5A424CD73.title": "&8Nigromante",
+  "quest.4B9A62D5A424CD73.quest_subtitle": "&7Levanta a los muertos para que luchen por él.",
+  "quest.4B9A62D5A424CD73.quest_desc": [
+    "&7Levanta a los muertos para que luchen por él."
+  ],
+  "quest.4AD7CD1AF6E242A4.title": "&cInquisidor",
+  "quest.4AD7CD1AF6E242A4.quest_subtitle": "&7Guerrero con escudo, golpea muy fuerte.",
+  "quest.4AD7CD1AF6E242A4.quest_desc": [
+    "&7Guerrero con escudo, golpea muy fuerte."
+  ],
+  "quest.4EECD8224E8DA7C9.title": "&dHechicero",
+  "quest.4EECD8224E8DA7C9.quest_subtitle": "&7Lanza hechizos a distancia.",
+  "quest.4EECD8224E8DA7C9.quest_desc": [
+    "&7Lanza hechizos a distancia."
+  ],
+  "quest.4500974E3DD60613.title": "&6Firecaller",
+  "quest.4500974E3DD60613.quest_subtitle": "&7Lanza fuego mágico.",
+  "quest.4500974E3DD60613.quest_desc": [
+    "&7Lanza fuego mágico."
+  ],
+  "quest.47EE1607AB7A6696.title": "&7Basher",
+  "quest.47EE1607AB7A6696.quest_subtitle": "&7Te rompe el escudo a golpes.",
+  "quest.47EE1607AB7A6696.quest_desc": [
+    "&7Te rompe el escudo a golpes."
+  ],
+  "quest.48EE5B9A4060C079.title": "&7Marauder",
+  "quest.48EE5B9A4060C079.quest_subtitle": "&7Lanza hachas.",
+  "quest.48EE5B9A4060C079.quest_desc": [
+    "&7Lanza hachas."
+  ],
+  "quest.4F8C9625B2F73EB0.title": "&7Provoker",
+  "quest.4F8C9625B2F73EB0.quest_subtitle": "&7Apoya a los demás illagers.",
+  "quest.4F8C9625B2F73EB0.quest_desc": [
+    "&7Apoya a los demás illagers."
+  ],
+  "quest.43374A57379E02D8.title": "&aAlquimista",
+  "quest.43374A57379E02D8.quest_subtitle": "&7Lanza pociones.",
+  "quest.43374A57379E02D8.quest_desc": [
+    "&7Lanza pociones."
+  ],
+  "quest.424E26C1BCB25695.title": "&bArchivista",
+  "quest.424E26C1BCB25695.quest_subtitle": "&7Hace levitar a sus enemigos.",
+  "quest.424E26C1BCB25695.quest_desc": [
+    "&7Hace levitar a sus enemigos."
+  ],
+  "quest.4947BF823E58E56D.title": "&fSurrendered",
+  "quest.4947BF823E58E56D.quest_subtitle": "&7Espíritu que acompaña al Invocador.",
+  "quest.4947BF823E58E56D.quest_desc": [
+    "&7Espíritu que acompaña al Invocador."
+  ],
+  "quest.46359B09BB84C66F.title": "&fHacha de platino",
+  "quest.46359B09BB84C66F.quest_subtitle": "&7Arma arrojadiza obtenida de los illagers.",
+  "quest.46359B09BB84C66F.quest_desc": [
+    "&7Arma arrojadiza obtenida de los illagers."
+  ],
+  "quest.459193C5458DA105.title": "&dMesa de imbuir",
+  "quest.459193C5458DA105.quest_subtitle": "&7Permite subir encantamientos por encima del máximo normal.",
+  "quest.459193C5458DA105.quest_desc": [
+    "&7Permite subir encantamientos por encima del máximo normal."
+  ],
+  "quest.47EA464092934E28.title": "&eCuerno de la visión",
+  "quest.47EA464092934E28.quest_subtitle": "&7Revela a los enemigos cercanos.",
+  "quest.47EA464092934E28.quest_desc": [
+    "&7Revela a los enemigos cercanos."
+  ],
+  "quest.4860C026AA83B6E6.title": "&bGema sagrada",
+  "quest.4860C026AA83B6E6.quest_subtitle": "&7Material raro de los illagers.",
+  "quest.4860C026AA83B6E6.quest_desc": [
+    "&7Material raro de los illagers."
+  ],
+  "quest.469D25CF7BDE4409.title": "&fPlatino",
+  "quest.469D25CF7BDE4409.quest_subtitle": "&7Material para el equipo de platino.",
+  "quest.469D25CF7BDE4409.quest_desc": [
+    "&7Material para el equipo de platino."
+  ],
+  "quest.4211EC5D1F2E8708.title": "&cIllager Invasion",
+  "quest.4211EC5D1F2E8708.quest_subtitle": "&7Muchos illagers nuevos y peligrosos.",
+  "quest.4211EC5D1F2E8708.quest_desc": [
+    "&7Muchos illagers nuevos y peligrosos."
+  ],
+  "chapter.459A2F7493AAA428.title": "&6Hogar y creatividad",
+  "quest.46D6099044CD1A79.title": "&6MrCrayfish's Furniture: Refurbished",
+  "quest.46D6099044CD1A79.quest_subtitle": "&7Cientos de muebles: cocinas, sofás, lámparas, televisores,…",
+  "quest.46D6099044CD1A79.quest_desc": [
+    "&7Cientos de muebles: cocinas, sofás, lámparas, televisores, ordenadores, baños... ¡muchos funcionan!"
+  ],
+  "quest.4D41E9AE12A4C2A4.title": "&fAscensores",
+  "quest.4D41E9AE12A4C2A4.quest_subtitle": "&7Pon dos ascensores en vertical:",
+  "quest.4D41E9AE12A4C2A4.quest_desc": [
+    "&7Pon dos ascensores en vertical:",
+    "&7salta para subir y agáchate para bajar. Se pueden teñir."
+  ],
+  "quest.477D5FE6989C7247.title": "&eImmersive Melodies",
+  "quest.477D5FE6989C7247.quest_subtitle": "&7Instrumentos de verdad (laúd, piano, flauta, gaita...) para tocar…",
+  "quest.477D5FE6989C7247.quest_desc": [
+    "&7Instrumentos de verdad (laúd, piano, flauta, gaita...) para tocar canciones con los amigos."
+  ],
+  "quest.4926CA15C759C962.title": "&fArmor Statues",
+  "quest.4926CA15C759C962.quest_subtitle": "&7Coloca los soportes de armadura en cualquier pose, con brazos, y sin…",
+  "quest.4926CA15C759C962.quest_desc": [
+    "&7Coloca los soportes de armadura en cualquier pose, con brazos, y sin necesidad de comandos."
+  ],
+  "quest.49C77FD642A988B5.title": "&bLitematica",
+  "quest.49C77FD642A988B5.quest_subtitle": "&7Carga esquemas de construcciones como holograma para copiarlas bloque…",
+  "quest.49C77FD642A988B5.quest_desc": [
+    "&7Carga esquemas de construcciones como holograma para copiarlas bloque a bloque."
+  ],
+  "quest.407803B4E879BD19.title": "&dFlashback (cámara)",
+  "quest.407803B4E879BD19.quest_subtitle": "&7Graba tus partidas y luego móvete libremente por la grabación para…",
+  "quest.407803B4E879BD19.quest_desc": [
+    "&7Graba tus partidas y luego móvete libremente por la grabación para hacer vídeos y tomas de cine."
+  ],
+  "quest.49C57A08F8D650E4.title": "&dJi AFK Cinematic",
+  "quest.49C57A08F8D650E4.quest_subtitle": "&7Si te quedas AFK, la cámara hace tomas cinematográficas automáticas…",
+  "quest.49C57A08F8D650E4.quest_desc": [
+    "&r&7Si te quedas &r&dAFK&r&7, la cámara hace tomas cinematográficas automáticas alrededor tuyo."
+  ],
+  "quest.491474BF6CD8BDE1.title": "&6Emotecraft",
+  "quest.491474BF6CD8BDE1.quest_subtitle": "&7Bailes y gestos para tu personaje.",
+  "quest.491474BF6CD8BDE1.quest_desc": [
+    "&7Bailes y gestos para tu personaje.",
+    "&7También puedes crear los tuyos."
+  ],
+  "quest.4DB6E2EF2AA33222.title": "&5Elytra Trims",
+  "quest.4DB6E2EF2AA33222.quest_subtitle": "&7Personaliza tus élitros con adornos, estandartes y colores.",
+  "quest.4DB6E2EF2AA33222.quest_desc": [
+    "&7Personaliza tus élitros con adornos, estandartes y colores."
+  ],
+  "quest.4449A0EAAC146764.title": "&fScholar y Scribble",
+  "quest.4449A0EAAC146764.quest_subtitle": "&7Libros mejores: formato de texto, vista a dos páginas y editar en el…",
+  "quest.4449A0EAAC146764.quest_desc": [
+    "&7Libros mejores: formato de texto, vista a dos páginas y editar en el atril."
+  ],
+  "quest.447E5B7D62D2ABAD.title": "&5Bloques de BetterEnd y BetterNether",
+  "quest.447E5B7D62D2ABAD.quest_subtitle": "&7Maderas, piedras, plantas y luces nuevas del End y del Nether para…",
+  "quest.447E5B7D62D2ABAD.quest_desc": [
+    "&7Maderas, piedras, plantas y luces nuevas del End y del Nether para construir."
+  ],
+  "quest.4D8F557D1903FFCA.title": "&bConstrucción y creatividad",
+  "quest.4D8F557D1903FFCA.quest_subtitle": "&7Muebles, ascensores, instrumentos, esquemas, grabación de vídeo y…",
+  "quest.4D8F557D1903FFCA.quest_desc": [
+    "&7Muebles, ascensores, instrumentos, esquemas, grabación de vídeo y decoración."
+  ],
+  "chapter.416F96FD638651E8.title": "&7› &6Muebles",
+  "quest.426ACD72D3C7A19F.title": "&6Mesas y sillas",
+  "quest.426ACD72D3C7A19F.quest_subtitle": "&7En todas las maderas.",
+  "quest.426ACD72D3C7A19F.quest_desc": [
+    "&7En todas las maderas."
+  ],
+  "quest.455904268DD1280C.title": "&fCocina",
+  "quest.455904268DD1280C.quest_subtitle": "&7Fregaderos, armarios, cajones...",
+  "quest.455904268DD1280C.quest_desc": [
+    "&7Fregaderos, armarios, cajones..."
+  ],
+  "quest.474993FEAFC038A2.title": "&fFogón",
+  "quest.474993FEAFC038A2.quest_subtitle": "&7Cocina comida de verdad.",
+  "quest.474993FEAFC038A2.quest_desc": [
+    "&7Cocina comida de verdad."
+  ],
+  "quest.48BF397F8CD131CA.title": "&fNevera",
+  "quest.48BF397F8CD131CA.quest_subtitle": "&7Guarda comida.",
+  "quest.48BF397F8CD131CA.quest_desc": [
+    "&7Guarda comida."
+  ],
+  "quest.42000780FC3DFEE9.title": "&fMicroondas",
+  "quest.42000780FC3DFEE9.quest_subtitle": "&7Cocina rápido.",
+  "quest.42000780FC3DFEE9.quest_desc": [
+    "&7Cocina rápido."
+  ],
+  "quest.4B444DAEE79B91E0.title": "&fTostadora",
+  "quest.4B444DAEE79B91E0.quest_subtitle": "&7¡Tostadas!",
+  "quest.4B444DAEE79B91E0.quest_desc": [
+    "&7¡Tostadas!"
+  ],
+  "quest.4082E7315C2CC166.title": "&7Sartén",
+  "quest.4082E7315C2CC166.quest_subtitle": "&7Para cocinar en el fogón.",
+  "quest.4082E7315C2CC166.quest_desc": [
+    "&7Para cocinar en el fogón."
+  ],
+  "quest.42DCC3E51802920A.title": "&7Televisión",
+  "quest.42DCC3E51802920A.quest_subtitle": "&7Con mando a distancia.",
+  "quest.42DCC3E51802920A.quest_desc": [
+    "&7Con mando a distancia."
+  ],
+  "quest.4EEB07755A88D970.title": "&7Ordenador",
+  "quest.4EEB07755A88D970.quest_subtitle": "&7Tiene programas dentro.",
+  "quest.4EEB07755A88D970.quest_desc": [
+    "&7Tiene programas dentro."
+  ],
+  "quest.4594F5F11338EDDE.title": "&eTimbre",
+  "quest.4594F5F11338EDDE.quest_subtitle": "&7Para tu casa.",
+  "quest.4594F5F11338EDDE.quest_desc": [
+    "&7Para tu casa."
+  ],
+  "quest.4973456CEE6EB3C4.title": "&eGenerador eléctrico",
+  "quest.4973456CEE6EB3C4.quest_subtitle": "&7Algunos muebles necesitan electricidad.",
+  "quest.4973456CEE6EB3C4.quest_desc": [
+    "&7Algunos muebles necesitan electricidad."
+  ],
+  "quest.429F196896B54592.title": "&6MrCrayfish's Furniture: Refurbished",
+  "quest.429F196896B54592.quest_subtitle": "&7Cientos de muebles: cocinas, sofás, lámparas, televisores,…",
+  "quest.429F196896B54592.quest_desc": [
+    "&7Cientos de muebles: cocinas, sofás, lámparas, televisores, ordenadores, baños... ¡muchos funcionan!"
+  ],
+  "chapter.490234D27BDD56D5.title": "&7› &6Mochilas",
+  "quest.45C6CBF00CB4A208.title": "&6Mochila normal",
+  "quest.45C6CBF00CB4A208.quest_subtitle": "&7La primera que puedes fabricar.",
+  "quest.45C6CBF00CB4A208.quest_desc": [
+    "&7La primera que puedes fabricar."
+  ],
+  "quest.4415D16FB8F49532.title": "&7Mochila de hierro",
+  "quest.4415D16FB8F49532.quest_subtitle": "&7Más espacio.",
+  "quest.4415D16FB8F49532.quest_desc": [
+    "&7Más espacio."
+  ],
+  "quest.40CC5A7F4C786B7A.title": "&6Mochila de oro",
+  "quest.40CC5A7F4C786B7A.quest_subtitle": "&7Aún más espacio.",
+  "quest.40CC5A7F4C786B7A.quest_desc": [
+    "&7Aún más espacio."
+  ],
+  "quest.4AFB8A1B4B0BF01A.title": "&bMochila de diamante",
+  "quest.4AFB8A1B4B0BF01A.quest_subtitle": "&7Mucho espacio.",
+  "quest.4AFB8A1B4B0BF01A.quest_desc": [
+    "&7Mucho espacio."
+  ],
+  "quest.479C81BA4190F8DD.title": "&8Mochila de netherita",
+  "quest.479C81BA4190F8DD.quest_subtitle": "&7La más grande.",
+  "quest.479C81BA4190F8DD.quest_desc": [
+    "&7La más grande."
+  ],
+  "quest.42999DECD53AD445.title": "&fMejoras de nivel",
+  "quest.42999DECD53AD445.quest_subtitle": "&7Sube de nivel tu mochila sin perder lo de dentro.",
+  "quest.42999DECD53AD445.quest_desc": [
+    "&7Sube de nivel tu mochila sin perder lo de dentro."
+  ],
+  "quest.48BEF986AB9A51AF.title": "&eMejora de crafteo",
+  "quest.48BEF986AB9A51AF.quest_subtitle": "&7Mesa de crafteo dentro de la mochila.",
+  "quest.48BEF986AB9A51AF.quest_desc": [
+    "&7Mesa de crafteo dentro de la mochila."
+  ],
+  "quest.441EED7EA0E9E5FF.title": "&7Mejora de horno",
+  "quest.441EED7EA0E9E5FF.quest_subtitle": "&7Horno portátil.",
+  "quest.441EED7EA0E9E5FF.quest_desc": [
+    "&7Horno portátil."
+  ],
+  "quest.481BFE4A018AA98D.title": "&cMejora de imán",
+  "quest.481BFE4A018AA98D.quest_subtitle": "&7Atrae los objetos del suelo.",
+  "quest.481BFE4A018AA98D.quest_desc": [
+    "&7Atrae los objetos del suelo."
+  ],
+  "quest.4E28F42EA9ED8328.title": "&aMejora de recogida",
+  "quest.4E28F42EA9ED8328.quest_subtitle": "&7Mete en la mochila lo que recoges.",
+  "quest.4E28F42EA9ED8328.quest_desc": [
+    "&7Mete en la mochila lo que recoges."
+  ],
+  "quest.41EC04CACF562298.title": "&6Mejora de comida",
+  "quest.41EC04CACF562298.quest_subtitle": "&7Te da de comer automáticamente.",
+  "quest.41EC04CACF562298.quest_desc": [
+    "&7Te da de comer automáticamente."
+  ],
+  "quest.4C33720767691111.title": "&cSaco de dormir",
+  "quest.4C33720767691111.quest_subtitle": "&7Duerme en cualquier sitio sin cambiar tu punto de reaparición.",
+  "quest.4C33720767691111.quest_desc": [
+    "&7Duerme en cualquier sitio sin cambiar tu punto de reaparición."
+  ],
+  "quest.4CFA9FC2862B4048.title": "&5Mochilas temáticas",
+  "quest.4CFA9FC2862B4048.quest_subtitle": "&7Hay decenas de diseños: dragón, creeper, vaca, End...",
+  "quest.4CFA9FC2862B4048.quest_desc": [
+    "&7Hay decenas de diseños: dragón, creeper, vaca, End..."
+  ],
+  "quest.4557889F85B971C3.title": "&6Traveler's Backpack",
+  "quest.4557889F85B971C3.quest_subtitle": "&7Mochilas con inventario extra, tanques de líquidos, saco de dormir y…",
+  "quest.4557889F85B971C3.quest_desc": [
+    "&7Mochilas con inventario extra, tanques de líquidos, saco de dormir y mejoras (horno, imán, crafteo...)."
+  ],
+  "chapter.431D22DAA74F4164.title": "&7› &6Instrumentos",
+  "quest.49EB47E448E41093.title": "&6Laúd",
+  "quest.4E0B1808FF50AA60.title": "&fPiano",
+  "quest.46E09BA2C2AFA740.title": "&eFlauta",
+  "quest.4F0C9882CD0B7333.title": "&cGaita",
+  "quest.4D7E23ED9D882D37.title": "&6Trompeta",
+  "quest.4BC01EF6F974D198.title": "&6Didgeridoo",
+  "quest.4BEBAD1AFC669599.title": "&7Handpan",
+  "quest.4546FE4303278642.title": "&7Triángulo",
+  "quest.40ABB65CA534EC54.title": "&cTambor",
+  "quest.447A2247BF736CD8.title": "&6Zanfona",
+  "quest.40142821B40F3F5C.title": "&5Bajo de Ender",
+  "quest.4F0052C6F3D1C6F2.title": "&eImmersive Melodies",
+  "quest.4F0052C6F3D1C6F2.quest_subtitle": "&7Instrumentos de verdad (laúd, piano, flauta, gaita...) para tocar…",
+  "quest.4F0052C6F3D1C6F2.quest_desc": [
+    "&7Instrumentos de verdad (laúd, piano, flauta, gaita...) para tocar canciones con los amigos."
+  ],
+  "chapter.4F8A61C5F2461F5F.title": "&6Biomas y dimensiones",
+  "quest.49CCD203849DF119.title": "&aTerralith",
+  "quest.49CCD203849DF119.quest_subtitle": "&7Casi 100 biomas nuevos en el mundo normal: montañas enormes, cañones,…",
+  "quest.49CCD203849DF119.quest_desc": [
+    "&7Casi 100 biomas nuevos en el mundo normal: montañas enormes, cañones, islas... sin bloques raros.",
+    "",
+    "&7También añade estructuras como torres de mago."
+  ],
+  "quest.4035694D894EF2DC.title": "&dBiomes O' Plenty",
+  "quest.4035694D894EF2DC.quest_subtitle": "&7Más de 50 biomas con árboles, flores y maderas nuevas (jacarandá,…",
+  "quest.4035694D894EF2DC.quest_desc": [
+    "&7Más de 50 biomas con árboles, flores y maderas nuevas (jacarandá, secuoya, arce...)."
+  ],
+  "quest.499B25243C76C27F.title": "&cBetterNether",
+  "quest.499B25243C76C27F.quest_subtitle": "&7Nether lleno de biomas, plantas, mobs, minerales y armaduras nuevas.",
+  "quest.499B25243C76C27F.quest_desc": [
+    "&7Nether lleno de biomas, plantas, mobs, minerales y armaduras nuevas."
+  ],
+  "quest.493B52128425283F.title": "&fPale Garden Remaster",
+  "quest.493B52128425283F.quest_subtitle": "&7El Jardín Pálido renovado, con más detalles.",
+  "quest.493B52128425283F.quest_desc": [
+    "&7El Jardín Pálido renovado, con más detalles."
+  ],
+  "quest.4FA824317BCF06A9.title": "&5BetterEnd",
+  "quest.4FA824317BCF06A9.quest_subtitle": "&7El End se llena de biomas, lagos, pueblos y materiales: talismanio,…",
+  "quest.4FA824317BCF06A9.quest_desc": [
+    "&7El End se llena de biomas, lagos, pueblos y materiales: talismanio, terminita y aeternio."
+  ],
+  "quest.4151A30784C766C0.title": "&3The Sift",
+  "quest.4151A30784C766C0.quest_subtitle": "&7Una dimensión entera nueva, con su propio mineral (siftita) que…",
+  "quest.4151A30784C766C0.quest_desc": [
+    "&7Una dimensión entera nueva, con su propio mineral (siftita) que mejora la netherita."
+  ],
+  "quest.4C430E744383A2EA.title": "&bImmersive Gateways",
+  "quest.4C430E744383A2EA.quest_subtitle": "&7Portales antiguos repartidos por los biomas que conectan unas zonas…",
+  "quest.4C430E744383A2EA.quest_desc": [
+    "&7Portales antiguos repartidos por los biomas que conectan unas zonas del mundo con otras."
+  ],
+  "quest.474C341A272062D3.title": "&ePueblos mejorados",
+  "quest.474C341A272062D3.quest_subtitle": "&7Lio's Overhauled Villages renueva los pueblos e Improved Village…",
+  "quest.474C341A272062D3.quest_desc": [
+    "&7Lio's Overhauled Villages renueva los pueblos e Improved Village Placement hace que aparezcan en terreno llano."
+  ],
+  "quest.4252915C1E2A3AC1.title": "&eSerene Seasons",
+  "quest.4252915C1E2A3AC1.quest_subtitle": "&7Estaciones del año: cambian los colores, la temperatura y qué…",
+  "quest.4252915C1E2A3AC1.quest_desc": [
+    "&7Estaciones del año: cambian los colores, la temperatura y qué cultivos crecen."
+  ],
+  "quest.4E413A012030A033.title": "&aBiomas y dimensiones",
+  "quest.4E413A012030A033.quest_subtitle": "&7Más de 200 biomas nuevos, un Nether y un End renovados y la dimensión…",
+  "quest.4E413A012030A033.quest_desc": [
+    "&7Más de 200 biomas nuevos, un Nether y un End renovados y la dimensión de The Sift."
+  ],
+  "chapter.4ABF38276AB9DA0A.title": "&6Combate y mazmorras",
+  "quest.4BF43E3746C41F19.title": "&6Dungeons and Taverns",
+  "quest.4BF43E3746C41F19.quest_subtitle": "&7Más de 100 estructuras: tabernas, campamentos y mansiones illager,…",
+  "quest.4BF43E3746C41F19.quest_desc": [
+    "&7Más de 100 estructuras: tabernas, campamentos y mansiones illager, catacumbas, criptas, fortalezas del Nether y castillos del End.",
+    "",
+    "&7Trae encantamientos propios (míralos en Encantamientos)."
+  ],
+  "quest.494DE2E0D4A9AF8A.title": "&cIllager Invasion",
+  "quest.494DE2E0D4A9AF8A.quest_subtitle": "&7Illagers nuevos (Invocador, Nigromante, Inquisidor, Hechicero...) con…",
+  "quest.494DE2E0D4A9AF8A.quest_desc": [
+    "&7Illagers nuevos (Invocador, Nigromante, Inquisidor, Hechicero...) con fuertes, laberintos y torres."
+  ],
+  "quest.41E6D08492B4F2B3.title": "&dAdvanced Netherite",
+  "quest.41E6D08492B4F2B3.quest_subtitle": "&74 niveles de netherita mejores que la normal: hierro, oro, esmeralda…",
+  "quest.41E6D08492B4F2B3.quest_desc": [
+    "&74 niveles de netherita mejores que la normal: hierro, oro, esmeralda y diamante."
+  ],
+  "quest.4FA7316916C50AF5.title": "&3End Remastered",
+  "quest.4FA7316916C50AF5.quest_subtitle": "&7Los Ojos de Ender normales ya no abren el portal: necesitas ojos…",
+  "quest.4FA7316916C50AF5.quest_desc": [
+    "&7Los Ojos de Ender normales ya no abren el portal: necesitas ojos especiales repartidos por el mundo."
+  ],
+  "quest.40C823539CD07465.title": "&5Ender Dragon Fight Remastered",
+  "quest.40C823539CD07465.quest_subtitle": "&7La Dragona del End es mucho más difícil, con ataques y fases nuevas.",
+  "quest.40C823539CD07465.quest_desc": [
+    "&7La Dragona del End es mucho más difícil, con ataques y fases nuevas.",
+    "&7Ve preparado y en grupo."
+  ],
+  "quest.461FEA79551DFC6C.title": "&8Wither Spawn Animation",
+  "quest.461FEA79551DFC6C.quest_subtitle": "&7Invocar al Wither crea un altar con animación antes de que aparezca.",
+  "quest.461FEA79551DFC6C.quest_desc": [
+    "&7Invocar al Wither crea un altar con animación antes de que aparezca.",
+    "&7Solo visual, pero no te pilla desprevenido."
+  ],
+  "quest.45254225FF33B44F.title": "&4Hostile Mobs Improve Over Time",
+  "quest.45254225FF33B44F.quest_subtitle": "&7Los monstruos ganan vida, daño, armadura y habilidades según cuánto…",
+  "quest.45254225FF33B44F.quest_desc": [
+    "&7Los monstruos ganan vida, daño, armadura y habilidades según cuánto ha jugado el jugador más cercano."
+  ],
+  "quest.44ECC62FE24457D2.title": "&aRepurposed Structures",
+  "quest.44ECC62FE24457D2.quest_subtitle": "&7Variantes de estructuras vanilla en todos los biomas: mansiones,…",
+  "quest.44ECC62FE24457D2.quest_desc": [
+    "&7Variantes de estructuras vanilla en todos los biomas: mansiones, monumentos, fortalezas de jungla, pirámides, minas y ciudades antiguas en el Nether y el End."
+  ],
+  "quest.48BF3971DB3F3D85.title": "&eMoog's Voyager Structures",
+  "quest.48BF3971DB3F3D85.quest_subtitle": "&7Más de 130 estructuras pequeñas:",
+  "quest.48BF3971DB3F3D85.quest_desc": [
+    "&7Más de 130 estructuras pequeñas:",
+    "&7casas, pozos, ruinas, campamentos...",
+    "&7El mundo se siente más vivo."
+  ],
+  "quest.417C688D90E51302.title": "&7Cut Through y Friendly Fire",
+  "quest.417C688D90E51302.quest_subtitle": "&7Puedes golpear a través de la hierba alta, y no harás daño a tus…",
+  "quest.417C688D90E51302.quest_desc": [
+    "&7Puedes golpear a través de la hierba alta, y no harás daño a tus mascotas ni a mobs amigos por accidente."
+  ],
+  "quest.4FC528F41A926D6F.title": "&cCombate y mazmorras",
+  "quest.4FC528F41A926D6F.quest_subtitle": "&7Estructuras nuevas, jefes, illagers, el End y el equipo de netherita…",
+  "quest.4FC528F41A926D6F.quest_desc": [
+    "&7Estructuras nuevas, jefes, illagers, el End y el equipo de netherita avanzada."
+  ],
+  "chapter.4C88E4F47197CDEF.title": "&6Visual y rendimiento",
+  "quest.427371C2FBF6C87C.title": "&eShaders (Iris)",
+  "quest.427371C2FBF6C87C.quest_subtitle": "&7Puedes activar shaders en Opciones > Videoajustes > Shaders. Consumen…",
+  "quest.427371C2FBF6C87C.quest_desc": [
+    "&7Puedes activar shaders en Opciones > Videoajustes > Shaders. Consumen bastante gráfica."
+  ],
+  "quest.4887F58A9402A30A.title": "&3Voxy (distancia lejana)",
+  "quest.4887F58A9402A30A.quest_subtitle": "&7Muestra montañas y terreno muy lejano con poco coste. El servidor…",
+  "quest.4887F58A9402A30A.quest_desc": [
+    "&7Muestra montañas y terreno muy lejano con poco coste. El servidor envía esos datos."
+  ],
+  "quest.42CB41E788FF8FA8.title": "&bSonidos",
+  "quest.42CB41E788FF8FA8.quest_subtitle": "&7Sonidos ambientales, ecos realistas en cuevas y pasos distintos según…",
+  "quest.42CB41E788FF8FA8.quest_desc": [
+    "&7Sonidos ambientales, ecos realistas en cuevas y pasos distintos según el bloque."
+  ],
+  "quest.43963A6663093866.title": "&aFresh Animations",
+  "quest.43963A6663093866.quest_subtitle": "&7Los mobs se mueven de forma más natural gracias a los packs de…",
+  "quest.43963A6663093866.quest_desc": [
+    "&7Los mobs se mueven de forma más natural gracias a los packs de recursos del modpack."
+  ],
+  "quest.4E408B3913B22C58.title": "&aPartículas",
+  "quest.4E408B3913B22C58.quest_subtitle": "&7Hojas que caen, viento, nubes renovadas y pequeños detalles visuales.",
+  "quest.4E408B3913B22C58.quest_desc": [
+    "&7Hojas que caen, viento, nubes renovadas y pequeños detalles visuales."
+  ],
+  "quest.4B00C3C73E192134.title": "&fZoomify",
+  "quest.4B00C3C73E192134.quest_subtitle": "&7Haz zoom con la tecla C.",
+  "quest.4B00C3C73E192134.quest_desc": [
+    "&7Haz zoom con la tecla C."
+  ],
+  "quest.460DFE73E9301888.title": "&7Controlify",
+  "quest.460DFE73E9301888.quest_subtitle": "&7Puedes jugar con mando.",
+  "quest.460DFE73E9301888.quest_desc": [
+    "&7Puedes jugar con mando."
+  ],
+  "quest.4F1BA84280C4B810.title": "&cRendimiento",
+  "quest.4F1BA84280C4B810.quest_subtitle": "&7Sodium, Lithium, FerriteCore y otros hacen que el juego vaya mucho…",
+  "quest.4F1BA84280C4B810.quest_desc": [
+    "&7Sodium, Lithium, FerriteCore y otros hacen que el juego vaya mucho más fluido. Si va lento, baja los shaders o la distancia."
+  ],
+  "quest.45BA21F861210564.title": "&3Visual, sonido y rendimiento",
+  "quest.45BA21F861210564.quest_subtitle": "&7Shaders, sonidos realistas, animaciones y mods que hacen que el juego…",
+  "quest.45BA21F861210564.quest_desc": [
+    "&7Shaders, sonidos realistas, animaciones y mods que hacen que el juego vaya fluido."
+  ],
+  "chapter.454FABAB4D9ED871.title": "&d&lYoth&r&7: vía rápida",
+  "image.4E21C5C5F21BE88A.title": "&f&lIr a Yoth",
+  "image.45FEB1981C1A8930.title": "&f&lVolver",
+  "quest.4EACA8D62A63C301.title": "&dQué es Yoth",
+  "quest.4EACA8D62A63C301.quest_subtitle": "&7Un mundo cueva &damable&7 para aprender y llegar rápido a la &dnetherita&7.",
+  "quest.4EACA8D62A63C301.quest_desc": [
+    "&7Un mundo cueva &damable&7 para aprender y llegar rápido a la &dnetherita&7.",
+    "",
+    "&7Hay &dmuy pocos monstruos&7 y casi todo lo del mundo normal: aldeas, mazmorras, todos los minerales y zonas del Nether con &dbastiones&7.",
+    "&7Los &descombros ancestrales&7 salen en &dtodos los biomas&7.",
+    "",
+    "&7Aquí los &dmonstruos que escalan&7 no cuentan: tu nivel &dni sube ni baja&7.",
+    "&7Lo que consigas en Yoth &dte lo llevas&7 al mundo normal, y al revés.",
+    "",
+    "&cLas camas no guardan tu punto de reaparición&7: si mueres, despiertas en tu cama del mundo normal y tu tumba se queda en Yoth.",
+    "",
+    "&7Este capítulo &dsolo avanza con lo que consigas dentro de Yoth&7: fabricar, fundir, picar o recoger. Lo que traigas de fuera no cuenta."
+  ],
+  "quest.4B8C3DC2448B1B41.title": "&d&lEntra en Yoth",
+  "quest.4B8C3DC2448B1B41.quest_subtitle": "&7Pulsa &e&lIr a Yoth&r&7 (abajo) y cruza el portal.",
+  "quest.4B8C3DC2448B1B41.quest_desc": [
+    "&7Pulsa &e&lIr a Yoth&r&7 (abajo) y cruza el portal.",
+    "",
+    "&e&lIr a Yoth&r&7: se abre un &dportal&7 delante de ti. En 2 segundos está listo: &dcrúzalo&7.",
+    "&e&lVolver&r&7: lo mismo desde Yoth, y apareces &ddonde estabas&7.",
+    "",
+    "&7También con &e&l/trigger yoth set 1&r&7 (ir) y &e&l/trigger yoth set 2&r&7 (volver).",
+    "&cNo se puede abrir en pleno combate&7.",
+    "",
+    "&7La primera vez apareces a la altura de donde estabas; después, en tu &dúltimo sitio seguro&7 de Yoth."
+  ],
+  "quest.46090082BF3B0803.title": "&fPiedra y madera",
+  "quest.46090082BF3B0803.quest_subtitle": "&7Fabrica un &dpico de piedra&7.",
+  "quest.46090082BF3B0803.quest_desc": [
+    "&7Fabrica un &dpico de piedra&7.",
+    "",
+    "&7En Yoth no hay sol: lleva &dantorchas&7 y no te alejes sin luz."
+  ],
+  "quest.4F06056A7B906436.title": "&fHierro",
+  "quest.4F06056A7B906436.quest_subtitle": "&7Junta &d8 lingotes de hierro&7.",
+  "quest.4F06056A7B906436.quest_desc": [
+    "&7Junta &d8 lingotes de hierro&7.",
+    "",
+    "&7Abunda en las paredes de las cuevas. Fúndelo en un horno."
+  ],
+  "quest.4736B846400EFFE0.title": "&fPico de hierro",
+  "quest.4736B846400EFFE0.quest_subtitle": "&7Fabrica un &dpico de hierro&7: ya puedes picar &ddiamante&7 y &doro&7.",
+  "quest.4736B846400EFFE0.quest_desc": [
+    "&7Fabrica un &dpico de hierro&7: ya puedes picar &ddiamante&7 y &doro&7.",
+    "",
+    "&7Si quieres ir más tranquilo, mira la &dlinterna de amatista&7."
+  ],
+  "quest.4FE98792CFBB4DDF.title": "&dLinterna de amatista",
+  "quest.4FE98792CFBB4DDF.quest_subtitle": "&7Llévala en el &dhueco del cinturón&7 y los monstruos te dejarán en paz.",
+  "quest.4FE98792CFBB4DDF.quest_desc": [
+    "&7Llévala en el &dhueco del cinturón&7 y los monstruos te dejarán en paz.",
+    "",
+    "&7Solo funciona &den Yoth&7:",
+    "&7- Los monstruos cercanos &dse apartan&7 y no te persiguen.",
+    "&7- Si &cles pegas&7, ese monstruo se defiende durante 15 segundos.",
+    "&7- Aparecen &dmenos monstruos&7 a tu alrededor.",
+    "&7- Los &cjefes&7 no le hacen caso.",
+    "",
+    "&7Receta: &dfragmento de amatista&7, &dlinterna&7 y &dfragmento de amatista&7 en fila."
+  ],
+  "quest.49FFC7CD9BC37E56.title": "&bDiamantes",
+  "quest.49FFC7CD9BC37E56.quest_subtitle": "&7Consigue &d3 diamantes&7.",
+  "quest.49FFC7CD9BC37E56.quest_desc": [
+    "&7Consigue &d3 diamantes&7.",
+    "",
+    "&7Están en lo más hondo, por debajo de la capa 0. Explora las cuevas grandes o pica en ramas."
+  ],
+  "quest.4C14BA8F7DC2A3C1.title": "&bPico de diamante",
+  "quest.4C14BA8F7DC2A3C1.quest_subtitle": "&7Fabrica un &dpico de diamante&7: el único que pica los &descombros ancestrales&7.",
+  "quest.4C14BA8F7DC2A3C1.quest_desc": [
+    "&7Fabrica un &dpico de diamante&7: el único que pica los &descombros ancestrales&7."
+  ],
+  "quest.4045D997AE397EB5.title": "&6Escombros ancestrales",
+  "quest.4045D997AE397EB5.quest_subtitle": "&7Consigue &d4 escombros ancestrales&7.",
+  "quest.4045D997AE397EB5.quest_desc": [
+    "&7Consigue &d4 escombros ancestrales&7.",
+    "",
+    "&7En Yoth salen en &dtodos los biomas&7, desde el fondo hasta la capa 140, y en vetas más grandes &dpor debajo de la capa 30&7.",
+    "&7Parecen piedra marrón con espirales y aguantan las explosiones.",
+    "&7Fúndelos en un horno: cada uno da un &dfragmento de netherita&7."
+  ],
+  "quest.426B306E73BE5A5D.title": "&eOro",
+  "quest.426B306E73BE5A5D.quest_subtitle": "&7Junta &d4 lingotes de oro&7.",
+  "quest.426B306E73BE5A5D.quest_desc": [
+    "&7Junta &d4 lingotes de oro&7.",
+    "",
+    "&7Con &d4 fragmentos de netherita&7 y &d4 lingotes de oro&7 haces un lingote de netherita."
+  ],
+  "quest.468315DA3D9135C1.title": "&8Lingote de netherita",
+  "quest.468315DA3D9135C1.quest_subtitle": "&7Fabrica un &dlingote de netherita&7.",
+  "quest.468315DA3D9135C1.quest_desc": [
+    "&7Fabrica un &dlingote de netherita&7.",
+    "",
+    "&7En la mesa de crafteo: 4 fragmentos de netherita y 4 lingotes de oro, en cualquier orden."
+  ],
+  "quest.43EDB52C38E79855.title": "&dPlantilla de mejora de netherita",
+  "quest.43EDB52C38E79855.quest_subtitle": "&7Encuéntrala en un &dbastión&7 de las zonas del Nether de Yoth.",
+  "quest.43EDB52C38E79855.quest_desc": [
+    "&7Encuéntrala en un &dbastión&7 de las zonas del Nether de Yoth.",
+    "",
+    "&7Las zonas del Nether (bosques carmesí y distorsionado, ríos de lava, incursiones demoníacas) tienen &dbastiones&7. La plantilla está en sus cofres.",
+    "&cLos piglins te atacan si no llevas oro puesto&7: ponte unas botas de oro.",
+    "&7Para copiarla: la plantilla, &d7 diamantes&7 y &d1 netherrack&7."
+  ],
+  "quest.471327BBFCAF11E0.title": "&8Primera pieza de netherita",
+  "quest.471327BBFCAF11E0.quest_subtitle": "&7Mejora una herramienta o una pieza de armadura de &ddiamante&7 a &dnetherita&7.",
+  "quest.471327BBFCAF11E0.quest_desc": [
+    "&7Mejora una herramienta o una pieza de armadura de &ddiamante&7 a &dnetherita&7.",
+    "",
+    "&7En la &dmesa de herrería&7: la plantilla, la pieza de diamante y un lingote de netherita.",
+    "&cLa plantilla se gasta&7: cópiala antes de usarla."
+  ],
+  "quest.465AADD25710CEE9.title": "&5&lCubierto de netherita",
+  "quest.465AADD25710CEE9.quest_subtitle": "&7Lleva la &darmadura de netherita completa&7.",
+  "quest.465AADD25710CEE9.quest_desc": [
+    "&7Lleva la &darmadura de netherita completa&7.",
+    "",
+    "&7Ya estás listo para el mundo normal: todo lo que llevas &dviaja contigo&7.",
+    "&7Siguiente paso: la &dNetherita avanzada&7, en el grupo &f&lEquipo&r&7."
+  ],
+  "quest.447B564C35375558.title": "&aVía rápida de Yoth",
+  "quest.447B564C35375558.quest_subtitle": "&7De cero a netherita en el mundo amable.",
+  "quest.447B564C35375558.quest_desc": [
+    "&7De cero a netherita en el mundo amable."
+  ],
+  "task.4666D3CD34F65F48.title": "&7Fabrica un pico de piedra en Yoth",
+  "task.4830FF6609B34E86.title": "&7Funde o recoge 8 lingotes de hierro en Yoth",
+  "task.4520D768EBE06E2B.title": "&7Fabrica un pico de hierro en Yoth",
+  "task.49C145A5D8D3C403.title": "&7Fabrica una linterna de amatista en Yoth",
+  "task.4ABE7E6118DC8E62.title": "&7Recoge 3 diamantes en Yoth",
+  "task.42A94609EDB05FAE.title": "&7Fabrica un pico de diamante en Yoth",
+  "task.4773B30C77045867.title": "&7Pica 4 escombros ancestrales en Yoth",
+  "task.44DA7E1F749A3ECC.title": "&7Funde o recoge 4 lingotes de oro en Yoth",
+  "task.496F1780B1F3FA58.title": "&7Fabrica un lingote de netherita en Yoth",
+  "task.425D4EB0D424D92D.title": "&7Consigue una plantilla de mejora de netherita en Yoth",
+  "task.44FC087FC58F9A8D.title": "&7Mejora una pieza a netherita en Yoth",
+  "task.46891C307E0C133A.title": "&7Lleva la armadura de netherita completa en Yoth"
+}

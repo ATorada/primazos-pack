@@ -1,0 +1,921 @@
+{
+  id: "43D8126DC96590CE",
+  group: "41FFC5E97CCD6D87",
+  order_index: 7,
+  icon: {
+    id: "minecraft:crossbow",
+    count: 1,
+  },
+  filename: "asaltos",
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  autofocus_id: "4C250AE8D861CDB0",
+  quests: [
+    {
+      icon: {
+        id: "minecraft:firework_rocket",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -5.7,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4C184774761E4952",
+    },
+    {
+      icon: {
+        id: "minecraft:iron_chestplate",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -3.8,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4E8F409FF7102984",
+    },
+    {
+      icon: {
+        id: "minecraft:diamond_chestplate",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -1.9,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "471D2D91C7F7E177",
+    },
+    {
+      icon: {
+        id: "minecraft:netherite_chestplate",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "44D107455EA71E9B",
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_diamond_chestplate",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 1.9,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "48A5F45DC2AE4CBC",
+    },
+    {
+      icon: {
+        id: "minecraft:shield",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 3.8,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "46F70611939EB189",
+    },
+    {
+      icon: {
+        id: "minecraft:emerald",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 5.7,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "46E15D7D143DFD32",
+    },
+    {
+      icon: {
+        id: "minecraft:crossbow",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 0.0,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "4C184774761E4952",
+        "4E8F409FF7102984",
+        "471D2D91C7F7E177",
+        "44D107455EA71E9B",
+        "48A5F45DC2AE4CBC",
+        "46F70611939EB189",
+        "46E15D7D143DFD32",
+      ],
+      size: 1.5,
+      optional: true,
+      id: "4C250AE8D861CDB0",
+      rewards: [
+        {
+          id: "44A78D910843809C",
+          type: "xp",
+          xp: 56,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:pillager_spawn_egg",
+        count: 1,
+      },
+      x: -5.7,
+      y: 6.95,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "40603EDA0B76B8FC",
+      tasks: [
+        {
+          id: "42BF9B3DB005E90C",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_all_mobs",
+          criterion: "minecraft:pillager",
+        },
+      ],
+      rewards: [
+        {
+          id: "483770101743C967",
+          type: "xp",
+          xp: 30,
+        },
+        {
+          id: "4E5F2D4D9217D338",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:vindicator_spawn_egg",
+        count: 1,
+      },
+      x: -3.8,
+      y: 6.95,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "449A36616B5F60EE",
+      tasks: [
+        {
+          id: "4EDC9EB136AEF4BE",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_all_mobs",
+          criterion: "minecraft:vindicator",
+        },
+      ],
+      rewards: [
+        {
+          id: "4F57DA2FCAC48D92",
+          type: "xp",
+          xp: 50,
+        },
+        {
+          id: "4B634C18EB53B654",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 3,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:evoker_spawn_egg",
+        count: 1,
+      },
+      x: -1.9,
+      y: 6.95,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4E089140E36D02D8",
+      tasks: [
+        {
+          id: "48AC83C7E1380EAB",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_all_mobs",
+          criterion: "minecraft:evoker",
+        },
+      ],
+      rewards: [
+        {
+          id: "4F31348A339B32EB",
+          type: "xp",
+          xp: 100,
+        },
+        {
+          id: "49197B90E4817EAB",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:totem_of_undying",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:vex_spawn_egg",
+        count: 1,
+      },
+      x: 0.0,
+      y: 6.95,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "41D88D2BD970804B",
+      tasks: [
+        {
+          id: "48DB371C93949588",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_all_mobs",
+          criterion: "minecraft:vex",
+        },
+      ],
+      rewards: [
+        {
+          id: "4819CE27FF046C8F",
+          type: "xp",
+          xp: 30,
+        },
+        {
+          id: "4265068EB6E8F2A3",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:ravager_spawn_egg",
+        count: 1,
+      },
+      x: 1.9,
+      y: 6.95,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4FB689A1C2D793D6",
+      tasks: [
+        {
+          id: "43CEE54DB5D3ABE1",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_all_mobs",
+          criterion: "minecraft:ravager",
+        },
+      ],
+      rewards: [
+        {
+          id: "47D2FBAAAC82F2E2",
+          type: "xp",
+          xp: 120,
+        },
+        {
+          id: "4EE899547DDFAA29",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:saddle",
+            count: 1,
+          },
+        },
+        {
+          id: "4E6909309C405E7F",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 6,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:witch_spawn_egg",
+        count: 1,
+      },
+      x: 3.8,
+      y: 6.95,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4A7F51591860062B",
+      tasks: [
+        {
+          id: "42B627A560B48BBC",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:adventure/kill_all_mobs",
+          criterion: "minecraft:witch",
+        },
+      ],
+      rewards: [
+        {
+          id: "4CF85B6A04B3E034",
+          type: "xp",
+          xp: 40,
+        },
+        {
+          id: "458B281DBD1E845C",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:glowstone_dust",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "friendsandfoes:illusioner_spawn_egg",
+        count: 1,
+      },
+      x: 5.7,
+      y: 6.95,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "419C5F27909E5EBD",
+      tasks: [
+        {
+          id: "4981D5BDA855E19A",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "friendsandfoes:adventure/kill_illusioner",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4D26113744AF4FF9",
+          type: "xp",
+          xp: 120,
+        },
+        {
+          id: "41A9F7897E91BC31",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 6,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "friendsandfoes:iceologer_spawn_egg",
+        count: 1,
+      },
+      x: -5.7,
+      y: 8.7,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "44332876F45AC625",
+      tasks: [
+        {
+          id: "4819542653CE7ACF",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "friendsandfoes:adventure/kill_iceologer",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "453A4E2C2EE7E34A",
+          type: "xp",
+          xp: 120,
+        },
+        {
+          id: "457D2519AB5DDADF",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 6,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:inquisitor_spawn_egg",
+        count: 1,
+      },
+      x: -3.8,
+      y: 8.7,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4346A79A006025A0",
+      tasks: [
+        {
+          id: "4792663CDD1AEB9D",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:inquisitor",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "4D01CEEBE87D87C8",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "4C92F5F109767981",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:basher_spawn_egg",
+        count: 1,
+      },
+      x: -1.9,
+      y: 8.7,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "41528023F72A5EF7",
+      tasks: [
+        {
+          id: "408AF4F7658BD6D8",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:basher",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "4225F00FB604FD39",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "479908DD8E39688A",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:marauder_spawn_egg",
+        count: 1,
+      },
+      x: 0.0,
+      y: 8.7,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4E6434D6BE1421FE",
+      tasks: [
+        {
+          id: "4C889CA06165EA03",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:marauder",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "47D5FB5778CD2064",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "470BEE6CACE25C3D",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:provoker_spawn_egg",
+        count: 1,
+      },
+      x: 1.9,
+      y: 8.7,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4DE808797F699106",
+      tasks: [
+        {
+          id: "419AB43FF9AD41CB",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:provoker",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "4ED6A89AC3B40567",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "445D8EE1B3255C27",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:necromancer_spawn_egg",
+        count: 1,
+      },
+      x: 3.8,
+      y: 8.7,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4130AB73031DAEC2",
+      tasks: [
+        {
+          id: "42C5BF2235BB3C59",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:necromancer",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "4EFD00E01B9CEEA2",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "45F02893144D6265",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:sorcerer_spawn_egg",
+        count: 1,
+      },
+      x: 5.7,
+      y: 8.7,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "463F2ACC683BF208",
+      tasks: [
+        {
+          id: "40368A16C0BE926B",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:sorcerer",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "46794A7A0968319D",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "4566AF1C7DFD59ED",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:archivist_spawn_egg",
+        count: 1,
+      },
+      x: -5.7,
+      y: 10.45,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4A548E13D71447FF",
+      tasks: [
+        {
+          id: "42CBB2E30111A7ED",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:archivist",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "41479E9867DB1964",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "4139D369D9B74CF6",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:alchemist_spawn_egg",
+        count: 1,
+      },
+      x: -3.8,
+      y: 10.45,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4FC53B2E563B9681",
+      tasks: [
+        {
+          id: "421E2DF8DB028EC1",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:alchemist",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "43391F2A00B45AB9",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "4425949B6A451151",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:firecaller_spawn_egg",
+        count: 1,
+      },
+      x: -1.9,
+      y: 10.45,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "44F5206B785704FD",
+      tasks: [
+        {
+          id: "4A347AA1DFF55A6F",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:firecaller",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "473B180FEB413D0F",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "438F8CD8078E388D",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:invoker_spawn_egg",
+        count: 1,
+      },
+      x: 0.0,
+      y: 10.45,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "46625BC48516BC58",
+      tasks: [
+        {
+          id: "488E9B53C665B5AD",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:invoker",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "4E40293313C7C4ED",
+          type: "xp",
+          xp: 500,
+        },
+        {
+          id: "45C3524649D36F91",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:totem_of_undying",
+            count: 1,
+          },
+        },
+        {
+          id: "45B0D0B3ADA94EF9",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 6,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "illagerinvasion:surrendered_spawn_egg",
+        count: 1,
+      },
+      x: 1.9,
+      y: 10.45,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4E42C25AF4A08E3A",
+      tasks: [
+        {
+          id: "4BAA756BDEC2BABF",
+          type: "kill",
+          disable_toast: true,
+          entity: "illagerinvasion:surrendered",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "41FF02AA95BC124E",
+          type: "xp",
+          xp: 80,
+        },
+        {
+          id: "404DABF0D53FE7F4",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:emerald",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:white_banner",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 4.85,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "40603EDA0B76B8FC",
+        "449A36616B5F60EE",
+        "4E089140E36D02D8",
+        "41D88D2BD970804B",
+        "4FB689A1C2D793D6",
+        "4A7F51591860062B",
+        "419C5F27909E5EBD",
+        "44332876F45AC625",
+        "4346A79A006025A0",
+        "41528023F72A5EF7",
+        "4E6434D6BE1421FE",
+        "4DE808797F699106",
+        "4130AB73031DAEC2",
+        "463F2ACC683BF208",
+        "4A548E13D71447FF",
+        "4FC53B2E563B9681",
+        "44F5206B785704FD",
+        "46625BC48516BC58",
+        "4E42C25AF4A08E3A",
+      ],
+      size: 1.5,
+      optional: true,
+      id: "4639B7B1EE211ECD",
+      rewards: [
+        {
+          id: "4B04E21FC25AF4C4",
+          type: "xp",
+          xp: 150,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

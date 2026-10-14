@@ -1,0 +1,1013 @@
+{
+  id: "4B953832B0648166",
+  group: "41FFC5E97CCD6D87",
+  order_index: 9,
+  icon: {
+    id: "minecraft:ender_eye",
+    count: 1,
+  },
+  filename: "end",
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  autofocus_id: "4CD861137CBE5D84",
+  quests: [
+    {
+      icon: {
+        id: "endrem:old_eye",
+        count: 1,
+      },
+      x: -5.7,
+      y: 2.35,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "49758A31802979AE",
+      tasks: [
+        {
+          id: "4CAE2A94DF4579B1",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:old_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "402CADE1DBE24F8B",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:rogue_eye",
+        count: 1,
+      },
+      x: -3.8,
+      y: 2.35,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4C62142B6F34A05E",
+      tasks: [
+        {
+          id: "42ADD5DEC5F44131",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:rogue_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "48B44538FC79C531",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:nether_eye",
+        count: 1,
+      },
+      x: -1.9,
+      y: 2.35,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4B0B617D2EA24B01",
+      tasks: [
+        {
+          id: "43C8A276E21525EF",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:nether_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4FD1A7845036F015",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:cold_eye",
+        count: 1,
+      },
+      x: 0.0,
+      y: 2.35,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4C0F5DB17DEB9DF2",
+      tasks: [
+        {
+          id: "477AAB8A4A7D83CE",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:cold_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "41FE4DE3228DC0EB",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:magical_eye",
+        count: 1,
+      },
+      x: 1.9,
+      y: 2.35,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "42789F5D99610BD7",
+      tasks: [
+        {
+          id: "4D66C8057B2AE2D0",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:magical_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4C011FB32DD9CEB8",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:black_eye",
+        count: 1,
+      },
+      x: 3.8,
+      y: 2.35,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "41118E5BE53DD1C0",
+      tasks: [
+        {
+          id: "46C9D50321058E33",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:black_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "425EDFCA9F03FB00",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:lost_eye",
+        count: 1,
+      },
+      x: 5.7,
+      y: 2.35,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4A391BC657F358AC",
+      tasks: [
+        {
+          id: "46362691D011FC53",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:lost_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4F18BCB9932C4EF3",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:corrupted_eye",
+        count: 1,
+      },
+      x: -5.7,
+      y: 4.1,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4DDA1B063506E090",
+      tasks: [
+        {
+          id: "480C600D2DB938B2",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:corrupted_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "41518782F9D066AE",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:cursed_eye",
+        count: 1,
+      },
+      x: -3.8,
+      y: 4.1,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4ECB42C1FB9EA610",
+      tasks: [
+        {
+          id: "402A70138B65DA55",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:cursed_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "48F6DB5DC3F04F70",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:guardian_eye",
+        count: 1,
+      },
+      x: -1.9,
+      y: 4.1,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "49DBD5F90254F641",
+      tasks: [
+        {
+          id: "472459D0F0BEABCA",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:guardian_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "42BA6D39DE660ADF",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:wither_eye",
+        count: 1,
+      },
+      x: 0.0,
+      y: 4.1,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4365C934CD72F751",
+      tasks: [
+        {
+          id: "46CE494B96F4ACE9",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:wither_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4138244807DA2E13",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:witch_eye",
+        count: 1,
+      },
+      x: 1.9,
+      y: 4.1,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "483DDF72ACBA7B2D",
+      tasks: [
+        {
+          id: "484610180D8C9E4C",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:witch_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "413B917BF6B3042D",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:undead_eye",
+        count: 1,
+      },
+      x: 3.8,
+      y: 4.1,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "49B1DE1F14E3980D",
+      tasks: [
+        {
+          id: "451FF54D92CB1896",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:undead_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4FE0966DD2C29B12",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:exotic_eye",
+        count: 1,
+      },
+      x: 5.7,
+      y: 4.1,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "412A22019999520E",
+      tasks: [
+        {
+          id: "4B489CD8E06E6412",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:exotic_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4C1993095A8A1D25",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:evil_eye",
+        count: 1,
+      },
+      x: -5.7,
+      y: 5.85,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "4A42009F06B8FB87",
+      tasks: [
+        {
+          id: "4532E924CBE98488",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:evil_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "406415C9A687E631",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "endrem:cryptic_eye",
+        count: 1,
+      },
+      x: -3.8,
+      y: 5.85,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      id: "449360C24071FC03",
+      tasks: [
+        {
+          id: "46F90701ED2F817A",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "endrem:cryptic_eye",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4D4E3C56053FCC6F",
+          type: "xp",
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:end_portal_frame",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 0.0,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "49758A31802979AE",
+        "4C62142B6F34A05E",
+        "4B0B617D2EA24B01",
+        "4C0F5DB17DEB9DF2",
+        "42789F5D99610BD7",
+        "41118E5BE53DD1C0",
+        "4A391BC657F358AC",
+        "4DDA1B063506E090",
+        "4ECB42C1FB9EA610",
+        "49DBD5F90254F641",
+        "4365C934CD72F751",
+        "483DDF72ACBA7B2D",
+        "49B1DE1F14E3980D",
+        "412A22019999520E",
+        "4A42009F06B8FB87",
+        "449360C24071FC03",
+      ],
+      size: 1.8,
+      optional: true,
+      id: "4CD861137CBE5D84",
+      rewards: [
+        {
+          id: "481D4CB29BB0DD9C",
+          type: "xp",
+          xp: 128,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:end_stone",
+        count: 1,
+      },
+      x: -7.6,
+      y: 8.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.5,
+      id: "45BD71C6BF878287",
+      tasks: [
+        {
+          id: "455C246D6F546A8D",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:end/root",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "474488A685831F1D",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "442D55E95385A996",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:golden_apple",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:dragon_head",
+        count: 1,
+      },
+      x: -3.8,
+      y: 8.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "45BD71C6BF878287",
+      ],
+      size: 1.6,
+      id: "47C0A5A79B1553E5",
+      tasks: [
+        {
+          id: "42F8459F1C13590A",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:end/kill_dragon",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4F48187BCE134149",
+          type: "xp",
+          xp: 800,
+        },
+        {
+          id: "4B9952A56061817E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:experience_bottle",
+            count: 1,
+          },
+          count: 16,
+        },
+        {
+          id: "4E9CAE8779E504CC",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 6,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:purpur_block",
+        count: 1,
+      },
+      x: 0.0,
+      y: 8.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47C0A5A79B1553E5",
+      ],
+      size: 1.0,
+      id: "412E8FA9D2C3DCA1",
+      tasks: [
+        {
+          id: "4B0AD7017837470E",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:end/find_end_city",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4DA22B8B8F2F528D",
+          type: "xp",
+          xp: 120,
+        },
+        {
+          id: "45A88A828DA243BC",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:ender_pearl",
+            count: 1,
+          },
+          count: 8,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:elytra",
+        count: 1,
+      },
+      x: 3.8,
+      y: 8.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "412E8FA9D2C3DCA1",
+      ],
+      size: 1.3,
+      id: "4EB141DD04450A4E",
+      tasks: [
+        {
+          id: "44F9705194A5B072",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "minecraft:end/elytra",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4066B70833271F37",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "4D66A6D89E9EF586",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:firework_rocket",
+            count: 1,
+          },
+          count: 32,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "betterend:aeternium_ingot",
+        count: 1,
+      },
+      x: 7.6,
+      y: 8.8,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4EB141DD04450A4E",
+      ],
+      size: 1.0,
+      id: "4D94B8B0F8872001",
+      tasks: [
+        {
+          id: "4430931FE17DE2C4",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "betterend:aeternium_ingot",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "betterend:aeternium_ingot",
+                  "betterend:aeternium_block",
+                  "betterend:aeternium_helmet",
+                  "betterend:aeternium_chestplate",
+                  "betterend:aeternium_leggings",
+                  "betterend:aeternium_boots",
+                  "betterend:aeternium_sword",
+                  "betterend:aeternium_pickaxe",
+                  "betterend:aeternium_axe",
+                  "betterend:aeternium_shovel",
+                  "betterend:aeternium_hoe",
+                  "advancednetherite:netherite_aeternium_ingot",
+                  "advancednetherite:netherite_aeternium_chestplate",
+                  "advancednetherite:netherite_aeternium_helmet",
+                  "advancednetherite:netherite_aeternium_leggings",
+                  "advancednetherite:netherite_aeternium_boots",
+                  "advancednetherite:netherite_aeternium_sword",
+                  "advancednetherite:netherite_aeternium_pickaxe",
+                  "advancednetherite:netherite_aeternium_axe",
+                  "advancednetherite:netherite_aeternium_shovel",
+                  "advancednetherite:netherite_aeternium_hoe",
+                  "advancednetherite:netherite_aeternium_spear",
+                  "advancednetherite:netherite_siftite_ingot",
+                  "advancednetherite:netherite_siftite_chestplate",
+                  "advancednetherite:netherite_siftite_helmet",
+                  "advancednetherite:netherite_siftite_leggings",
+                  "advancednetherite:netherite_siftite_boots",
+                  "advancednetherite:netherite_siftite_sword",
+                  "advancednetherite:netherite_siftite_pickaxe",
+                  "advancednetherite:netherite_siftite_axe",
+                  "advancednetherite:netherite_siftite_shovel",
+                  "advancednetherite:netherite_siftite_hoe",
+                  "advancednetherite:netherite_siftite_spear",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "47DB84BAD09596AB",
+          type: "xp",
+          xp: 150,
+        },
+        {
+          id: "456B549E4F4456D4",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "alexsmobs:spawn_egg_void_worm",
+        count: 1,
+      },
+      x: 0.0,
+      y: 11.6,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      size: 1.4,
+      id: "405156E666096B7A",
+      tasks: [
+        {
+          id: "406A567040E9C993",
+          type: "kill",
+          disable_toast: true,
+          entity: "alexsmobs:void_worm",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "49CD9A04AD626E37",
+          type: "xp",
+          xp: 500,
+        },
+        {
+          id: "4C983470D849402E",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:shulker_shell",
+            count: 1,
+          },
+          count: 4,
+        },
+        {
+          id: "472B8B3FD8206B66",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "betterend:thallasium_ingot",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -5.7,
+      y: 14.5,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "497A313AEEAB6AE5",
+    },
+    {
+      icon: {
+        id: "betterend:terminite_ingot",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -3.8,
+      y: 14.5,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4C4C978D77FAC102",
+    },
+    {
+      icon: {
+        id: "betterend:aeternium_ingot",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -1.9,
+      y: 14.5,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "41E00C94BD983455",
+    },
+    {
+      icon: {
+        id: "betterend:aeternium_chestplate",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 14.5,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "46096983E406CE87",
+    },
+    {
+      icon: {
+        id: "betterend:crystalite_chestplate",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 1.9,
+      y: 14.5,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "422BEC11EE327C07",
+    },
+    {
+      icon: {
+        id: "betterend:aeternium_sword",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 3.8,
+      y: 14.5,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "497D926DE531C966",
+    },
+    {
+      icon: {
+        id: "betterend:aeternium_hammer",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 5.7,
+      y: 14.5,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "432B7F6B39537768",
+    },
+    {
+      icon: {
+        id: "betterend:elytra_armored",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -5.7,
+      y: 16.25,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4043F673B9368664",
+    },
+    {
+      icon: {
+        id: "betterend:eternal_crystal",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -3.8,
+      y: 16.25,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "40B2871D7D419677",
+    },
+  ],
+  quest_links: [
+    {
+      linked_quest: "47DC245602665367",
+      x: 11.4,
+      y: 8.8,
+      shape: "circle",
+      id: "4161AB514B57DF11",
+    },
+  ],
+  images: [
+  ],
+}
