@@ -133,6 +133,10 @@ file = "config/carryon-common.json"
 hash = "43efb4b904e7888fc0cb4f9871625e0a0c99dd87e91c9471c67eadbebe5a5199"
 
 [[files]]
+file = "config/certain_questing_additions.json5"
+hash = "c03bac6c23d6b25e578a4d9108da5f7e0084047628c1dffd146e9f7325f0a0aa"
+
+[[files]]
 file = "config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
