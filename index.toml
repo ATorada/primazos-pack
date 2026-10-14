@@ -2105,8 +2105,8 @@ file = "mods/primazos-progresion-2.2.0.jar"
 hash = "b8f439aee4ef193a444fe55dece4b05b532e3fd002e6dda4d2cbe03fcf5a4093"
 
 [[files]]
-file = "mods/primazos-velo-1.1.1.jar"
-hash = "f5343b1565f12f86b98553118b9bf093756f3bdab317e2c8ff0532a2e851e172"
+file = "mods/primazos-velo-1.2.0.jar"
+hash = "9abe6903f38bc37b8a7c79c4329e358b6f05ca95c964ac8e52a60882263db01d"
 
 [[files]]
 file = "mods/puzzleslib-v26-2-1-mc26-2-x-fabric.pw.toml"
