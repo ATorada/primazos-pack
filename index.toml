@@ -462,7 +462,7 @@ hash = "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179"
 
 [[files]]
 file = "config/ftblibrary-client.json5"
-hash = "c4cb24545f58f925f0845f2865749e10e16a968b58080a1370ed73d38c0a7cb0"
+hash = "25c6b0c2a49817af2dfeec392d2193db29e6ca0044f662a4c86ea7d068e525f5"
 
 [[files]]
 file = "config/ftbquests-client.json5"
@@ -675,6 +675,14 @@ hash = "fc92c5cc5552572a4a32dde3947f97bfe957f9823078af4543159ba9cdd39475"
 [[files]]
 file = "config/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+
+[[files]]
+file = "config/particlerain/config.json"
+hash = "10f75ef386c1ecb715cb6e1bf98c4804f834b5d266af95ee112b9a4866ad4631"
+
+[[files]]
+file = "config/particlerain/particles.json"
+hash = "b6259f4689f529ea7e4262d43f618ac6913598d8c08f5bf07280ffb7cfbf5e4a"
 
 [[files]]
 file = "config/patpat/ignore_mob_list.txt"
@@ -2097,6 +2105,10 @@ file = "mods/primazos-guides-2.6.0.jar"
 hash = "54090e4522e0b6f707b6067fb5a12ed42a2a09f9da911defb24854f73a33a6c2"
 
 [[files]]
+file = "mods/primazos-linterna-1.1.0.jar"
+hash = "950e55736e31061bf1d9c89465ac9c22bc14db15e301ed8ddcfb9c96ab937be4"
+
+[[files]]
 file = "mods/primazos-presets-1.0.0.jar"
 hash = "695987577051870e91cc32a9594a7a0be241c40c6f17de3f91fab85bc235d8fb"
 
@@ -2283,6 +2295,14 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack-fabric-26.2-11.3.3.jar"
 hash = "421a2f55bb2b78fdf47053d00f606c5a6a1e90e4381d48d379fefacee97ed2d2"
+
+[[files]]
+file = "mods/trinkets-4.1.1+26.2.jar"
+hash = "2365e8a19b5f62c812e95ac5fc23ee163bc753a5d9ec38f517f72da269eb0c4b"
+
+[[files]]
+file = "mods/trinkets-lantern-support-1.0.0.jar"
+hash = "471b888d79ba5ac2cca4d2969886a76f844d4014f94829690b8935307f106f29"
 
 [[files]]
 file = "mods/uncrafteverything-fabric-26.2-26.2.0.3.jar"
