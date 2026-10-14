@@ -1,0 +1,2 @@
+#Primazos - variante de cuevas (solo yoth)
+CAVE_LIGHTING=300

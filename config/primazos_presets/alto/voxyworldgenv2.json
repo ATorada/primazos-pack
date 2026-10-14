@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "showF3MenuStats": true,
+  "generationRadius": 512,
+  "update_interval": 20,
+  "maxQueueSize": 30000,
+  "maxActiveTasks": 20,
+  "saveNormalChunks": true
+}

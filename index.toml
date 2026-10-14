@@ -382,7 +382,7 @@ hash = "8212beb5bd81717e73ee55be89b1566f507d394b8bee8ae073168fd90902f2cd"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "ddad4b921987fac0bf7f820b1704d5f979a0e22f5df309ec34ddcfa49d613af1"
+hash = "6a8dc3a959f262b41b358c38119188ed0a85febd545092ce2382dfd07549d6a7"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -953,6 +953,10 @@ file = "config/primazos_presets/alto/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
+file = "config/primazos_presets/alto/particlerain_particles.json"
+hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
+
+[[files]]
 file = "config/primazos_presets/alto/sodium-extra-options.json"
 hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
 
@@ -971,6 +975,10 @@ hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
 [[files]]
 file = "config/primazos_presets/alto/voxy-config.json"
 hash = "8fb2248778a9e4821922a9511479114fd2d76fcb236791389d40ed8e6e10841c"
+
+[[files]]
+file = "config/primazos_presets/alto/voxyworldgenv2.json"
+hash = "20dadbe661f7c166b30c6f7c42b3074af54b52abb45c0d51551e24678ad7078d"
 
 [[files]]
 file = "config/primazos_presets/basico/BBEConfig.json"
@@ -1005,6 +1013,10 @@ file = "config/primazos_presets/basico/particle_effects.json5"
 hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
 
 [[files]]
+file = "config/primazos_presets/basico/particlerain_particles.json"
+hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
+
+[[files]]
 file = "config/primazos_presets/basico/sodium-extra-options.json"
 hash = "8682e6cf5b7c5832c19a7de8cf2b095fbc1b966dd2ac328f88e55ec51bc150ae"
 
@@ -1023,6 +1035,10 @@ hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
 [[files]]
 file = "config/primazos_presets/basico/voxy-config.json"
 hash = "dcfc00dfa3b884b628330dde74bf9842f4d337575938000dddbec54f1c758cc6"
+
+[[files]]
+file = "config/primazos_presets/basico/voxyworldgenv2.json"
+hash = "d583f4856bca889e675643b9fbfd06c3bf0e4e0c20bb5c2bcadc87ef7da7ba9a"
 
 [[files]]
 file = "config/primazos_presets/medio/BBEConfig.json"
@@ -1057,6 +1073,10 @@ file = "config/primazos_presets/medio/particle_effects.json5"
 hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
 
 [[files]]
+file = "config/primazos_presets/medio/particlerain_particles.json"
+hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
+
+[[files]]
 file = "config/primazos_presets/medio/sodium-extra-options.json"
 hash = "9541eabb70a1adef7725344543e2578dd8d97ee7871c99bc9984f5adff7a84f9"
 
@@ -1075,6 +1095,10 @@ hash = "0b1501485a1de26efe337a00881cee9434ecc6efde674afeafdb7d5d264390e4"
 [[files]]
 file = "config/primazos_presets/medio/voxy-config.json"
 hash = "67371a577f3b4dce53baeadb3724ef41fea1a57adf0ddd97243e21c852522896"
+
+[[files]]
+file = "config/primazos_presets/medio/voxyworldgenv2.json"
+hash = "1ef9c3784d6ddcf5bfe9602558e8ac6f9778cd0e2372f8e1ad9c2b376edcb4d6"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/BBEConfig.json"
@@ -1109,6 +1133,10 @@ file = "config/primazos_presets/muy_alto/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
+file = "config/primazos_presets/muy_alto/particlerain_particles.json"
+hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
+
+[[files]]
 file = "config/primazos_presets/muy_alto/sodium-extra-options.json"
 hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
 
@@ -1127,6 +1155,10 @@ hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
 [[files]]
 file = "config/primazos_presets/muy_alto/voxy-config.json"
 hash = "ed243ed0748bf12b71d882760abb15e84527af5a947923e4b84d1a60931498ea"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/voxyworldgenv2.json"
+hash = "418a5e0b178af2eb73210b855f7d4d4ac089a4017b476c69314b5690355d5630"
 
 [[files]]
 file = "config/primazos_presets/patata/BBEConfig.json"
@@ -1161,6 +1193,10 @@ file = "config/primazos_presets/patata/particle_effects.json5"
 hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
 
 [[files]]
+file = "config/primazos_presets/patata/particlerain_particles.json"
+hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
+
+[[files]]
 file = "config/primazos_presets/patata/sodium-extra-options.json"
 hash = "e3cf0f591e870a54bdade3720c016c3e825f71815609695935b8434072fc6cf9"
 
@@ -1178,7 +1214,11 @@ hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
 
 [[files]]
 file = "config/primazos_presets/patata/voxy-config.json"
-hash = "988308490da80f787511e33fbeb73e156e2a95c1cd3f283973703e2ffd5ad951"
+hash = "d31c639ba9608975dad77ec09b2a71ccf413f79f9074cfe8c59ca0c8bbb971b7"
+
+[[files]]
+file = "config/primazos_presets/patata/voxyworldgenv2.json"
+hash = "495c687833cb237d4d69e41fbf48216752f38de2b57bb2896d37abf672df6799"
 
 [[files]]
 file = "config/punchy/merged_animation_selection.json"
@@ -2094,6 +2134,10 @@ file = "mods/lod-server-support-fabric-0.16.0+26.2.jar"
 hash = "9c5307223c61a6e771954b0f7c3e247cfb8fc2adceadd3622efe91a9f1ea840a"
 
 [[files]]
+file = "mods/lod-server-support-fabric-0.19.0+26.2.jar"
+hash = "dac7c2e8980abbd2973a1c59c2fa1bd7eb843f9c0c15820823e3a05ccafeac4b"
+
+[[files]]
 file = "mods/malilib-fabric-26-2-0-29-3.pw.toml"
 hash = "476f25278e2eb855f0bce5b724d17fe004f99e32af3473dfcd3aeef796f38d77"
 metafile = true
@@ -2275,6 +2319,10 @@ metafile = true
 file = "mods/pricklemc-fabric-mc26-2-26-2-0-3.pw.toml"
 hash = "8192b4616df5021d6e3ac3c473d1798150397eb43527dfeaaa56b8e094279afb"
 metafile = true
+
+[[files]]
+file = "mods/primazos-cave-shaders-1.0.0+26.2.jar"
+hash = "8b8e7c0172e4024b5ae5739b32c40aa403f9453b5f4cc0e6a00dd9bf53ad2666"
 
 [[files]]
 file = "mods/primazos-guides-2.7.0.jar"
@@ -2514,6 +2562,10 @@ hash = "e085f52277ac8af9e723ae885ebc58e7245eef78c3dba58c7a67148e48cdb87d"
 [[files]]
 file = "mods/voxy-0.2.19-beta.jar"
 hash = "a06e4d93db88dc22d6cde6dfe1e58d8428ae271d1f432bbb430735336f4b5c12"
+
+[[files]]
+file = "mods/voxyworldgenv2-fabric-26.2-2.4.2.jar"
+hash = "b89a6f0eae3194674c64928b45f4131e4d123e98593ad180e16daf4a706faec2"
 
 [[files]]
 file = "mods/waveycapes-fabric-1.11.2-mc26.2.jar"
@@ -2878,6 +2930,14 @@ preserve = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
 hash = "9da35931e3ba58bd39537821ec21429d09731c6091508c9dc18f7d101d0fe92a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3_Cueva.zip"
+hash = "9da35931e3ba58bd39537821ec21429d09731c6091508c9dc18f7d101d0fe92a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3_Cueva.zip.txt"
+hash = "390e03691dd6903c0fcb82b839e1ef003ed4df173242804b73bdac50b3fab901"
 
 [[files]]
 file = "shaderpacks/I Like Vanilla v1.4.3c.zip.txt"
