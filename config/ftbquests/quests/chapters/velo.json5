@@ -1,0 +1,755 @@
+{
+  id: "4619C2E767BB6C2C",
+  group: "41FFC5E97CCD6D87",
+  order_index: 10,
+  icon: {
+    id: "aerialhell:chiseled_stellar_grass_block",
+    count: 1,
+  },
+  filename: "velo",
+  always_invisible: true,
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  autofocus_id: "40BFC8AD8DCEE173",
+  quests: [
+    {
+      icon: {
+        id: "aerialhell:lunar_priest_trophy",
+        count: 1,
+      },
+      x: -5.7,
+      y: 0.0,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      size: 1.4,
+      id: "40BFC8AD8DCEE173",
+      tasks: [
+        {
+          id: "482C06AA6C9F113A",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "aerialhell:story/kill_lunatic_boss",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "420ABD27C5668E18",
+          type: "xp",
+          xp: 500,
+        },
+        {
+          id: "4889A19A12DFBB56",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:crystal_lunatic",
+        count: 1,
+      },
+      x: -5.7,
+      y: 2.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "40BFC8AD8DCEE173",
+      ],
+      size: 1.0,
+      id: "41C5BD1F93A47BA4",
+      tasks: [
+        {
+          id: "4248663E5CCCA941",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:crystal_lunatic",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:crystal_lunatic",
+                  "primazos_progresion:veil_ingot_lunatic",
+                  "advancednetherite:netherite_veil_helmet",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "49FE1C1DEC77BA96",
+          type: "xp",
+          xp: 300,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:veil_ingot_lunatic",
+        count: 1,
+      },
+      x: -5.7,
+      y: 4.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "41C5BD1F93A47BA4",
+      ],
+      size: 1.0,
+      id: "4B105AC521620CA6",
+      tasks: [
+        {
+          id: "4D9313CE48EAA9C2",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:veil_ingot_lunatic",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:veil_ingot_lunatic",
+                  "advancednetherite:netherite_veil_helmet",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4819BA2C621DC18B",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "4B917F4531B5FD39",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "aerialhell:chained_god_trophy",
+        count: 1,
+      },
+      x: -1.9,
+      y: 0.0,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      size: 1.4,
+      id: "45E463870A19D0D2",
+      tasks: [
+        {
+          id: "409DDABFAA127C7C",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "aerialhell:story/kill_golden_nether_boss",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "4D62DAB4FCACE901",
+          type: "xp",
+          xp: 500,
+        },
+        {
+          id: "46032844AFB131E2",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:crystal_chained",
+        count: 1,
+      },
+      x: -1.9,
+      y: 2.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "45E463870A19D0D2",
+      ],
+      size: 1.0,
+      id: "42534F09BAEB8529",
+      tasks: [
+        {
+          id: "422D538DE519A9E6",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:crystal_chained",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:crystal_chained",
+                  "primazos_progresion:veil_ingot_chained",
+                  "advancednetherite:netherite_veil_chestplate",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4D91D56F30B16C3D",
+          type: "xp",
+          xp: 300,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:veil_ingot_chained",
+        count: 1,
+      },
+      x: -1.9,
+      y: 4.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "42534F09BAEB8529",
+      ],
+      size: 1.0,
+      id: "483CDFB97F92B64A",
+      tasks: [
+        {
+          id: "4E43AFFAC78B84B4",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:veil_ingot_chained",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:veil_ingot_chained",
+                  "advancednetherite:netherite_veil_chestplate",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "40957FD6A78CE6A7",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "42E7B2F757BC86CA",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "aerialhell:lilith_trophy",
+        count: 1,
+      },
+      x: 1.9,
+      y: 0.0,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      size: 1.4,
+      id: "4A670853ADBE78BC",
+      tasks: [
+        {
+          id: "4A6EBD7AE4F08BE1",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "aerialhell:story/kill_lilith_boss",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "43652271EE3FF820",
+          type: "xp",
+          xp: 500,
+        },
+        {
+          id: "4CAD498B26FE1D7D",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:crystal_shadow",
+        count: 1,
+      },
+      x: 1.9,
+      y: 2.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4A670853ADBE78BC",
+      ],
+      size: 1.0,
+      id: "47494E685930C5DB",
+      tasks: [
+        {
+          id: "47D0E2DB0F858B38",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:crystal_shadow",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:crystal_shadow",
+                  "primazos_progresion:veil_ingot_shadow",
+                  "advancednetherite:netherite_veil_leggings",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "45FE8F94F938F607",
+          type: "xp",
+          xp: 300,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:veil_ingot_shadow",
+        count: 1,
+      },
+      x: 1.9,
+      y: 4.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "47494E685930C5DB",
+      ],
+      size: 1.0,
+      id: "47A76A21C7113A86",
+      tasks: [
+        {
+          id: "49374497F3DB0DE7",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:veil_ingot_shadow",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:veil_ingot_shadow",
+                  "advancednetherite:netherite_veil_leggings",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "43351A38AD7E22FD",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "46E0A0EAD655C73F",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "aerialhell:mud_cycle_mage_trophy",
+        count: 1,
+      },
+      x: 5.7,
+      y: 0.0,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      size: 1.4,
+      id: "413576029EF4BD79",
+      tasks: [
+        {
+          id: "4706AE713E89F700",
+          type: "advancement",
+          disable_toast: true,
+          advancement: "aerialhell:story/kill_mud_boss",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "45D1701AD0989103",
+          type: "xp",
+          xp: 500,
+        },
+        {
+          id: "42EFA9B529DD8A6A",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:crystal_mud",
+        count: 1,
+      },
+      x: 5.7,
+      y: 2.4,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "413576029EF4BD79",
+      ],
+      size: 1.0,
+      id: "4BC5D1EA27DAFFCA",
+      tasks: [
+        {
+          id: "47237F362F40C55E",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:crystal_mud",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:crystal_mud",
+                  "primazos_progresion:veil_ingot_mud",
+                  "advancednetherite:netherite_veil_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4AFE3CE84031F065",
+          type: "xp",
+          xp: 300,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "primazos_progresion:veil_ingot_mud",
+        count: 1,
+      },
+      x: 5.7,
+      y: 4.6,
+      shape: "circle",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4BC5D1EA27DAFFCA",
+      ],
+      size: 1.0,
+      id: "44750FDDB03C65CC",
+      tasks: [
+        {
+          id: "4F84771B8D8EE002",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "minecraft:paper",
+            count: 1,
+            components: {
+              "minecraft:item_model": "primazos_progresion:veil_ingot_mud",
+              "minecraft:custom_data": {
+                primazos_guides_any_of: [
+                  "primazos_progresion:veil_ingot_mud",
+                  "advancednetherite:netherite_veil_boots",
+                ],
+              },
+            },
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "4A55453128F57BE4",
+          type: "xp",
+          xp: 300,
+        },
+        {
+          id: "4F6D89CF486CEFA1",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "advancednetherite:netherite_veil_chestplate",
+        count: 1,
+      },
+      x: 0.0,
+      y: 7.4,
+      shape: "gear",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4B105AC521620CA6",
+        "483CDFB97F92B64A",
+        "47A76A21C7113A86",
+        "44750FDDB03C65CC",
+      ],
+      size: 1.8,
+      id: "409A041597EC8F4B",
+      tasks: [
+        {
+          id: "4428780ADB4D309C",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "advancednetherite:netherite_veil_helmet",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+        {
+          id: "4696CD12F6406AA9",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "advancednetherite:netherite_veil_chestplate",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+        {
+          id: "4AE24976B70DBE87",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "advancednetherite:netherite_veil_leggings",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+        {
+          id: "4824747817209C02",
+          type: "item",
+          disable_toast: true,
+          item: {
+            id: "advancednetherite:netherite_veil_boots",
+            count: 1,
+          },
+          consume_items: false,
+          only_from_crafting: false,
+        },
+      ],
+      rewards: [
+        {
+          id: "418FFD5EBEC4F88B",
+          type: "xp",
+          xp: 2000,
+        },
+        {
+          id: "4AF2814353FA9FF9",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:totem_of_undying",
+            count: 1,
+          },
+          count: 2,
+        },
+        {
+          id: "468918DE7C9F3820",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:elytra",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -3.8,
+      y: 12.6,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4808884CA6FC720E",
+    },
+    {
+      icon: {
+        id: "minecraft:sculk_catalyst",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 12.6,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "44411FC6C725352F",
+    },
+    {
+      icon: {
+        id: "minecraft:fermented_spider_eye",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 3.8,
+      y: 12.6,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4EAA13D611CE5347",
+    },
+    {
+      icon: {
+        id: "minecraft:smithing_table",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 3.8,
+      y: 14.35,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4BD2F98DE32C556F",
+    },
+    {
+      icon: {
+        id: "aerialhell:chiseled_stellar_grass_block",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 10.5,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "4808884CA6FC720E",
+        "44411FC6C725352F",
+        "4EAA13D611CE5347",
+        "4BD2F98DE32C556F",
+      ],
+      size: 1.5,
+      optional: true,
+      id: "41F63852B02F57EE",
+      rewards: [
+        {
+          id: "476745753122A622",
+          type: "xp",
+          xp: 32,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "aerialhell:chiseled_stellar_grass_block",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 17.1,
+      shape: "gear",
+      hide_dependency_lines: true,
+      size: 1.5,
+      optional: true,
+      id: "4160F2D432C5E4CA",
+      rewards: [
+        {
+          id: "4A108A1D49782A47",
+          type: "xp",
+          xp: 20,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

@@ -1,0 +1,4020 @@
+{
+  "chapter_group.41FFC5E97CCD6D87.title": "&a&lAventura",
+  "chapter_group.4B9BB1154CE5E86A.title": "&f&lEquip",
+  "chapter_group.4BB1469C9A1D849B.title": "&b&lEl Servidor",
+  "chapter_group.458EAD3B4BE27CCD.title": "&6&lEnciclopèdia",
+  "chapter.49A60DE5C0DDB051.title": "&6&l★ Comença aquí",
+  "quest.4227C911EB0F1706.title": "&eCom llegir aquest llibre",
+  "quest.4227C911EB0F1706.quest_subtitle": "Què significa cada forma i cada color.",
+  "quest.4227C911EB0F1706.quest_desc": [
+    "&fCercle&7: un pas de la teva aventura. Es completa sol quan l'aconsegueixes i dona &6recompenses&7.",
+    "&fRombe&7: un cap.",
+    "&fHexàgon&7: com funciona el servidor.",
+    "&fQuadrat&7: informació.",
+    "&fFemella&7: el resum d'una secció. Quan tingui la &e&l!&r&7, obre-la i recull la teva &6experiència&7.",
+    "",
+    "Les &dparaules clau&7 van en rosa, els &cperills&7 en vermell i les &6recompenses&7 en daurat."
+  ],
+  "quest.464931B3842EB6E2.title": "&eCom obrir el llibre",
+  "quest.464931B3842EB6E2.quest_subtitle": "Botó Progrés, el llibre o una comanda.",
+  "quest.464931B3842EB6E2.quest_desc": [
+    "Prem &e&lEsc&r&7 i el botó &6Progrés&7.",
+    "",
+    "En entrar et donem l'&6Atles de Primazos&7: fes-hi clic dret.",
+    "",
+    "També: &e&l/ftbquests open_book&r&7, o assigna una tecla a Opcions → Controls → FTB Quests."
+  ],
+  "quest.4CA0580DF13FA630.title": "&a&lAventura",
+  "quest.4CA0580DF13FA630.quest_subtitle": "Què fer ara. Avança pas a pas.",
+  "quest.4CA0580DF13FA630.quest_desc": [
+    "La zona amb &dprogrés&7: cada pas es completa sol quan ho aconsegueixes i dona &6recompenses&7.",
+    "",
+    "Primers dies → El Món → El Nether → L'End → The Sift."
+  ],
+  "quest.44EFBB7B0E4010DF.title": "&f&lEquip",
+  "quest.44EFBB7B0E4010DF.quest_subtitle": "Armadures, armes i encanteris.",
+  "quest.44EFBB7B0E4010DF.quest_desc": [
+    "Quin equip és millor, com millorar-lo i quins encanteris posar-li.",
+    "",
+    "La &dNetherita avançada&7 també dona recompenses en aconseguir cada lingot."
+  ],
+  "quest.4E9317F3918612F9.title": "&b&lEl Servidor",
+  "quest.4E9317F3918612F9.quest_subtitle": "Com funciona Primazos.",
+  "quest.4E9317F3918612F9.quest_desc": [
+    "Els sistemes propis del servidor: l'&a&lÈgida&r&7, el &e&lSol&r&7, les &d&lEstrelles&r&7, els controls i què passa en morir."
+  ],
+  "quest.42734208667D6698.title": "&6&lEnciclopèdia",
+  "quest.42734208667D6698.quest_subtitle": "Tots els mods del pack per temes.",
+  "quest.42734208667D6698.quest_desc": [
+    "Criatures, llar, biomes i tot el que porten els mods, amb els seus objectes més importants."
+  ],
+  "quest.4C34FABD0311BD78.title": "&6&lBenvingut/da a Primazos",
+  "quest.4C34FABD0311BD78.quest_subtitle": "Aquest llibre és la teva guia. Comença per aquí.",
+  "quest.4C34FABD0311BD78.quest_desc": [
+    "És un &dVanilla Plus&7: es juga com el Minecraft normal, però amb més biomes, mobs, masmorres i comoditats.",
+    "",
+    "A l'esquerra tens el llibre dividit en &6zones&7."
+  ],
+  "chapter.48B5671AF2299C3D.title": "&aPrimers dies",
+  "task.40BC6A826FF68769.title": "Tenir una taula de fabricació",
+  "quest.458308E602F81BA4.title": "&aUna taula per començar",
+  "quest.458308E602F81BA4.quest_subtitle": "Tingues una taula de fabricació.",
+  "quest.458308E602F81BA4.quest_desc": [
+    "Talla un arbre, fes taulons i amb quatre taulons fabrica la taula.",
+    "",
+    "A &dREI&7: &e&lR&r&7 mostra la recepta i &e&lU&r&7 els usos."
+  ],
+  "task.47708BA4C1126E34.title": "Millorar el pic",
+  "quest.4DCCB5B03DF9A09D.title": "&aEines de pedra",
+  "quest.4DCCB5B03DF9A09D.quest_subtitle": "Aconsegueix un pic millor.",
+  "quest.4DCCB5B03DF9A09D.quest_desc": [
+    "Amb pedra ja pots picar &dferro&7."
+  ],
+  "task.4209791F29D5D266.title": "Tenir un forn",
+  "quest.4EFFE5E4DFC36936.title": "&aCuinar i fondre",
+  "quest.4EFFE5E4DFC36936.quest_subtitle": "Tingues un forn.",
+  "quest.4EFFE5E4DFC36936.quest_desc": [
+    "Vuit de pedra en cercle. A dalt el que vulguis coure o fondre, a baix el combustible."
+  ],
+  "task.4AAA4F9FECC863CA.title": "Dormir en un llit",
+  "quest.4D540224CDED83AA.title": "&aLa primera nit",
+  "quest.4D540224CDED83AA.quest_subtitle": "Dorm en un llit.",
+  "quest.4D540224CDED83AA.quest_desc": [
+    "Tres llanes i tres taulons. Dormir fixa el teu &dpunt de reaparició&7.",
+    "",
+    "De nit les &d&lEstrelles&r&7 et cuiden."
+  ],
+  "task.41C2F7A112218888.title": "Fondre ferro",
+  "quest.466612DF62AE6E9B.title": "&aEl primer ferro",
+  "quest.466612DF62AE6E9B.quest_subtitle": "Fon un lingot de ferro.",
+  "quest.466612DF62AE6E9B.quest_desc": [
+    "El ferro obre la porta a l'armadura, l'escut i la galleda."
+  ],
+  "task.44E54B53CB3C9DD3.title": "Equipar armadura de ferro",
+  "quest.41483817167821AB.title": "&a&lVestit de ferro",
+  "quest.41483817167821AB.quest_subtitle": "Posa't una peça d'armadura de ferro.",
+  "quest.41483817167821AB.quest_desc": [
+    "La teva primera &6fita&7. A partir d'aquí ja aguantes els monstres de la nit."
+  ],
+  "task.40DBABB099B6D467.title": "Tenir un escut",
+  "quest.434864C7956076ED.title": "&aUn escut",
+  "quest.434864C7956076ED.quest_subtitle": "Tingues un escut.",
+  "quest.434864C7956076ED.quest_desc": [
+    "Un lingot de ferro i sis taulons. Porta'l a la &dmà esquerra&7 i bloqueja amb clic dret."
+  ],
+  "task.431411692DE1904B.title": "Tenir una galleda",
+  "quest.47A4B5DD7E6B6595.title": "&aUna galleda",
+  "quest.47A4B5DD7E6B6595.quest_subtitle": "Tingues una galleda.",
+  "quest.47A4B5DD7E6B6595.quest_desc": [
+    "Per a l'aigua, la lava i l'&dobsidiana&7."
+  ],
+  "task.43A6ABCD812967DF.title": "Aconseguir un diamant",
+  "quest.4F4DCF57DA3C89AB.title": "&b&lDiamants!",
+  "quest.4F4DCF57DA3C89AB.quest_subtitle": "Troba un diamant.",
+  "quest.4F4DCF57DA3C89AB.quest_desc": [
+    "Són al més profund, a prop de la lava. Mina amb &ccompte&7."
+  ],
+  "task.49D655AB805B92DD.title": "Encantar un objecte",
+  "quest.48F0A50778861B76.title": "&aEncantar",
+  "quest.48F0A50778861B76.quest_subtitle": "Encanta un objecte.",
+  "quest.48F0A50778861B76.quest_desc": [
+    "Taula d'encanteris: un llibre, dos diamants i quatre d'obsidiana.",
+    "",
+    "Envolta-la de &dprestatgeries&7 per a millors encanteris."
+  ],
+  "task.4A6FA959307B23F7.title": "Aconseguir obsidiana",
+  "quest.421B18AE435AC6AB.title": "&aObsidiana",
+  "quest.421B18AE435AC6AB.quest_subtitle": "Aconsegueix obsidiana.",
+  "quest.421B18AE435AC6AB.quest_desc": [
+    "Tira aigua sobre lava quieta i pica-la amb un &dpic de diamant&7."
+  ],
+  "task.412239584112B50B.title": "Entrar al Nether",
+  "quest.491E031B2E3E9A88.title": "&c&lAl Nether",
+  "quest.491E031B2E3E9A88.quest_subtitle": "Entra al Nether.",
+  "quest.491E031B2E3E9A88.quest_desc": [
+    "Un marc d'obsidiana de 4×5 i un encenedor. A l'altra banda tot és més &cperillós&7.",
+    "",
+    "Aquí acaba el teu primer dia. Continua a &aEl Món&7 i &cEl Nether&7."
+  ],
+  "quest.4AE0BE344A9331CD.title": "&dMascotes que reviuen",
+  "quest.4AE0BE344A9331CD.quest_subtitle": "&7Les teves mascotes domesticades poden tornar a la vida si moren.",
+  "quest.4AE0BE344A9331CD.quest_desc": [
+    "&7Les teves mascotes domesticades poden tornar a la vida si moren.",
+    "",
+    "&7La Gemma etèrica és la clau: busca'n la recepta a &r&dREI&r&7 (tecla R).",
+    "",
+    "&8Mod: Respawnable Pets"
+  ],
+  "quest.4FB95A4CADDF44AA.title": "&aGuardar experiència",
+  "quest.4FB95A4CADDF44AA.quest_subtitle": "&7El Tom d'experiència (XP Tome)",
+  "quest.4FB95A4CADDF44AA.quest_desc": [
+    "&r&7El Tom d'experiència (&r&dXP&r&7 Tome)",
+    "&7guarda els teus nivells per no perdre'ls en morir o per passar-los a un altre jugador.",
+    "",
+    "&r&8Mod: &r&dXP&r&8 Tome"
+  ],
+  "quest.47162EF110CCA2CC.title": "&6Motxilla",
+  "quest.47162EF110CCA2CC.quest_subtitle": "&7Fabrica una Motxilla del Viatger: més inventari, tancs de líquids…",
+  "quest.47162EF110CCA2CC.quest_desc": [
+    "&7Fabrica una Motxilla del Viatger: més inventari, tancs de líquids i un sac de dormir.",
+    "",
+    "&7Es millora amb ferro, or, diamant i netherita.",
+    "",
+    "&8Mod: Traveler's Backpack"
+  ],
+  "quest.47326320D8DD71CB.title": "&eEstacions de l'any",
+  "quest.47326320D8DD71CB.quest_subtitle": "&7Hi ha primavera, estiu, tardor i hivern. A l'hivern neva més i…",
+  "quest.47326320D8DD71CB.quest_desc": [
+    "&7Hi ha primavera, estiu, tardor i hivern. A l'hivern neva més i molts conreus &r&dNO&r&7 creixen.",
+    "",
+    "&7Fabrica un Calendari per saber en quina estació ets.",
+    "",
+    "&8Mod: Serene Seasons"
+  ],
+  "quest.46D0AFA879A4AA9F.title": "&aConreus",
+  "quest.46D0AFA879A4AA9F.quest_subtitle": "&7Clic dret sobre un conreu madur per collir-lo i replantar-lo…",
+  "quest.46D0AFA879A4AA9F.quest_desc": [
+    "&7Clic dret sobre un conreu madur per collir-lo i replantar-lo sol.",
+    "",
+    "&7Amb pluja els conreus creixen més ràpid.",
+    "",
+    "&8Mods: RightClickHarvest, Crops Love Rain"
+  ],
+  "quest.4325AA702317DCA4.title": "&eCom es fabrica una cosa?",
+  "quest.4325AA702317DCA4.quest_subtitle": "&7Obre l'inventari i busca l'objecte a la llista de la dreta (REI).",
+  "quest.4325AA702317DCA4.quest_desc": [
+    "&7Obre l'inventari i busca l'objecte a la llista de la dreta (&r&dREI&r&7).",
+    "",
+    "&7Passa el ratolí per sobre i prem R per veure'n la recepta, o U per veure per a què serveix."
+  ],
+  "quest.4794662C9817B656.title": "&a&lPer als teus primers dies",
+  "quest.4794662C9817B656.quest_subtitle": "&7Coses que et faran la vida més fàcil des del principi.",
+  "quest.4794662C9817B656.quest_desc": [
+    "Coses que et faran la vida més fàcil des del principi."
+  ],
+  "chapter.472F67A339681000.title": "&2El Món",
+  "task.43623B5FEF3DD218.title": "Matar un monstre",
+  "quest.484C5BF94595D9BD.title": "&2Caçador de monstres",
+  "quest.484C5BF94595D9BD.quest_subtitle": "Mata un monstre.",
+  "quest.484C5BF94595D9BD.quest_desc": [
+    "Els monstres es fan més forts com més jugues: mira &dMonstres que escalen&7 a El Servidor."
+  ],
+  "task.4D237321763FF3EF.title": "Comerciar amb un vilatà",
+  "quest.46F339D47935077E.title": "&2Comerciar",
+  "quest.46F339D47935077E.quest_subtitle": "Comercia amb un vilatà.",
+  "quest.46F339D47935077E.quest_desc": [
+    "Els pobles de &dLio's Overhauled Villages&7 i &dRepurposed Structures&7 són grans i variats. Les maragdes compren llibres, eines i fins i tot un &dUll malvat&7 per a l'End."
+  ],
+  "task.499909CCEB628CDE.title": "Tenir la brúixola de l'explorador",
+  "quest.4519ABCA6F2580E3.title": "&2Brúixola de l'explorador",
+  "quest.4519ABCA6F2580E3.quest_subtitle": "Tingues la brúixola d'estructures.",
+  "quest.4519ABCA6F2580E3.quest_desc": [
+    "Et porta a l'&destructura&7 que triïs: pobles, masmorres, temples...",
+    "",
+    "Mira les llistes a &a› Masmorres&7."
+  ],
+  "task.493B76109D8F4346.title": "Tenir la brúixola",
+  "quest.411E2E0395550CFD.title": "&2Brúixola de la natura",
+  "quest.411E2E0395550CFD.quest_subtitle": "Tingues la brúixola de biomes.",
+  "quest.411E2E0395550CFD.quest_desc": [
+    "Et porta al &dbioma&7 que triïs. Amb tants biomes nous, és imprescindible."
+  ],
+  "task.40E793B6DBA61E16.title": "Entrar en unes cambres del repte",
+  "quest.4130540DB0E994B5.title": "&2Cambres de prova",
+  "quest.4130540DB0E994B5.quest_subtitle": "Entra en unes cambres del repte.",
+  "quest.4130540DB0E994B5.quest_desc": [
+    "Onades de mobs amb &6botí&7 en cofres i cambres cuirassades."
+  ],
+  "task.4C79D3959A27A53E.title": "Trobar un lloc avançat de saquejadors",
+  "quest.4C5441DAC3434226.title": "&eAvançada de saquejadors",
+  "quest.4C5441DAC3434226.quest_subtitle": "Troba un lloc avançat de saquejadors.",
+  "quest.4C5441DAC3434226.quest_desc": [
+    "La torre dels &dsaquejadors&7. El seu capità porta l'estendard."
+  ],
+  "task.4CBE6831D4944F3E.title": "Trobar ruïnes del desert",
+  "quest.4831E531FA0F440C.title": "&eRuïnes del desert",
+  "quest.4831E531FA0F440C.quest_subtitle": "Troba unes ruïnes del desert.",
+  "quest.4831E531FA0F440C.quest_desc": [
+    "Ruïnes enterrades amb &darqueologia&7."
+  ],
+  "task.444E952435BEA8C0.title": "Trobar unes catacumbes",
+  "quest.4B780CA04C180B91.title": "&6Catacumbes",
+  "quest.4B780CA04C180B91.quest_subtitle": "Troba unes catacumbes.",
+  "quest.4B780CA04C180B91.quest_desc": [
+    "&cPerilloses&7: molts no-morts sota terra."
+  ],
+  "task.42CDBDA9444553D8.title": "Trobar una mansió",
+  "quest.405779D6A2587147.title": "&6Mansió del bosc",
+  "quest.405779D6A2587147.quest_subtitle": "Troba una mansió del bosc.",
+  "quest.405779D6A2587147.quest_desc": [
+    "Plena d'&cevocadors i vindicadors&7. Pot tenir l'&dUll màgic&7."
+  ],
+  "task.4C51BC8489623C4D.title": "Trobar un fort gelat",
+  "quest.4E76F3082EC1A118.title": "&cFort gelat",
+  "quest.4E76F3082EC1A118.quest_subtitle": "Troba un fort dels esquelets glacials.",
+  "quest.4E76F3082EC1A118.quest_desc": [
+    "&cMolt difícil&7: &desquelets glacials&7 a dojo."
+  ],
+  "task.4DA30460E400557F.title": "Trobar el cau tòxic",
+  "quest.4E13A833657A74CF.title": "&cCau tòxic",
+  "quest.4E13A833657A74CF.quest_subtitle": "Troba el cau tòxic.",
+  "quest.4E13A833657A74CF.quest_desc": [
+    "Als pantans. El seu cap guarda l'encanteri &dAntídot&7."
+  ],
+  "task.49D68A4E9141B649.title": "Trobar el Monument del Trident",
+  "quest.495D6DD9DDA2FDE8.title": "&4&lMonument del Trident",
+  "quest.495D6DD9DDA2FDE8.quest_subtitle": "Troba el Monument del Trident.",
+  "quest.495D6DD9DDA2FDE8.quest_desc": [
+    "&cMolt difícil&7 i sota l'aigua. Porta respiració aquàtica."
+  ],
+  "task.42961B6F81D3B4A9.title": "Matar un capità",
+  "quest.42E469F569BC040F.title": "&2Capità abatut",
+  "quest.42E469F569BC040F.quest_subtitle": "Mata el capità d'una patrulla.",
+  "quest.42E469F569BC040F.quest_desc": [
+    "Et dona &cMal presagi&7: si entres en un poble comença una &dincursió&7."
+  ],
+  "task.4910D583FEB2464D.title": "Guanyar una incursió",
+  "quest.49B3091602911AA7.title": "&6&lHeroi del poble",
+  "quest.49B3091602911AA7.quest_subtitle": "Guanya una incursió.",
+  "quest.49B3091602911AA7.quest_desc": [
+    "Els saquejadors disparen &ccoets&7 i venen illagers nous: mira &7› Incursions i illagers&7.",
+    "",
+    "Els vilatans et faran &6descomptes&7."
+  ],
+  "task.4AD94C3E561403DA.title": "Matar un Guardià ancià",
+  "quest.45733E782D248DDB.title": "&bGuardià ancià",
+  "quest.45733E782D248DDB.quest_subtitle": "&780 de vida i fatiga minera. Deixa anar l'Ull guardià per a l'End. Porta…",
+  "quest.45733E782D248DDB.quest_desc": [
+    "&780 de vida i fatiga minera. Deixa anar l'Ull guardià per a l'End. Porta respiració aquàtica."
+  ],
+  "task.4652B0BD6994F510.title": "Entrar en una ciutat antiga",
+  "quest.4F5C936B1049344A.title": "&3Civilització caiguda",
+  "quest.4F5C936B1049344A.quest_subtitle": "Entra en una ciutat antiga.",
+  "quest.4F5C936B1049344A.quest_desc": [
+    "On viu el &cWarden&7. Mou-te ajupit i no facis soroll."
+  ],
+  "task.461A35CDE9023AC0.title": "Sigil 100",
+  "quest.45F1B0B22B045F16.title": "&3Sigil 100",
+  "quest.45F1B0B22B045F16.quest_subtitle": "Passa ajupit al costat d'un sensor de sculk.",
+  "quest.45F1B0B22B045F16.quest_desc": [
+    "Ajupeix-te a prop d'un &dsensor de sculk&7 o d'un &dxisclador de sculk&7 perquè no et detecti."
+  ],
+  "task.4CE6B57AC7EF7CAB.title": "Matar el Warden",
+  "quest.4EE737AE7B6EB60A.title": "&3&lWarden",
+  "quest.4EE737AE7B6EB60A.quest_subtitle": "Mata el Warden. Sí, de debò.",
+  "quest.4EE737AE7B6EB60A.quest_desc": [
+    "&7500 de vida i cops de 45 en difícil. Millor no lluitar: mou-te ajupit i no facis soroll.",
+    "",
+    "Es desbloqueja en entrar en una &dciutat antiga&7 o aconseguir &dSigil 100&7.",
+    "",
+    "&6Recompensa a l'altura&7: diamants, molta experiència i tòtems."
+  ],
+  "quest.4B6D70BA9202F2B9.title": "&dAbans d'entrar",
+  "quest.4B6D70BA9202F2B9.quest_subtitle": "&7Menjar daurat, pocions de curació i resistència al foc, tòtem i…",
+  "quest.4B6D70BA9202F2B9.quest_desc": [
+    "&7Menjar daurat, pocions de curació i resistència al foc, tòtem i blocs per escapar.",
+    "",
+    "&7Sota l'aigua: respiració aquàtica i Agilitat aquàtica.",
+    "",
+    "&7Si mors, la teva tomba t'espera on vas caure."
+  ],
+  "quest.46F97F6F8FE8C459.title": "&e&lAbans d'explorar",
+  "quest.46F97F6F8FE8C459.quest_subtitle": "&7Com preparar-te i com s'ha calculat la dificultat.",
+  "quest.46F97F6F8FE8C459.quest_desc": [
+    "Com preparar-te i com s'ha calculat la dificultat."
+  ],
+  "chapter.456AC8A24AB94CAC.title": "&7› &aMasmorres fàcils",
+  "quest.476CB1E61042EE37.title": "&fPiràmides, temples i mansions variants (RS)",
+  "quest.476CB1E61042EE37.quest_subtitle": "&7On: End, Món normal, Oceà",
+  "quest.476CB1E61042EE37.quest_desc": [
+    "&bOn: End, Món normal, Oceà",
+    "&fMobs: peixets de plata, endermites, zombis momificats, creepers",
+    "&6Se'n poden ajuntar molts alhora."
+  ],
+  "quest.4414DC669190292D.title": "&fTorres de MVS (suavitzades)",
+  "quest.4414DC669190292D.quest_subtitle": "&7On: Món normal, Oceà",
+  "quest.4414DC669190292D.quest_desc": [
+    "&bOn: Món normal, Oceà",
+    "&9Sota l'aigua: 58% de l'estructura",
+    "&fMobs: guardians, ofegats, esquelets",
+    "",
+    "&7Els seus generadors estan limitats en aquest servidor."
+  ],
+  "quest.4CBC753287770C8F.title": "&fSantuaris de bioma (D＆T)",
+  "quest.4CBC753287770C8F.quest_subtitle": "&7On: Món normal",
+  "quest.4CBC753287770C8F.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: endermites, esquelets ressecs, zombis, esquelets"
+  ],
+  "quest.485E131ABDBBB9EB.title": "&fPobles fortificats (Terralith)",
+  "quest.485E131ABDBBB9EB.quest_subtitle": "&7On: Món normal",
+  "quest.485E131ABDBBB9EB.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: zombis"
+  ],
+  "quest.49205601D176D0DD.title": "&fPiràmide del desert i temple de la jungla",
+  "quest.49205601D176D0DD.quest_subtitle": "&7On: Món normal",
+  "quest.49205601D176D0DD.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: trampes",
+    "",
+    "&7Sense mobs especials, però compte amb la &r&dTNT&r&7 i les fletxes."
+  ],
+  "quest.4993D86D396B3816.title": "&fEstructures petites (MVS, Terralith, Lio)",
+  "quest.4993D86D396B3816.quest_subtitle": "&7On: Món normal",
+  "quest.4993D86D396B3816.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: gairebé cap",
+    "",
+    "&7Cases, pous, ruïnes, pobles i portals antics. Ideals per començar."
+  ],
+  "quest.42471ED1D4566EBA.title": "&aFàcil",
+  "quest.42471ED1D4566EBA.quest_subtitle": "&7Equip recomanat:",
+  "quest.42471ED1D4566EBA.quest_desc": [
+    "&eEquip recomanat:",
+    "&7Ferro i escut.",
+    "",
+    "&76 grups d'estructures."
+  ],
+  "chapter.4AD6E4301A9C2DE3.title": "&7› &eMasmorres mitjanes",
+  "quest.471DC801BB945A9C.title": "&fAvançades de saquejadors variants (RS)",
+  "quest.471DC801BB945A9C.quest_subtitle": "&7On: End, Món normal, Nether, Oceà",
+  "quest.471DC801BB945A9C.quest_desc": [
+    "&bOn: End, Món normal, Nether, Oceà",
+    "&9Sota l'aigua: 57% de l'estructura",
+    "&fMobs: saquejadors, piglins, piglins zombificats, hoglins",
+    "&6Se'n poden ajuntar molts alhora.",
+    "",
+    "&7Els del Nether i de l'oceà són força més durs que els normals."
+  ],
+  "quest.45136EBF596364C9.title": "&fRuïnes i caus (D＆T)",
+  "quest.45136EBF596364C9.quest_subtitle": "&7On: Món normal",
+  "quest.45136EBF596364C9.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: esquelets de pantà, zombis, aranyes de cova, bruixes",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!"
+  ],
+  "quest.4BE4664D917ADCA6.title": "&fTorres i complex de mags (Terralith)",
+  "quest.4BE4664D917ADCA6.quest_subtitle": "&7On: Món normal",
+  "quest.4BE4664D917ADCA6.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: saquejadors, bruixes, vindicadors, evocadors",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!"
+  ],
+  "quest.4D78C77CD0A4EE5E.title": "&fTorres d'esquelets del Nether (D＆T)",
+  "quest.4D78C77CD0A4EE5E.quest_subtitle": "&7On: Món normal, Nether",
+  "quest.4D78C77CD0A4EE5E.quest_desc": [
+    "&bOn: Món normal, Nether",
+    "&fMobs: esquelets wither, esquelets",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!"
+  ],
+  "quest.4F947DE45E24D9ED.title": "&fForts i torres il·lager (Illager Invasion)",
+  "quest.4F947DE45E24D9ED.quest_subtitle": "&7On: Món normal",
+  "quest.4F947DE45E24D9ED.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: vindicadors, provocadors, bashers, merodejadors",
+    "&6Se'n poden ajuntar molts alhora.",
+    "",
+    "&7Inquisidors (80 de vida, cops de 15). L'Invocador és un cap."
+  ],
+  "quest.4B2367F4553995FD.title": "&fAvançada minera de les Badlands (D＆T)",
+  "quest.4B2367F4553995FD.quest_subtitle": "&7On: Món normal",
+  "quest.4B2367F4553995FD.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: evocadors, saquejadors, vindicadors, bruixes",
+    "&6Se'n poden ajuntar molts alhora."
+  ],
+  "quest.42E9FB1363E95306.title": "&fCambres de prova (vanilla)",
+  "quest.42E9FB1363E95306.quest_subtitle": "&7On: Món normal",
+  "quest.42E9FB1363E95306.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: esquelets glacials, esquelets de pantà, slimes, peixets de plata",
+    "&6Se'n poden ajuntar molts alhora.",
+    "",
+    "&7Onades de mobs segons quants jugadors hi entreu."
+  ],
+  "quest.445542EC25E1D7AA.title": "&fMines variants (RS)",
+  "quest.445542EC25E1D7AA.quest_subtitle": "&7On: End, Món normal, Nether, Oceà",
+  "quest.445542EC25E1D7AA.quest_desc": [
+    "&bOn: End, Món normal, Nether, Oceà",
+    "&9Sota l'aigua: 54% de l'estructura",
+    "&fMobs: aranyes de cova",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Generadors d'aranyes de cova: porta llet per al verí."
+  ],
+  "quest.401A1AD85994715A.title": "&fCiutat, temples i naufragis del Nether (RS)",
+  "quest.401A1AD85994715A.quest_subtitle": "&7On: Nether",
+  "quest.401A1AD85994715A.quest_desc": [
+    "&bOn: Nether",
+    "&fMobs: piglins zombificats, esquelets wither, blazes, zoglins"
+  ],
+  "quest.4A9A614AED7B9EE8.title": "&fCiutats antigues variants (RS)",
+  "quest.4A9A614AED7B9EE8.quest_subtitle": "&7On: End, Nether, Oceà",
+  "quest.4A9A614AED7B9EE8.quest_desc": [
+    "&bOn: End, Nether, Oceà",
+    "&fMobs: ofegats, ghasts, endermites, cubs de magma",
+    "&6Se'n poden ajuntar molts alhora.",
+    "",
+    "&7Són 3 estructures diferents: una al fons de l'oceà, una altra al Nether i una altra a l'End. Compte amb el soroll: pot aparèixer el Warden."
+  ],
+  "quest.4C56F8173BFD60C3.title": "&fMonument oceànic (vanilla)",
+  "quest.4C56F8173BFD60C3.quest_subtitle": "&7On: Oceà",
+  "quest.4C56F8173BFD60C3.quest_desc": [
+    "&bOn: Oceà",
+    "&9Sota l'aigua: 90% de l'estructura",
+    "&fMobs: guardians, guardians ancians",
+    "",
+    "&7Suavitzat en aquest servidor: molts menys guardians. Encara hi ha 3 ancians (fatiga minera)."
+  ],
+  "quest.4393E18D5C697E8B.title": "&6Multimèdia",
+  "quest.4393E18D5C697E8B.quest_subtitle": "&7Equip recomanat:",
+  "quest.4393E18D5C697E8B.quest_desc": [
+    "&eEquip recomanat:",
+    "&7Diamant amb Protecció III, escut i bon menjar.",
+    "",
+    "&711 grups d'estructures."
+  ],
+  "chapter.4FC740B1A27DA7FB.title": "&7› &6Masmorres difícils",
+  "quest.4B752AE291866D82.title": "&fPoble oceànic (RS)",
+  "quest.4B752AE291866D82.quest_subtitle": "&7On: Oceà",
+  "quest.4B752AE291866D82.quest_desc": [
+    "&bOn: Oceà",
+    "&9Sota l'aigua: 45% de l'estructura",
+    "&fMobs: ofegats",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Plena d'ofegats sota l'aigua."
+  ],
+  "quest.433608D07BC9D1C5.title": "&fSantuaris de combat (D＆T)",
+  "quest.433608D07BC9D1C5.quest_subtitle": "&7On: Món normal",
+  "quest.433608D07BC9D1C5.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: zombis momificats, zombis, slimes, aranyes de cova",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Són com les cambres de prova:",
+    "&7onades de mobs (ja suavitzades al servidor)."
+  ],
+  "quest.47A4C5CE9FB3F9A0.title": "&fBastió (vanilla)",
+  "quest.47A4C5CE9FB3F9A0.quest_subtitle": "&7On: Nether",
+  "quest.47A4C5CE9FB3F9A0.quest_desc": [
+    "&bOn: Nether",
+    "&fMobs: piglins, piglins brutals, hoglins, cubs de magma",
+    "&6Se'n poden ajuntar molts alhora.",
+    "",
+    "&7Piglins bàrbars. Porta or."
+  ],
+  "quest.41AC8FB580070FB8.title": "&fMina, catedral i torre de jungla (MVS)",
+  "quest.41AC8FB580070FB8.quest_subtitle": "&7On: Món normal",
+  "quest.41AC8FB580070FB8.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: esquelets, zombis, esquelets de pantà, creepers",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Molts generadors d'esquelets i zombis."
+  ],
+  "quest.4E53D14B4CC4D489.title": "&fCiutadella del Wildfire (Friends ＆ Foes)",
+  "quest.4E53D14B4CC4D489.quest_subtitle": "&7On: Nether",
+  "quest.4E53D14B4CC4D489.quest_desc": [
+    "&bOn: Nether",
+    "&fMobs: esquelets wither, Wildfire (cap)",
+    "",
+    "&7Cap Wildfire (120 de vida).",
+    "&7Resistència al foc."
+  ],
+  "quest.4C2785811F062AFC.title": "&fFortalesa del Nether (vanilla)",
+  "quest.4C2785811F062AFC.quest_subtitle": "&7On: Nether",
+  "quest.4C2785811F062AFC.quest_desc": [
+    "&bOn: Nether",
+    "&fMobs: blazes, esquelets wither, cubs de magma",
+    "",
+    "&7Generadors de blaze i esquelets wither que apareixen sols."
+  ],
+  "quest.40481D2399539C25.title": "&fMansió del bosc (vanilla)",
+  "quest.40481D2399539C25.quest_subtitle": "&7On: Món normal",
+  "quest.40481D2399539C25.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: vindicadors, evocadors",
+    "",
+    "&7Molts illagers en habitacions. Els evocadors deixen anar tòtems."
+  ],
+  "quest.4AA86769F198B138.title": "&fCiutat de l'End (vanilla)",
+  "quest.4AA86769F198B138.quest_subtitle": "&7On: End",
+  "quest.4AA86769F198B138.quest_desc": [
+    "&bOn: End",
+    "&fMobs: shulkers",
+    "",
+    "&7Et fan levitar sobre el buit.",
+    "&7Aquí hi ha els èlitres."
+  ],
+  "quest.4D97780531C57F80.title": "&cDifícil",
+  "quest.4D97780531C57F80.quest_subtitle": "&7Equip recomanat:",
+  "quest.4D97780531C57F80.quest_desc": [
+    "&eEquip recomanat:",
+    "&7Netherita o diamant amb Protecció IV, menjar daurat, pocions i tòtem.",
+    "",
+    "&78 grups d'estructures."
+  ],
+  "chapter.44E0AB9E92909346.title": "&7› &c&lMasmorres molt difícils",
+  "quest.442690B428D7A993.title": "&fCiutat antiga (vanilla)",
+  "quest.442690B428D7A993.quest_subtitle": "&7On: Món normal",
+  "quest.442690B428D7A993.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: Warden (500 de vida, cops de 45)",
+    "",
+    "&7No hi ha generadors: el perill és el Warden si fas soroll. Mou-te ajupit i no trenquis sensors."
+  ],
+  "quest.4CE2A3BD10169302.title": "&fFortaleses del Nether (D＆T)",
+  "quest.4CE2A3BD10169302.quest_subtitle": "&7On: Nether",
+  "quest.4CE2A3BD10169302.quest_desc": [
+    "&bOn: Nether",
+    "&fMobs: blazes, esquelets wither, esquelets, cubs de magma",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Plenes de generadors de blaze.",
+    "&7Resistència al foc obligatòria."
+  ],
+  "quest.4F5BB6DA8DBCB041.title": "&fBases il·lager (D＆T)",
+  "quest.4F5BB6DA8DBCB041.quest_subtitle": "&7On: Món normal",
+  "quest.4F5BB6DA8DBCB041.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: saquejadors, vindicadors, bruixes, evocadors",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Molts evocadors i vindicadors junts. Porta escut i tòtems."
+  ],
+  "quest.42B1CB8F10419FE6.title": "&fPobles del Nether (RS)",
+  "quest.42B1CB8F10419FE6.quest_subtitle": "&7On: Nether",
+  "quest.42B1CB8F10419FE6.quest_desc": [
+    "&bOn: Nether",
+    "&fMobs: piglins, hoglins, piglins brutals, zoglins",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Desenes de piglins i hoglins. Porta una peça d'or."
+  ],
+  "quest.4BD494F68908729F.title": "&fForts i ciutadella gelats (D＆T)",
+  "quest.4BD494F68908729F.quest_subtitle": "&7On: Món normal",
+  "quest.4BD494F68908729F.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: esquelets glacials, vilatans zombi, esquelets ressecs, esquelets de pantà",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Molts esquelets glacials: et alenteixen amb les fletxes."
+  ],
+  "quest.4516D98A21B7DF58.title": "&fCastell, vaixell i far de l'End (D＆T)",
+  "quest.4516D98A21B7DF58.quest_subtitle": "&7On: End",
+  "quest.4516D98A21B7DF58.quest_desc": [
+    "&bOn: End",
+    "&fMobs: shulkers, endermites, fantasmes",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Shulkers que et fan levitar sobre el buit. Porta Caiguda de ploma i blocs."
+  ],
+  "quest.40D015B43B7C1AC4.title": "&fCampaments piglin (D＆T)",
+  "quest.40D015B43B7C1AC4.quest_subtitle": "&7On: Nether",
+  "quest.40D015B43B7C1AC4.quest_desc": [
+    "&bOn: Nether",
+    "&fMobs: piglins, cubs de magma, piglins brutals, hoglins",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Piglins bàrbars: piquen moltíssim.",
+    "&7Peça d'or obligatòria."
+  ],
+  "quest.45B50862D75D33B6.title": "&fFortaleses subterrànies variants (RS)",
+  "quest.45B50862D75D33B6.quest_subtitle": "&7On: End, Nether",
+  "quest.45B50862D75D33B6.quest_desc": [
+    "&bOn: End, Nether",
+    "&fMobs: endermites, blazes, endermen, esquelets wither",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7La del Nether és plena de generadors de blaze."
+  ],
+  "quest.488258276014F847.title": "&fBúnquer, catacumbes i criptes (D＆T)",
+  "quest.488258276014F847.quest_subtitle": "&7On: Món normal",
+  "quest.488258276014F847.quest_desc": [
+    "&bOn: Món normal",
+    "&fMobs: esquelets, zombis, aranyes, creepers",
+    "&cS'hi poden ajuntar més de 60 mobs:",
+    "&clag!",
+    "",
+    "&7Passadissos estrets amb molts generadors."
+  ],
+  "quest.4B90B95AB7CD8586.title": "&fMonument del Trident (D＆T)",
+  "quest.4B90B95AB7CD8586.quest_subtitle": "&7On: Món normal",
+  "quest.4B90B95AB7CD8586.quest_desc": [
+    "&bOn: Món normal",
+    "&9Sota l'aigua: 65% de l'estructura",
+    "&fMobs: guardians, ofegats, guardians ancians",
+    "&6Se'n poden ajuntar molts alhora.",
+    "",
+    "&7Enorme i gairebé tot sota l'aigua.",
+    "&7Suavitzat en aquest servidor: pocs guardians (abans en sortien desenes).",
+    "&7Ple d'ofegats amb trident.",
+    "&7Respiració aquàtica obligatòria."
+  ],
+  "quest.4A8673E476997357.title": "&4Molt difícil",
+  "quest.4A8673E476997357.quest_subtitle": "&7Equip recomanat:",
+  "quest.4A8673E476997357.quest_desc": [
+    "&eEquip recomanat:",
+    "&7Netherita avançada encantada (Protecció IV), tòtems, pocions i en grup de 3 o més.",
+    "",
+    "&710 grups d'estructures."
+  ],
+  "chapter.43D8126DC96590CE.title": "&7› &6Assalts i il·lagers",
+  "quest.4C184774761E4952.title": "&cCoets dels saquejadors",
+  "quest.4C184774761E4952.quest_subtitle": "&7Cada 10 nivells del jugador MÉS PROPER, els seus coets porten una…",
+  "quest.4C184774761E4952.quest_desc": [
+    "&r&7Cada 10 nivells del jugador &r&dMÉS PROPER&r&7, els seus coets porten una explosió més.",
+    "&7Des del nivell 75 disparen 3 coets alhora.",
+    "",
+    "&eDany per coet en difícil:",
+    "&r&7Nivell 20: &r&c6,8 ❤&r&7   Nivell 40: &r&c9,8 ❤ Nivell 60: &r&c12,8 ❤&r&7   Nivell 90: &r&c17,3 ❤",
+    "",
+    "&7Exploten en àrea. Tens 10 ❤ en total.",
+    "",
+    "&r&7Coet Perdut: el &r&e&lSol&r&7 desfà el 20% dels coets abans que arribin."
+  ],
+  "quest.4E8F409FF7102984.title": "&fAmb armadura de FERRO",
+  "quest.4E8F409FF7102984.quest_subtitle": "&7Un coet de nivell 60 et treu:",
+  "quest.4E8F409FF7102984.quest_desc": [
+    "&7Un coet de nivell 60 et treu:",
+    "",
+    "&r&7Sense encantar → &r&c11,2 ❤",
+    "&r&eProtecció IV ×4 → &r&c4 ❤",
+    "&r&aProt. explosions IV ×4 → &r&c2,2 ❤",
+    "",
+    "&7Sense encantar, un sol coet et mata."
+  ],
+  "quest.471D2D91C7F7E177.title": "&bAmb armadura de DIAMANT",
+  "quest.471D2D91C7F7E177.quest_subtitle": "&7Un coet de nivell 60 et treu:",
+  "quest.471D2D91C7F7E177.quest_desc": [
+    "&7Un coet de nivell 60 et treu:",
+    "",
+    "&r&7Sense encantar → &r&c5,8 ❤",
+    "&r&eProtecció IV ×4 → &r&c2,1 ❤ Prot. explosions IV ×4 → &r&c1,2 ❤"
+  ],
+  "quest.44D107455EA71E9B.title": "&6Amb armadura de NETHERITA",
+  "quest.44D107455EA71E9B.quest_subtitle": "&7Un coet de nivell 60 et treu:",
+  "quest.44D107455EA71E9B.quest_desc": [
+    "&7Un coet de nivell 60 et treu:",
+    "",
+    "&r&7Sense encantar → &r&c5,2 ❤",
+    "&r&eProtecció IV ×4 → &r&c1,9 ❤ Prot. explosions IV ×4 → &r&c1 ❤"
+  ],
+  "quest.48A5F45DC2AE4CBC.title": "&dAmb NETHERITA I DIAMANT",
+  "quest.48A5F45DC2AE4CBC.quest_subtitle": "&7Un coet de nivell 60 et treu:",
+  "quest.48A5F45DC2AE4CBC.quest_desc": [
+    "&7Un coet de nivell 60 et treu:",
+    "",
+    "&r&7Sense encantar → &r&c2,5 ❤",
+    "&r&eProtecció IV ×4 → &r&c0,9 ❤ Prot. explosions IV ×4 → &r&c0,5 ❤",
+    "",
+    "&7Ja arriba al màxim de protecció contra aquest coet. La netherita i aeterni, i la netherita i siftita, aguanten millor els cops encara més forts."
+  ],
+  "quest.46F70611939EB189.title": "&aCom protegir-te",
+  "quest.46F70611939EB189.quest_subtitle": "&7Els coets compten com a EXPLOSIÓ: la Protecció contra explosions…",
+  "quest.46F70611939EB189.quest_desc": [
+    "&7Els coets compten com a EXPLOSIÓ&r&7: la Protecció contra explosions els atura molt millor que la Protecció normal.",
+    "",
+    "&r&7Enlluernament: de vegades el &r&e&lSol frena vindicadors, inquisidors i marauders.",
+    "",
+    "&r&7L'&r&dESCUT&r&7 bloqueja els coets de cara.",
+    "",
+    "&7Ves amb el jugador de nivell més BAIX&r&7 a prop: els saquejadors fan servir el nivell del jugador més proper."
+  ],
+  "quest.46E15D7D143DFD32.title": "&aRecompenses en guanyar",
+  "quest.46E15D7D143DFD32.quest_subtitle": "&7Heroi del poble:",
+  "quest.46E15D7D143DFD32.quest_desc": [
+    "&eHeroi del poble:",
+    "&r&7Els vilatans et fan &r&dDESCOMPTES&r&7 i et llancen regals. Com més fort el Mal presagi, millor el descompte.",
+    "",
+    "&7A més, els illagers deixen anar el seu botí: l'Evocador un &r&dTÒTEM&r&7, el devastador una muntura, el capità una ampolla ominosa...",
+    "",
+    "&ede cadascun."
+  ],
+  "quest.4C250AE8D861CDB0.title": "&6Raids (atacs a pobles)",
+  "quest.4C250AE8D861CDB0.quest_subtitle": "&7Els saquejadors disparen COETS que pugen amb el teu nivell, i vénen…",
+  "quest.4C250AE8D861CDB0.quest_desc": [
+    "&r&7Els saquejadors disparen &r&dCOETS que pugen amb el teu nivell, i venen illagers nous d'Illager Invasion.",
+    "",
+    "&eprotegir-te"
+  ],
+  "task.42BF9B3DB005E90C.title": "Matar un saquejador",
+  "quest.40603EDA0B76B8FC.title": "&7Saquejador",
+  "quest.40603EDA0B76B8FC.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.40603EDA0B76B8FC.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cfletxes i COETS (3 ❤ a 17 ❤)",
+    "&r&7Deixa anar: &r&afletxes, de vegades la seva ballesta",
+    "",
+    "&7Els coets pugen amb el nivell: mira el menú de Raids."
+  ],
+  "task.4EDC9EB136AEF4BE.title": "Matar un vindicador",
+  "quest.449A36616B5F60EE.title": "&7Vindicador",
+  "quest.449A36616B5F60EE.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.449A36616B5F60EE.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cdestral, 9,8 ❤ per cop Deixa: &r&amaragda, de vegades la seva destral",
+    "",
+    "&7Amb nivell 50: +50% vida i +24% dany.",
+    "&r&7Nivell 100: porten &r&dTÒTEM&r&7."
+  ],
+  "task.48AC83C7E1380EAB.title": "Matar un evocador",
+  "quest.4E089140E36D02D8.title": "&5Evocador",
+  "quest.4E089140E36D02D8.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4E089140E36D02D8.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cullals, 3 ❤, i invoca vexes Deixa: &r&aTÒTEM d'immortalitat sempre, maragda"
+  ],
+  "task.48DB371C93949588.title": "Matar un vex",
+  "quest.41D88D2BD970804B.title": "&bVex",
+  "quest.41D88D2BD970804B.quest_subtitle": "&7Vida: 7 ❤",
+  "quest.41D88D2BD970804B.quest_desc": [
+    "&r&7Vida: &r&f7 ❤",
+    "&r&7Atac: &r&c6,8 ❤ per cop, travessa parets Deixa: &r&ares"
+  ],
+  "task.43CEE54DB5D3ABE1.title": "Matar un devastador",
+  "quest.4FB689A1C2D793D6.title": "&8Devastador",
+  "quest.4FB689A1C2D793D6.quest_subtitle": "&7Vida: 50 ❤",
+  "quest.4FB689A1C2D793D6.quest_desc": [
+    "&r&7Vida: &r&f50 ❤",
+    "&r&7Atac: &r&c9 ❤ per cop, et trenca l'escut Deixa: &r&asella"
+  ],
+  "task.42B627A560B48BBC.title": "Matar una bruixa",
+  "quest.4A7F51591860062B.title": "&2Bruixa",
+  "quest.4A7F51591860062B.quest_subtitle": "&7Vida: 13 ❤",
+  "quest.4A7F51591860062B.quest_desc": [
+    "&r&7Vida: &r&f13 ❤",
+    "&r&7Atac: &r&cpocions (dany 3 ❤, verí, lentitud)",
+    "&r&7Deixa anar: &r&apocions, pólvora, pedra roja, sucre..."
+  ],
+  "task.4981D5BDA855E19A.title": "Matar un il·lusionista",
+  "quest.419C5F27909E5EBD.title": "&9Il·lusionista",
+  "quest.419C5F27909E5EBD.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.419C5F27909E5EBD.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cfletxes, còpies d'ell mateix i ceguesa Deixa: &r&aTÒTEM d'il·lusió, maragda, fletxes",
+    "",
+    "&8Friends ＆ Foes"
+  ],
+  "task.4819542653CE7ACF.title": "Matar un iceologer",
+  "quest.44332876F45AC625.title": "&bIceologer",
+  "quest.44332876F45AC625.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.44332876F45AC625.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cet llança blocs de gel Deixa: &r&aTÒTEM de congelació, maragda, gel blau",
+    "",
+    "&7No ve en les incursions: viu en cabanes a la neu.",
+    "",
+    "&8Friends ＆ Foes"
+  ],
+  "task.4792663CDD1AEB9D.title": "Matar l'Inquisidor",
+  "quest.4346A79A006025A0.title": "&cInquisidor",
+  "quest.4346A79A006025A0.quest_subtitle": "&7Vida: 40 ❤",
+  "quest.4346A79A006025A0.quest_desc": [
+    "&r&7Vida: &r&f40 ❤",
+    "&r&7Atac: &r&c7,5 ❤ per cop, et trenca l'escut Deixa: &r&amaragda, ferro, cuir i PLATÍ (50%)",
+    "",
+    "&74 trossos de platí = làmina de platí (ornaments d'armadura amb efectes).",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.408AF4F7658BD6D8.title": "Matar el Basher",
+  "quest.41528023F72A5EF7.title": "&7Basher",
+  "quest.41528023F72A5EF7.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.41528023F72A5EF7.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Atac: &r&c2,3 ❤ per cop, et tomba l'escut Deixa: &r&amaragda, pepites de ferro",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4C889CA06165EA03.title": "Matar el Marauder",
+  "quest.4E6434D6BE1421FE.title": "&7Marauder",
+  "quest.4E6434D6BE1421FE.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4E6434D6BE1421FE.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cdestrals que llança Deixa: &r&amaragda; el capità, ampolla ominosa",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.419AB43FF9AD41CB.title": "Matar el Provoker",
+  "quest.4DE808797F699106.title": "&7Provoker",
+  "quest.4DE808797F699106.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4DE808797F699106.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cfletxes, i anima els altres Deixa: &r&amaragda, fletxes",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.42C5BF2235BB3C59.title": "Matar el Nigromant",
+  "quest.4130AB73031DAEC2.title": "&8Nigromant",
+  "quest.4130AB73031DAEC2.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.4130AB73031DAEC2.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Atac: &r&caixeca zombis i esquelets Deixa: &r&amaragda, calavera o cap de zombi",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.40368A16C0BE926B.title": "Matar el Bruixot",
+  "quest.463F2ACC683BF208.title": "&dBruixot",
+  "quest.463F2ACC683BF208.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.463F2ACC683BF208.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Atac: &r&cencanteris a distància Deixa: &r&amaragda, llibre i POLS INUSUAL (40%)",
+    "",
+    "&7La pols serveix per a la Gemma sagrada i la Banya de la visió.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.42CBB2E30111A7ED.title": "Matar l'Arxiver",
+  "quest.4A548E13D71447FF.title": "&bArxiver",
+  "quest.4A548E13D71447FF.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4A548E13D71447FF.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cet fa LEVITAR (compte amb la caiguda)",
+    "&r&7Deixa anar: &r&amaragda, llibre, paper",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.421E2DF8DB028EC1.title": "Matar l'Alquimista",
+  "quest.4FC53B2E563B9681.title": "&aAlquimista",
+  "quest.4FC53B2E563B9681.quest_subtitle": "&7Vida: 12 ❤",
+  "quest.4FC53B2E563B9681.quest_desc": [
+    "&r&7Vida: &r&f12 ❤",
+    "&r&7Atac: &r&cllança pocions",
+    "&r&7Deixa anar: &r&amaragda, pólvora, flascó",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4A347AA1DFF55A6F.title": "Matar el Firecaller",
+  "quest.44F5206B785704FD.title": "&6Firecaller",
+  "quest.44F5206B785704FD.quest_subtitle": "&7Vida: 16 ❤",
+  "quest.44F5206B785704FD.quest_desc": [
+    "&r&7Vida: &r&f16 ❤",
+    "&r&7Atac: &r&cfoc màgic",
+    "&r&7Deixa anar: &r&amaragda, càrrega de foc",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.488E9B53C665B5AD.title": "Matar l'Invocador",
+  "quest.46625BC48516BC58.title": "&5Invocador (cap)",
+  "quest.46625BC48516BC58.quest_subtitle": "&7Vida: 125 ❤",
+  "quest.46625BC48516BC58.quest_desc": [
+    "&r&7Vida: &r&f125 ❤",
+    "&r&7Atac: &r&c6 ❤ per cop, ullals i invocacions Deixa: &r&amaragda i ESSÈNCIA PRIMIGÈNIA",
+    "",
+    "&7No ve en les incursions. L'essència serveix per a la Taula d'imbuir.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4BAA756BDEC2BABF.title": "Matar el Surrendered",
+  "quest.4E42C25AF4A08E3A.title": "&fSurrendered",
+  "quest.4E42C25AF4A08E3A.quest_subtitle": "&7Vida: 7 ❤",
+  "quest.4E42C25AF4A08E3A.quest_desc": [
+    "&r&7Vida: &r&f7 ❤",
+    "&r&7Atac: &r&c3,8 ❤ per cop",
+    "&r&7Deixa anar: &r&ares",
+    "",
+    "&7Esperit que invoca l'Invocador.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "quest.4639B7B1EE211ECD.title": "&4Illagers",
+  "quest.4639B7B1EE211ECD.quest_subtitle": "&7Danys en difícil i SENSE armadura.",
+  "quest.4639B7B1EE211ECD.quest_desc": [
+    "&r&7Danys en difícil i &r&dSENSE&r&7 armadura.",
+    "&7Tens 10 ❤.",
+    "",
+    "&7Saquejadors, vindicadors, bruixes i devastadors piquen més com més nivell té el jugador més proper."
+  ],
+  "chapter.442D47D50D40226A.title": "&cEl Nether",
+  "task.47F2AA4E79FBE90D.title": "Entrar al Nether",
+  "quest.4AB966CAFDBC5119.title": "&cA l'altra banda",
+  "quest.4AB966CAFDBC5119.quest_subtitle": "Entra al Nether.",
+  "quest.4AB966CAFDBC5119.quest_desc": [
+    "Porta &duna peça d'or&7 perquè els piglins no t'ataquin i blocs per cobrir-te."
+  ],
+  "task.4298FF1CD1FD9647.title": "Trobar una fortalesa",
+  "quest.4E8C55C7FEFB5385.title": "&cUna fortalesa",
+  "quest.4E8C55C7FEFB5385.quest_subtitle": "Troba una fortalesa del Nether.",
+  "quest.4E8C55C7FEFB5385.quest_desc": [
+    "Aquí hi ha els &dblazes&7 i els &cesquelets wither&7. Els seus cofres poden tenir l'&dUll del Nether&7."
+  ],
+  "task.4C24DF4F28670B89.title": "Aconseguir una vara de blaze",
+  "quest.417379B58220C8EF.title": "&cVara de blaze",
+  "quest.417379B58220C8EF.quest_subtitle": "Aconsegueix una vara de blaze.",
+  "quest.417379B58220C8EF.quest_desc": [
+    "Per a les &dpocions&7 i per a l'End."
+  ],
+  "task.4D352B829E021BBC.title": "Entrar en un bastió",
+  "quest.44EC6F5D35EC04BC.title": "&6Un bastió",
+  "quest.44EC6F5D35EC04BC.quest_subtitle": "Entra en un bastió.",
+  "quest.44EC6F5D35EC04BC.quest_desc": [
+    "&cMolt perillós&7: piglins brutals. El seu cofre del tresor pot tenir l'&dUll maleït&7."
+  ],
+  "task.450E2E5912FA1008.title": "Aconseguir runes ancestrals",
+  "quest.4505F9731C4C0888.title": "&5Restes antigues",
+  "quest.4505F9731C4C0888.quest_subtitle": "Troba runes ancestrals.",
+  "quest.4505F9731C4C0888.quest_desc": [
+    "Molt avall, a prop de la capa 15. Explota la zona amb llits o TNT."
+  ],
+  "task.4E6DD61A20EA57CF.title": "Tenir netherita",
+  "quest.4BF1A53EC8D08209.title": "&5&lNetherita",
+  "quest.4BF1A53EC8D08209.quest_subtitle": "Tingues un lingot o equip de netherita.",
+  "quest.4BF1A53EC8D08209.quest_desc": [
+    "4 ferralles i 4 lingots d'or. Amb el &e&lSol&r&7 de la teva banda: &dForja Beneïda&7 i &dCalor del Sol&7."
+  ],
+  "task.4CC9C77CBDB8DABF.title": "Armadura de netherita completa",
+  "quest.4CCBDC9DD754E4E1.title": "&5&lCobert de netherita",
+  "quest.4CCBDC9DD754E4E1.quest_subtitle": "Porta l'armadura de netherita completa.",
+  "quest.4CCBDC9DD754E4E1.quest_desc": [
+    "La base de tot el que ve després.",
+    "",
+    "Següent pas: &bEquip → Netherita avançada&7."
+  ],
+  "task.49E731EB50694AEC.title": "Matar el Wither",
+  "quest.45DDA816909586AB.title": "&8Wither",
+  "quest.45DDA816909586AB.quest_subtitle": "&7300 de vida. Invoca'l lluny de la teva base. Deixa anar l'Ull descompost…",
+  "quest.45DDA816909586AB.quest_desc": [
+    "&7300 de vida. Invoca'l lluny de la teva base. Deixa anar l'Ull descompost que necessites per a l'End."
+  ],
+  "task.44F10EFEF5B26DAB.title": "Trobar la ciutadella",
+  "quest.42AB4A43EEAB4E0A.title": "&cCiutadella del Wildfire",
+  "quest.42AB4A43EEAB4E0A.quest_subtitle": "Troba la ciutadella.",
+  "quest.42AB4A43EEAB4E0A.quest_desc": [
+    "La casa del &cWildfire&7. Resistència al foc obligatòria."
+  ],
+  "task.4459F821F93022D8.title": "Matar el Wildfire",
+  "quest.415248638104CB8D.title": "&6Wildfire",
+  "quest.415248638104CB8D.quest_subtitle": "&7120 de vida. Viu a la Ciutadella del Nether. Resistència al foc…",
+  "quest.415248638104CB8D.quest_desc": [
+    "&7120 de vida. Viu a la Ciutadella del Nether. Resistència al foc obligatòria."
+  ],
+  "quest.49AFE87459E48250.title": "&6Cincinnasita",
+  "quest.49AFE87459E48250.quest_subtitle": "&7Mineral del Nether. Armadura amb defensa 17.",
+  "quest.49AFE87459E48250.quest_desc": [
+    "&7Mineral del Nether. Armadura amb defensa 17."
+  ],
+  "quest.4DC2922C1462EB5C.title": "&cRobí del Nether",
+  "quest.4DC2922C1462EB5C.quest_subtitle": "&7Gemma del Nether. Armadura amb defensa 18.",
+  "quest.4DC2922C1462EB5C.quest_desc": [
+    "&7Gemma del Nether. Armadura amb defensa 18."
+  ],
+  "quest.46B4A97E925ACEF6.title": "&6Armadura de robí de foc",
+  "quest.46B4A97E925ACEF6.quest_subtitle": "&7Defensa 20 · Duresa 2,6",
+  "quest.46B4A97E925ACEF6.quest_desc": [
+    "&7Defensa 20 · Duresa 2,6",
+    "&7Millora de la de robí amb la seva plantilla. Encantament propi:",
+    "&7Foc de robí."
+  ],
+  "quest.424A4C0C96BEFBA5.title": "&6Espasa de robí de foc",
+  "quest.424A4C0C96BEFBA5.quest_subtitle": "&7De les espases amb més dany del pack.",
+  "quest.424A4C0C96BEFBA5.quest_desc": [
+    "&7De les espases amb més dany del pack."
+  ],
+  "chapter.4B953832B0648166.title": "&bL'End",
+  "quest.49758A31802979AE.title": "&6Ull vell",
+  "quest.49758A31802979AE.quest_subtitle": "&7On:",
+  "quest.49758A31802979AE.quest_desc": [
+    "&eOn:",
+    "&7Cofres de les piràmides del desert.",
+    "",
+    "&7Probabilitat baixa (15%)."
+  ],
+  "quest.4C62142B6F34A05E.title": "&aUll astut",
+  "quest.4C62142B6F34A05E.quest_subtitle": "&7On:",
+  "quest.4C62142B6F34A05E.quest_desc": [
+    "&eOn:",
+    "&7Cofres dels temples de la jungla.",
+    "",
+    "&7Probabilitat 40%."
+  ],
+  "quest.4B0B617D2EA24B01.title": "&cUll del Nether",
+  "quest.4B0B617D2EA24B01.quest_subtitle": "&7On:",
+  "quest.4B0B617D2EA24B01.quest_desc": [
+    "&eOn:",
+    "&7Cofres de les fortaleses del Nether.",
+    "",
+    "&7Probabilitat 30%."
+  ],
+  "quest.4C0F5DB17DEB9DF2.title": "&bUll fred",
+  "quest.4C0F5DB17DEB9DF2.quest_subtitle": "&7On:",
+  "quest.4C0F5DB17DEB9DF2.quest_desc": [
+    "&eOn:",
+    "&7Cofres dels iglús.",
+    "",
+    "&7Probabilitat 70%."
+  ],
+  "quest.42789F5D99610BD7.title": "&dUll màgic",
+  "quest.42789F5D99610BD7.quest_subtitle": "&7On:",
+  "quest.42789F5D99610BD7.quest_desc": [
+    "&eOn:",
+    "&7Cofres de les mansions del bosc, o en matar Evocadors.",
+    "",
+    "&7Rar (10% en cofre, 5% de l'Evocador)."
+  ],
+  "quest.41118E5BE53DD1C0.title": "&8Ull negre",
+  "quest.41118E5BE53DD1C0.quest_subtitle": "&7On:",
+  "quest.41118E5BE53DD1C0.quest_desc": [
+    "&eOn:",
+    "&7Tresors enterrats (mapes del tresor).",
+    "",
+    "&7Probabilitat 30%."
+  ],
+  "quest.4A391BC657F358AC.title": "&7Ull perdut",
+  "quest.4A391BC657F358AC.quest_subtitle": "&7On:",
+  "quest.4A391BC657F358AC.quest_desc": [
+    "&eOn:",
+    "&7Cofres de les mines abandonades.",
+    "",
+    "&7Probabilitat 20%."
+  ],
+  "quest.4DDA1B063506E090.title": "&5Ull corrupte",
+  "quest.4DDA1B063506E090.quest_subtitle": "&7On:",
+  "quest.4DDA1B063506E090.quest_desc": [
+    "&eOn:",
+    "&7Cofres de les avançades de saquejadors.",
+    "",
+    "&7Probabilitat 30%."
+  ],
+  "quest.4ECB42C1FB9EA610.title": "&4Ull maleït",
+  "quest.4ECB42C1FB9EA610.quest_subtitle": "&7On:",
+  "quest.4ECB42C1FB9EA610.quest_desc": [
+    "&eOn:",
+    "&7Cofres del tresor dels bastions (Nether).",
+    "",
+    "&7Probabilitat 70%."
+  ],
+  "quest.49DBD5F90254F641.title": "&bUll guardià",
+  "quest.49DBD5F90254F641.quest_subtitle": "&7On:",
+  "quest.49DBD5F90254F641.quest_desc": [
+    "&eOn:",
+    "&7El deixa anar el Guardià ancià (monuments oceànics).",
+    "",
+    "&7Probabilitat 35%."
+  ],
+  "quest.4365C934CD72F751.title": "&8Ull descompost",
+  "quest.4365C934CD72F751.quest_subtitle": "&7On:",
+  "quest.4365C934CD72F751.quest_desc": [
+    "&eOn:",
+    "&7El deixa anar el Wither.",
+    "",
+    "&7Gairebé segur."
+  ],
+  "quest.483DDF72ACBA7B2D.title": "&2Ull de bruixa",
+  "quest.483DDF72ACBA7B2D.quest_subtitle": "&7On:",
+  "quest.483DDF72ACBA7B2D.quest_desc": [
+    "&eOn:",
+    "&7Es fabrica: Ull d'Ender + Pupil·la de bruixa.",
+    "",
+    "&7Les bruixes deixen anar la pupil·la (10%)."
+  ],
+  "quest.49B1DE1F14E3980D.title": "&7Ull no mort",
+  "quest.49B1DE1F14E3980D.quest_subtitle": "&7On:",
+  "quest.49B1DE1F14E3980D.quest_desc": [
+    "&eOn:",
+    "&7Es fabrica amb una Ànima no morta.",
+    "",
+    "&7L'ànima la deixen anar els cavalls esquelet (25%)."
+  ],
+  "quest.412A22019999520E.title": "&dUll exòtic",
+  "quest.412A22019999520E.quest_subtitle": "&7On:",
+  "quest.412A22019999520E.quest_desc": [
+    "&eOn:",
+    "&7Es fabrica amb coralls, Ull d'Ender i tinta lluminosa.",
+    "",
+    "&r&7Mira la recepta amb &r&dREI&r&7 (R)."
+  ],
+  "quest.4A42009F06B8FB87.title": "&cUll malvat",
+  "quest.4A42009F06B8FB87.quest_subtitle": "&7On:",
+  "quest.4A42009F06B8FB87.quest_desc": [
+    "&eOn:",
+    "&7El ven un vilatà.",
+    "",
+    "&716 maragdes + pota de conill."
+  ],
+  "quest.449360C24071FC03.title": "&5Ull críptic",
+  "quest.449360C24071FC03.quest_subtitle": "&7On:",
+  "quest.449360C24071FC03.quest_desc": [
+    "&eOn:",
+    "&7Secret...",
+    "",
+    "&7Ningú no sap on és."
+  ],
+  "quest.4CD861137CBE5D84.title": "&3Com obrir el portal de l'End",
+  "quest.4CD861137CBE5D84.quest_subtitle": "&7Els Ulls d'Ender normals ja no serveixen.",
+  "quest.4CD861137CBE5D84.quest_desc": [
+    "&7Els Ulls d'Ender normals ja no serveixen.",
+    "",
+    "&7Cada marc del portal necessita un ull especial &r&dDIFERENT&r&7.",
+    "",
+    "&7Troba prou ulls i col·loca'ls als marcs de la fortalesa.",
+    "",
+    "&8Mod: End Remastered"
+  ],
+  "task.455C246D6F546A8D.title": "Entrar a l'End",
+  "quest.45BD71C6BF878287.title": "&b&lL'End",
+  "quest.45BD71C6BF878287.quest_subtitle": "Entra a l'End.",
+  "quest.45BD71C6BF878287.quest_desc": [
+    "Prepara't abans: la &cdragona remasteritzada&7 és molt més dura. Millor en grup."
+  ],
+  "task.42F8459F1C13590A.title": "Matar la dragona",
+  "quest.47C0A5A79B1553E5.title": "&5&lLa dragona",
+  "quest.47C0A5A79B1553E5.quest_subtitle": "Mata la dragona de l'End.",
+  "quest.47C0A5A79B1553E5.quest_desc": [
+    "Porta arc, pocions de curació i de caiguda lenta."
+  ],
+  "task.4B0AD7017837470E.title": "Entrar en una ciutat de l'End",
+  "quest.412E8FA9D2C3DCA1.title": "&dUna ciutat de l'End",
+  "quest.412E8FA9D2C3DCA1.quest_subtitle": "Troba una ciutat de l'End.",
+  "quest.412E8FA9D2C3DCA1.quest_desc": [
+    "Fes servir les &dportes de l'End&7 per arribar a les illes exteriors. Compte amb els &cshulkers&7."
+  ],
+  "task.44F9705194A5B072.title": "Aconseguir èlitres",
+  "quest.4EB141DD04450A4E.title": "&dÈlitres",
+  "quest.4EB141DD04450A4E.quest_subtitle": "Aconsegueix uns èlitres.",
+  "quest.4EB141DD04450A4E.quest_desc": [
+    "Són als vaixells de l'End."
+  ],
+  "task.4430931FE17DE2C4.title": "Tenir aeterni",
+  "quest.4D94B8B0F8872001.title": "&2Aeterni",
+  "quest.4D94B8B0F8872001.quest_subtitle": "Tingues aeterni o equip d'aeterni.",
+  "quest.4D94B8B0F8872001.quest_desc": [
+    "El metall de &dBetterEnd&7. Cal per al següent tier de netherita."
+  ],
+  "task.406A567040E9C993.title": "Matar el Cuc del buit",
+  "quest.405156E666096B7A.title": "&5Cuc del buit",
+  "quest.405156E666096B7A.quest_subtitle": "&7Cap de l'End d'Alex's Mobs. Ataca des del buit.",
+  "quest.405156E666096B7A.quest_desc": [
+    "&7Cap de l'End d'Alex's Mobs. Ataca des del buit."
+  ],
+  "quest.497A313AEEAB6AE5.title": "&bThallasium",
+  "quest.497A313AEEAB6AE5.quest_subtitle": "&7Primer metall de l'End. Armadura fluixeta (defensa 12).",
+  "quest.497A313AEEAB6AE5.quest_desc": [
+    "&7Primer metall de l'End. Armadura fluixeta (defensa 12)."
+  ],
+  "quest.4C4C978D77FAC102.title": "&aTerminita",
+  "quest.4C4C978D77FAC102.quest_subtitle": "&7Ferro + pols de l'End al fonedor. Armadura de defensa 19.",
+  "quest.4C4C978D77FAC102.quest_desc": [
+    "&7Ferro + pols de l'End al fonedor. Armadura de defensa 19."
+  ],
+  "quest.41E00C94BD983455.title": "&2Aeterni",
+  "quest.41E00C94BD983455.quest_subtitle": "&7Terminita + netherita al fonedor de l'End. El millor metall de l'End.",
+  "quest.41E00C94BD983455.quest_desc": [
+    "&7Terminita + netherita al fonedor de l'End. El millor metall de l'End.",
+    "",
+    "&7Amb 4 lingots + un lingot de netherita i diamant fas el de netherita i aeterni (Advanced Netherite)."
+  ],
+  "quest.46096983E406CE87.title": "&2Armadura d'aeterni",
+  "quest.46096983E406CE87.quest_subtitle": "&7Defensa 24 · Duresa 3,5",
+  "quest.46096983E406CE87.quest_desc": [
+    "&6Defensa 24 · Duresa 3,5",
+    "&7Millor que la netherita normal.",
+    "&7Per a una armadura encara millor:",
+    "&7netherita i aeterni (Equip → Netherita avançada)."
+  ],
+  "quest.422BEC11EE327C07.title": "&dArmadura de cristal·lita",
+  "quest.422BEC11EE327C07.quest_subtitle": "&7Defensa 20 · Duresa 1,2",
+  "quest.422BEC11EE327C07.quest_desc": [
+    "&7Defensa 20 · Duresa 1,2",
+    "&7Terminita infusionada amb cristalls."
+  ],
+  "quest.497D926DE531C966.title": "&2Espasa d'aeterni",
+  "quest.497D926DE531C966.quest_subtitle": "&7Arma top de l'End.",
+  "quest.497D926DE531C966.quest_desc": [
+    "&7Arma top de l'End."
+  ],
+  "quest.432B7F6B39537768.title": "&2Martell d'aeterni",
+  "quest.432B7F6B39537768.quest_subtitle": "&7Eina per triturar.",
+  "quest.432B7F6B39537768.quest_desc": [
+    "&7Eina per triturar."
+  ],
+  "quest.4043F673B9368664.title": "&7Èlitres blindats",
+  "quest.4043F673B9368664.quest_subtitle": "&7Èlitres que també protegeixen.",
+  "quest.4043F673B9368664.quest_desc": [
+    "&7Èlitres que també protegeixen."
+  ],
+  "quest.40B2871D7D419677.title": "&bCristall etern",
+  "quest.40B2871D7D419677.quest_subtitle": "&7Material del portal etern.",
+  "quest.40B2871D7D419677.quest_desc": [
+    "&7Material del portal etern."
+  ],
+  "chapter.489C4B5B50DB34CA.title": "&5The Sift",
+  "task.41EEA3C0B2B7B7CE.title": "Tenir una esquerda (o siftita)",
+  "quest.4F992696B60A7931.title": "&5Escletxa de The Sift",
+  "quest.4F992696B60A7931.quest_subtitle": "Aconsegueix una esquerda.",
+  "quest.4F992696B60A7931.quest_desc": [
+    "La manera d'arribar a la dimensió. Es queda oberta &d5 minuts&7."
+  ],
+  "task.4DFF94BA2B0FC95C.title": "Entrar a The Sift",
+  "quest.4D711FC7B839432D.title": "&5&lThe Sift",
+  "quest.4D711FC7B839432D.quest_subtitle": "Entra a The Sift.",
+  "quest.4D711FC7B839432D.quest_desc": [
+    "Les seves criatures són de les més &cperilloses&7 del pack. Vés-hi amb netherita i aeterni."
+  ],
+  "task.4659E65FDB12C1E4.title": "Tenir siftita",
+  "quest.4DB281B41AE80969.title": "&dSiftita",
+  "quest.4DB281B41AE80969.quest_subtitle": "Tingues siftita.",
+  "quest.4DB281B41AE80969.quest_desc": [
+    "Nou pepites fan un lingot."
+  ],
+  "task.4B910E9A7320A14F.title": "Tenir un lingot de siftita",
+  "quest.4805740973780A15.title": "&dLingot de siftita",
+  "quest.4805740973780A15.quest_subtitle": "Tingues un lingot o equip de siftita.",
+  "quest.4805740973780A15.quest_desc": [
+    "Millora la netherita."
+  ],
+  "quest.4CFF9EEE7ACD9073.title": "&3Escletxa de The Sift",
+  "quest.4CFF9EEE7ACD9073.quest_subtitle": "&7La manera d'arribar a la dimensió.",
+  "quest.4CFF9EEE7ACD9073.quest_desc": [
+    "&7La manera d'arribar a la dimensió.",
+    "&7Es queda oberta 5 minuts."
+  ],
+  "quest.419C0FE25809D551.title": "&dPortals abandonats",
+  "quest.419C0FE25809D551.quest_subtitle": "&7Les úniques estructures de The Sift.",
+  "quest.419C0FE25809D551.quest_desc": [
+    "&7Les úniques estructures de The Sift.",
+    "&7Tenen botí valuós."
+  ],
+  "quest.419BF3EEA6CFBDF9.title": "&3Siftita",
+  "quest.419BF3EEA6CFBDF9.quest_subtitle": "&7Es fa amb 9 pepites. Millora la netherita.",
+  "quest.419BF3EEA6CFBDF9.quest_desc": [
+    "&7Es fa amb 9 pepites. Millora la netherita.",
+    "",
+    "&7Amb 4 lingots + un lingot de netherita i aeterni fas el de netherita i siftita (Advanced Netherite)."
+  ],
+  "quest.4289E0FAEAD91000.title": "&dPlantilla de millora de siftita",
+  "quest.4289E0FAEAD91000.quest_subtitle": "&7Es duplica amb diamants i pissarra de The Sift.",
+  "quest.4289E0FAEAD91000.quest_desc": [
+    "&7Es duplica amb diamants i pissarra de The Sift."
+  ],
+  "quest.4D81AEFBE035D5FF.title": "&3Armadura de siftita",
+  "quest.4D81AEFBE035D5FF.quest_subtitle": "&7Defensa 22 · Duresa 3,5",
+  "quest.4D81AEFBE035D5FF.quest_desc": [
+    "&7Defensa 22 · Duresa 3,5",
+    "&7Millor que la netherita normal.",
+    "&7Taula de ferreria: peça de netherita + plantilla + siftita.",
+    "",
+    "&7Per a la millor armadura del modpack:",
+    "&7netherita i siftita (Equip → Netherita avançada)."
+  ],
+  "quest.4E5FB47D18C5E806.title": "&3Llança de siftita",
+  "quest.4E5FB47D18C5E806.quest_subtitle": "&7Arma de la dimensió.",
+  "quest.4E5FB47D18C5E806.quest_desc": [
+    "&7Arma de la dimensió."
+  ],
+  "quest.474AF4895DCE4569.title": "&6Ampolla d'icor",
+  "quest.474AF4895DCE4569.quest_subtitle": "&7Et dona regeneració.",
+  "quest.474AF4895DCE4569.quest_desc": [
+    "&7Et dona regeneració."
+  ],
+  "quest.4B8EEED4F12200B9.title": "&dCharoita",
+  "quest.4B8EEED4F12200B9.quest_subtitle": "&7Gemma de The Sift.",
+  "quest.4B8EEED4F12200B9.quest_desc": [
+    "&7Gemma de The Sift."
+  ],
+  "quest.48B7CA32F62186C8.title": "&4Criatures de The Sift",
+  "quest.48B7CA32F62186C8.quest_subtitle": "&7Sifter: depredador ràpid. 40 de vida, cops de 15 en difícil (entre…",
+  "quest.48B7CA32F62186C8.quest_desc": [
+    "&fSifter: depredador ràpid. 40 de vida, cops de 15 en difícil (entre un esquelet wither i un vindicador).",
+    "&fDark Sniffer: ensumador infectat pel sculk. 40 de vida, cops de 10,5 (com un enderman).",
+    "&fEcho Golem: rar i solitari.",
+    "&fBlub i Singer: tranquils.",
+    "",
+    "&r&7Amb &r&dNETHERITA&r&7 i Protecció IV el Sifter et treu una mica més d'1 cor per cop."
+  ],
+  "quest.4298BEF86346F62D.title": "&5&lLa dimensió",
+  "quest.4298BEF86346F62D.quest_subtitle": "&7Què hi ha a The Sift i què n'has de treure.",
+  "quest.4298BEF86346F62D.quest_desc": [
+    "Què hi ha a The Sift i què treure'n."
+  ],
+  "chapter.4619C2E767BB6C2C.title": "&2&lEl Vel",
+  "task.482C06AA6C9F113A.title": "Vèncer l'eco",
+  "quest.40BFC8AD8DCEE173.title": "&d&lSacerdot lunar",
+  "quest.40BFC8AD8DCEE173.quest_subtitle": "&7Eco de qui guiava els perduts sota la lluna. Avui predica el que…",
+  "quest.40BFC8AD8DCEE173.quest_desc": [
+    "&7Eco de qui guiava els perduts sota la lluna. Avui predica el que xiuxiuegen els de fora.",
+    "",
+    "&7Botí propi: cristall lunar.",
+    "",
+    "&r&7Cristall: &r&eCristall del Sacerdot Llunàtic Peça: &r&a&lCasc del Vel Trencat"
+  ],
+  "task.4248663E5CCCA941.title": "Cristall del Sacerdot Lunàtic",
+  "quest.41C5BD1F93A47BA4.title": "&e&lCristall del Sacerdot Llunàtic",
+  "quest.41C5BD1F93A47BA4.quest_subtitle": "&7Poder diví que queda de l'eco del Sacerdot lunar.",
+  "quest.41C5BD1F93A47BA4.quest_desc": [
+    "&r&7Poder diví que resta de l'eco del &lSacerdot lunar&r&7.",
+    "",
+    "&r&7Fon-lo amb un lingot de &r&bnetherita i siftita&r&7 a la taula de fabricació."
+  ],
+  "task.4D9313CE48EAA9C2.title": "Lingot del Vel Trencat (Lunàtic)",
+  "quest.4B105AC521620CA6.title": "&a&lLingot del Vel Trencat (Llunàtic)",
+  "quest.4B105AC521620CA6.quest_subtitle": "&7Per a la peça: Casc.",
+  "quest.4B105AC521620CA6.quest_desc": [
+    "&r&7Per a la peça: &r&a&lCasc&r&7.",
+    "",
+    "&r&bTaula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + aquest lingot."
+  ],
+  "task.409DDABFAA127C7C.title": "Vèncer l'eco",
+  "quest.45E463870A19D0D2.title": "&6&lDéu encadenat",
+  "quest.45E463870A19D0D2.quest_subtitle": "&7Eco del déu que guardava el vel.",
+  "quest.45E463870A19D0D2.quest_desc": [
+    "&7Eco del déu que guardava el vel.",
+    "&7Les seves cadenes ara el lliguen a la corrupció.",
+    "",
+    "&7Botí propi (entre d'altres): filet del Nether daurat i lingot de piròman.",
+    "",
+    "&r&7Cristall: &r&eCristall del Déu Encadenat Peça: &r&a&lPetrina del Vel Trencat"
+  ],
+  "task.422D538DE519A9E6.title": "Cristall del Déu Encadenat",
+  "quest.42534F09BAEB8529.title": "&e&lCristall del Déu Encadenat",
+  "quest.42534F09BAEB8529.quest_subtitle": "&7Poder diví que queda de l'eco del Déu encadenat.",
+  "quest.42534F09BAEB8529.quest_desc": [
+    "&r&7Poder diví que resta de l'eco del &lDéu encadenat&r&7.",
+    "",
+    "&r&7Fon-lo amb un lingot de &r&bnetherita i siftita&r&7 a la taula de fabricació."
+  ],
+  "task.4E43AFFAC78B84B4.title": "Lingot del Vel Trencat (Encadenat)",
+  "quest.483CDFB97F92B64A.title": "&a&lLingot del Vel Trencat (Encadenat)",
+  "quest.483CDFB97F92B64A.quest_subtitle": "&7Per a la peça: Cuirassa.",
+  "quest.483CDFB97F92B64A.quest_desc": [
+    "&r&7Per a la peça: &r&a&lPitet&r&7.",
+    "",
+    "&r&bTaula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + aquest lingot."
+  ],
+  "task.4A6EBD7AE4F08BE1.title": "Vèncer l'eco",
+  "quest.4A670853ADBE78BC.title": "&5&lLilith",
+  "quest.4A670853ADBE78BC.quest_subtitle": "&7Eco de qui vetllava els somnis des de l'ombra. Avui els xiuxiueigs…",
+  "quest.4A670853ADBE78BC.quest_desc": [
+    "&7Eco de qui vetllava els somnis des de l'ombra. Avui els xiuxiueigs s'hi colen.",
+    "",
+    "&r&7Cristall: &r&eCristall de Lilith Peça: &r&a&lPantalons del Vel Trencat"
+  ],
+  "task.47D0E2DB0F858B38.title": "Cristall de Lilith",
+  "quest.47494E685930C5DB.title": "&e&lCristall de Lilith",
+  "quest.47494E685930C5DB.quest_subtitle": "&7Poder diví que queda de l'eco de Lilith.",
+  "quest.47494E685930C5DB.quest_desc": [
+    "&r&7Poder diví que resta de l'eco de &lLilith&r&7.",
+    "",
+    "&r&7Fon-lo amb un lingot de &r&bnetherita i siftita&r&7 a la taula de fabricació."
+  ],
+  "task.49374497F3DB0DE7.title": "Lingot del Vel Trencat (Ombrívol)",
+  "quest.47A76A21C7113A86.title": "&a&lLingot del Vel Trencat (Ombrívol)",
+  "quest.47A76A21C7113A86.quest_subtitle": "&7Per a la peça: Pantalons.",
+  "quest.47A76A21C7113A86.quest_desc": [
+    "&r&7Per a la peça: &r&a&lPantalons&r&7.",
+    "",
+    "&r&bTaula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + aquest lingot."
+  ],
+  "task.4706AE713E89F700.title": "Vèncer l'eco",
+  "quest.413576029EF4BD79.title": "&2&lMag del cicle del fang",
+  "quest.413576029EF4BD79.quest_subtitle": "&7Eco de qui custodiava el cicle del fang i la vida. Avui gira per…",
+  "quest.413576029EF4BD79.quest_desc": [
+    "&7Eco de qui custodiava el cicle del fang i la vida. Avui gira per als de fora.",
+    "",
+    "&7Botí propi (entre d'altres): os de fang i fragment d'obsidiana.",
+    "",
+    "&r&7Cristall: &r&eCristall del Mag del Cicle de Fang Peça: &r&a&lBotes del Vel Trencat"
+  ],
+  "task.47237F362F40C55E.title": "Cristall del Mag del Cicle de Fang",
+  "quest.4BC5D1EA27DAFFCA.title": "&e&lCristall del Mag del Cicle de Fang",
+  "quest.4BC5D1EA27DAFFCA.quest_subtitle": "&7Poder diví que queda de l'eco del Mag del cicle de fang.",
+  "quest.4BC5D1EA27DAFFCA.quest_desc": [
+    "&r&7Poder diví que resta de l'eco del &lMag del cicle de fang&r&7.",
+    "",
+    "&r&7Fon-lo amb un lingot de &r&bnetherita i siftita&r&7 a la taula de fabricació."
+  ],
+  "task.4F84771B8D8EE002.title": "Lingot del Vel Trencat (Fang)",
+  "quest.44750FDDB03C65CC.title": "&a&lLingot del Vel Trencat (Fang)",
+  "quest.44750FDDB03C65CC.quest_subtitle": "&7Per a la peça: Botes.",
+  "quest.44750FDDB03C65CC.quest_desc": [
+    "&r&7Per a la peça: &r&a&lBotes&r&7.",
+    "",
+    "&r&bTaula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + aquest lingot."
+  ],
+  "quest.409A041597EC8F4B.title": "&2&lEl Vel Trencat",
+  "quest.409A041597EC8F4B.quest_subtitle": "Reuneix les quatre peces del Vel Trencat.",
+  "quest.409A041597EC8F4B.quest_desc": [
+    "Amb les quatre posades es desperten els &dXiuxiuejos d'un Poder Diví&7."
+  ],
+  "quest.4808884CA6FC720E.title": "&e&lTravessar el Vel",
+  "quest.4808884CA6FC720E.quest_subtitle": "&7Només quan el Vel s'afebleix:",
+  "quest.4808884CA6FC720E.quest_desc": [
+    "&r&7Només quan el &r&e&lVel&r&7 s'afebleix:",
+    "&7el xat avisa amb un missatge verd i un cor de xiuxiueigs.",
+    "",
+    "&r&7Puja fins al &r&esostre del món&r&7 i continua pujant per travessar.",
+    "",
+    "&7Arribes a les illes, no a dalt de tot.",
+    "&r&7Si caus al buit, tornes a l'&r&bOverworld&r&7.",
+    "",
+    "&r&7Amb el &r&e&lVel&r&7 tancat, una força invisible et frena."
+  ],
+  "quest.44411FC6C725352F.title": "&5&lÉssers de l'altre costat",
+  "quest.44411FC6C725352F.quest_subtitle": "&7Els mobs de l'Overworld que hi neixen són corromputs per un poder…",
+  "quest.44411FC6C725352F.quest_desc": [
+    "&7Els mobs de l'Overworld que hi neixen són &r&e&lcorromputs&r&7 per un poder que no són capaços de tolerar i que &r&e&lsupuren&r&7.",
+    "",
+    "&r&7Ho continuen sent encara que els &r&fdomestiquis&r&7.",
+    "&7Xiuxiuegen quan ets a prop.",
+    "",
+    "&r&7Els mobs propis d'&r&aAerial Hell&r&7 no canvien."
+  ],
+  "quest.4EAA13D611CE5347.title": "&2&lCorrupció Divina",
+  "quest.4EAA13D611CE5347.quest_subtitle": "&7El toc dels éssers corromputs.",
+  "quest.4EAA13D611CE5347.quest_desc": [
+    "&7El toc dels éssers corromputs.",
+    "",
+    "&r&7Durada: &r&f7 s",
+    "&r&7Dany: &r&f1 per segon&r&7 (+0,5 per nivell, fins al nivell &r&f3&r&7)",
+    "&r&7Travessa l'armadura; només &r&bProtecció la redueix.",
+    "&r&7Mai mata: s'atura amb &r&c1 cor&r&7.",
+    "",
+    "&r&a&lImmunitat: &r&72 peces del Vel Trencat."
+  ],
+  "quest.4BD2F98DE32C556F.title": "&e&lForjar el Vel Trencat",
+  "quest.4BD2F98DE32C556F.quest_subtitle": "&71. Derrota un eco diví: deixa el seu cristall.",
+  "quest.4BD2F98DE32C556F.quest_desc": [
+    "&r&71. Derrota un &r&deco diví&r&7: deixa el seu &r&ecristall&r&7.",
+    "&r&72. &r&eCristall&r&7 + lingot de netherita i siftita = &r&alingot del Vel Trencat&r&7.",
+    "&r&73. &r&bTaula de ferrer&r&7: peça de netherita i siftita + plantilla de netherita + lingot del Vel Trencat."
+  ],
+  "quest.41F63852B02F57EE.title": "&e&lAerial Hell",
+  "quest.41F63852B02F57EE.quest_subtitle": "&7Més enllà del vel, el cel ja no pertany als qui en tenien cura.",
+  "quest.41F63852B02F57EE.quest_desc": [
+    "&7Més enllà del vel, el cel ja no pertany als qui en tenien cura.",
+    "",
+    "&r&7Els &r&5&ldimonis de l'exterior&r&7 van trobar aquest racó del món, van corrompre els éssers del cel i dominen els inferiors amb xiuxiuejos.",
+    "",
+    "&r&7S'amagaven darrere d'un &r&e&lVel&r&7.",
+    "&r&7Avui, de vegades, el &r&e&lVel&r&7 s'afebleix."
+  ],
+  "quest.4160F2D432C5E4CA.title": "&2&lEl bioma de l'altre costat",
+  "quest.4160F2D432C5E4CA.quest_subtitle": "&7Com és la dimensió d'Aerial Hell.",
+  "quest.4160F2D432C5E4CA.quest_desc": [
+    "Com és la dimensió d'Aerial Hell."
+  ],
+  "chapter.4658AA70AFF93CE0.title": "&fArmadures",
+  "quest.43A1C010FA28AEAF.title": "&61. Cuir",
+  "quest.43A1C010FA28AEAF.quest_subtitle": "&7Defensa total: 7",
+  "quest.43A1C010FA28AEAF.quest_desc": [
+    "&fDefensa total: 7",
+    "&fDuresa: 0",
+    "",
+    "&7Vanilla. Només per començar."
+  ],
+  "quest.448D65BEE3808546.title": "&62. Coure",
+  "quest.448D65BEE3808546.quest_subtitle": "&7Defensa total: 10",
+  "quest.448D65BEE3808546.quest_desc": [
+    "&fDefensa total: 10",
+    "&fDuresa: 0",
+    "",
+    "&7Vanilla. Barata, millor que el cuir."
+  ],
+  "quest.416F20E65476D05D.title": "&e3. Or",
+  "quest.416F20E65476D05D.quest_subtitle": "&7Defensa total: 11",
+  "quest.416F20E65476D05D.quest_desc": [
+    "&fDefensa total: 11",
+    "&fDuresa: 0",
+    "",
+    "&7Vanilla. Els piglins no t'ataquen si en portes una peça."
+  ],
+  "quest.485442D5072EF34E.title": "&74. Malla",
+  "quest.485442D5072EF34E.quest_subtitle": "&7Defensa total: 12",
+  "quest.485442D5072EF34E.quest_desc": [
+    "&fDefensa total: 12",
+    "&fDuresa: 0",
+    "",
+    "&7Vanilla. Només en cofres o comerciant."
+  ],
+  "quest.49B62F5D17005CC8.title": "&b4. Thallasium (End)",
+  "quest.49B62F5D17005CC8.quest_subtitle": "&7Defensa total: 12",
+  "quest.49B62F5D17005CC8.quest_desc": [
+    "&fDefensa total: 12",
+    "&fDuresa: 0",
+    "",
+    "&7BetterEnd. Fluixa: no val la pena."
+  ],
+  "quest.4FC866220700337A.title": "&f5. Ferro",
+  "quest.4FC866220700337A.quest_subtitle": "&7Defensa total: 15",
+  "quest.4FC866220700337A.quest_desc": [
+    "&fDefensa total: 15",
+    "&fDuresa: 0",
+    "",
+    "&7Vanilla. La base per explorar."
+  ],
+  "quest.4696E4F26CEFB1CD.title": "&66. Cincinnasita (Nether)",
+  "quest.4696E4F26CEFB1CD.quest_subtitle": "&7Defensa total: 17",
+  "quest.4696E4F26CEFB1CD.quest_desc": [
+    "&fDefensa total: 17",
+    "&fDuresa: 1",
+    "&fResistència a l'empenta: 0.05",
+    "",
+    "&7BetterNether. Millor que el ferro."
+  ],
+  "quest.41DFE33EB145D60B.title": "&c7. Robí del Nether",
+  "quest.41DFE33EB145D60B.quest_subtitle": "&7Defensa total: 18",
+  "quest.41DFE33EB145D60B.quest_desc": [
+    "&fDefensa total: 18",
+    "&fDuresa: 1.4",
+    "&fResistència a l'empenta: 0.2",
+    "",
+    "&7BetterNether."
+  ],
+  "quest.4508BE567CA728AE.title": "&a8. Terminita (End)",
+  "quest.4508BE567CA728AE.quest_subtitle": "&7Defensa total: 19",
+  "quest.4508BE567CA728AE.quest_desc": [
+    "&fDefensa total: 19",
+    "&fDuresa: 1",
+    "&fResistència a l'empenta: 0.05",
+    "",
+    "&7BetterEnd. Base per a l'aeterni."
+  ],
+  "quest.42ACD3F175FCABC8.title": "&b9. Diamant",
+  "quest.42ACD3F175FCABC8.quest_subtitle": "&7Defensa total: 20",
+  "quest.42ACD3F175FCABC8.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDuresa: 2",
+    "",
+    "&7Vanilla. El mínim per a masmorres difícils."
+  ],
+  "quest.4C4FCB47BE46BC5C.title": "&d9. Cristal·lita (End)",
+  "quest.4C4FCB47BE46BC5C.quest_subtitle": "&7Defensa total: 20",
+  "quest.4C4FCB47BE46BC5C.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDuresa: 1.2",
+    "&fResistència a l'empenta: 0.1",
+    "",
+    "&7BetterEnd."
+  ],
+  "quest.44F054AC866335CE.title": "&610. Robí de foc (Nether)",
+  "quest.44F054AC866335CE.quest_subtitle": "&7Defensa total: 20",
+  "quest.44F054AC866335CE.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDuresa: 2.6",
+    "&fResistència a l'empenta: 0.3",
+    "",
+    "&7BetterNether. Gairebé netherita."
+  ],
+  "quest.49F9354ADE0290C7.title": "&811. Netherita",
+  "quest.49F9354ADE0290C7.quest_subtitle": "&7Defensa total: 20",
+  "quest.49F9354ADE0290C7.quest_desc": [
+    "&fDefensa total: 20",
+    "&fDuresa: 3",
+    "&fResistència a l'empenta: 0.1",
+    "",
+    "&7Vanilla. La base de tot el que ve."
+  ],
+  "quest.48116E451ABE30B9.title": "&a12. Siftita (The Sift)",
+  "quest.48116E451ABE30B9.quest_subtitle": "&7Defensa total: 22",
+  "quest.48116E451ABE30B9.quest_desc": [
+    "&fDefensa total: 22",
+    "&fDuresa: 3.5",
+    "&fResistència a l'empenta: 0.15",
+    "",
+    "&7The Sift. Una mica millor que la netherita."
+  ],
+  "quest.4C9967AB52045B7C.title": "&712. Netherita i ferro",
+  "quest.4C9967AB52045B7C.quest_subtitle": "&7Defensa total: 22",
+  "quest.4C9967AB52045B7C.quest_desc": [
+    "&fDefensa total: 22",
+    "&fDuresa: 3.5",
+    "&fResistència a l'empenta: 0.1",
+    "",
+    "&7Advanced Netherite. Primera millora real."
+  ],
+  "quest.42446F28F7077964.title": "&213. Aeterni (End)",
+  "quest.42446F28F7077964.quest_subtitle": "&7Defensa total: 24",
+  "quest.42446F28F7077964.quest_desc": [
+    "&fDefensa total: 24",
+    "&fDuresa: 3.5",
+    "&fResistència a l'empenta: 0.2",
+    "",
+    "&7BetterEnd. Millor que la netherita normal."
+  ],
+  "quest.4F6DACC21AE307BF.title": "&613. Netherita i or",
+  "quest.4F6DACC21AE307BF.quest_subtitle": "&7Defensa total: 24",
+  "quest.4F6DACC21AE307BF.quest_desc": [
+    "&fDefensa total: 24",
+    "&fDuresa: 3.5",
+    "&fResistència a l'empenta: 0.1",
+    "",
+    "&7Advanced Netherite. La que millor s'encanta."
+  ],
+  "quest.4E0CA9916875D763.title": "&a13. Netherita i maragda",
+  "quest.4E0CA9916875D763.quest_subtitle": "&7Defensa total: 24",
+  "quest.4E0CA9916875D763.quest_desc": [
+    "&fDefensa total: 24",
+    "&fDuresa: 3.5",
+    "&fResistència a l'empenta: 0.1",
+    "",
+    "&7Advanced Netherite."
+  ],
+  "quest.4AC2B7E19DD7B7F0.title": "&b14. Netherita i diamant",
+  "quest.4AC2B7E19DD7B7F0.quest_subtitle": "&7Defensa total: 26",
+  "quest.4AC2B7E19DD7B7F0.quest_desc": [
+    "&fDefensa total: 26",
+    "&fDuresa: 4",
+    "&fResistència a l'empenta: 0.1",
+    "",
+    "&7Advanced Netherite. La millor de la seva línia."
+  ],
+  "quest.48B561B451F7F04B.title": "&215. Netherita i aeterni (End)",
+  "quest.48B561B451F7F04B.quest_subtitle": "&7Defensa total: 28",
+  "quest.48B561B451F7F04B.quest_desc": [
+    "&fDefensa total: 28",
+    "&fDuresa: 4.5",
+    "&fResistència a l'empenta: 0.15",
+    "",
+    "&7Advanced Netherite + aeterni. Millor que netherita i diamant i &r&dNO&r&7 et fan levitar els shulkers."
+  ],
+  "quest.496B2AA10B280586.title": "&a16. Netherita i siftita (The Sift)",
+  "quest.496B2AA10B280586.quest_subtitle": "&7Defensa total: 30",
+  "quest.496B2AA10B280586.quest_desc": [
+    "&fDefensa total: 30",
+    "&fDuresa: 5",
+    "&fResistència a l'empenta: 0.2",
+    "",
+    "&r&7Advanced Netherite + siftita. &r&dLA MILLOR&r&7 del modpack. També resisteix la foscor."
+  ],
+  "quest.4372F5A0D6500E03.title": "&dArmadures: de pitjor a millor",
+  "quest.4372F5A0D6500E03.quest_subtitle": "&7Totes les armadures de tots els mods ordenades per defensa.",
+  "quest.4372F5A0D6500E03.quest_desc": [
+    "&7Totes les armadures de tots els mods ordenades per defensa.",
+    "",
+    "&7De menys a més: Advanced Netherite, Netherita i aeterni (End) i Netherita i siftita (The Sift), la millor del modpack."
+  ],
+  "quest.485979860545D2C2.title": "&eCom llegir aquests números",
+  "quest.485979860545D2C2.quest_subtitle": "&7Defensa: quant dany treus (màxim 30).",
+  "quest.485979860545D2C2.quest_desc": [
+    "&7Defensa: quant dany treus (màxim 30).",
+    "&7Duresa: protegeix més contra cops forts.",
+    "&7Empenta: com menys et llancen.",
+    "",
+    "&7Els valors són del conjunt complet. A REI&r&7 (inventari) veus els de cada peça."
+  ],
+  "chapter.4272A6076F1D6175.title": "&7› &2Armadures del Vel",
+  "quest.4D99CEF3AEB4F9BC.title": "&e&l17. Netherita del Vel Trencat (Aerial Hell)",
+  "quest.4D99CEF3AEB4F9BC.quest_subtitle": "&7Defensa total: 34",
+  "quest.4D99CEF3AEB4F9BC.quest_desc": [
+    "&r&fDefensa total: &r&734",
+    "&r&fDuresa: &r&76",
+    "&r&fResistència a l'empenta: &r&70.25",
+    "",
+    "&r&7Forjada amb els &r&ecristalls dels déus caiguts&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina &l4 peces&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "",
+    "&r&7LA &r&dMILLOR&r&7 del modpack."
+  ],
+  "quest.4EE3E1A53C37569A.title": "&e&lCasc de netherita del Vel Trencat",
+  "quest.4EE3E1A53C37569A.quest_subtitle": "&7Defensa 7 · Duresa 6 · Empenta 0.25",
+  "quest.4EE3E1A53C37569A.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&dcristall del Sacerdot lunar Taula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aLunàtic&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.4C6467831C5F1552.title": "&e&lPetrina de netherita del Vel Trencat",
+  "quest.4C6467831C5F1552.quest_subtitle": "&7Defensa 11 · Duresa 6 · Empenta 0.25",
+  "quest.4C6467831C5F1552.quest_desc": [
+    "&r&fDefensa 11&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&6cristall del Déu encadenat Taula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aEncadenat&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.4CE96C4B1EF0D422.title": "&e&lPantalons de netherita del Vel Trencat",
+  "quest.4CE96C4B1EF0D422.quest_subtitle": "&7Defensa 9 · Duresa 6 · Empenta 0.25",
+  "quest.4CE96C4B1EF0D422.quest_desc": [
+    "&r&fDefensa 9&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&5cristall de Lilith Taula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aOmbrívol&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.42F9B74CFCDF3FF3.title": "&e&lBotes de netherita del Vel Trencat",
+  "quest.42F9B74CFCDF3FF3.quest_subtitle": "&7Defensa 7 · Duresa 6 · Empenta 0.25",
+  "quest.42F9B74CFCDF3FF3.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&2cristall de Mag del cicle de fang Taula de ferrer&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aFang&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.4B99EA5D24A4C043.title": "&2&lArmadures del Vel",
+  "quest.4B99EA5D24A4C043.quest_subtitle": "&7L'equip que només existeix més enllà del Vel.",
+  "quest.4B99EA5D24A4C043.quest_desc": [
+    "L'equip que només existeix més enllà del Vel."
+  ],
+  "chapter.427D5A9D97452282.title": "&fArmes i eines",
+  "quest.4F6F968576717381.title": "&fFerro",
+  "quest.4F6F968576717381.quest_subtitle": "&7L'espasa bàsica.",
+  "quest.4F6F968576717381.quest_desc": [
+    "&7L'espasa bàsica."
+  ],
+  "quest.4AA017664C4E93F9.title": "&bDiamant",
+  "quest.4AA017664C4E93F9.quest_subtitle": "&7Força millor que el ferro.",
+  "quest.4AA017664C4E93F9.quest_desc": [
+    "&7Força millor que el ferro."
+  ],
+  "quest.450F0D9668090D1C.title": "&cRobí del Nether",
+  "quest.450F0D9668090D1C.quest_subtitle": "&7BetterNether.",
+  "quest.450F0D9668090D1C.quest_desc": [
+    "&7BetterNether."
+  ],
+  "quest.420DC32F91CAC4B7.title": "&aTerminita",
+  "quest.420DC32F91CAC4B7.quest_subtitle": "&7BetterEnd.",
+  "quest.420DC32F91CAC4B7.quest_desc": [
+    "&7BetterEnd."
+  ],
+  "quest.418B5790E0EDC135.title": "&8Netherita",
+  "quest.418B5790E0EDC135.quest_subtitle": "&7Vanilla.",
+  "quest.418B5790E0EDC135.quest_desc": [
+    "&7Vanilla."
+  ],
+  "quest.436A042F5EC000B6.title": "&2Aeterni",
+  "quest.436A042F5EC000B6.quest_subtitle": "&7BetterEnd. Una mica més de dany que la netherita.",
+  "quest.436A042F5EC000B6.quest_desc": [
+    "&7BetterEnd. Una mica més de dany que la netherita."
+  ],
+  "quest.4DBDDC5CCADDF1BB.title": "&aSiftita",
+  "quest.4DBDDC5CCADDF1BB.quest_subtitle": "&7The Sift. Una mica més de dany que la d'aeterni.",
+  "quest.4DBDDC5CCADDF1BB.quest_desc": [
+    "&7The Sift. Una mica més de dany que la d'aeterni."
+  ],
+  "quest.47215ABA8D3F1B2C.title": "&6Robí de foc",
+  "quest.47215ABA8D3F1B2C.quest_subtitle": "&7BetterNether. De les que més peguen.",
+  "quest.47215ABA8D3F1B2C.quest_desc": [
+    "&7BetterNether. De les que més peguen."
+  ],
+  "quest.429EB782557E6E3A.title": "&bNetherita i diamant",
+  "quest.429EB782557E6E3A.quest_subtitle": "&7Advanced Netherite.",
+  "quest.429EB782557E6E3A.quest_desc": [
+    "&7Advanced Netherite."
+  ],
+  "quest.4DE4FBBCBBD294D2.title": "&2Netherita i aeterni",
+  "quest.4DE4FBBCBBD294D2.quest_subtitle": "&7Advanced Netherite + aeterni. Més dany que netherita i diamant.",
+  "quest.4DE4FBBCBBD294D2.quest_desc": [
+    "&7Advanced Netherite + aeterni. Més dany que netherita i diamant."
+  ],
+  "quest.42F03219A8C9B656.title": "&aNetherita i siftita",
+  "quest.42F03219A8C9B656.quest_subtitle": "&7Advanced Netherite + siftita. La que més pega.",
+  "quest.42F03219A8C9B656.quest_desc": [
+    "&7Advanced Netherite + siftita. La que més pega."
+  ],
+  "quest.47B160918DBA5E02.title": "&bArmes",
+  "quest.47B160918DBA5E02.quest_subtitle": "&7Les espases de cada material. El dany exacte el veus buscant l'arma…",
+  "quest.47B160918DBA5E02.quest_desc": [
+    "&7Les espases de cada material. El dany exacte el veus buscant l'arma a &r&dREI&r&7 (inventari)."
+  ],
+  "chapter.4E048EF21416D554.title": "&bNetherita avançada",
+  "task.4BB8924C8EA9E0BE.title": "Tenir un lingot o equip d'aquest tier",
+  "quest.4433F2BE3D50AC29.title": "&7Lingot de netherita i ferro",
+  "quest.4433F2BE3D50AC29.quest_subtitle": "&7Nivell 1 de 6 · Ferro",
+  "quest.4433F2BE3D50AC29.quest_desc": [
+    "&7Lingot de netherita + 4 lingots de ferro a la taula de treball.",
+    "",
+    "&7Taula de ferreria: peça de netherita + plantilla de millora de netherita + aquest lingot.",
+    "",
+    "&7Cada peça s'ha de pujar nivell a nivell: ferro → or → maragda → diamant."
+  ],
+  "task.4253D52B70D1FD99.title": "Millorar l'armadura a aquest tier (o millor)",
+  "quest.48E98C1904256E92.title": "&7Armadura de netherita i ferro",
+  "quest.48E98C1904256E92.quest_subtitle": "&7Defensa 22 · Duresa 3.5 (set complet)",
+  "quest.48E98C1904256E92.quest_desc": [
+    "&fDefensa 22 · Duresa 3.5 (conjunt complet)",
+    "",
+    "&r&7Els &r&dPHANTOMS&r&7 no t'ataquen."
+  ],
+  "task.4FD90B9D350C1EA1.title": "Millorar l'espasa a aquest tier (o millor)",
+  "quest.4097938B0F6614B1.title": "&7Espasa de netherita i ferro",
+  "quest.4097938B0F6614B1.quest_subtitle": "&7Més dany que la de netherita.",
+  "quest.4097938B0F6614B1.quest_desc": [
+    "&7Més dany que la de netherita.",
+    "",
+    "&7Els fantasmes deixen anar membranes EXTRA&r&7.",
+    "",
+    "&7També hi ha llança d'aquest material."
+  ],
+  "task.483972CA5674D21A.title": "Millorar el pic a aquest tier (o millor)",
+  "quest.468DB25A2D3D8055.title": "&7Pic de netherita i ferro",
+  "quest.468DB25A2D3D8055.quest_subtitle": "&7Pica més ràpid que el de netherita.",
+  "quest.468DB25A2D3D8055.quest_desc": [
+    "&7Pica més ràpid que el de netherita.",
+    "",
+    "&r&7De vegades dona ferro &r&dEXTRA&r&7 en picar ferro."
+  ],
+  "task.479D68780BF0CF27.title": "Millorar la destral a aquest tier (o millor)",
+  "quest.4A32AB9CCFF328EF.title": "&7Destral de netherita i ferro",
+  "quest.4A32AB9CCFF328EF.quest_subtitle": "&7Talla més ràpid i pega fort.",
+  "quest.4A32AB9CCFF328EF.quest_desc": [
+    "&7Talla més ràpid i pega fort."
+  ],
+  "task.4CBB3343F0A2345F.title": "Millorar la pala a aquest tier (o millor)",
+  "quest.4F9A0AAE52567C18.title": "&7Pala de netherita i ferro",
+  "quest.4F9A0AAE52567C18.quest_subtitle": "&7Cava més ràpid.",
+  "quest.4F9A0AAE52567C18.quest_desc": [
+    "&7Cava més ràpid."
+  ],
+  "task.418E1FA74BFCAB11.title": "Millorar l'aixada a aquest tier (o millor)",
+  "quest.45735D69FA7B5375.title": "&7Aixada de netherita i ferro",
+  "quest.45735D69FA7B5375.quest_subtitle": "&7En collir conreus madurs, de vegades dona collita EXTRA.",
+  "quest.45735D69FA7B5375.quest_desc": [
+    "&7En collir conreus madurs, de vegades dona collita &r&dEXTRA&r&7."
+  ],
+  "task.4986E0039FE56DC7.title": "Tenir un lingot o equip d'aquest tier",
+  "quest.4BF2E19760115D35.title": "&6Lingot de netherita i or",
+  "quest.4BF2E19760115D35.quest_subtitle": "&7Nivell 2 de 6 · Or",
+  "quest.4BF2E19760115D35.quest_desc": [
+    "&7Lingot de netherita i ferro + 4 lingots d'or a la taula de treball.",
+    "",
+    "&7Taula de ferreria: peça de netherita i ferro + plantilla de millora de netherita + aquest lingot.",
+    "",
+    "&7Cada peça s'ha de pujar nivell a nivell: ferro → or → maragda → diamant."
+  ],
+  "task.4D10E3000F65474D.title": "Millorar l'armadura a aquest tier (o millor)",
+  "quest.4D391B5EF25D36D2.title": "&6Armadura de netherita i or",
+  "quest.4D391B5EF25D36D2.quest_subtitle": "&7Defensa 24 · Duresa 3.5 (set complet)",
+  "quest.4D391B5EF25D36D2.quest_desc": [
+    "&fDefensa 24 · Duresa 3.5 (conjunt complet)",
+    "",
+    "&r&7Els &r&dPIGLINS&r&7 no t'ataquen.",
+    "&7Encantabilitat alta: surten millors encanteris."
+  ],
+  "task.44C13D0340937F47.title": "Millorar l'espasa a aquest tier (o millor)",
+  "quest.4254DDDC72F48DCF.title": "&6Espasa de netherita i or",
+  "quest.4254DDDC72F48DCF.quest_subtitle": "&7Més dany que la de netherita.",
+  "quest.4254DDDC72F48DCF.quest_desc": [
+    "&7Més dany que la de netherita.",
+    "",
+    "&7Els piglins i els piglins zombificats deixen anar or EXTRA&r&7.",
+    "",
+    "&7També hi ha llança d'aquest material."
+  ],
+  "task.49BCA49071072E03.title": "Millorar el pic a aquest tier (o millor)",
+  "quest.4D38628AA9F7D5CF.title": "&6Pic de netherita i or",
+  "quest.4D38628AA9F7D5CF.quest_subtitle": "&7Pica més ràpid que el de netherita.",
+  "quest.4D38628AA9F7D5CF.quest_desc": [
+    "&7Pica més ràpid que el de netherita.",
+    "",
+    "&r&7De vegades dona or &r&dEXTRA&r&7 en picar or."
+  ],
+  "task.4630068829A3BC48.title": "Millorar la destral a aquest tier (o millor)",
+  "quest.4004576E2759B285.title": "&6Destral de netherita i or",
+  "quest.4004576E2759B285.quest_subtitle": "&7Talla més ràpid i pega fort.",
+  "quest.4004576E2759B285.quest_desc": [
+    "&7Talla més ràpid i pega fort."
+  ],
+  "task.4228DE728502C741.title": "Millorar la pala a aquest tier (o millor)",
+  "quest.481EDBDE60BABF9B.title": "&6Pala de netherita i or",
+  "quest.481EDBDE60BABF9B.quest_subtitle": "&7Cava més ràpid.",
+  "quest.481EDBDE60BABF9B.quest_desc": [
+    "&7Cava més ràpid."
+  ],
+  "task.4B8F766017F396F6.title": "Millorar l'aixada a aquest tier (o millor)",
+  "quest.441C87E617C2DBD8.title": "&6Aixada de netherita i or",
+  "quest.441C87E617C2DBD8.quest_subtitle": "&7En collir conreus madurs, de vegades dona collita EXTRA.",
+  "quest.441C87E617C2DBD8.quest_desc": [
+    "&7En collir conreus madurs, de vegades dona collita &r&dEXTRA&r&7."
+  ],
+  "task.4CCAE9A11644BCF1.title": "Tenir un lingot o equip d'aquest tier",
+  "quest.457AA80A2D4F4023.title": "&aLingot de netherita i maragda",
+  "quest.457AA80A2D4F4023.quest_subtitle": "&7Nivell 3 de 6 · Maragda",
+  "quest.457AA80A2D4F4023.quest_desc": [
+    "&7Lingot de netherita i or + 4 maragdes a la taula de treball.",
+    "",
+    "&7Taula de ferreria: peça de netherita i or + plantilla de millora de netherita + aquest lingot.",
+    "",
+    "&7Cada peça s'ha de pujar nivell a nivell: ferro → or → maragda → diamant."
+  ],
+  "task.41284E181180005A.title": "Millorar l'armadura a aquest tier (o millor)",
+  "quest.46C9BC5EC6255D17.title": "&aArmadura de netherita i maragda",
+  "quest.46C9BC5EC6255D17.quest_subtitle": "&7Defensa 24 · Duresa 3.5 (set complet)",
+  "quest.46C9BC5EC6255D17.quest_desc": [
+    "&fDefensa 24 · Duresa 3.5 (conjunt complet)",
+    "",
+    "&r&7Els &r&dENDERMAN&r&7 no s'enfaden si els mires."
+  ],
+  "task.468CD3A951878F5B.title": "Millorar l'espasa a aquest tier (o millor)",
+  "quest.44918EDB328A17B5.title": "&aEspasa de netherita i maragda",
+  "quest.44918EDB328A17B5.quest_subtitle": "&7Més dany que la de netherita.",
+  "quest.44918EDB328A17B5.quest_desc": [
+    "&7Més dany que la de netherita.",
+    "",
+    "&r&7Els enderman deixen anar perles &r&dEXTRA&r&7.",
+    "",
+    "&7També hi ha llança d'aquest material."
+  ],
+  "task.4DB03FFF87F228A8.title": "Millorar el pic a aquest tier (o millor)",
+  "quest.423F85066035FB61.title": "&aPic de netherita i maragda",
+  "quest.423F85066035FB61.quest_subtitle": "&7Pica més ràpid que el de netherita.",
+  "quest.423F85066035FB61.quest_desc": [
+    "&7Pica més ràpid que el de netherita.",
+    "",
+    "&r&7De vegades dona maragda &r&dEXTRA&r&7 en picar maragdes."
+  ],
+  "task.4BE6A7E618BD7A21.title": "Millorar la destral a aquest tier (o millor)",
+  "quest.4703BD1251DD64F3.title": "&aDestral de netherita i maragda",
+  "quest.4703BD1251DD64F3.quest_subtitle": "&7Talla més ràpid i pega fort.",
+  "quest.4703BD1251DD64F3.quest_desc": [
+    "&7Talla més ràpid i pega fort."
+  ],
+  "task.43263F562E5AD142.title": "Millorar la pala a aquest tier (o millor)",
+  "quest.4E10979451E5253A.title": "&aPala de netherita i maragda",
+  "quest.4E10979451E5253A.quest_subtitle": "&7Cava més ràpid.",
+  "quest.4E10979451E5253A.quest_desc": [
+    "&7Cava més ràpid."
+  ],
+  "task.49A29B16AB7D30AC.title": "Millorar l'aixada a aquest tier (o millor)",
+  "quest.4BE3BE4F2B21A506.title": "&aAixada de netherita i maragda",
+  "quest.4BE3BE4F2B21A506.quest_subtitle": "&7En collir conreus madurs, de vegades dona collita EXTRA.",
+  "quest.4BE3BE4F2B21A506.quest_desc": [
+    "&7En collir conreus madurs, de vegades dona collita &r&dEXTRA&r&7."
+  ],
+  "task.409B006981213BB5.title": "Tenir un lingot o equip d'aquest tier",
+  "quest.49BB7D60A127532D.title": "&bLingot de netherita i diamant",
+  "quest.49BB7D60A127532D.quest_subtitle": "&7Nivell 4 de 6 · Diamant",
+  "quest.49BB7D60A127532D.quest_desc": [
+    "&7Lingot de netherita i maragda + 4 diamants a la taula de treball.",
+    "",
+    "&7Taula de ferreria: peça de netherita i maragda + plantilla de millora de netherita + aquest lingot.",
+    "",
+    "&7Cada peça s'ha de pujar nivell a nivell: ferro → or → maragda → diamant."
+  ],
+  "task.4D7F981DDB877E14.title": "Millorar l'armadura a aquest tier (o millor)",
+  "quest.4B812FA2C34BC439.title": "&bArmadura de netherita i diamant",
+  "quest.4B812FA2C34BC439.quest_subtitle": "&7Defensa 26 · Duresa 4 (set complet)",
+  "quest.4B812FA2C34BC439.quest_desc": [
+    "&fDefensa 26 · Duresa 4 (conjunt complet)",
+    "",
+    "&7Fantasmes, piglins i endermen:",
+    "&r&dCAP&r&7 et molesta.",
+    "&7La millor armadura d'Advanced Netherite."
+  ],
+  "task.4F5295F88F8919FC.title": "Millorar l'espasa a aquest tier (o millor)",
+  "quest.46FF2CECCEA61248.title": "&bEspasa de netherita i diamant",
+  "quest.46FF2CECCEA61248.quest_subtitle": "&7Més dany que la de netherita.",
+  "quest.46FF2CECCEA61248.quest_desc": [
+    "&7Més dany que la de netherita.",
+    "",
+    "&r&7Botí &r&dEXTRA&r&7 de fantasmes, piglins i endermen.",
+    "",
+    "&7També hi ha llança d'aquest material."
+  ],
+  "task.4D8BF0C9AD43C954.title": "Millorar el pic a aquest tier (o millor)",
+  "quest.4ABA12AFBC1828E8.title": "&bPic de netherita i diamant",
+  "quest.4ABA12AFBC1828E8.quest_subtitle": "&7Pica més ràpid que el de netherita.",
+  "quest.4ABA12AFBC1828E8.quest_desc": [
+    "&7Pica més ràpid que el de netherita.",
+    "",
+    "&r&7De vegades dona diamant &r&dEXTRA&r&7 en picar diamants."
+  ],
+  "task.4F4B0B6F0B45CB46.title": "Millorar la destral a aquest tier (o millor)",
+  "quest.42FE9DA2C43AB326.title": "&bDestral de netherita i diamant",
+  "quest.42FE9DA2C43AB326.quest_subtitle": "&7Talla més ràpid i pega fort.",
+  "quest.42FE9DA2C43AB326.quest_desc": [
+    "&7Talla més ràpid i pega fort."
+  ],
+  "task.49CDA2AC10E6E942.title": "Millorar la pala a aquest tier (o millor)",
+  "quest.460C0C7E41932BE3.title": "&bPala de netherita i diamant",
+  "quest.460C0C7E41932BE3.quest_subtitle": "&7Cava més ràpid.",
+  "quest.460C0C7E41932BE3.quest_desc": [
+    "&7Cava més ràpid."
+  ],
+  "task.45C80939BDEE746C.title": "Millorar l'aixada a aquest tier (o millor)",
+  "quest.487D17AFE894CCE2.title": "&bAixada de netherita i diamant",
+  "quest.487D17AFE894CCE2.quest_subtitle": "&7En collir conreus madurs, de vegades dona collita EXTRA.",
+  "quest.487D17AFE894CCE2.quest_desc": [
+    "&7En collir conreus madurs, de vegades dona collita &r&dEXTRA&r&7."
+  ],
+  "task.4F38D452A8B4FA71.title": "Tenir un lingot o equip d'aquest tier",
+  "quest.47DC245602665367.title": "&2Lingot de netherita i aeterni",
+  "quest.47DC245602665367.quest_subtitle": "&7Nivell 5 de 6 · Aeterni (End)",
+  "quest.47DC245602665367.quest_desc": [
+    "&7Lingot de netherita i diamant + 4 lingots d'aeterni (BetterEnd) a la taula de treball.",
+    "",
+    "&7Taula de ferreria: peça de netherita i diamant + plantilla de millora de netherita + aquest lingot.",
+    "",
+    "&7Millora cada peça de netherita i diamant (nivell 5) amb la plantilla de netherita + aquest lingot."
+  ],
+  "task.450BAF5816A48243.title": "Millorar l'armadura a aquest tier (o millor)",
+  "quest.46A97AE9D3EEC709.title": "&2Armadura de netherita i aeterni",
+  "quest.46A97AE9D3EEC709.quest_subtitle": "&7Defensa 28 · Duresa 4.5 (set complet)",
+  "quest.46A97AE9D3EEC709.quest_desc": [
+    "&fDefensa 28 · Duresa 4.5 (conjunt complet)",
+    "",
+    "&7Fantasmes, piglins i endermen:",
+    "&r&dCAP&r&7 et molesta. &r&dNOU&r&7: els SHULKER&r&7 ja no t'aixequen.",
+    "&7Millor que la netherita i diamant en tot: defensa, duresa, durabilitat i encantabilitat."
+  ],
+  "task.434D77BD88D1DC90.title": "Millorar l'espasa a aquest tier (o millor)",
+  "quest.444C1846D648E0B8.title": "&2Espasa de netherita i aeterni",
+  "quest.444C1846D648E0B8.quest_subtitle": "&7Més dany que la de netherita.",
+  "quest.444C1846D648E0B8.quest_desc": [
+    "&7Més dany que la de netherita.",
+    "",
+    "&r&7Tot el botí &r&dEXTRA&r&7 de la de diamant, i a més &r&dCLOSQUES&r&7 de shulker extra en matar shulkers.",
+    "",
+    "&7També hi ha llança d'aquest material."
+  ],
+  "task.471E224969671D43.title": "Millorar el pic a aquest tier (o millor)",
+  "quest.4B336602D62CEA64.title": "&2Pic de netherita i aeterni",
+  "quest.4B336602D62CEA64.quest_subtitle": "&7Pica més ràpid que el de netherita.",
+  "quest.4B336602D62CEA64.quest_desc": [
+    "&7Pica més ràpid que el de netherita.",
+    "",
+    "&r&7Diamant &r&dEXTRA&r&7 en picar diamants i &r&dTHALLASIUM&r&7 en brut extra en picar thallasium (el metall base de l'aeterni)."
+  ],
+  "task.49458C3CB2C339A0.title": "Millorar la destral a aquest tier (o millor)",
+  "quest.4A43128A97701FCC.title": "&2Destral de netherita i aeterni",
+  "quest.4A43128A97701FCC.quest_subtitle": "&7Talla més ràpid i pega fort.",
+  "quest.4A43128A97701FCC.quest_desc": [
+    "&7Talla més ràpid i pega fort."
+  ],
+  "task.48CBAD92F14F9E18.title": "Millorar la pala a aquest tier (o millor)",
+  "quest.401AC33D34D5277E.title": "&2Pala de netherita i aeterni",
+  "quest.401AC33D34D5277E.quest_subtitle": "&7Cava més ràpid.",
+  "quest.401AC33D34D5277E.quest_desc": [
+    "&7Cava més ràpid."
+  ],
+  "task.42158337667C3728.title": "Millorar l'aixada a aquest tier (o millor)",
+  "quest.4B5B97D632382E32.title": "&2Aixada de netherita i aeterni",
+  "quest.4B5B97D632382E32.quest_subtitle": "&7En collir conreus madurs, de vegades dona collita EXTRA.",
+  "quest.4B5B97D632382E32.quest_desc": [
+    "&7En collir conreus madurs, de vegades dona collita &r&dEXTRA&r&7."
+  ],
+  "task.4D153351C4F81C0D.title": "Tenir un lingot o equip d'aquest tier",
+  "quest.4CA96DA59B997684.title": "&aLingot de netherita i siftita",
+  "quest.4CA96DA59B997684.quest_subtitle": "&7Nivell 6 de 6 · Siftita (The Sift)",
+  "quest.4CA96DA59B997684.quest_desc": [
+    "&7Lingot de netherita i aeterni + 4 lingots de siftita (The Sift) a la taula de treball.",
+    "",
+    "&7Taula de ferreria: peça de netherita i aeterni + plantilla de millora de netherita + aquest lingot.",
+    "",
+    "&7Millora cada peça de netherita i aeterni (nivell 6) amb la plantilla de netherita + aquest lingot."
+  ],
+  "task.4993697E995E2E62.title": "Millorar l'armadura a aquest tier (o millor)",
+  "quest.4D7C52FDC829835F.title": "&aArmadura de netherita i siftita",
+  "quest.4D7C52FDC829835F.quest_subtitle": "&7Defensa 30 · Duresa 5 (set complet)",
+  "quest.4D7C52FDC829835F.quest_desc": [
+    "&fDefensa 30 · Duresa 5 (conjunt complet)",
+    "",
+    "&7Fantasmes, piglins i endermen:",
+    "&r&dCAP&r&7 et molesta. Els &r&dSHULKER no t'aixequen. &r&dNOU&r&7: resistència a la &r&dFOSCOR&r&7 (Warden).",
+    "&7La millor del modpack: supera la netherita i l'aeterni en tot."
+  ],
+  "task.416317C81B794F89.title": "Millorar l'espasa a aquest tier (o millor)",
+  "quest.4A12D94FF40281F6.title": "&aEspasa de netherita i siftita",
+  "quest.4A12D94FF40281F6.quest_subtitle": "&7Més dany que la de netherita.",
+  "quest.4A12D94FF40281F6.quest_desc": [
+    "&7Més dany que la de netherita.",
+    "",
+    "&r&7Tot el botí &r&dEXTRA&r&7 de la d'aeterni (amb closques de shulker), i a més &r&dPEPITES&r&7 &r&dDE&r&7 &r&dSIFTITA&r&7 en matar Sniffers foscos.",
+    "",
+    "&7També hi ha llança d'aquest material."
+  ],
+  "task.483FB5E0DFE6E534.title": "Millorar el pic a aquest tier (o millor)",
+  "quest.4EDFFABBCC2B9045.title": "&aPic de netherita i siftita",
+  "quest.4EDFFABBCC2B9045.quest_subtitle": "&7Pica més ràpid que el de netherita.",
+  "quest.4EDFFABBCC2B9045.quest_desc": [
+    "&7Pica més ràpid que el de netherita.",
+    "",
+    "&r&7Diamant i thallasium &r&dEXTRA&r&7, i PEPITES&r&7 &r&dDE&r&7 &r&dSIFTITA&r&7 extra en picar siftita (el material del qual està feta)."
+  ],
+  "task.49204475EC1824A7.title": "Millorar la destral a aquest tier (o millor)",
+  "quest.4291114A05CD3E92.title": "&aDestral de netherita i siftita",
+  "quest.4291114A05CD3E92.quest_subtitle": "&7Talla més ràpid i pega fort.",
+  "quest.4291114A05CD3E92.quest_desc": [
+    "&7Talla més ràpid i pega fort."
+  ],
+  "task.4A0E5A5AB7C558F1.title": "Millorar la pala a aquest tier (o millor)",
+  "quest.4344BA818FD11A79.title": "&aPala de netherita i siftita",
+  "quest.4344BA818FD11A79.quest_subtitle": "&7Cava més ràpid.",
+  "quest.4344BA818FD11A79.quest_desc": [
+    "&7Cava més ràpid."
+  ],
+  "task.4DEE5A8DB601DE8B.title": "Millorar l'aixada a aquest tier (o millor)",
+  "quest.46E137FE08AFCD68.title": "&aAixada de netherita i siftita",
+  "quest.46E137FE08AFCD68.quest_subtitle": "&7En collir conreus madurs, de vegades dona collita EXTRA.",
+  "quest.46E137FE08AFCD68.quest_desc": [
+    "&7En collir conreus madurs, de vegades dona collita &r&dEXTRA&r&7."
+  ],
+  "quest.44D05B1A628D8F1C.title": "&dAdvanced Netherite",
+  "quest.44D05B1A628D8F1C.quest_subtitle": "&7Una fila per material, de pitjor a millor:",
+  "quest.44D05B1A628D8F1C.quest_desc": [
+    "&7Una fila per material, de pitjor a millor:",
+    "&7ferro → or → maragda → diamant → aeterni (End) → siftita (The Sift).",
+    "",
+    "&7Cada material té el seu avantatge especial. Els dos últims són millores afegides per Primazos."
+  ],
+  "chapter.47C573CD412004CD.title": "&7› &2Netherita del Vel",
+  "quest.418CD3FDAD19C357.title": "&e&lCasc de netherita del Vel Trencat",
+  "quest.418CD3FDAD19C357.quest_subtitle": "&7Defensa 7 · Duresa 6 · Empenta 0.25",
+  "quest.418CD3FDAD19C357.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&dcristall del Sacerdot lunar Taula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aLunàtic&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.4FB63B0543E4BA57.title": "&e&lPetrina de netherita del Vel Trencat",
+  "quest.4FB63B0543E4BA57.quest_subtitle": "&7Defensa 11 · Duresa 6 · Empenta 0.25",
+  "quest.4FB63B0543E4BA57.quest_desc": [
+    "&r&fDefensa 11&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&6cristall del Déu encadenat Taula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aEncadenat&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.460CDC47514D0EE9.title": "&e&lPantalons de netherita del Vel Trencat",
+  "quest.460CDC47514D0EE9.quest_subtitle": "&7Defensa 9 · Duresa 6 · Empenta 0.25",
+  "quest.460CDC47514D0EE9.quest_desc": [
+    "&r&fDefensa 9&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&5cristall de Lilith Taula de ferreria&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aOmbrívol&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.45B6907ED0A7C811.title": "&e&lBotes de netherita del Vel Trencat",
+  "quest.45B6907ED0A7C811.quest_subtitle": "&7Defensa 7 · Duresa 6 · Empenta 0.25",
+  "quest.45B6907ED0A7C811.quest_desc": [
+    "&r&fDefensa 7&r&7 · &r&fDuresa 6&r&7 · &r&fEmpenta 0.25",
+    "",
+    "&r&7Forjada amb el &r&2cristall de Mag del cicle de fang Taula de ferrer&r&7: peça de netherita i siftita + plantilla de netherita + &r&alingot del Vel Trencat (&r&aFang&r&7).",
+    "",
+    "&r&6&lConjunt complet&r&7: &r&e&lXiuxiueigs d'un Poder Diví +15%&r&7 de dany i &r&2&lCorrupció reactiva&r&7.",
+    "&r&6&l2 peces&r&7: immune a la &r&2Corrupció Divina&r&7."
+  ],
+  "quest.495850DE95BB0866.title": "&2&lEl tier del Vel Trencat",
+  "quest.495850DE95BB0866.quest_subtitle": "&7Després de la siftita: una peça per cada eco dels déus.",
+  "quest.495850DE95BB0866.quest_desc": [
+    "Després de la siftita: una peça per cada eco dels déus.",
+    "",
+    "Mira &aAventura → El Vel&7 per aconseguir-les."
+  ],
+  "chapter.4C6FC243F51FFE4E.title": "&5Encanteris",
+  "quest.42CECEFB22CDD882.title": "&bCasc",
+  "quest.42CECEFB22CDD882.quest_subtitle": "&7Protecció IV",
+  "quest.42CECEFB22CDD882.quest_desc": [
+    "&dProtecció &f&lIV",
+    "&dIrrompibilitat &f&lIII",
+    "&dReparació",
+    "&dRespiració &f&lIII",
+    "&dAfinitat aquàtica"
+  ],
+  "quest.450216DFE0A93326.title": "&bPetrina",
+  "quest.450216DFE0A93326.quest_subtitle": "&7Protecció IV",
+  "quest.450216DFE0A93326.quest_desc": [
+    "&dProtecció &f&lIV",
+    "&dIrrompibilitat &f&lIII",
+    "&dReparació",
+    "&a&lAntídot (Dungeons and Taverns)"
+  ],
+  "quest.40CB1D0B8C4B0C24.title": "&bPantalons",
+  "quest.40CB1D0B8C4B0C24.quest_subtitle": "&7Protecció IV",
+  "quest.40CB1D0B8C4B0C24.quest_desc": [
+    "&dProtecció &f&lIV",
+    "&dIrrompibilitat &f&lIII",
+    "&dReparació",
+    "&dSigil ràpid &f&lIII"
+  ],
+  "quest.4B5A7887C73A0B75.title": "&bBotes",
+  "quest.4B5A7887C73A0B75.quest_subtitle": "&7Protecció IV",
+  "quest.4B5A7887C73A0B75.quest_desc": [
+    "&dProtecció &f&lIV",
+    "&dCaiguda de ploma &f&lIV",
+    "&dIrrompibilitat &f&lIII",
+    "&dReparació",
+    "&dAgilitat aquàtica &f&lIII",
+    "&dVelocitat d'ànima &f&lIII",
+    "&a&lViatger (Dungeons and Taverns)"
+  ],
+  "quest.40DB3C9465D11CAE.title": "&bEspasa",
+  "quest.40DB3C9465D11CAE.quest_subtitle": "&7Esmolament V",
+  "quest.40DB3C9465D11CAE.quest_desc": [
+    "&dEsmolament &f&lV",
+    "&dBotí &f&lIII",
+    "&dAspecte igni &f&lII",
+    "&dEscombrada &f&lIII",
+    "&dIrrompibilitat &f&lIII",
+    "&dReparació",
+    "&a&lPerdició dels saquejadors (D＆T)",
+    "&dcontra il·lagers"
+  ],
+  "quest.4306A5EEB50F68CA.title": "&bPic",
+  "quest.4306A5EEB50F68CA.quest_subtitle": "&7Eficiència V",
+  "quest.4306A5EEB50F68CA.quest_desc": [
+    "&dEficiència &f&lV",
+    "&a&lFortuna III (o Toc de seda)",
+    "&dIrrompibilitat &f&lIII",
+    "&dReparació"
+  ],
+  "quest.40D8AFC007F4A2C5.title": "&bArc",
+  "quest.40D8AFC007F4A2C5.quest_subtitle": "&7Poder V",
+  "quest.40D8AFC007F4A2C5.quest_desc": [
+    "&dPoder &f&lV",
+    "&a&lInfinit (o Reparació)",
+    "&dFoc",
+    "&dRetrocés",
+    "&a&lTret múltiple o Perforació (D＆T)"
+  ],
+  "quest.4DAD96FCA495E875.title": "&bÈlitres",
+  "quest.4DAD96FCA495E875.quest_subtitle": "&7Irrompibilitat III",
+  "quest.4DAD96FCA495E875.quest_desc": [
+    "&dIrrompibilitat &f&lIII",
+    "&dReparació",
+    "&a&lAles de cera (D＆T)"
+  ],
+  "quest.440F0F06CC057ED5.title": "&bQuè posar a cada peça",
+  "quest.440F0F06CC057ED5.quest_subtitle": "&7El set d'encanteris recomanat per a armadura, armes i…",
+  "quest.440F0F06CC057ED5.quest_desc": [
+    "&7El set d'encanteris recomanat per a armadura, armes i eines."
+  ],
+  "quest.4168CACB46B73BBF.title": "&aAntídot",
+  "quest.4168CACB46B73BBF.quest_subtitle": "&7Cuirassa: absorbeix el dany per verí.",
+  "quest.4168CACB46B73BBF.quest_desc": [
+    "&7Cuirassa: absorbeix el dany per verí.",
+    "",
+    "&eOn:",
+    "&fCau tòxic (pantà): cofres i cambra del cap.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.48E1C871FCAD6A52.title": "&aPerdició dels saquejadors",
+  "quest.48E1C871FCAD6A52.quest_subtitle": "&7Més dany a illagers i bruixes.",
+  "quest.48E1C871FCAD6A52.quest_desc": [
+    "&7Més dany a illagers i bruixes.",
+    "",
+    "&eOn:",
+    "&fBiblioteques de mansions, amagatalls il·lager i residències pàl·lides.",
+    "&fTresor de les avançades de saquejadors.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4076C303135A6495.title": "&aPerdició aèria",
+  "quest.4076C303135A6495.quest_subtitle": "&7Més dany a mobs voladors.",
+  "quest.4076C303135A6495.quest_desc": [
+    "&7Més dany a mobs voladors.",
+    "",
+    "&eOn:",
+    "&fCastell i vaixells de l'End.",
+    "&fCambres del cap de les Sales del segell.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4B6CE9E8FEA08BE7.title": "&aRancor",
+  "quest.4B6CE9E8FEA08BE7.quest_subtitle": "&7Més dany amb poca vida i de vegades Força.",
+  "quest.4B6CE9E8FEA08BE7.quest_desc": [
+    "&7Més dany amb poca vida i de vegades Força.",
+    "",
+    "&eOn:",
+    "&fSantuaris de combat: cambres ominoses i gerres.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.470BCABB920F2DFB.title": "&aViatger",
+  "quest.470BCABB920F2DFB.quest_subtitle": "&7Esprintes més ràpid i puges blocs sense saltar.",
+  "quest.470BCABB920F2DFB.quest_desc": [
+    "&7Esprintes més ràpid i puges blocs sense saltar.",
+    "",
+    "&eOn:",
+    "&fTresors dels santuaris de combat.",
+    "&fAltar del búnquer i torres de guaita.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4C82D3905C4CE5A6.title": "&aFotosíntesi",
+  "quest.4C82D3905C4CE5A6.quest_subtitle": "&7Repara l'objecte amb la llum del sol.",
+  "quest.4C82D3905C4CE5A6.quest_desc": [
+    "&7Repara l'objecte amb la llum del sol.",
+    "",
+    "&eOn:",
+    "&fTemple de les ruïnes de la jungla i les seves gerres.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.45D1B17FC2CBEEA7.title": "&aAbast",
+  "quest.45D1B17FC2CBEEA7.quest_subtitle": "&7Interactues amb blocs des de més lluny.",
+  "quest.45D1B17FC2CBEEA7.quest_desc": [
+    "&7Interactues amb blocs des de més lluny.",
+    "",
+    "&eOn:",
+    "&fRuïnes del desert: cofres, gerres i arqueologia.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.43E7E85EE1F6B664.title": "&aAles de cera",
+  "quest.43E7E85EE1F6B664.quest_subtitle": "&7Els èlitres no es gasten quan planeges a poc a poc.",
+  "quest.43E7E85EE1F6B664.quest_desc": [
+    "&7Els èlitres no es gasten quan planeges a poc a poc.",
+    "",
+    "&eOn:",
+    "&fCambres dels vaixells de l'End.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4727917D66A178E0.title": "&aTret múltiple / Perforació",
+  "quest.4727917D66A178E0.quest_subtitle": "&7Per a arcs: 3 fletxes o travessar enemics.",
+  "quest.4727917D66A178E0.quest_desc": [
+    "&7Per a arcs: 3 fletxes o travessar enemics.",
+    "",
+    "&eOn:",
+    "&fCau tòxic: cambra del cap aranya.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4AB87EFF84C31DA4.title": "&aGravetat",
+  "quest.4AB87EFF84C31DA4.quest_subtitle": "&7Fletxes que atrauen els enemics.",
+  "quest.4AB87EFF84C31DA4.quest_desc": [
+    "&7Fletxes que atrauen els enemics.",
+    "",
+    "&eOn:",
+    "&fCastell, vaixells i far de l'End.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4807235ACC419247.title": "&aGhastificat",
+  "quest.4807235ACC419247.quest_subtitle": "&7Fletxes que són boles de foc.",
+  "quest.4807235ACC419247.quest_desc": [
+    "&7Fletxes que són boles de foc.",
+    "",
+    "&eOn:",
+    "&fSales del segell (Nether): cap i gerres.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.49B481D1F942718C.title": "&aVel aquàtic / Vol veloç",
+  "quest.49B481D1F942718C.quest_subtitle": "&7Millores per al Ghast feliç.",
+  "quest.49B481D1F942718C.quest_desc": [
+    "&7Millores per al Ghast feliç.",
+    "",
+    "&eOn:",
+    "&fFortaleses del Nether de D＆T i Sales del segell.",
+    "&fVol veloç també al port del Nether.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4CD86439FB75C23A.title": "&aRecobriment de descomposició",
+  "quest.4CD86439FB75C23A.quest_subtitle": "&7Aplica Wither en colpejar, gasta més durabilitat.",
+  "quest.4CD86439FB75C23A.quest_desc": [
+    "&7Aplica Wither en colpejar, gasta més durabilitat.",
+    "",
+    "&eOn:",
+    "&fFortaleses del Nether de D＆T i Sales del segell.",
+    "&fAlguns esquelets wither el porten posat.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4E8A9F43C671BD2C.title": "&cMaledicció de conductivitat",
+  "quest.4E8A9F43C671BD2C.quest_subtitle": "&7Maledicció! Atrau llamps durant les tempestes.",
+  "quest.4E8A9F43C671BD2C.quest_desc": [
+    "&7Maledicció! Atrau llamps durant les tempestes.",
+    "",
+    "&eOn:",
+    "&fBiblioteca i gerres de la vila de la bruixa.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.41B0FAE57666C7AF.title": "&eBibliotecaris secrets",
+  "quest.41B0FAE57666C7AF.quest_subtitle": "&7Un bibliotecari que visqui DINS d'una d'aquestes estructures et canvia…",
+  "quest.41B0FAE57666C7AF.quest_desc": [
+    "&r&7Un bibliotecari que visqui &r&dDINS d'una d'aquestes estructures et canvia el llibre per la clau del cap d'aquella estructura.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4372BF67B99FB3ED.title": "&6Foc de robí",
+  "quest.4372BF67B99FB3ED.quest_subtitle": "&7Pic: fon els minerals. Armadura i espasa: foc i empenta.",
+  "quest.4372BF67B99FB3ED.quest_desc": [
+    "&7Pic: fon els minerals. Armadura i espasa: foc i empenta.",
+    "",
+    "&eOn:",
+    "&r&fNo s'encanta: ve &r&dPOSAT&r&f a l'equip de robí de foc.",
+    "",
+    "&8BetterNether"
+  ],
+  "quest.4D01A14F32FD1B98.title": "&6Trencador d'obsidiana",
+  "quest.4D01A14F32FD1B98.quest_subtitle": "&7Trenques l'obsidiana molt més ràpid.",
+  "quest.4D01A14F32FD1B98.quest_desc": [
+    "&7Trenques l'obsidiana molt més ràpid.",
+    "",
+    "&eOn:",
+    "&r&fNo s'encanta: ve &r&dPOSAT&r&f en alguns pics de BetterNether.",
+    "",
+    "&8BetterNether"
+  ],
+  "quest.422716798758A90C.title": "&5Vel de l'End",
+  "quest.422716798758A90C.quest_subtitle": "&7Pots mirar els Endermen sense que s'enfadin.",
+  "quest.422716798758A90C.quest_desc": [
+    "&7Pots mirar els Endermen sense que s'enfadin.",
+    "",
+    "&eOn:",
+    "&r&fÉs una &r&dPOCIÓ&r&f: poció estranya + pols de l'End a l'altar de pocions.",
+    "",
+    "&8BetterEnd"
+  ],
+  "quest.4E2073747FFA4AD8.title": "&dEncantaments dels mods",
+  "quest.4E2073747FFA4AD8.quest_subtitle": "&7Els encantaments nous que porten els mods i per a què serveixen.",
+  "quest.4E2073747FFA4AD8.quest_desc": [
+    "&7Els encantaments nous que porten els mods i per a què serveixen."
+  ],
+  "quest.4FB49D9479A7979C.title": "&eConsells",
+  "quest.4FB49D9479A7979C.quest_subtitle": "&7Easy Magic: la taula guarda els teus objectes i el lapislàtzuli.",
+  "quest.4FB49D9479A7979C.quest_desc": [
+    "&7Easy Magic: la taula guarda els teus objectes i el lapislàtzuli.",
+    "&7Easy Anvils: l'enclusa cobra menys nivells.",
+    "&7La netherita d'or (Advanced Netherite) dona millors encantaments.",
+    "&7La Taula d'imbuir (Illager Invasion)",
+    "&7puja els encantaments per sobre del màxim."
+  ],
+  "chapter.4C8D0CBF387CF035.title": "&eRuta recomanada",
+  "quest.4F77C40DB519E79B.title": "&fFase 1: Sobreviure",
+  "quest.4F77C40DB519E79B.quest_subtitle": "&7Eines de pedra, menjar, llit i una base. Fabrica una motxilla…",
+  "quest.4F77C40DB519E79B.quest_desc": [
+    "&7Eines de pedra, menjar, llit i una base. Fabrica una motxilla i un calendari."
+  ],
+  "quest.4D8431B3AF6BB688.title": "&fFase 2: Ferro i explorar",
+  "quest.4D8431B3AF6BB688.quest_subtitle": "&7Armadura de ferro i escut. Explora estructures fàcils i busca ulls…",
+  "quest.4D8431B3AF6BB688.quest_desc": [
+    "&7Armadura de ferro i escut. Explora estructures fàcils i busca ulls de l'End des d'ara."
+  ],
+  "quest.4667020EDA4B9FE1.title": "&bFase 3: Diamant i Nether",
+  "quest.4667020EDA4B9FE1.quest_subtitle": "&7Ves al Nether amb diamant i una peça d'or. Les fortaleses i pobles…",
+  "quest.4667020EDA4B9FE1.quest_desc": [
+    "&7Ves al Nether amb diamant i una peça d'or. Les fortaleses i pobles del Nether són del més perillós. BetterNether et dona cincinnasita i robins."
+  ],
+  "quest.4596518D509AC349.title": "&8Fase 4: Netherita",
+  "quest.4596518D509AC349.quest_subtitle": "&7Busca restes antigues i passa-ho tot a netherita. Encanta bé el teu…",
+  "quest.4596518D509AC349.quest_desc": [
+    "&7Busca restes antigues i passa-ho tot a netherita. Encanta bé el teu equip."
+  ],
+  "quest.41EF52622DC8DDF7.title": "&bFase 5: Netherita avançada",
+  "quest.41EF52622DC8DDF7.quest_subtitle": "&7Millora a netherita de ferro, or, maragda i finalment diamant…",
+  "quest.41EF52622DC8DDF7.quest_desc": [
+    "&7Millora a netherita de ferro, or, maragda i finalment diamant (defensa 26). Més endavant tindrà dues millores més: aeterni i siftita."
+  ],
+  "quest.496AF721CFBDE226.title": "&3Fase 6: Obrir l'End",
+  "quest.496AF721CFBDE226.quest_subtitle": "&7Reuneix els ulls especials d'End Remastered i prepara't per a la…",
+  "quest.496AF721CFBDE226.quest_desc": [
+    "&7Reuneix els ulls especials d'End Remastered i prepara't per a la dragona remasteritzada. Millor en grup."
+  ],
+  "quest.4DFD392D27514515.title": "&5Fase 7: L'End de veritat",
+  "quest.4DFD392D27514515.quest_subtitle": "&7Explora BetterEnd: terminita, cristal·lita i aeterni. Amb 4 lingots…",
+  "quest.4DFD392D27514515.quest_desc": [
+    "&7Explora BetterEnd: terminita, cristal·lita i aeterni. Amb 4 lingots d'aeterni i un lingot de netherita i diamant fas netherita i aeterni (defensa 28, i els shulkers ja no t'aixequen). Les ciutats de l'End i els èlitres."
+  ],
+  "quest.4C5C2202670202A5.title": "&3Fase 8: The Sift i caps",
+  "quest.4C5C2202670202A5.quest_subtitle": "&7Amb tot l'anterior, explora The Sift, els caps i les masmorres més…",
+  "quest.4C5C2202670202A5.quest_desc": [
+    "&7Amb tot l'anterior, explora The Sift, els caps i les masmorres més difícils.",
+    "",
+    "&7The Sift no té masmorres: amb 4 lingots de siftita i un lingot de netherita i aeterni fas netherita i siftita, el millor equip del modpack (defensa 30, resisteix la foscor). El Sifter pica com un mob d'elit."
+  ],
+  "quest.49F3FDB4BB632ADC.title": "&aRuta recomanada",
+  "quest.49F3FDB4BB632ADC.quest_subtitle": "&7Què fer a cada fase de la partida per no anar perdut.",
+  "quest.49F3FDB4BB632ADC.quest_desc": [
+    "&7Què fer a cada fase de la partida per no anar perdut."
+  ],
+  "chapter.48116F9F4DFBB1BA.title": "&7› &2Ruta: el Vel",
+  "quest.47C1575671C9D30E.title": "&e&lFase 9: Aerial Hell i el Vel Trencat",
+  "quest.47C1575671C9D30E.quest_subtitle": "&7Quan el Vel es debiliti, puja al sostre del món i creua'l.",
+  "quest.47C1575671C9D30E.quest_desc": [
+    "&r&7Quan el &r&e&lVel&r&7 s'afebleixi, puja al sostre del món i travessa'l.",
+    "&r&7Derrota els &r&d4 ecos divins&r&7 i forja l'&r&aarmadura del Vel Trencat&r&7."
+  ],
+  "quest.48767560B4568E4A.title": "&2&lDesprés de tot",
+  "quest.48767560B4568E4A.quest_subtitle": "&7L'última fase de la partida.",
+  "quest.48767560B4568E4A.quest_desc": [
+    "L'última fase de la partida."
+  ],
+  "chapter.47E2FC8676212358.title": "&bControls i ordres",
+  "quest.46EF21490829FEFF.title": "&aMapa (JourneyMap)",
+  "quest.46EF21490829FEFF.quest_subtitle": "&7. (punt): mapa complet.",
+  "quest.46EF21490829FEFF.quest_desc": [
+    "&e&l. (punt)&r&7: mapa complet.",
+    "&e&l, (coma)&r&7: mostrar o amagar el minimapa.",
+    "&e&l+ i -&r&7: zoom.",
+    "&e&lO (al mapa)&r&7: opcions."
+  ],
+  "quest.4692468053346220.title": "&eReceptes (REI)",
+  "quest.4692468053346220.quest_subtitle": "&7A l'inventari, amb el ratolí a sobre d'un objecte:",
+  "quest.4692468053346220.quest_desc": [
+    "&7A l'inventari, amb el ratolí a sobre d'un objecte:",
+    "&e&lR&r&7: com es fabrica.",
+    "&e&lU&r&7: per a què serveix."
+  ],
+  "quest.41FB317AF553458E.title": "&6Motxilla",
+  "quest.41FB317AF553458E.quest_subtitle": "&7B: obrir la motxilla que portes posada.",
+  "quest.41FB317AF553458E.quest_desc": [
+    "&e&lB&r&7: obrir la motxilla que portes posada.",
+    "&e&lZ&r&7: canviar l'eina de la motxilla."
+  ],
+  "quest.414AE7643F85C292.title": "&bXat de veu",
+  "quest.414AE7643F85C292.quest_subtitle": "&7V: menú del xat de veu.",
+  "quest.414AE7643F85C292.quest_desc": [
+    "&e&lV&r&7: menú del xat de veu.",
+    "&e&lM&r&7: silenciar el teu micròfon.",
+    "&e&lN&r&7: desactivar el xat de veu.",
+    "",
+    "&7Es parla per activació de veu (no cal prémer res)."
+  ],
+  "quest.4458F39F18C964AF.title": "&eMarcar llocs",
+  "quest.4458F39F18C964AF.quest_subtitle": "&7Botó lateral del ratolí (botó 5):",
+  "quest.4458F39F18C964AF.quest_desc": [
+    "&7&e&lBotó lateral del ratolí&r&7 (&e&lbotó 5&r&7):",
+    "&7marcar un lloc o un mob per als teus amics."
+  ],
+  "quest.4B89D3C8ECB4B85C.title": "&eAgafar cofres i animals",
+  "quest.4B89D3C8ECB4B85C.quest_subtitle": "&7Alt esquerre + clic dret amb la mà buida (Carry On).",
+  "quest.4B89D3C8ECB4B85C.quest_desc": [
+    "&7&e&lAlt esquerre&r&7 + &e&lclic dret&r&7 amb la mà buida (Carry On)."
+  ],
+  "quest.4E336E1BF7123B65.title": "&fZoom",
+  "quest.4E336E1BF7123B65.quest_subtitle": "&7C: zoom.",
+  "quest.4E336E1BF7123B65.quest_desc": [
+    "&e&lC&r&7: zoom."
+  ],
+  "quest.4412C64872013A9E.title": "&6Veure on surten monstres",
+  "quest.4412C64872013A9E.quest_subtitle": "&7F9: mostra a terra els blocs on poden aparèixer monstres.",
+  "quest.4412C64872013A9E.quest_desc": [
+    "&e&lF9&r&7: mostra a terra els blocs on poden aparèixer monstres."
+  ],
+  "quest.4916E0291B3ADC02.title": "&bInformació (Jade)",
+  "quest.4916E0291B3ADC02.quest_subtitle": "&7Insert: més detalls del que mires.",
+  "quest.4916E0291B3ADC02.quest_desc": [
+    "&e&lInsert&r&7: més detalls del que mires.",
+    "&e&lTeclat numèric 3 i 4&r&7: receptes i usos del que mires."
+  ],
+  "quest.4A45E9CF87EBA7D9.title": "&6Emotes",
+  "quest.4A45E9CF87EBA7D9.quest_subtitle": "&7Retrocés (esborrar): triar un emote ràpid.",
+  "quest.4A45E9CF87EBA7D9.quest_desc": [
+    "&e&lRetrocés (esborrar)&r&7: triar un emote ràpid."
+  ],
+  "quest.4C49108BDF53CA97.title": "&7Altres",
+  "quest.4C49108BDF53CA97.quest_subtitle": "&7Bloq Despl: mostrar o amagar el comptador de dies.",
+  "quest.4C49108BDF53CA97.quest_desc": [
+    "&e&lBloq Despl&r&7: mostrar o amagar el comptador de dies.",
+    "&e&lH&r&7: cares que es mouen en parlar (Talking Heads).",
+    "&e&lR&r&7: recarregar els shaders."
+  ],
+  "quest.44F07F55A2D4932F.title": "&7Canviar tecles",
+  "quest.44F07F55A2D4932F.quest_subtitle": "&7Opcions > Controls > Assignació de tecles.",
+  "quest.44F07F55A2D4932F.quest_desc": [
+    "&7&e&lOpcions > Controls > Assignació de tecles&r&7.",
+    "&7Hi ha un cercador per trobar qualsevol acció pel seu nom."
+  ],
+  "quest.4044E978069E6E42.title": "&dOrdres",
+  "quest.4044E978069E6E42.quest_subtitle": "&7Botó del llibre a l'inventari, o el llibre que et donen en entrar",
+  "quest.4044E978069E6E42.quest_desc": [
+    "&7Botó del llibre a l'inventari, o el llibre que et donen en entrar",
+    "&7Obre aquest llibre."
+  ],
+  "quest.4A4E451521967243.title": "&eControls i ordres",
+  "quest.4A4E451521967243.quest_subtitle": "&7Tecles útils, el mapa, el xat de veu i ordres del servidor.",
+  "quest.4A4E451521967243.quest_desc": [
+    "&7Tecles útils, el mapa, el xat de veu i ordres del servidor."
+  ],
+  "quest.4DC3263B600E81A4.title": "&aJourneyMap",
+  "quest.4DC3263B600E81A4.quest_subtitle": "&7Minimapa i mapa complet (tecla .",
+  "quest.4DC3263B600E81A4.quest_desc": [
+    "&7Minimapa i mapa complet (tecla .",
+    "&7punt). Pots guardar punts d'interès (waypoints)."
+  ],
+  "quest.4559726C5407C4AD.title": "&ePing Wheel",
+  "quest.4559726C5407C4AD.quest_subtitle": "&7Marca llocs o mobs (botó lateral del ratolí) perquè els teus amics els…",
+  "quest.4559726C5407C4AD.quest_desc": [
+    "&7Marca llocs o mobs (botó lateral del ratolí) perquè els teus amics els vegin, i apareixen al seu JourneyMap."
+  ],
+  "quest.4F5587D6763708E3.title": "&bSimple Voice Chat",
+  "quest.4F5587D6763708E3.quest_subtitle": "&7Xat de veu per proximitat: com més a prop, més se sent. Menú amb la…",
+  "quest.4F5587D6763708E3.quest_desc": [
+    "&e&lXat de veu per proximitat&r&7: com més a prop, més se sent. Menú amb la tecla V, silenciar el micro amb M.",
+    "",
+    "&7També hi ha missatges de veu al xat."
+  ],
+  "quest.44C86C913A30C685.title": "&dDiscord",
+  "quest.44C86C913A30C685.quest_subtitle": "&7El xat del servidor està connectat amb el nostre Discord.",
+  "quest.44C86C913A30C685.quest_desc": [
+    "&7El xat del servidor està connectat amb el nostre Discord."
+  ],
+  "quest.41B4299533EF96E5.title": "&fXat millorat",
+  "quest.41B4299533EF96E5.quest_subtitle": "&7Cares dels jugadors al xat, emojis, emotes de Twitch i més…",
+  "quest.41B4299533EF96E5.quest_desc": [
+    "&7Cares dels jugadors al xat, emojis, emotes de Twitch i més historial."
+  ],
+  "quest.477FF157EF548BBA.title": "&eDay Count",
+  "quest.477FF157EF548BBA.quest_subtitle": "&7Comptador de dies a la pantalla.",
+  "quest.477FF157EF548BBA.quest_desc": [
+    "&7Comptador de dies a la pantalla."
+  ],
+  "quest.497B42A6138C841B.title": "&fBetter Tab",
+  "quest.497B42A6138C841B.quest_subtitle": "&7La llista de jugadors (Tab) mostra el ping exacte i es pot…",
+  "quest.497B42A6138C841B.quest_desc": [
+    "&7La llista de jugadors (&e&lTab&r&7) mostra el ping exacte i es pot desplaçar."
+  ],
+  "quest.4D76DD0A074EA494.title": "&6Show Me Your Skin",
+  "quest.4D76DD0A074EA494.quest_subtitle": "&7Amaga o personalitza com es veu la teva armadura, per lluir la teva skin.",
+  "quest.4D76DD0A074EA494.quest_desc": [
+    "&7Amaga o personalitza com es veu la teva armadura, per lluir la teva skin."
+  ],
+  "quest.442E7979A4536AEF.title": "&dMapa i comunicació",
+  "quest.442E7979A4536AEF.quest_subtitle": "&7Mapa en temps real, marcar llocs, xat de veu, emotes i Discord.",
+  "quest.442E7979A4536AEF.quest_desc": [
+    "&7Mapa en temps real, marcar llocs, xat de veu, emotes i Discord."
+  ],
+  "chapter.48B9611DC0D886EC.title": "&cSi mors",
+  "quest.4DB9A40D131B98D7.title": "&7Si mors: la teva tomba",
+  "quest.4DB9A40D131B98D7.quest_subtitle": "&7En morir apareix una làpida amb TOTES les teves coses on vas caure.",
+  "quest.4DB9A40D131B98D7.quest_desc": [
+    "&7En morir apareix una làpida amb TOTES&r&7 les teves coses on vas caure.",
+    "",
+    "&7Torna-hi i fes-hi clic dret per recuperar-ho. Ningú més no l'hauria de poder obrir.",
+    "",
+    "&8Mod: Gravestones"
+  ],
+  "quest.4F13AE37C252E255.title": "&6Tòtem des de l'inventari",
+  "quest.4F13AE37C252E255.quest_subtitle": "&7El Tòtem de la immortalitat funciona encara que sigui a l'inventari, no…",
+  "quest.4F13AE37C252E255.quest_desc": [
+    "&7El Tòtem de la immortalitat funciona encara que sigui a l'inventari, no cal portar-lo a la mà.",
+    "",
+    "&8Mod: Inventory Totem"
+  ],
+  "quest.4D57FE8694C497E6.title": "&dMascotes que reviuen",
+  "quest.4D57FE8694C497E6.quest_subtitle": "&7Les teves mascotes domesticades poden tornar a la vida si moren.",
+  "quest.4D57FE8694C497E6.quest_desc": [
+    "&7Les teves mascotes domesticades poden tornar a la vida si moren.",
+    "",
+    "&7La Gemma etèrica és la clau: busca'n la recepta a &r&dREI&r&7 (tecla R).",
+    "",
+    "&8Mod: Respawnable Pets"
+  ],
+  "quest.4A5518F0139D5407.title": "&aGuardar experiència",
+  "quest.4A5518F0139D5407.quest_subtitle": "&7El Tom d'experiència (XP Tome)",
+  "quest.4A5518F0139D5407.quest_desc": [
+    "&r&7El Tom d'experiència (&r&dXP&r&7 Tome)",
+    "&7guarda els teus nivells per no perdre'ls en morir o per passar-los a un altre jugador.",
+    "",
+    "&r&8Mod: &r&dXP&r&8 Tome"
+  ],
+  "quest.44142FAFEF3E3A65.title": "&c&lSi mors",
+  "quest.44142FAFEF3E3A65.quest_subtitle": "&7Morir a Primazos no és el final: les teves coses t'esperen i l'Ègida et…",
+  "quest.44142FAFEF3E3A65.quest_desc": [
+    "Morir a Primazos no és la fi: les teves coses t'esperen i l'&a&lÈgida&r&7 t'ajuda si mors seguit."
+  ],
+  "chapter.4DB240077E0917AE.title": "&a&lÈgida de Protecció",
+  "quest.4A7ECEFFB1CE929A.title": "&a&lÈgida&r&7",
+  "quest.4A7ECEFFB1CE929A.quest_subtitle": "Si mors diverses vegades seguides.",
+  "quest.4A7ECEFFB1CE929A.quest_desc": [
+    "En reaparèixer, l'&a&lÈgida&r&7 et cobreix durant &d15 minuts&7:",
+    "&aVelocitat, Regeneració i Força&7",
+    "Com més morts seguides (fins a 5), més fort.",
+    "",
+    "&eSota l'aigua, a més: &bApnea i Visió nocturna&7",
+    "",
+    "&eProbabilitat d'un &dTÒTEM&7&e:",
+    "&71: &f5%&7 · 2: &f10%&7 · 3: &f15%&7 · 4: &f25%&7 · 5: &650%",
+    "",
+    "&8No s'activa si et mata un altre jugador."
+  ],
+  "quest.4676ADFB8603167E.title": "&6Generadors encegats",
+  "quest.4676ADFB8603167E.quest_subtitle": "Els generadors treuen menys monstres.",
+  "quest.4676ADFB8603167E.quest_desc": [
+    "Els raigs del &e&lSol&r&7 encegen els generadors: en treuen molts menys monstres del normal.",
+    "",
+    "&8Monuments, torres i generadors de prova."
+  ],
+  "quest.4BD515C40CD0CD0C.title": "&bEvaporació Instantània",
+  "quest.4BD515C40CD0CD0C.quest_subtitle": "Menys guardians.",
+  "quest.4BD515C40CD0CD0C.quest_desc": [
+    "Si els guardians es passen de mitosi (més de 20), el &e&lSol&r&7 n'evapora la &dMEITAT&7 sense deixar rastre."
+  ],
+  "quest.4C43DF55E70F0A48.title": "&6Coet Perdut",
+  "quest.4C43DF55E70F0A48.quest_subtitle": "20% que un coet es desfaci.",
+  "quest.4C43DF55E70F0A48.quest_desc": [
+    "Cada coet que dispara un saquejador té un &d20%&7 de desfer-se en fum abans d'arribar a tu."
+  ],
+  "quest.4E3055876B934EA9.title": "&eEnlluernament",
+  "quest.4E3055876B934EA9.quest_subtitle": "25% d'enlluernar l'illager.",
+  "quest.4E3055876B934EA9.quest_desc": [
+    "Quan un vindicador, inquisidor o marauder et colpeja, hi ha un &d25%&7 que el &e&lSol&r&7 l'enlluerni:",
+    "&c3 ❤ de dany&7",
+    "&bDèbil i gairebé congelat 10 segons&7"
+  ],
+  "quest.4C84E15B6B2634F6.title": "&5Forja Beneïda",
+  "quest.4C84E15B6B2634F6.quest_subtitle": "20% d'un lingot extra.",
+  "quest.4C84E15B6B2634F6.quest_desc": [
+    "En fabricar un lingot de netherita, hi ha un &d20%&7 que el &e&lSol&r&7 te'n regali un altre."
+  ],
+  "quest.4B16A06875A5D051.title": "&6Calor del Sol",
+  "quest.4B16A06875A5D051.quest_subtitle": "20% de ferralla extra.",
+  "quest.4B16A06875A5D051.quest_desc": [
+    "En treure ferralla de netherita del forn, cada una té un &d20%&7 de donar-te'n una altra.",
+    "",
+    "&8Traient-la tu: amb tremuges no compta."
+  ],
+  "quest.4480F963C9234B4A.title": "&5Plantilla Beneïda",
+  "quest.4480F963C9234B4A.quest_subtitle": "25% d'una plantilla extra.",
+  "quest.4480F963C9234B4A.quest_desc": [
+    "En duplicar una plantilla de millora de netherita, hi ha un &d25%&7 que el &e&lSol&r&7 te'n doni una més."
+  ],
+  "quest.40D481890F723CF4.title": "&dBeuratge Trencat",
+  "quest.40D481890F723CF4.quest_subtitle": "25% de trencar la poció d'una bruixa.",
+  "quest.40D481890F723CF4.quest_desc": [
+    "Cada poció que et llança una bruixa té un &d25%&7 de trencar-se a l'aire."
+  ],
+  "quest.4B2CACA647FCCD72.title": "&bTrident Partit",
+  "quest.4B2CACA647FCCD72.quest_subtitle": "20% de trencar un trident.",
+  "quest.4B2CACA647FCCD72.quest_desc": [
+    "Cada trident que llança un ofegat té un &d20%&7 de trencar-se en pols d'estrelles."
+  ],
+  "quest.44DF2E7F9D84C824.title": "&fFletxa Perduda",
+  "quest.44DF2E7F9D84C824.quest_subtitle": "15% de perdre una fletxa.",
+  "quest.44DF2E7F9D84C824.quest_desc": [
+    "Cada fletxa d'un esquelet (de qualsevol tipus) té un &d15%&7 de perdre's en la nit."
+  ],
+  "quest.4AB2F0C9EB89246A.title": "&aMetxa Apagada",
+  "quest.4AB2F0C9EB89246A.quest_subtitle": "30% d'apagar un creeper.",
+  "quest.4AB2F0C9EB89246A.quest_desc": [
+    "Quan un creeper arriba al teu costat, hi ha un &d30%&7 que les &d&lEstrelles&r&7 li apaguin la metxa."
+  ],
+  "quest.40511FDA626F7CE1.title": "&7Cel Clar",
+  "quest.40511FDA626F7CE1.quest_subtitle": "30% d'esborrar un phantom.",
+  "quest.40511FDA626F7CE1.quest_desc": [
+    "Cada phantom que apareix té un &d30%&7 que les &d&lEstrelles&r&7 l'esborrin del cel."
+  ],
+  "quest.4F47932405EE7D6D.title": "&2Infusió de Vida No-Morta",
+  "quest.4F47932405EE7D6D.quest_subtitle": "20% de danyar el zombi que et pega.",
+  "quest.4F47932405EE7D6D.quest_desc": [
+    "Quan un zombi et colpeja, hi ha un &d20%&7 que rebi:",
+    "&cCuració instantània: 3 ❤ de dany&7",
+    "&bLentitud VI durant 5 segons&7"
+  ],
+  "quest.42B3A405FBB94B9F.title": "&dRefosa Estel·lar",
+  "quest.42B3A405FBB94B9F.quest_subtitle": "10% de reparar una peça cada 5 min.",
+  "quest.42B3A405FBB94B9F.quest_desc": [
+    "Cada 5 minuts a l'aire lliure de nit, hi ha un &d10%&7 que les &d&lEstrelles&r&7 reparin &dDEL TOT&7 una peça gastada.",
+    "",
+    "&8Sota sostre o en coves no et veuen."
+  ],
+  "quest.43D07842A1056114.title": "&dConstel·lació",
+  "quest.43D07842A1056114.quest_subtitle": "Més experiència en grup.",
+  "quest.43D07842A1056114.quest_desc": [
+    "Les &d&lEstrelles&r&7 són més boniques en companyia. De nit, a 32 blocs o menys:",
+    "&73 jugadors: &f+25%",
+    "&74 o més: &6+50%",
+    "",
+    "&8Ho veuràs a dalt de la pantalla."
+  ],
+  "quest.48352B8BC49CB196.title": "&e&lProtecció Solar",
+  "quest.48352B8BC49CB196.quest_subtitle": "El &e&lSol&r&7&r us protegeix dels excessos.",
+  "quest.48352B8BC49CB196.quest_desc": [
+    "El &e&lSol&r&7 és un déu benèvol que vetlla pels jugadors de Primazos.",
+    "",
+    "Aquestes són les seves benediccions."
+  ],
+  "quest.43EDB872081104E2.title": "&d&lProtecció de les Estrelles",
+  "quest.43EDB872081104E2.quest_subtitle": "Les &d&lEstrelles&r&7&r guien qui camina a la foscor.",
+  "quest.43EDB872081104E2.quest_desc": [
+    "Les &d&lEstrelles&r&7 són un déu benèvol. No donen poder: donen guia, perquè les nits difícils siguin una mica més fàcils.",
+    "",
+    "&fNomés actuen de nit (des que es fa fosc) o durant una tempesta."
+  ],
+  "quest.42283FA0885C276E.title": "&a&lÈgida de Protecció",
+  "quest.42283FA0885C276E.quest_subtitle": "Dos déus benèvols vetllen per Primazos.",
+  "quest.42283FA0885C276E.quest_desc": [
+    "El &e&lSol&r&7 de dia i les &d&lEstrelles&r&7 de nit.",
+    "",
+    "I quan tot surt malament, l'&a&lÈgida&r&7 et cobreix."
+  ],
+  "chapter.49245C1C892580C8.title": "&4Monstres que escalen",
+  "quest.4DC647F23DED0C4B.title": "&eCom funciona",
+  "quest.4DC647F23DED0C4B.quest_subtitle": "&7Cada jugador puja 1 nivell per cada 20 minuts jugats, fins al 100.",
+  "quest.4DC647F23DED0C4B.quest_desc": [
+    "&7Cada jugador puja 1 nivell per cada 20 minuts jugats, fins al 100.",
+    "&7",
+    "&7Els monstres que apareixen a prop fan servir el nivell del jugador &r&dMÉS PROPER&r&7.",
+    "&7",
+    "&7Si vas amb algú de nivell alt, els monstres del seu voltant seran més durs per a tothom.",
+    "&7",
+    "&7A &dYoth&7 no compta: el teu nivell &dni puja ni baixa&7 i els monstres d'allà no milloren."
+  ],
+  "quest.471998B7E9B2D38F.title": "&2Zombis",
+  "quest.471998B7E9B2D38F.quest_subtitle": "&7Nivell 25: +25% vida, +38% dany.",
+  "quest.471998B7E9B2D38F.quest_desc": [
+    "&7&6&lNivell 25&r&7: &c+25% vida&7, &c+38% dany&7.",
+    "&7&6&lNivell 50&r&7: &c+50% vida&7, &c+75% dany&7.",
+    "&7&6&lNivell 100&r&7: &cel doble&7 de vida i &c+150% dany&7, i criden reforços."
+  ],
+  "quest.4AD5E99117F257D7.title": "&fEsquelets",
+  "quest.4AD5E99117F257D7.quest_subtitle": "&7Nivell 25: +25% vida, arc amb Poder I.",
+  "quest.4AD5E99117F257D7.quest_desc": [
+    "&7&6&lNivell 25&r&7: &c+25% vida&7, arc amb &cPoder I&7.",
+    "&7&6&lNivell 50&r&7: &c+50% vida&7, &cPoder II&7 i &carmadura&7.",
+    "&7&6&lNivell 100&r&7: doble vida, &cPoder V&7, Impuls i Flama."
+  ],
+  "quest.40A3F7D3C2DF97E8.title": "&8Aranyes",
+  "quest.40A3F7D3C2DF97E8.quest_subtitle": "&7Les que guanyen més vida:",
+  "quest.40A3F7D3C2DF97E8.quest_desc": [
+    "&7Les que guanyen més vida:",
+    "&7&6&lNivell 25&r&7: &c+75% vida&7.",
+    "&7&6&lNivell 50&r&7: &c+150% vida&7.",
+    "&7&6&lNivell 100&r&7: &cquatre vegades&7 més vida."
+  ],
+  "quest.4EAB4B2498695AF2.title": "&aCreepers",
+  "quest.4EAB4B2498695AF2.quest_subtitle": "&7Exploten abans i més fort.",
+  "quest.4EAB4B2498695AF2.quest_desc": [
+    "&7Exploten abans i més fort.",
+    "&7&6&lNivell 50&r&7: radi d'explosió 4.",
+    "&7&6&lNivell 100&r&7: radi 6 i metxa molt més curta."
+  ],
+  "quest.4D60181555FDC5B2.title": "&bGuardians",
+  "quest.4D60181555FDC5B2.quest_subtitle": "&7Nivell 50: +75% vida i armadura.",
+  "quest.4D60181555FDC5B2.quest_desc": [
+    "&7&6&lNivell 50&r&7: &c+75% vida i &carmadura&7&7.",
+    "&7&6&lNivell 100&r&7: &c+150% vida i +25% dany&7."
+  ],
+  "quest.43BAF7436C24984B.title": "&3Ofegats",
+  "quest.43BAF7436C24984B.quest_subtitle": "&7Nivell 50: +75% vida, la meitat porten trident.",
+  "quest.43BAF7436C24984B.quest_desc": [
+    "&7&6&lNivell 50&r&7: &c+75% vida&7, la meitat porten &ctrident&7.",
+    "&7&6&lNivell 100&r&7: &c+150% vida i tots amb &ctrident&7&7."
+  ],
+  "quest.4BD80EE2EF4F3106.title": "&7Saquejadors i illagers",
+  "quest.4BD80EE2EF4F3106.quest_subtitle": "&7Més vida, armadura i dany. Els saquejadors arriben a disparar coets…",
+  "quest.4BD80EE2EF4F3106.quest_desc": [
+    "&7Més vida, &carmadura&7 i dany. Els saquejadors arriben a disparar coets de focs artificials."
+  ],
+  "quest.40C3A04C45E87EE9.title": "&6Consell",
+  "quest.40C3A04C45E87EE9.quest_subtitle": "&7Les masmorres difícils, millor amb jugadors de nivell baix a prop... o…",
+  "quest.40C3A04C45E87EE9.quest_desc": [
+    "&7Les masmorres difícils, millor amb jugadors de nivell baix a prop... o amb molt bon equip."
+  ],
+  "quest.4F62A4268F38F40B.title": "&4Els monstres es fan més forts",
+  "quest.4F62A4268F38F40B.quest_subtitle": "&7Com més jugues, més forts són els monstres que t'envolten.",
+  "quest.4F62A4268F38F40B.quest_desc": [
+    "&7Com més jugues, més forts són els monstres que t'envolten."
+  ],
+  "chapter.48A16BDEC86E0F14.title": "&aComoditats",
+  "quest.4C692BC8BC9736ED.title": "&a1. El bàsic",
+  "quest.4C692BC8BC9736ED.quest_subtitle": "&7És un Vanilla Plus: es juga com el Minecraft normal, però amb més…",
+  "quest.4C692BC8BC9736ED.quest_desc": [
+    "&7És un Vanilla Plus: es juga com el Minecraft normal, però amb més biomes, mobs, masmorres i comoditats.",
+    "",
+    "&7Primer: fusta, eines de pedra, menjar i un llit."
+  ],
+  "quest.44D5585EA6235AF7.title": "&cDormir",
+  "quest.44D5585EA6235AF7.quest_subtitle": "&7Si dorm part del servidor, la nit passa amb una animació suau.",
+  "quest.44D5585EA6235AF7.quest_desc": [
+    "&7Si dorm part del servidor, la nit passa amb una animació suau.",
+    "",
+    "&8Mod: Seamless Sleep"
+  ],
+  "quest.44FB2EBBEE1F7826.title": "&bTrobar biomes",
+  "quest.44FB2EBBEE1F7826.quest_subtitle": "&7La Brúixola de la natura et guia fins a qualsevol bioma que triïs.",
+  "quest.44FB2EBBEE1F7826.quest_desc": [
+    "&7La Brúixola de la natura et guia fins a qualsevol bioma que triïs.",
+    "&7Ideal amb tants biomes nous.",
+    "",
+    "&8Mod: Nature's Compass"
+  ],
+  "quest.45F048CC0E51D713.title": "&bQuè és aquest bloc o mob?",
+  "quest.45F048CC0E51D713.quest_subtitle": "&7En mirar alguna cosa apareix a dalt un requadre amb el seu nom i el mod al…",
+  "quest.45F048CC0E51D713.quest_desc": [
+    "&7En mirar alguna cosa apareix a dalt un requadre amb el seu nom i el mod al qual pertany.",
+    "",
+    "&8Mod: Jade"
+  ],
+  "quest.430B23EA4B20877E.title": "&aPrimers passos",
+  "quest.430B23EA4B20877E.quest_subtitle": "&7Què fer en començar, què passa en morir, mascotes, experiència i…",
+  "quest.430B23EA4B20877E.quest_desc": [
+    "&7Què fer en començar, què passa en morir, mascotes, experiència i estacions."
+  ],
+  "quest.4ED9299B6D03E005.title": "&6Traveler's Backpack",
+  "quest.4ED9299B6D03E005.quest_subtitle": "&7Motxilles amb inventari extra, dipòsits de líquids, sac de dormir i…",
+  "quest.4ED9299B6D03E005.quest_desc": [
+    "&7Motxilles amb inventari extra, dipòsits de líquids, sac de dormir i millores (forn, imant, fabricació...)."
+  ],
+  "quest.4B0BEAFDCDAF5FE0.title": "&7Gravestones",
+  "quest.4B0BEAFDCDAF5FE0.quest_subtitle": "&7En morir les teves coses es queden en una làpida. Torna a buscar-les.",
+  "quest.4B0BEAFDCDAF5FE0.quest_desc": [
+    "&7En morir les teves coses es queden en una làpida. Torna a buscar-les."
+  ],
+  "quest.4AD6A76EF5A0C5EF.title": "&aXP Tome",
+  "quest.4AD6A76EF5A0C5EF.quest_subtitle": "&7Guarda la teva experiència en un llibre per no perdre-la.",
+  "quest.4AD6A76EF5A0C5EF.quest_desc": [
+    "&7Guarda la teva experiència en un llibre per no perdre-la."
+  ],
+  "quest.40C0E86C23749FA0.title": "&dRespawnable Pets",
+  "quest.40C0E86C23749FA0.quest_subtitle": "&7Les teves mascotes poden reviure després de morir.",
+  "quest.40C0E86C23749FA0.quest_desc": [
+    "&7Les teves mascotes poden reviure després de morir."
+  ],
+  "quest.4B8834430C69708A.title": "&bNature's Compass",
+  "quest.4B8834430C69708A.quest_subtitle": "&7Brúixola que et porta al bioma que triïs.",
+  "quest.4B8834430C69708A.quest_desc": [
+    "&7Brúixola que et porta al bioma que triïs."
+  ],
+  "quest.45E9F45A2E27D2FB.title": "&6Inventory Totem",
+  "quest.45E9F45A2E27D2FB.quest_subtitle": "&7El tòtem et salva encara que el portis a l'inventari.",
+  "quest.45E9F45A2E27D2FB.quest_desc": [
+    "&7El tòtem et salva encara que el portis a l'inventari."
+  ],
+  "quest.4838644783E4382A.title": "&aFallingTree",
+  "quest.4838644783E4382A.quest_subtitle": "&7En talar un tronc cau l'arbre sencer.",
+  "quest.4838644783E4382A.quest_desc": [
+    "&7En talar un tronc cau l'arbre sencer."
+  ],
+  "quest.433F9B00AFC35131.title": "&eCarry On",
+  "quest.433F9B00AFC35131.quest_subtitle": "&7Amb la mà buida, mantén Alt esquerre i fes clic dret per agafar…",
+  "quest.433F9B00AFC35131.quest_desc": [
+    "&7Amb la mà buida, mantén Alt esquerre i fes clic dret per agafar cofres (amb el que hi ha dins) o animals i portar-los a sobre."
+  ],
+  "quest.440370794A2245AF.title": "&7Easy Anvils i Easy Magic",
+  "quest.440370794A2245AF.quest_subtitle": "&7Enclusos més justos (sense \"Massa car\" tan aviat) i taules de…",
+  "quest.440370794A2245AF.quest_desc": [
+    "&7Enclusos més justos (sense \"Massa car\" tan aviat) i taules d'encantar que guarden els objectes."
+  ],
+  "quest.46C3CC27C35E0B17.title": "&dShulkers millorats",
+  "quest.46C3CC27C35E0B17.quest_subtitle": "&7Veus el contingut de les shulkers des de l'inventari i pots ficar i…",
+  "quest.46C3CC27C35E0B17.quest_desc": [
+    "&7Veus el contingut de les shulkers des de l'inventari i pots ficar i treure coses sense col·locar-les."
+  ],
+  "quest.40E15D68886B723A.title": "&aCollita fàcil",
+  "quest.40E15D68886B723A.quest_subtitle": "&7Clic dret per collir i replantar. Amb pluja els conreus…",
+  "quest.40E15D68886B723A.quest_desc": [
+    "&7Clic dret per collir i replantar. Amb pluja els conreus creixen més ràpid."
+  ],
+  "quest.47FFF200389D1B8C.title": "&fSit",
+  "quest.47FFF200389D1B8C.quest_subtitle": "&7Fes clic dret en una llosa o escala per seure.",
+  "quest.47FFF200389D1B8C.quest_desc": [
+    "&7Fes clic dret en una llosa o escala per seure."
+  ],
+  "quest.4CB3FAECE93E5E32.title": "&7Inventari",
+  "quest.4CB3FAECE93E5E32.quest_subtitle": "&7Botons per ordenar cofres i inventari, i dreceres de ratolí per…",
+  "quest.4CB3FAECE93E5E32.quest_desc": [
+    "&7Botons per ordenar cofres i inventari, i dreceres de ratolí per moure objectes ràpid (Mouse Tweaks)."
+  ],
+  "quest.464FDD1524822097.title": "&fSpeed Happy Ghast",
+  "quest.464FDD1524822097.quest_subtitle": "&7El Ghast feliç vola més ràpid quan el muntes.",
+  "quest.464FDD1524822097.quest_desc": [
+    "&7El Ghast feliç vola més ràpid quan el muntes."
+  ],
+  "quest.437CD7D9B077B9E9.title": "&fExplorer's Compass",
+  "quest.437CD7D9B077B9E9.quest_subtitle": "&7Brúixola que et porta a l'estructura que triïs: pobles, temples,…",
+  "quest.437CD7D9B077B9E9.quest_desc": [
+    "Brúixola que et porta a l'&destructura&7 que triïs: pobles, temples, masmorres dels mods...",
+    "",
+    "Fabrica-la i fes clic dret per triar on anar.",
+    "",
+    "&8Mod: Explorer's Compass"
+  ],
+  "quest.45B4B38CBCAD408C.title": "&eUtilitats",
+  "quest.45B4B38CBCAD408C.quest_subtitle": "&7Motxilles, tombes, guardar experiència, mascotes que reviuen, collir…",
+  "quest.45B4B38CBCAD408C.quest_desc": [
+    "&7Motxilles, tombes, guardar experiència, mascotes que reviuen, collir fàcil..."
+  ],
+  "chapter.40191BDA19B86834.title": "&6Criatures",
+  "quest.4CDA439E526FC98E.title": "&6Alex's Mobs",
+  "quest.4CDA439E526FC98E.quest_subtitle": "&7Més de 80 animals i criatures noves, cadascuna amb els seus objectes i…",
+  "quest.4CDA439E526FC98E.quest_desc": [
+    "&7Més de 80 animals i criatures noves, cadascuna amb els seus objectes i armadures especials."
+  ],
+  "quest.4229E36FBBC694B5.title": "&2Useless Reptile",
+  "quest.4229E36FBBC694B5.quest_subtitle": "&7Dracs i criatures dracòniques que pots domesticar i muntar, amb…",
+  "quest.4229E36FBBC694B5.quest_desc": [
+    "&7Dracs i criatures dracòniques que pots domesticar i muntar, amb armadures pròpies."
+  ],
+  "quest.45D47E02445B6646.title": "&6Friends ＆ Foes",
+  "quest.45D47E02445B6646.quest_subtitle": "&7Els mobs de les votacions de Mojang: gòlems de coure i de tuf,…",
+  "quest.45D47E02445B6646.quest_desc": [
+    "&7Els mobs de les votacions de Mojang: gòlems de coure i de tuf, moobloom, cranc, glare, iceologer... i el Wildfire."
+  ],
+  "quest.40262B6F6C81B500.title": "&aVariants ＆ Ventures",
+  "quest.40262B6F6C81B500.quest_subtitle": "&7Noves variants de zombis i esquelets segons el bioma: Gelid (fred),…",
+  "quest.40262B6F6C81B500.quest_desc": [
+    "&7Noves variants de zombis i esquelets segons el bioma: Gelid (fred), Murk (aigua), Thicket i Verdant (bosc)."
+  ],
+  "quest.44989C0401A99EAC.title": "&cIllager Invasion",
+  "quest.44989C0401A99EAC.quest_subtitle": "&7Molts illagers nous i perillosos.",
+  "quest.44989C0401A99EAC.quest_desc": [
+    "&7Molts illagers nous i perillosos."
+  ],
+  "quest.44B4E389106E8932.title": "&5Mobs de l'End i del Nether",
+  "quest.44B4E389106E8932.quest_subtitle": "&7BetterEnd i BetterNether afegeixen criatures pròpies: libèl·lules,…",
+  "quest.44B4E389106E8932.quest_desc": [
+    "&7BetterEnd i BetterNether afegeixen criatures pròpies: libèl·lules, meduses, nagues, porcs voladors..."
+  ],
+  "quest.456CFD1714FC7557.title": "&3Mobs de The Sift",
+  "quest.456CFD1714FC7557.quest_subtitle": "&7La dimensió de The Sift té les seves pròpies criatures (Sifter, Echo…",
+  "quest.456CFD1714FC7557.quest_desc": [
+    "&7La dimensió de The Sift té les seves pròpies criatures (Sifter, Echo Golem, Singer...)."
+  ],
+  "quest.47D6CF2F6014C7EF.title": "&fSit, PatPat i més",
+  "quest.47D6CF2F6014C7EF.quest_subtitle": "&7Petits extres: acariciar els mobs (PatPat) i animacions noves…",
+  "quest.47D6CF2F6014C7EF.quest_desc": [
+    "&7Petits extres: acariciar els mobs (PatPat) i animacions noves per a les criatures."
+  ],
+  "quest.48C46EB22B06804A.title": "&6Mobs i criatures",
+  "quest.48C46EB22B06804A.quest_subtitle": "&7Animals i monstres nous: Alex's Mobs, dracs, variants de…",
+  "quest.48C46EB22B06804A.quest_desc": [
+    "&7Animals i monstres nous: Alex's Mobs, dracs, variants de zombis..."
+  ],
+  "chapter.47499DF7C7D5B3A5.title": "&7› &6Alex's Mobs",
+  "task.4A2B472E0B5D156F.title": "Demanar el diccionari",
+  "quest.457414AEDC2A22D1.title": "&6&lDiccionari animal",
+  "quest.457414AEDC2A22D1.quest_subtitle": "Demana'l quan vulguis (si el perds, un altre cop).",
+  "quest.457414AEDC2A22D1.quest_desc": [
+    "El llibre amb totes les criatures d'&dAlex's Mobs&7: on viuen, què deixen anar i com domesticar-les.",
+    "",
+    "Prem el &a✔&7 i recull la recompensa. Pots repetir-ho cada 10 minuts."
+  ],
+  "quest.4889000668C4FCED.title": "&6Enciclopèdia d'animals",
+  "quest.4889000668C4FCED.quest_subtitle": "&7Llibre amb informació de tots els mobs del mod.",
+  "quest.4889000668C4FCED.quest_desc": [
+    "&7Llibre amb informació de tots els mobs del mod."
+  ],
+  "quest.4C9696C35FED1440.title": "&6Ós grizzly",
+  "quest.4C9696C35FED1440.quest_subtitle": "&7Es pot domesticar amb salmó i mel.",
+  "quest.4C9696C35FED1440.quest_desc": [
+    "&7Es pot domesticar amb salmó i mel."
+  ],
+  "quest.439E584E911EA34E.title": "&2Cocodril",
+  "quest.439E584E911EA34E.quest_subtitle": "&7Perillós a rius i pantans. Deixa anar escates per a la seva cuirassa.",
+  "quest.439E584E911EA34E.quest_desc": [
+    "&7Perillós a rius i pantans. Deixa anar escates per a la seva cuirassa."
+  ],
+  "quest.402F6A706A6BDB55.title": "&7Elefant",
+  "quest.402F6A706A6BDB55.quest_subtitle": "&7Es pot muntar i portar cofres.",
+  "quest.402F6A706A6BDB55.quest_desc": [
+    "&7Es pot muntar i portar cofres."
+  ],
+  "quest.4805705D52F12AF0.title": "&2Drac de Komodo",
+  "quest.4805705D52F12AF0.quest_subtitle": "&7Mossega amb verí.",
+  "quest.4805705D52F12AF0.quest_desc": [
+    "&7Mossega amb verí."
+  ],
+  "quest.413ACF493B9B16B4.title": "&fÀguila",
+  "quest.413ACF493B9B16B4.quest_subtitle": "&7Es pot fer servir en falconeria amb el guant.",
+  "quest.413ACF493B9B16B4.quest_desc": [
+    "&7Es pot fer servir en falconeria amb el guant."
+  ],
+  "quest.4DA751386404D35A.title": "&fSerp òssia",
+  "quest.4DA751386404D35A.quest_subtitle": "&7Neda als llacs de lava del Nether.",
+  "quest.4DA751386404D35A.quest_desc": [
+    "&7Neda als llacs de lava del Nether."
+  ],
+  "quest.4EFA0BD8A50FCC7E.title": "&bGripau distorsionat",
+  "quest.4EFA0BD8A50FCC7E.quest_subtitle": "&7Del Nether.",
+  "quest.4EFA0BD8A50FCC7E.quest_desc": [
+    "&7Del Nether."
+  ],
+  "quest.4D27F55B20D8C4C2.title": "&5Cuc del buit",
+  "quest.4D27F55B20D8C4C2.quest_subtitle": "&7Cap de l'End. Molt perillós.",
+  "quest.4D27F55B20D8C4C2.quest_desc": [
+    "&cCap de l'End. Molt perillós."
+  ],
+  "quest.40F457D627947B80.title": "&4Farseer",
+  "quest.40F457D627947B80.quest_subtitle": "&7Criatura hostil molt rara i perillosa.",
+  "quest.40F457D627947B80.quest_desc": [
+    "&cCriatura hostil molt rara i perillosa."
+  ],
+  "quest.48B5AD4AA062D624.title": "&3Catxalot",
+  "quest.48B5AD4AA062D624.quest_subtitle": "&7Gegant de l'oceà. Deixa anar ambre gris.",
+  "quest.48B5AD4AA062D624.quest_desc": [
+    "&7Gegant de l'oceà. Deixa anar ambre gris."
+  ],
+  "quest.493ADDA79CB9D2E1.title": "&dPop mim",
+  "quest.493ADDA79CB9D2E1.quest_subtitle": "&7Imita altres mobs.",
+  "quest.493ADDA79CB9D2E1.quest_desc": [
+    "&7Imita altres mobs."
+  ],
+  "quest.426F46FF0CB655BB.title": "&aPetrina de cocodril",
+  "quest.426F46FF0CB655BB.quest_subtitle": "&7Armadura especial que t'ajuda sota l'aigua.",
+  "quest.426F46FF0CB655BB.quest_desc": [
+    "&7Armadura especial que t'ajuda sota l'aigua."
+  ],
+  "quest.4F001F4479C5F322.title": "&eBotes de correcamins",
+  "quest.4F001F4479C5F322.quest_subtitle": "&7Corres més ràpid sobre la sorra.",
+  "quest.4F001F4479C5F322.quest_desc": [
+    "&7Corres més ràpid sobre la sorra."
+  ],
+  "quest.4D8534FA6EA0DC34.title": "&bCasc de gel",
+  "quest.4D8534FA6EA0DC34.quest_subtitle": "&7Per a climes freds.",
+  "quest.4D8534FA6EA0DC34.quest_desc": [
+    "&7Per a climes freds."
+  ],
+  "quest.4BA3C1B656BC7BA9.title": "&6Tocat de banyes",
+  "quest.4BA3C1B656BC7BA9.quest_subtitle": "&7Augmenta l'empenta en colpejar.",
+  "quest.4BA3C1B656BC7BA9.quest_desc": [
+    "&7Augmenta l'empenta en colpejar."
+  ],
+  "quest.4C09A5D1DDD19C14.title": "&4Exoesquelet de centpeus",
+  "quest.4C09A5D1DDD19C14.quest_subtitle": "&7T'ajuda a enfilar-te.",
+  "quest.4C09A5D1DDD19C14.quest_desc": [
+    "&7T'ajuda a enfilar-te."
+  ],
+  "quest.426E18FDDD616C76.title": "&bBotes de peix volador",
+  "quest.426E18FDDD616C76.quest_subtitle": "&7Salts més llargs a l'aigua.",
+  "quest.426E18FDDD616C76.quest_desc": [
+    "&7Salts més llargs a l'aigua."
+  ],
+  "quest.493E6FF87C2F7D0A.title": "&6Èlitres de vespa",
+  "quest.493E6FF87C2F7D0A.quest_subtitle": "&7Èlitres alternatius.",
+  "quest.493E6FF87C2F7D0A.quest_desc": [
+    "&7Èlitres alternatius."
+  ],
+  "quest.45CC4FC437875B8E.title": "&fGuant de falconeria",
+  "quest.45CC4FC437875B8E.quest_subtitle": "&7Per portar el teu ocell al braç.",
+  "quest.45CC4FC437875B8E.quest_desc": [
+    "&7Per portar el teu ocell al braç."
+  ],
+  "quest.4FCA6F35517DD9A1.title": "&5Tallador de dimensions",
+  "quest.4FCA6F35517DD9A1.quest_subtitle": "&7Obre portals temporals.",
+  "quest.4FCA6F35517DD9A1.quest_desc": [
+    "&7Obre portals temporals."
+  ],
+  "quest.490157946178000D.title": "&bEcolocalitzador",
+  "quest.490157946178000D.quest_subtitle": "&7Localitza estructures ocultes.",
+  "quest.490157946178000D.quest_desc": [
+    "&7Localitza estructures ocultes."
+  ],
+  "quest.4F7CCD409BB42D13.title": "&fPic fantasmal",
+  "quest.4F7CCD409BB42D13.quest_subtitle": "&7Pic especial obtingut d'un mob.",
+  "quest.4F7CCD409BB42D13.quest_desc": [
+    "&7Pic especial obtingut d'un mob."
+  ],
+  "quest.414EDCEAC702B0EA.title": "&7Cuirassa blindada",
+  "quest.414EDCEAC702B0EA.quest_subtitle": "&7Et permet rodolar com un armadillo.",
+  "quest.414EDCEAC702B0EA.quest_desc": [
+    "&7Et permet rodolar com un armadillo."
+  ],
+  "quest.4B83910CDCB2CF34.title": "&6&lEl més útil",
+  "quest.4B83910CDCB2CF34.quest_subtitle": "&7Els objectes i criatures més importants del mod.",
+  "quest.4B83910CDCB2CF34.quest_desc": [
+    "Els objectes i criatures més importants del mod."
+  ],
+  "chapter.496A2C7739A0CE84.title": "&7› &6Friends ＆ Foes",
+  "quest.4F8DEF8330AF1176.title": "&6Wildfire",
+  "quest.4F8DEF8330AF1176.quest_subtitle": "&7Cap del Nether, viu a la Ciutadella.",
+  "quest.4F8DEF8330AF1176.quest_desc": [
+    "&cCap del Nether, viu a la Ciutadella.",
+    "&7Deixa anar fragments de la seva corona."
+  ],
+  "quest.470213A24B92135B.title": "&6Corona infernal",
+  "quest.470213A24B92135B.quest_subtitle": "&7Casc del Wildfire. Et protegeix del foc.",
+  "quest.470213A24B92135B.quest_desc": [
+    "&7Casc del Wildfire. Et protegeix del foc."
+  ],
+  "quest.4D0304F6BD49C6AE.title": "&bIceologer",
+  "quest.4D0304F6BD49C6AE.quest_subtitle": "&7Illager de gel, viu en cabanes a la neu.",
+  "quest.4D0304F6BD49C6AE.quest_desc": [
+    "&7Illager de gel, viu en cabanes a la neu."
+  ],
+  "quest.4CF9CFB50BB92ECC.title": "&9Illusioner",
+  "quest.4CF9CFB50BB92ECC.quest_subtitle": "&7Crea còpies de si mateix.",
+  "quest.4CF9CFB50BB92ECC.quest_desc": [
+    "&7Crea còpies de si mateix."
+  ],
+  "quest.49BE7A91139225C5.title": "&7Gòlem de toba",
+  "quest.49BE7A91139225C5.quest_subtitle": "&7Subjecta i mostra objectes com una estàtua.",
+  "quest.49BE7A91139225C5.quest_desc": [
+    "&7Subjecta i mostra objectes com una estàtua."
+  ],
+  "quest.4620FD6305399B4F.title": "&eMoobloom",
+  "quest.4620FD6305399B4F.quest_subtitle": "&7Vaca de flors.",
+  "quest.4620FD6305399B4F.quest_desc": [
+    "&7Vaca de flors."
+  ],
+  "quest.47EE58CB6759B881.title": "&cCranc",
+  "quest.47EE58CB6759B881.quest_subtitle": "&7La seva pinça et dona més abast.",
+  "quest.47EE58CB6759B881.quest_desc": [
+    "&7La seva pinça et dona més abast."
+  ],
+  "quest.46233CAD2A6B0348.title": "&aGlare",
+  "quest.46233CAD2A6B0348.quest_subtitle": "&7T'avisa de les zones fosques on surten monstres.",
+  "quest.46233CAD2A6B0348.quest_desc": [
+    "&7T'avisa de les zones fosques on surten monstres."
+  ],
+  "quest.48CD0087B5A2EFF3.title": "&7Rascal",
+  "quest.48CD0087B5A2EFF3.quest_subtitle": "&7S'amaga a les mines.",
+  "quest.48CD0087B5A2EFF3.quest_desc": [
+    "&7S'amaga a les mines.",
+    "&7Troba'l!"
+  ],
+  "quest.447047A912FF6A2B.title": "&6Mauler",
+  "quest.447047A912FF6A2B.quest_subtitle": "&7Depredador dels deserts.",
+  "quest.447047A912FF6A2B.quest_desc": [
+    "&7Depredador dels deserts."
+  ],
+  "quest.43C2713FDF7DC123.title": "&bTòtem de congelació",
+  "quest.43C2713FDF7DC123.quest_subtitle": "&7Tòtem especial de l'Iceologer.",
+  "quest.43C2713FDF7DC123.quest_desc": [
+    "&7Tòtem especial de l'Iceologer."
+  ],
+  "quest.465F4B5003D246A0.title": "&dTòtem d'il·lusió",
+  "quest.465F4B5003D246A0.quest_subtitle": "&7Tòtem especial de l'Il·lusionista.",
+  "quest.465F4B5003D246A0.quest_desc": [
+    "&7Tòtem especial de l'Il·lusionista."
+  ],
+  "quest.4A7C7F66FB445420.title": "&cPinça de cranc",
+  "quest.4A7C7F66FB445420.quest_subtitle": "&7Augmenta el teu abast per col·locar blocs.",
+  "quest.4A7C7F66FB445420.quest_desc": [
+    "&7Augmenta el teu abast per col·locar blocs."
+  ],
+  "quest.4C3125044E8D36B5.title": "&6Friends ＆ Foes",
+  "quest.4C3125044E8D36B5.quest_subtitle": "&7Els mobs de les votacions de Mojang: gòlems de coure i de tuf,…",
+  "quest.4C3125044E8D36B5.quest_desc": [
+    "&7Els mobs de les votacions de Mojang: gòlems de coure i de tuf, moobloom, cranc, glare, iceologer... i el Wildfire."
+  ],
+  "chapter.4D9A475CF55E2077.title": "&7› &6Useless Reptile",
+  "quest.4EB01E40F3569BDA.title": "&2Wyvern de pantà",
+  "quest.4EB01E40F3569BDA.quest_subtitle": "&7On: aiguamolls.",
+  "quest.4EB01E40F3569BDA.quest_desc": [
+    "&bOn: pantans.",
+    "&eDomesticar-lo:",
+    "&r&7Dona-li 1-2 piles de &r&dpollastre&r&7 (cru o cuinat) o 4 piles de qualsevol altra carn (val la carn podrida).",
+    "&eObjectes:",
+    "&r&dSella&r&7 o &r&dSella&r&7 &r&ddoble&r&7 (per anar-hi dos). Amb un &r&dflascó&r&7 &r&dbuit&r&7 n'extreus àcid, que es fa servir com una poció.",
+    "&r&dNO&r&7 pot portar armadura.",
+    "&eHabilitats (G i R):",
+    "&r&7Escup boles d'&r&dàcid&r&7 (punteria regular) i mossega."
+  ],
+  "quest.4028E6C369FD4CB0.title": "&eLightning Chaser",
+  "quest.4028E6C369FD4CB0.quest_subtitle": "&7On: apareix a les tempestes a prop dels jugadors.",
+  "quest.4028E6C369FD4CB0.quest_desc": [
+    "&bOn: apareix durant les tempestes a prop dels jugadors.",
+    "&eDomesticar-lo:",
+    "&7Cal vèncer-lo: baixa-li la vida i colpeja'l amb &r&d3&r&7 &r&dllamps&r&7 (trident amb &r&dCanalització&r&7).",
+    "&eObjectes:",
+    "&r&dSella&r&7, &r&darmadura&r&7 &r&dde&r&7 &r&ddrac (casc, pitet i cua de ferro, or, diamant o netherita) i estendards.",
+    "&eHabilitats (G i R):",
+    "&r&dAlè&r&7 &r&dde&r&7 &r&dllamp&r&7: trenca blocs i fa el mateix que un llamp (creepers carregats, bruixes...).",
+    "&r&dOna&r&7 &r&dexpansiva&r&7 (només volant):",
+    "&7desvia fletxes i empeny els mobs.",
+    "&7A terra, mossega.",
+    "&r&7Tots dos atacs donen &r&dShock&r&7: l'enemic va més lent, pega menys i hi veu pitjor."
+  ],
+  "quest.4262A3CF669E9159.title": "&6Moleclaw",
+  "quest.4262A3CF669E9159.quest_subtitle": "&7On: coves.",
+  "quest.4262A3CF669E9159.quest_desc": [
+    "&bOn: coves.",
+    "&eDomesticar-lo:",
+    "&7Dona-li de mitjana una pila de remolatxa&r&7.",
+    "&eObjectes:",
+    "&r&dSella&r&7, &r&darmadura&r&7 &r&dde&r&7 &r&ddrac i el seu &r&dcasc&r&7 &r&dde&r&7 &r&dMoleclaw&r&7: sense el casc li fa por la llum.",
+    "&eHabilitats (G i R):",
+    "&r&dExcava&r&7 el que trenca un pic de fusta. Amb poció de &r&dForça&r&7 trenca blocs més durs; amb &r&dDebilitat no trenca res.",
+    "&7Atacs cos a cos que toquen tot el que hi ha al davant."
+  ],
+  "quest.4AA866B9AC7C316F.title": "&bRiver Pikehorn",
+  "quest.4AA866B9AC7C316F.quest_subtitle": "&7On: rius i platges que no estiguin glaçats.",
+  "quest.4AA866B9AC7C316F.quest_desc": [
+    "&bOn: rius i platges que no estiguin glaçats.",
+    "&eDomesticar-lo:",
+    "&r&7Una &r&dgalleda&r&7 &r&damb&r&7 &r&dpeix&r&7 &r&dtropical&r&7 o 4-8 peixos tropicals.",
+    "&eObjectes:",
+    "&r&7Amb la &r&dFlauta&r&7 li manes pescar per tu o atacar un mob.",
+    "&r&dNO&r&7 es munta: es porta al cap (ajupeix-te i fes clic en un bloc per posar-te'l o treure-te'l).",
+    "&eHabilitats:",
+    "&7Només ataca cos a cos."
+  ],
+  "quest.466A8F910111B077.title": "&cMagmamuncher",
+  "quest.466A8F910111B077.quest_subtitle": "&7On: Nether, a prop dels llacs de lava.",
+  "quest.466A8F910111B077.quest_desc": [
+    "&bOn: Nether, a prop dels llacs de lava.",
+    "&eDomesticar-lo:",
+    "&r&7Dona-li entre 4 i 12 &r&dvares&r&7 &r&dde blaze&r&7.",
+    "&eObjectes:",
+    "&r&dNO&r&7 es munta: es porta al cap com el Pikehorn.",
+    "&r&7Si porta &r&dcombustible&r&7 a l'inventari (carbó...), et dona Resistència&r&7 &r&dal&r&7 &r&dfoc&r&7 quan t'encens.",
+    "&eHabilitats:",
+    "&7Excava blocs de magma (de vegades treu carbó). Les seves mossegades cremen i és immune al foc."
+  ],
+  "quest.4F3998BAF5DA2293.title": "&eOrdres i cures",
+  "quest.4F3998BAF5DA2293.quest_subtitle": "&7Serveix per a tots els dracs domesticats:",
+  "quest.4F3998BAF5DA2293.quest_desc": [
+    "&7Serveix per a tots els dracs domesticats:",
+    "",
+    "&r&dAjupeix-te&r&7 &r&d+&r&7 &r&dclic&r&7 &r&ddret&r&7:",
+    "&7obrir el seu inventari i donar-li ordres (seguir, quedar-se, seure).",
+    "&r&dPal&r&7 o banya ajupit: asseure'l o aixecar-lo.",
+    "&7Pocions ajupit: dona-les al drac.",
+    "&7Si li poses menjar a l'inventari, menja sol."
+  ],
+  "quest.42CD36F88043CB23.title": "&bArmadura de drac",
+  "quest.42CD36F88043CB23.quest_subtitle": "&7Casc, pitet i cua de ferro, or, diamant o netherita (la de…",
+  "quest.42CD36F88043CB23.quest_desc": [
+    "&7Casc, pitet i cua de ferro, or, diamant o netherita (la de netherita, a la taula de ferreria).",
+    "",
+    "&r&7Només per al &r&dLightning&r&7 &r&dChaser&r&7 i el &r&dMoleclaw&r&7."
+  ],
+  "quest.47518FCD7A890C0F.title": "&7Casc de Moleclaw",
+  "quest.47518FCD7A890C0F.quest_subtitle": "&7Fa que el Moleclaw no tingui por de la llum.",
+  "quest.47518FCD7A890C0F.quest_desc": [
+    "&7Fa que el Moleclaw no tingui por de la llum."
+  ],
+  "quest.4E656E9748B1534E.title": "&6Muntura doble",
+  "quest.4E656E9748B1534E.quest_subtitle": "&7Només per al Wyvern: per muntar-hi dos jugadors alhora.",
+  "quest.4E656E9748B1534E.quest_desc": [
+    "&7Només per al Wyvern: per muntar-hi dos jugadors alhora."
+  ],
+  "quest.41A856F95FB3CC76.title": "&eFlauta",
+  "quest.41A856F95FB3CC76.quest_subtitle": "&7Dona ordres a distància: cridar, seure, aixecar-se, atacar o pescar.",
+  "quest.41A856F95FB3CC76.quest_desc": [
+    "&7Dona ordres a distància: cridar, seure, aixecar-se, atacar o pescar.",
+    "",
+    "&r&dAjupit&r&7 &r&d+&r&7 &r&dclic&r&7 &r&ddret&r&7 &r&da l'aire&r&7: canviar d'ordre.",
+    "&r&dClic&r&7 &r&ddret&r&7 &r&den&r&7 &r&dun&r&7 &r&ddrac&r&7:",
+    "&7triar quin tipus de drac comandes."
+  ],
+  "quest.479914831587CC98.title": "&dBanya del vòrtex",
+  "quest.479914831587CC98.quest_subtitle": "&7Banya de cabra millorada que GUARDA els teus dracs a dins per…",
+  "quest.479914831587CC98.quest_desc": [
+    "&7Banya de cabra millorada que GUARDA&r&7 els teus dracs a dins per portar-los amb tu.",
+    "",
+    "&7Hi ha versions de ferro, or, diamant i netherita: com millor, més dracs hi caben."
+  ],
+  "quest.473E7C48EF200BEC.title": "&6Cridar el teu drac",
+  "quest.473E7C48EF200BEC.quest_subtitle": "&7Fes clic dret amb una banya de cabra sobre el teu drac per…",
+  "quest.473E7C48EF200BEC.quest_desc": [
+    "&r&7Fes clic dret amb una &r&dbanya de&r&7 &r&dcabra&r&7 sobre el teu drac per vincular-lo.",
+    "",
+    "&7En tocar aquest corn, el drac vindrà encara que estigui assegut."
+  ],
+  "quest.455D7936C805FA99.title": "&2Pell de wyvern",
+  "quest.455D7936C805FA99.quest_subtitle": "&7Només serveix per treure'n 2 de cuir.",
+  "quest.455D7936C805FA99.quest_desc": [
+    "&7Només serveix per treure'n 2 de cuir."
+  ],
+  "quest.42C5627372EC7267.title": "&6Controls en muntar",
+  "quest.42C5627372EC7267.quest_subtitle": "&7W/S moure · Ctrl baixar",
+  "quest.42C5627372EC7267.quest_desc": [
+    "&r&dW/S&r&7 moure · &r&dCtrl&r&7 baixar",
+    "&r&dG&r&7 i &r&dR&r&7 habilitats · &r&dZ&r&7 mirada lliure",
+    "",
+    "&7Els dracs no es mouen de costat.",
+    "&7Les tecles es canvien a Opcions > Controls."
+  ],
+  "chapter.4C40184AC9BD5AFD.title": "&7› &6Illager Invasion",
+  "quest.41028C857DB629EC.title": "&5Invocador",
+  "quest.41028C857DB629EC.quest_subtitle": "&7Cap illager molt perillós: invoca ullals i es torna invisible.",
+  "quest.41028C857DB629EC.quest_desc": [
+    "&7Cap illager molt perillós: invoca ullals i es torna invisible."
+  ],
+  "quest.4B9A62D5A424CD73.title": "&8Nigromant",
+  "quest.4B9A62D5A424CD73.quest_subtitle": "&7Aixeca els morts perquè lluitin per ell.",
+  "quest.4B9A62D5A424CD73.quest_desc": [
+    "&7Aixeca els morts perquè lluitin per ell."
+  ],
+  "quest.4AD7CD1AF6E242A4.title": "&cInquisidor",
+  "quest.4AD7CD1AF6E242A4.quest_subtitle": "&7Guerrer amb escut, colpeja molt fort.",
+  "quest.4AD7CD1AF6E242A4.quest_desc": [
+    "&7Guerrer amb escut, colpeja molt fort."
+  ],
+  "quest.4EECD8224E8DA7C9.title": "&dBruixot",
+  "quest.4EECD8224E8DA7C9.quest_subtitle": "&7Llança encanteris a distància.",
+  "quest.4EECD8224E8DA7C9.quest_desc": [
+    "&7Llança encanteris a distància."
+  ],
+  "quest.4500974E3DD60613.title": "&6Firecaller",
+  "quest.4500974E3DD60613.quest_subtitle": "&7Llança foc màgic.",
+  "quest.4500974E3DD60613.quest_desc": [
+    "&7Llança foc màgic."
+  ],
+  "quest.47EE1607AB7A6696.title": "&7Basher",
+  "quest.47EE1607AB7A6696.quest_subtitle": "&7Et trenca l'escut a cops.",
+  "quest.47EE1607AB7A6696.quest_desc": [
+    "&7Et trenca l'escut a cops."
+  ],
+  "quest.48EE5B9A4060C079.title": "&7Marauder",
+  "quest.48EE5B9A4060C079.quest_subtitle": "&7Llança destrals.",
+  "quest.48EE5B9A4060C079.quest_desc": [
+    "&7Llança destrals."
+  ],
+  "quest.4F8C9625B2F73EB0.title": "&7Provoker",
+  "quest.4F8C9625B2F73EB0.quest_subtitle": "&7Dona suport als altres illagers.",
+  "quest.4F8C9625B2F73EB0.quest_desc": [
+    "&7Dona suport als altres illagers."
+  ],
+  "quest.43374A57379E02D8.title": "&aAlquimista",
+  "quest.43374A57379E02D8.quest_subtitle": "&7Llança pocions.",
+  "quest.43374A57379E02D8.quest_desc": [
+    "&7Llança pocions."
+  ],
+  "quest.424E26C1BCB25695.title": "&bArxiver",
+  "quest.424E26C1BCB25695.quest_subtitle": "&7Fa levitar els seus enemics.",
+  "quest.424E26C1BCB25695.quest_desc": [
+    "&7Fa levitar els seus enemics."
+  ],
+  "quest.4947BF823E58E56D.title": "&fSurrendered",
+  "quest.4947BF823E58E56D.quest_subtitle": "&7Esperit que acompanya l'Invocador.",
+  "quest.4947BF823E58E56D.quest_desc": [
+    "&7Esperit que acompanya l'Invocador."
+  ],
+  "quest.46359B09BB84C66F.title": "&fDestral de platí",
+  "quest.46359B09BB84C66F.quest_subtitle": "&7Arma llancívola obtinguda dels illagers.",
+  "quest.46359B09BB84C66F.quest_desc": [
+    "&7Arma llancívola obtinguda dels illagers."
+  ],
+  "quest.459193C5458DA105.title": "&dTaula d'imbuir",
+  "quest.459193C5458DA105.quest_subtitle": "&7Permet pujar encantaments per sobre del màxim normal.",
+  "quest.459193C5458DA105.quest_desc": [
+    "&7Permet pujar encantaments per sobre del màxim normal."
+  ],
+  "quest.47EA464092934E28.title": "&eBanya de la visió",
+  "quest.47EA464092934E28.quest_subtitle": "&7Revela els enemics propers.",
+  "quest.47EA464092934E28.quest_desc": [
+    "&7Revela els enemics propers."
+  ],
+  "quest.4860C026AA83B6E6.title": "&bGemma sagrada",
+  "quest.4860C026AA83B6E6.quest_subtitle": "&7Material rar dels illagers.",
+  "quest.4860C026AA83B6E6.quest_desc": [
+    "&7Material rar dels illagers."
+  ],
+  "quest.469D25CF7BDE4409.title": "&fPlatí",
+  "quest.469D25CF7BDE4409.quest_subtitle": "&7Material per a l'equip de platí.",
+  "quest.469D25CF7BDE4409.quest_desc": [
+    "&7Material per a l'equip de platí."
+  ],
+  "quest.4211EC5D1F2E8708.title": "&cIllager Invasion",
+  "quest.4211EC5D1F2E8708.quest_subtitle": "&7Molts illagers nous i perillosos.",
+  "quest.4211EC5D1F2E8708.quest_desc": [
+    "&7Molts illagers nous i perillosos."
+  ],
+  "chapter.459A2F7493AAA428.title": "&6Llar i creativitat",
+  "quest.46D6099044CD1A79.title": "&6MrCrayfish's Furniture: Refurbished",
+  "quest.46D6099044CD1A79.quest_subtitle": "&7Centenars de mobles: cuines, sofàs, làmpades, televisors,…",
+  "quest.46D6099044CD1A79.quest_desc": [
+    "&7Centenars de mobles: cuines, sofàs, làmpades, televisors, ordinadors, banys... molts funcionen!"
+  ],
+  "quest.4D41E9AE12A4C2A4.title": "&fAscensors",
+  "quest.4D41E9AE12A4C2A4.quest_subtitle": "&7Posa dos ascensors en vertical:",
+  "quest.4D41E9AE12A4C2A4.quest_desc": [
+    "&7Posa dos ascensors en vertical:",
+    "&7salta per pujar i ajup-te per baixar. Es poden tenyir."
+  ],
+  "quest.477D5FE6989C7247.title": "&eImmersive Melodies",
+  "quest.477D5FE6989C7247.quest_subtitle": "&7Instruments de debò (llaüt, piano, flauta, gaita...) per tocar…",
+  "quest.477D5FE6989C7247.quest_desc": [
+    "&7Instruments de debò (llaüt, piano, flauta, gaita...) per tocar cançons amb els amics."
+  ],
+  "quest.4926CA15C759C962.title": "&fArmor Statues",
+  "quest.4926CA15C759C962.quest_subtitle": "&7Col·loca els suports d'armadura en qualsevol posa, amb braços, i sense…",
+  "quest.4926CA15C759C962.quest_desc": [
+    "&7Col·loca els suports d'armadura en qualsevol posa, amb braços, i sense necessitat d'ordres."
+  ],
+  "quest.49C77FD642A988B5.title": "&bLitematica",
+  "quest.49C77FD642A988B5.quest_subtitle": "&7Carrega esquemes de construccions com a holograma per copiar-les bloc…",
+  "quest.49C77FD642A988B5.quest_desc": [
+    "&7Carrega esquemes de construccions com a holograma per copiar-les bloc a bloc."
+  ],
+  "quest.407803B4E879BD19.title": "&dFlashback (càmera)",
+  "quest.407803B4E879BD19.quest_subtitle": "&7Grava les teves partides i després mou-te lliurement per la gravació per…",
+  "quest.407803B4E879BD19.quest_desc": [
+    "&7Grava les teves partides i després mou-te lliurement per la gravació per fer vídeos i preses de cinema."
+  ],
+  "quest.49C57A08F8D650E4.title": "&dJi AFK Cinematic",
+  "quest.49C57A08F8D650E4.quest_subtitle": "&7Si et quedes AFK, la càmera fa preses cinematogràfiques automàtiques…",
+  "quest.49C57A08F8D650E4.quest_desc": [
+    "&r&7Si et quedes &r&dAFK&r&7, la càmera fa preses cinematogràfiques automàtiques al teu voltant."
+  ],
+  "quest.491474BF6CD8BDE1.title": "&6Emotecraft",
+  "quest.491474BF6CD8BDE1.quest_subtitle": "&7Balls i gestos per al teu personatge.",
+  "quest.491474BF6CD8BDE1.quest_desc": [
+    "&7Balls i gestos per al teu personatge.",
+    "&7També pots crear els teus."
+  ],
+  "quest.4DB6E2EF2AA33222.title": "&5Elytra Trims",
+  "quest.4DB6E2EF2AA33222.quest_subtitle": "&7Personalitza els teus èlitres amb adorns, estendards i colors.",
+  "quest.4DB6E2EF2AA33222.quest_desc": [
+    "&7Personalitza els teus èlitres amb adorns, estendards i colors."
+  ],
+  "quest.4449A0EAAC146764.title": "&fScholar i Scribble",
+  "quest.4449A0EAAC146764.quest_subtitle": "&7Llibres millors: format de text, vista a doble pàgina i edició al…",
+  "quest.4449A0EAAC146764.quest_desc": [
+    "&7Llibres millors: format de text, vista a doble pàgina i edició al faristol."
+  ],
+  "quest.447E5B7D62D2ABAD.title": "&5Blocs de BetterEnd i BetterNether",
+  "quest.447E5B7D62D2ABAD.quest_subtitle": "&7Fustes, pedres, plantes i llums noves de l'End i del Nether per…",
+  "quest.447E5B7D62D2ABAD.quest_desc": [
+    "&7Fustes, pedres, plantes i llums noves de l'End i del Nether per construir."
+  ],
+  "quest.4D8F557D1903FFCA.title": "&bConstrucció i creativitat",
+  "quest.4D8F557D1903FFCA.quest_subtitle": "&7Mobles, ascensors, instruments, esquemes, gravació de vídeo i…",
+  "quest.4D8F557D1903FFCA.quest_desc": [
+    "&7Mobles, ascensors, instruments, esquemes, gravació de vídeo i decoració."
+  ],
+  "chapter.416F96FD638651E8.title": "&7› &6Mobles",
+  "quest.426ACD72D3C7A19F.title": "&6Taules i cadires",
+  "quest.426ACD72D3C7A19F.quest_subtitle": "&7En totes les fustes.",
+  "quest.426ACD72D3C7A19F.quest_desc": [
+    "&7En totes les fustes."
+  ],
+  "quest.455904268DD1280C.title": "&fCuina",
+  "quest.455904268DD1280C.quest_subtitle": "&7Piques, armaris, calaixos...",
+  "quest.455904268DD1280C.quest_desc": [
+    "&7Piques, armaris, calaixos..."
+  ],
+  "quest.474993FEAFC038A2.title": "&fFogó",
+  "quest.474993FEAFC038A2.quest_subtitle": "&7Cuina menjar de veritat.",
+  "quest.474993FEAFC038A2.quest_desc": [
+    "&7Cuina menjar de veritat."
+  ],
+  "quest.48BF397F8CD131CA.title": "&fNevera",
+  "quest.48BF397F8CD131CA.quest_subtitle": "&7Guarda menjar.",
+  "quest.48BF397F8CD131CA.quest_desc": [
+    "&7Guarda menjar."
+  ],
+  "quest.42000780FC3DFEE9.title": "&fMicroones",
+  "quest.42000780FC3DFEE9.quest_subtitle": "&7Cuina ràpid.",
+  "quest.42000780FC3DFEE9.quest_desc": [
+    "&7Cuina ràpid."
+  ],
+  "quest.4B444DAEE79B91E0.title": "&fTorradora",
+  "quest.4B444DAEE79B91E0.quest_subtitle": "&7Torrades!",
+  "quest.4B444DAEE79B91E0.quest_desc": [
+    "&7Torrades!"
+  ],
+  "quest.4082E7315C2CC166.title": "&7Paella",
+  "quest.4082E7315C2CC166.quest_subtitle": "&7Per cuinar al fogó.",
+  "quest.4082E7315C2CC166.quest_desc": [
+    "&7Per cuinar al fogó."
+  ],
+  "quest.42DCC3E51802920A.title": "&7Televisió",
+  "quest.42DCC3E51802920A.quest_subtitle": "&7Amb comandament a distància.",
+  "quest.42DCC3E51802920A.quest_desc": [
+    "&7Amb comandament a distància."
+  ],
+  "quest.4EEB07755A88D970.title": "&7Ordinador",
+  "quest.4EEB07755A88D970.quest_subtitle": "&7Té programes a dins.",
+  "quest.4EEB07755A88D970.quest_desc": [
+    "&7Té programes a dins."
+  ],
+  "quest.4594F5F11338EDDE.title": "&eTimbre",
+  "quest.4594F5F11338EDDE.quest_subtitle": "&7Per a casa teva.",
+  "quest.4594F5F11338EDDE.quest_desc": [
+    "&7Per a casa teva."
+  ],
+  "quest.4973456CEE6EB3C4.title": "&eGenerador elèctric",
+  "quest.4973456CEE6EB3C4.quest_subtitle": "&7Alguns mobles necessiten electricitat.",
+  "quest.4973456CEE6EB3C4.quest_desc": [
+    "&7Alguns mobles necessiten electricitat."
+  ],
+  "quest.429F196896B54592.title": "&6MrCrayfish's Furniture: Refurbished",
+  "quest.429F196896B54592.quest_subtitle": "&7Centenars de mobles: cuines, sofàs, làmpades, televisors,…",
+  "quest.429F196896B54592.quest_desc": [
+    "&7Centenars de mobles: cuines, sofàs, làmpades, televisors, ordinadors, banys... molts funcionen!"
+  ],
+  "chapter.490234D27BDD56D5.title": "&7› &6Motxilles",
+  "quest.45C6CBF00CB4A208.title": "&6Motxilla normal",
+  "quest.45C6CBF00CB4A208.quest_subtitle": "&7La primera que pots fabricar.",
+  "quest.45C6CBF00CB4A208.quest_desc": [
+    "&7La primera que pots fabricar."
+  ],
+  "quest.4415D16FB8F49532.title": "&7Motxilla de ferro",
+  "quest.4415D16FB8F49532.quest_subtitle": "&7Més espai.",
+  "quest.4415D16FB8F49532.quest_desc": [
+    "&7Més espai."
+  ],
+  "quest.40CC5A7F4C786B7A.title": "&6Motxilla d'or",
+  "quest.40CC5A7F4C786B7A.quest_subtitle": "&7Encara més espai.",
+  "quest.40CC5A7F4C786B7A.quest_desc": [
+    "&7Encara més espai."
+  ],
+  "quest.4AFB8A1B4B0BF01A.title": "&bMotxilla de diamant",
+  "quest.4AFB8A1B4B0BF01A.quest_subtitle": "&7Molt d'espai.",
+  "quest.4AFB8A1B4B0BF01A.quest_desc": [
+    "&7Molt d'espai."
+  ],
+  "quest.479C81BA4190F8DD.title": "&8Motxilla de netherita",
+  "quest.479C81BA4190F8DD.quest_subtitle": "&7La més gran.",
+  "quest.479C81BA4190F8DD.quest_desc": [
+    "&7La més gran."
+  ],
+  "quest.42999DECD53AD445.title": "&fMillores de nivell",
+  "quest.42999DECD53AD445.quest_subtitle": "&7Puja de nivell la teva motxilla sense perdre el que hi ha dins.",
+  "quest.42999DECD53AD445.quest_desc": [
+    "&7Puja de nivell la teva motxilla sense perdre el que hi ha dins."
+  ],
+  "quest.48BEF986AB9A51AF.title": "&eMillora de fabricació",
+  "quest.48BEF986AB9A51AF.quest_subtitle": "&7Taula de treball dins la motxilla.",
+  "quest.48BEF986AB9A51AF.quest_desc": [
+    "&7Taula de treball dins la motxilla."
+  ],
+  "quest.441EED7EA0E9E5FF.title": "&7Millora de forn",
+  "quest.441EED7EA0E9E5FF.quest_subtitle": "&7Forn portàtil.",
+  "quest.441EED7EA0E9E5FF.quest_desc": [
+    "&7Forn portàtil."
+  ],
+  "quest.481BFE4A018AA98D.title": "&cMillora d'imant",
+  "quest.481BFE4A018AA98D.quest_subtitle": "&7Atrau els objectes de terra.",
+  "quest.481BFE4A018AA98D.quest_desc": [
+    "&7Atrau els objectes de terra."
+  ],
+  "quest.4E28F42EA9ED8328.title": "&aMillora de recollida",
+  "quest.4E28F42EA9ED8328.quest_subtitle": "&7Fica a la motxilla el que reculls.",
+  "quest.4E28F42EA9ED8328.quest_desc": [
+    "&7Fica a la motxilla el que reculls."
+  ],
+  "quest.41EC04CACF562298.title": "&6Millora del menjar",
+  "quest.41EC04CACF562298.quest_subtitle": "&7Et dona menjar automàticament.",
+  "quest.41EC04CACF562298.quest_desc": [
+    "&7Et dona menjar automàticament."
+  ],
+  "quest.4C33720767691111.title": "&cSac de dormir",
+  "quest.4C33720767691111.quest_subtitle": "&7Dorm a qualsevol lloc sense canviar el teu punt de reaparició.",
+  "quest.4C33720767691111.quest_desc": [
+    "&7Dorm a qualsevol lloc sense canviar el teu punt de reaparició."
+  ],
+  "quest.4CFA9FC2862B4048.title": "&5Motxilles temàtiques",
+  "quest.4CFA9FC2862B4048.quest_subtitle": "&7Hi ha desenes de dissenys: drac, creeper, vaca, End...",
+  "quest.4CFA9FC2862B4048.quest_desc": [
+    "&7Hi ha desenes de dissenys: drac, creeper, vaca, End..."
+  ],
+  "quest.4557889F85B971C3.title": "&6Traveler's Backpack",
+  "quest.4557889F85B971C3.quest_subtitle": "&7Motxilles amb inventari extra, dipòsits de líquids, sac de dormir i…",
+  "quest.4557889F85B971C3.quest_desc": [
+    "&7Motxilles amb inventari extra, dipòsits de líquids, sac de dormir i millores (forn, imant, fabricació...)."
+  ],
+  "chapter.431D22DAA74F4164.title": "&7› &6Instruments",
+  "quest.49EB47E448E41093.title": "&6Llaüt",
+  "quest.4E0B1808FF50AA60.title": "&fPiano",
+  "quest.46E09BA2C2AFA740.title": "&eFlauta",
+  "quest.4F0C9882CD0B7333.title": "&cSac de gemecs",
+  "quest.4D7E23ED9D882D37.title": "&6Trompeta",
+  "quest.4BC01EF6F974D198.title": "&6Didgeridoo",
+  "quest.4BEBAD1AFC669599.title": "&7Handpan",
+  "quest.4546FE4303278642.title": "&7Triangle",
+  "quest.40ABB65CA534EC54.title": "&cTambor",
+  "quest.447A2247BF736CD8.title": "&6Viola de roda",
+  "quest.40142821B40F3F5C.title": "&5Baix d'Ender",
+  "quest.4F0052C6F3D1C6F2.title": "&eImmersive Melodies",
+  "quest.4F0052C6F3D1C6F2.quest_subtitle": "&7Instruments de debò (llaüt, piano, flauta, gaita...) per tocar…",
+  "quest.4F0052C6F3D1C6F2.quest_desc": [
+    "&7Instruments de debò (llaüt, piano, flauta, gaita...) per tocar cançons amb els amics."
+  ],
+  "chapter.4F8A61C5F2461F5F.title": "&6Biomes i dimensions",
+  "quest.49CCD203849DF119.title": "&aTerralith",
+  "quest.49CCD203849DF119.quest_subtitle": "&7Gairebé 100 biomes nous al món normal: muntanyes enormes, canons,…",
+  "quest.49CCD203849DF119.quest_desc": [
+    "&7Gairebé 100 biomes nous al món normal: muntanyes enormes, canons, illes... sense blocs estranys.",
+    "",
+    "&7També afegeix estructures com torres de mag."
+  ],
+  "quest.4035694D894EF2DC.title": "&dBiomes O' Plenty",
+  "quest.4035694D894EF2DC.quest_subtitle": "&7Més de 50 biomes amb arbres, flors i fustes noves (xicranda,…",
+  "quest.4035694D894EF2DC.quest_desc": [
+    "&7Més de 50 biomes amb arbres, flors i fustes noves (xicranda, sequoia, auró...)."
+  ],
+  "quest.499B25243C76C27F.title": "&cBetterNether",
+  "quest.499B25243C76C27F.quest_subtitle": "&7Nether ple de biomes, plantes, mobs, minerals i armadures noves.",
+  "quest.499B25243C76C27F.quest_desc": [
+    "&7Nether ple de biomes, plantes, mobs, minerals i armadures noves."
+  ],
+  "quest.493B52128425283F.title": "&fPale Garden Remaster",
+  "quest.493B52128425283F.quest_subtitle": "&7El Jardí pàl·lid renovat, amb més detalls.",
+  "quest.493B52128425283F.quest_desc": [
+    "&7El Jardí pàl·lid renovat, amb més detalls."
+  ],
+  "quest.4FA824317BCF06A9.title": "&5BetterEnd",
+  "quest.4FA824317BCF06A9.quest_subtitle": "&7L'End s'omple de biomes, llacs, pobles i materials: talismani,…",
+  "quest.4FA824317BCF06A9.quest_desc": [
+    "&7L'End s'omple de biomes, llacs, pobles i materials: talismani, terminita i aeterni."
+  ],
+  "quest.4151A30784C766C0.title": "&3The Sift",
+  "quest.4151A30784C766C0.quest_subtitle": "&7Una dimensió sencera nova, amb el seu propi mineral (siftita) que…",
+  "quest.4151A30784C766C0.quest_desc": [
+    "&7Una dimensió sencera nova, amb el seu propi mineral (siftita) que millora la netherita."
+  ],
+  "quest.4C430E744383A2EA.title": "&bImmersive Gateways",
+  "quest.4C430E744383A2EA.quest_subtitle": "&7Portals antics repartits pels biomes que connecten unes zones…",
+  "quest.4C430E744383A2EA.quest_desc": [
+    "&7Portals antics repartits pels biomes que connecten unes zones del món amb unes altres."
+  ],
+  "quest.474C341A272062D3.title": "&ePobles millorats",
+  "quest.474C341A272062D3.quest_subtitle": "&7Lio's Overhauled Villages renova els pobles i Improved Village…",
+  "quest.474C341A272062D3.quest_desc": [
+    "&7Lio's Overhauled Villages renova els pobles i Improved Village Placement fa que apareguin en terreny pla."
+  ],
+  "quest.4252915C1E2A3AC1.title": "&eSerene Seasons",
+  "quest.4252915C1E2A3AC1.quest_subtitle": "&7Estacions de l'any: canvien els colors, la temperatura i quins…",
+  "quest.4252915C1E2A3AC1.quest_desc": [
+    "&7Estacions de l'any: canvien els colors, la temperatura i quins conreus creixen."
+  ],
+  "quest.4E413A012030A033.title": "&aBiomes i dimensions",
+  "quest.4E413A012030A033.quest_subtitle": "&7Més de 200 biomes nous, un Nether i un End renovats i la dimensió…",
+  "quest.4E413A012030A033.quest_desc": [
+    "&7Més de 200 biomes nous, un Nether i un End renovats i la dimensió de The Sift."
+  ],
+  "chapter.4ABF38276AB9DA0A.title": "&6Combat i masmorres",
+  "quest.4BF43E3746C41F19.title": "&6Dungeons and Taverns",
+  "quest.4BF43E3746C41F19.quest_subtitle": "&7Més de 100 estructures: tavernes, campaments i mansions illager,…",
+  "quest.4BF43E3746C41F19.quest_desc": [
+    "&7Més de 100 estructures: tavernes, campaments i mansions illager, catacumbes, criptes, fortaleses del Nether i castells de l'End.",
+    "",
+    "&7Porta encantaments propis (mira'ls a Encantaments)."
+  ],
+  "quest.494DE2E0D4A9AF8A.title": "&cIllager Invasion",
+  "quest.494DE2E0D4A9AF8A.quest_subtitle": "&7Illagers nous (Invocador, Nigromant, Inquisidor, Bruixot...) amb…",
+  "quest.494DE2E0D4A9AF8A.quest_desc": [
+    "&7Illagers nous (Invocador, Nigromant, Inquisidor, Bruixot...) amb fortaleses, laberints i torres."
+  ],
+  "quest.41E6D08492B4F2B3.title": "&dAdvanced Netherite",
+  "quest.41E6D08492B4F2B3.quest_subtitle": "&74 nivells de netherita millors que la normal: ferro, or, maragda…",
+  "quest.41E6D08492B4F2B3.quest_desc": [
+    "&74 nivells de netherita millors que la normal: ferro, or, maragda i diamant."
+  ],
+  "quest.4FA7316916C50AF5.title": "&3End Remastered",
+  "quest.4FA7316916C50AF5.quest_subtitle": "&7Els Ulls d'Ender normals ja no obren el portal: necessites ulls…",
+  "quest.4FA7316916C50AF5.quest_desc": [
+    "&7Els Ulls d'Ender normals ja no obren el portal: necessites ulls especials repartits pel món."
+  ],
+  "quest.40C823539CD07465.title": "&5Ender Dragon Fight Remastered",
+  "quest.40C823539CD07465.quest_subtitle": "&7La dragona de l'End és molt més difícil, amb atacs i fases noves.",
+  "quest.40C823539CD07465.quest_desc": [
+    "&7La dragona de l'End és molt més difícil, amb atacs i fases noves.",
+    "&7Ves-hi preparat i en grup."
+  ],
+  "quest.461FEA79551DFC6C.title": "&8Wither Spawn Animation",
+  "quest.461FEA79551DFC6C.quest_subtitle": "&7Invocar el Wither crea un altar amb animació abans que aparegui.",
+  "quest.461FEA79551DFC6C.quest_desc": [
+    "&7Invocar el Wither crea un altar amb animació abans que aparegui.",
+    "&7Només visual, però no t'agafa desprevingut."
+  ],
+  "quest.45254225FF33B44F.title": "&4Hostile Mobs Improve Over Time",
+  "quest.45254225FF33B44F.quest_subtitle": "&7Els monstres guanyen vida, dany, armadura i habilitats segons quant…",
+  "quest.45254225FF33B44F.quest_desc": [
+    "&7Els monstres guanyen vida, dany, armadura i habilitats segons quant ha jugat el jugador més proper."
+  ],
+  "quest.44ECC62FE24457D2.title": "&aRepurposed Structures",
+  "quest.44ECC62FE24457D2.quest_subtitle": "&7Variants d'estructures vanilla a tots els biomes: mansions,…",
+  "quest.44ECC62FE24457D2.quest_desc": [
+    "&7Variants d'estructures vanilla a tots els biomes: mansions, monuments, temples de la jungla, piràmides, mines i ciutats antigues al Nether i a l'End."
+  ],
+  "quest.48BF3971DB3F3D85.title": "&eMoog's Voyager Structures",
+  "quest.48BF3971DB3F3D85.quest_subtitle": "&7Més de 130 estructures petites:",
+  "quest.48BF3971DB3F3D85.quest_desc": [
+    "&7Més de 130 estructures petites:",
+    "&7cases, pous, ruïnes, campaments...",
+    "&7El món se sent més viu."
+  ],
+  "quest.417C688D90E51302.title": "&7Cut Through i Friendly Fire",
+  "quest.417C688D90E51302.quest_subtitle": "&7Pots colpejar a través de l'herba alta, i no faràs mal a les teves…",
+  "quest.417C688D90E51302.quest_desc": [
+    "&7Pots colpejar a través de l'herba alta, i no faràs mal a les teves mascotes ni a mobs amics per accident."
+  ],
+  "quest.4FC528F41A926D6F.title": "&cCombat i masmorres",
+  "quest.4FC528F41A926D6F.quest_subtitle": "&7Estructures noves, caps, illagers, l'End i l'equip de netherita…",
+  "quest.4FC528F41A926D6F.quest_desc": [
+    "&7Estructures noves, caps, illagers, l'End i l'equip de netherita avançada."
+  ],
+  "chapter.4C88E4F47197CDEF.title": "&6Visual i rendiment",
+  "quest.427371C2FBF6C87C.title": "&eShaders (Iris)",
+  "quest.427371C2FBF6C87C.quest_subtitle": "&7Pots activar shaders a Opcions > Configuració de vídeo > Shaders. Consumeixen…",
+  "quest.427371C2FBF6C87C.quest_desc": [
+    "&7Pots activar shaders a Opcions > Configuració de vídeo > Shaders. Consumeixen força gràfica."
+  ],
+  "quest.4887F58A9402A30A.title": "&3Voxy (distància llunyana)",
+  "quest.4887F58A9402A30A.quest_subtitle": "&7Mostra muntanyes i terreny molt llunyà amb poc cost. El servidor…",
+  "quest.4887F58A9402A30A.quest_desc": [
+    "&7Mostra muntanyes i terreny molt llunyà amb poc cost. El servidor envia aquestes dades."
+  ],
+  "quest.42CB41E788FF8FA8.title": "&bSons",
+  "quest.42CB41E788FF8FA8.quest_subtitle": "&7Sons ambientals, ecos realistes a les coves i passos diferents segons…",
+  "quest.42CB41E788FF8FA8.quest_desc": [
+    "&7Sons ambientals, ecos realistes a les coves i passos diferents segons el bloc."
+  ],
+  "quest.43963A6663093866.title": "&aFresh Animations",
+  "quest.43963A6663093866.quest_subtitle": "&7Els mobs es mouen de manera més natural gràcies als paquets de…",
+  "quest.43963A6663093866.quest_desc": [
+    "&7Els mobs es mouen de manera més natural gràcies als paquets de recursos del modpack."
+  ],
+  "quest.4E408B3913B22C58.title": "&aPartícules",
+  "quest.4E408B3913B22C58.quest_subtitle": "&7Fulles que cauen, vent, núvols renovats i petits detalls visuals.",
+  "quest.4E408B3913B22C58.quest_desc": [
+    "&7Fulles que cauen, vent, núvols renovats i petits detalls visuals."
+  ],
+  "quest.4B00C3C73E192134.title": "&fZoomify",
+  "quest.4B00C3C73E192134.quest_subtitle": "&7Fes zoom amb la tecla C.",
+  "quest.4B00C3C73E192134.quest_desc": [
+    "&7Fes zoom amb la tecla C."
+  ],
+  "quest.460DFE73E9301888.title": "&7Controlify",
+  "quest.460DFE73E9301888.quest_subtitle": "&7Pots jugar amb comandament.",
+  "quest.460DFE73E9301888.quest_desc": [
+    "&7Pots jugar amb comandament."
+  ],
+  "quest.4F1BA84280C4B810.title": "&cRendiment",
+  "quest.4F1BA84280C4B810.quest_subtitle": "&7Sodium, Lithium, FerriteCore i altres fan que el joc vagi molt…",
+  "quest.4F1BA84280C4B810.quest_desc": [
+    "&7Sodium, Lithium, FerriteCore i altres fan que el joc vagi molt més fluid. Si va lent, abaixa els shaders o la distància."
+  ],
+  "quest.45BA21F861210564.title": "&3Visual, so i rendiment",
+  "quest.45BA21F861210564.quest_subtitle": "&7Shaders, sons realistes, animacions i mods que fan que el joc…",
+  "quest.45BA21F861210564.quest_desc": [
+    "&7Shaders, sons realistes, animacions i mods que fan que el joc vagi fluid."
+  ],
+  "chapter.454FABAB4D9ED871.title": "&d&lYoth&r&7: via ràpida",
+  "image.4E21C5C5F21BE88A.title": "&f&lAnar a Yoth",
+  "image.45FEB1981C1A8930.title": "&f&lTornar",
+  "quest.4EACA8D62A63C301.title": "&dQuè és Yoth",
+  "quest.4EACA8D62A63C301.quest_subtitle": "&7Un món cova &damable&7 per aprendre i arribar ràpid a la &dnetherita&7.",
+  "quest.4EACA8D62A63C301.quest_desc": [
+    "&7Un món cova &damable&7 per aprendre i arribar ràpid a la &dnetherita&7.",
+    "",
+    "&7Hi ha &dmolt pocs monstres&7 i gairebé tot el del món normal: pobles, masmorres, tots els minerals i zones del Nether amb &dbastions&7.",
+    "&7Les &drestes ancestrals&7 surten a &dtots els biomes&7.",
+    "",
+    "&7Aquí els &dmonstres que escalen&7 no compten: el teu nivell &dni puja ni baixa&7.",
+    "&7El que aconsegueixis a Yoth &dte l'emportes&7 al món normal, i al revés.",
+    "",
+    "&cEls llits no guarden el teu punt de reaparició&7: si mors, et despertes al teu llit del món normal i la teva tomba es queda a Yoth.",
+    "",
+    "&7Aquest capítol &dnomés avança amb el que aconsegueixis dins de Yoth&7: fabricar, fondre, picar o recollir. El que portis de fora no compta.",
+    "",
+    "&7En entrar portes posada la &dllanterna de Yoth&7: els monstres et deixen en pau."
+  ],
+  "quest.4B8C3DC2448B1B41.title": "&d&lEntra a Yoth",
+  "quest.4B8C3DC2448B1B41.quest_subtitle": "&7Prem &e&lAnar a Yoth&r&7 (a sota) i travessa el portal.",
+  "quest.4B8C3DC2448B1B41.quest_desc": [
+    "&7Prem &e&lAnar a Yoth&r&7 (a sota) i travessa el portal.",
+    "",
+    "&e&lAnar a Yoth&r&7: s'obre un &dportal&7 davant teu. En 2 segons està llest: &dtravessa'l&7.",
+    "&e&lTornar&r&7: el mateix des de Yoth, i apareixes &don eres&7.",
+    "",
+    "&7També amb &e&l/trigger yoth set 1&r&7 (anar) i &e&l/trigger yoth set 2&r&7 (tornar).",
+    "&cNo es pot obrir en ple combat&7.",
+    "",
+    "&7La primera vegada apareixes a l'altura d'on eres; després, al teu &darrer lloc segur&7 de Yoth.",
+    "",
+    "&7El portal sempre et deixa en un &dlloc segur&7 i tens uns segons de &dprotecció total&7 en arribar."
+  ],
+  "quest.46090082BF3B0803.title": "&fPedra i fusta",
+  "quest.46090082BF3B0803.quest_subtitle": "&7Fabrica un &dpic de pedra&7.",
+  "quest.46090082BF3B0803.quest_desc": [
+    "&7Fabrica un &dpic de pedra&7.",
+    "",
+    "&7A Yoth no hi ha sol: porta &dtorxes&7 i no t'allunyis sense llum."
+  ],
+  "quest.4F06056A7B906436.title": "&fFerro",
+  "quest.4F06056A7B906436.quest_subtitle": "&7Junta &d8 lingots de ferro&7.",
+  "quest.4F06056A7B906436.quest_desc": [
+    "&7Junta &d8 lingots de ferro&7.",
+    "",
+    "&7N'hi ha molt a les parets de les coves. Fon-lo en un forn."
+  ],
+  "quest.4736B846400EFFE0.title": "&fPic de ferro",
+  "quest.4736B846400EFFE0.quest_subtitle": "&7Fabrica un &dpic de ferro&7: ja pots picar &ddiamant&7 i &dor&7.",
+  "quest.4736B846400EFFE0.quest_desc": [
+    "&7Fabrica un &dpic de ferro&7: ja pots picar &ddiamant&7 i &dor&7."
+  ],
+  "quest.4FE98792CFBB4DDF.title": "&dLa llanterna de Yoth",
+  "quest.4FE98792CFBB4DDF.quest_subtitle": "&7A Yoth portes sempre una &dllanterna d'ametista&7 al cinturó.",
+  "quest.4FE98792CFBB4DDF.quest_desc": [
+    "&7A Yoth portes sempre una &dllanterna d'ametista&7 al cinturó.",
+    "",
+    "&7Es posa sola en entrar, &dno es pot treure&7 i desapareix en sortir o en morir.",
+    "&7- Els monstres propers &ds'aparten&7 i no et persegueixen.",
+    "&7- Si &cels colpeges&7, aquell monstre es defensa durant 15 segons.",
+    "&7- Apareixen &dmenys monstres&7 al teu voltant.",
+    "&7- Els &ccaps&7 no en fan cas."
+  ],
+  "quest.49FFC7CD9BC37E56.title": "&bDiamants",
+  "quest.49FFC7CD9BC37E56.quest_subtitle": "&7Aconsegueix &d3 diamants&7.",
+  "quest.49FFC7CD9BC37E56.quest_desc": [
+    "&7Aconsegueix &d3 diamants&7.",
+    "",
+    "&7Són al més fons, per sota de la capa 0. Explora les coves grans o pica en branques."
+  ],
+  "quest.4C14BA8F7DC2A3C1.title": "&bPic de diamant",
+  "quest.4C14BA8F7DC2A3C1.quest_subtitle": "&7Fabrica un &dpic de diamant&7: l'únic que pica les &drestes ancestrals&7.",
+  "quest.4C14BA8F7DC2A3C1.quest_desc": [
+    "&7Fabrica un &dpic de diamant&7: l'únic que pica les &drestes ancestrals&7."
+  ],
+  "quest.4045D997AE397EB5.title": "&6Restes ancestrals",
+  "quest.4045D997AE397EB5.quest_subtitle": "&7Aconsegueix &d4 restes ancestrals&7.",
+  "quest.4045D997AE397EB5.quest_desc": [
+    "&7Aconsegueix &d4 restes ancestrals&7.",
+    "",
+    "&7A Yoth surten a &dtots els biomes&7, des del fons fins a la capa 140, i en vetes més grans &dper sota de la capa 30&7.",
+    "&7Semblen pedra marró amb espirals i aguanten les explosions.",
+    "&7Fon-les en un forn: cadascuna dona un &dfragment de netherita&7."
+  ],
+  "quest.426B306E73BE5A5D.title": "&eOr",
+  "quest.426B306E73BE5A5D.quest_subtitle": "&7Junta &d4 lingots d'or&7.",
+  "quest.426B306E73BE5A5D.quest_desc": [
+    "&7Junta &d4 lingots d'or&7.",
+    "",
+    "&7Amb &d4 fragments de netherita&7 i &d4 lingots d'or&7 fas un lingot de netherita."
+  ],
+  "quest.468315DA3D9135C1.title": "&8Lingot de netherita",
+  "quest.468315DA3D9135C1.quest_subtitle": "&7Fabrica un &dlingot de netherita&7.",
+  "quest.468315DA3D9135C1.quest_desc": [
+    "&7Fabrica un &dlingot de netherita&7.",
+    "",
+    "&7A la taula de treball: 4 fragments de netherita i 4 lingots d'or, en qualsevol ordre."
+  ],
+  "quest.43EDB52C38E79855.title": "&dPlantilla de millora de netherita",
+  "quest.43EDB52C38E79855.quest_subtitle": "&7Troba-la en un &dbastió&7 de les zones del Nether de Yoth.",
+  "quest.43EDB52C38E79855.quest_desc": [
+    "&7Troba-la en un &dbastió&7 de les zones del Nether de Yoth.",
+    "",
+    "&7Les zones del Nether (boscos carmesí i distorsionat, rius de lava, incursions demoníaques) tenen &dbastions&7. La plantilla és als seus cofres.",
+    "&cEls piglins t'ataquen si no portes or posat&7: posa't unes botes d'or.",
+    "&7Per copiar-la: la plantilla, &d7 diamants&7 i &d1 netherrack&7."
+  ],
+  "quest.471327BBFCAF11E0.title": "&8Primera peça de netherita",
+  "quest.471327BBFCAF11E0.quest_subtitle": "&7Millora una eina o una peça d'armadura de &ddiamant&7 a &dnetherita&7.",
+  "quest.471327BBFCAF11E0.quest_desc": [
+    "&7Millora una eina o una peça d'armadura de &ddiamant&7 a &dnetherita&7.",
+    "",
+    "&7A la &dtaula de ferreria&7: la plantilla, la peça de diamant i un lingot de netherita.",
+    "&cLa plantilla es gasta&7: copia-la abans de fer-la servir."
+  ],
+  "quest.465AADD25710CEE9.title": "&5&lCobert de netherita",
+  "quest.465AADD25710CEE9.quest_subtitle": "&7Porta l'&darmadura de netherita completa&7.",
+  "quest.465AADD25710CEE9.quest_desc": [
+    "&7Porta l'&darmadura de netherita completa&7.",
+    "",
+    "&7Ja estàs a punt per al món normal: tot el que portes &dviatja amb tu&7.",
+    "&7Següent pas: la &dNetherita avançada&7, al grup &f&lEquip&r&7."
+  ],
+  "quest.447B564C35375558.title": "&aVia ràpida de Yoth",
+  "quest.447B564C35375558.quest_subtitle": "&7De zero a netherita al món amable.",
+  "quest.447B564C35375558.quest_desc": [
+    "&7De zero a netherita al món amable."
+  ],
+  "task.4666D3CD34F65F48.title": "&7Fabrica un pic de pedra a Yoth",
+  "task.4830FF6609B34E86.title": "&7Fon o recull 8 lingots de ferro a Yoth",
+  "task.4520D768EBE06E2B.title": "&7Fabrica un pic de ferro a Yoth",
+  "task.4ABE7E6118DC8E62.title": "&7Recull 3 diamants a Yoth",
+  "task.42A94609EDB05FAE.title": "&7Fabrica un pic de diamant a Yoth",
+  "task.4773B30C77045867.title": "&7Pica 4 restes ancestrals a Yoth",
+  "task.44DA7E1F749A3ECC.title": "&7Fon o recull 4 lingots d'or a Yoth",
+  "task.496F1780B1F3FA58.title": "&7Fabrica un lingot de netherita a Yoth",
+  "task.425D4EB0D424D92D.title": "&7Aconsegueix una plantilla de millora de netherita a Yoth",
+  "task.44FC087FC58F9A8D.title": "&7Millora una peça a netherita a Yoth",
+  "task.46891C307E0C133A.title": "&7Porta l'armadura de netherita completa a Yoth"
+}

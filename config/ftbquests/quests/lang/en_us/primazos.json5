@@ -1,0 +1,4020 @@
+{
+  "chapter_group.41FFC5E97CCD6D87.title": "&a&lAdventure",
+  "chapter_group.4B9BB1154CE5E86A.title": "&f&lGear",
+  "chapter_group.4BB1469C9A1D849B.title": "&b&lThe Server",
+  "chapter_group.458EAD3B4BE27CCD.title": "&6&lEncyclopedia",
+  "chapter.49A60DE5C0DDB051.title": "&6&l★ Start here",
+  "quest.4227C911EB0F1706.title": "&eHow to read this book",
+  "quest.4227C911EB0F1706.quest_subtitle": "What each shape and each colour means.",
+  "quest.4227C911EB0F1706.quest_desc": [
+    "&fCircle&7: a step in your adventure. It completes on its own when you get it and gives &6rewards&7.",
+    "&fDiamond&7: a boss.",
+    "&fHexagon&7: how the server works.",
+    "&fSquare&7: information.",
+    "&fNut&7: a section summary. When it shows the &e&l!&r&7, open it and collect your &6experience&7.",
+    "",
+    "&dKeywords&7 are in pink, &cdangers&7 in red and &6rewards&7 in gold."
+  ],
+  "quest.464931B3842EB6E2.title": "&eHow to open the book",
+  "quest.464931B3842EB6E2.quest_subtitle": "Progress button, the book or a command.",
+  "quest.464931B3842EB6E2.quest_desc": [
+    "Press &e&lEsc&r&7 and the &6Progress&7 button.",
+    "",
+    "When you join we give you the &6Primazos Atlas&7: right-click with it.",
+    "",
+    "Also: &e&l/ftbquests open_book&r&7, or bind a key in Options → Controls → FTB Quests."
+  ],
+  "quest.4CA0580DF13FA630.title": "&a&lAdventure",
+  "quest.4CA0580DF13FA630.quest_subtitle": "What to do now. Progress step by step.",
+  "quest.4CA0580DF13FA630.quest_desc": [
+    "The zone with &dprogress&7: each step completes on its own when you achieve it and gives &6rewards&7.",
+    "",
+    "First days → The World → The Nether → The End → The Sift."
+  ],
+  "quest.44EFBB7B0E4010DF.title": "&f&lGear",
+  "quest.44EFBB7B0E4010DF.quest_subtitle": "Armor, weapons and enchantments.",
+  "quest.44EFBB7B0E4010DF.quest_desc": [
+    "Which gear is best, how to upgrade it and which enchantments to put on it.",
+    "",
+    "&dAdvanced Netherite&7 also gives rewards when you get each ingot."
+  ],
+  "quest.4E9317F3918612F9.title": "&b&lThe Server",
+  "quest.4E9317F3918612F9.quest_subtitle": "How Primazos works.",
+  "quest.4E9317F3918612F9.quest_desc": [
+    "The server's own systems: the &a&lAegis&r&7, the &e&lSun&r&7, the &d&lStars&r&7, the controls and what happens when you die."
+  ],
+  "quest.42734208667D6698.title": "&6&lEncyclopedia",
+  "quest.42734208667D6698.quest_subtitle": "All the pack's mods by topic.",
+  "quest.42734208667D6698.quest_desc": [
+    "Creatures, home, biomes and everything the mods add, with their most important items."
+  ],
+  "quest.4C34FABD0311BD78.title": "&6&lWelcome to Primazos",
+  "quest.4C34FABD0311BD78.quest_subtitle": "This book is your guide. Start here.",
+  "quest.4C34FABD0311BD78.quest_desc": [
+    "It's a &dVanilla Plus&7 pack: it plays like normal Minecraft, but with more biomes, mobs, dungeons and quality-of-life features.",
+    "",
+    "On the left you have the book split into &6zones&7."
+  ],
+  "chapter.48B5671AF2299C3D.title": "&aFirst days",
+  "task.40BC6A826FF68769.title": "Have a crafting table",
+  "quest.458308E602F81BA4.title": "&aA table to start with",
+  "quest.458308E602F81BA4.quest_subtitle": "Have a crafting table.",
+  "quest.458308E602F81BA4.quest_desc": [
+    "Chop a tree, make planks and craft the table with four planks.",
+    "",
+    "In &dREI&7: &e&lR&r&7 shows the recipe and &e&lU&r&7 the uses."
+  ],
+  "task.47708BA4C1126E34.title": "Upgrade the pickaxe",
+  "quest.4DCCB5B03DF9A09D.title": "&aStone tools",
+  "quest.4DCCB5B03DF9A09D.quest_subtitle": "Get a better pickaxe.",
+  "quest.4DCCB5B03DF9A09D.quest_desc": [
+    "With stone you can now mine &diron&7."
+  ],
+  "task.4209791F29D5D266.title": "Have a furnace",
+  "quest.4EFFE5E4DFC36936.title": "&aCooking and smelting",
+  "quest.4EFFE5E4DFC36936.quest_subtitle": "Have a furnace.",
+  "quest.4EFFE5E4DFC36936.quest_desc": [
+    "Eight cobblestone in a ring. On top what you want to cook or smelt, below the fuel."
+  ],
+  "task.4AAA4F9FECC863CA.title": "Sleep in a bed",
+  "quest.4D540224CDED83AA.title": "&aThe first night",
+  "quest.4D540224CDED83AA.quest_subtitle": "Sleep in a bed.",
+  "quest.4D540224CDED83AA.quest_desc": [
+    "Three wool and three planks. Sleeping sets your &dspawn point&7.",
+    "",
+    "At night the &d&lStars&r&7 look after you."
+  ],
+  "task.41C2F7A112218888.title": "Smelt iron",
+  "quest.466612DF62AE6E9B.title": "&aThe first iron",
+  "quest.466612DF62AE6E9B.quest_subtitle": "Smelt an iron ingot.",
+  "quest.466612DF62AE6E9B.quest_desc": [
+    "Iron opens the door to armor, the shield and the bucket."
+  ],
+  "task.44E54B53CB3C9DD3.title": "Equip iron armor",
+  "quest.41483817167821AB.title": "&a&lSuit Up",
+  "quest.41483817167821AB.quest_subtitle": "Put on a piece of iron armor.",
+  "quest.41483817167821AB.quest_desc": [
+    "Your first &6milestone&7. From here on you can handle the night's monsters."
+  ],
+  "task.40DBABB099B6D467.title": "Have a shield",
+  "quest.434864C7956076ED.title": "&aA shield",
+  "quest.434864C7956076ED.quest_subtitle": "Have a shield.",
+  "quest.434864C7956076ED.quest_desc": [
+    "One iron ingot and six planks. Hold it in your &doff hand&7 and block with right-click."
+  ],
+  "task.431411692DE1904B.title": "Have a bucket",
+  "quest.47A4B5DD7E6B6595.title": "&aA bucket",
+  "quest.47A4B5DD7E6B6595.quest_subtitle": "Have a bucket.",
+  "quest.47A4B5DD7E6B6595.quest_desc": [
+    "For water, lava and &dobsidian&7."
+  ],
+  "task.43A6ABCD812967DF.title": "Get a diamond",
+  "quest.4F4DCF57DA3C89AB.title": "&b&lDiamonds!",
+  "quest.4F4DCF57DA3C89AB.quest_subtitle": "Find a diamond.",
+  "quest.4F4DCF57DA3C89AB.quest_desc": [
+    "They're deep down, near the lava. Mine &ccarefully&7."
+  ],
+  "task.49D655AB805B92DD.title": "Enchant an item",
+  "quest.48F0A50778861B76.title": "&aEnchanting",
+  "quest.48F0A50778861B76.quest_subtitle": "Enchant an item.",
+  "quest.48F0A50778861B76.quest_desc": [
+    "Enchanting table: a book, two diamonds and four obsidian.",
+    "",
+    "Surround it with &dbookshelves&7 for better enchantments."
+  ],
+  "task.4A6FA959307B23F7.title": "Get obsidian",
+  "quest.421B18AE435AC6AB.title": "&aObsidian",
+  "quest.421B18AE435AC6AB.quest_subtitle": "Get obsidian.",
+  "quest.421B18AE435AC6AB.quest_desc": [
+    "Pour water over still lava and mine it with a &ddiamond pickaxe&7."
+  ],
+  "task.412239584112B50B.title": "Enter the Nether",
+  "quest.491E031B2E3E9A88.title": "&c&lTo the Nether",
+  "quest.491E031B2E3E9A88.quest_subtitle": "Enter the Nether.",
+  "quest.491E031B2E3E9A88.quest_desc": [
+    "A 4×5 obsidian frame and a flint and steel. On the other side everything is more &cdangerous&7.",
+    "",
+    "Your first day ends here. Continue in &aThe World&7 and &cThe Nether&7."
+  ],
+  "quest.4AE0BE344A9331CD.title": "&dPets that come back",
+  "quest.4AE0BE344A9331CD.quest_subtitle": "&7Your tamed pets can come back to life if they die.",
+  "quest.4AE0BE344A9331CD.quest_desc": [
+    "&7Your tamed pets can come back to life if they die.",
+    "",
+    "&7The Etheric Gem is the key: look up its recipe in &r&dREI&r&7 (R key).",
+    "",
+    "&8Mod: Respawnable Pets"
+  ],
+  "quest.4FB95A4CADDF44AA.title": "&aStoring experience",
+  "quest.4FB95A4CADDF44AA.quest_subtitle": "&7The Experience Tome (XP Tome)",
+  "quest.4FB95A4CADDF44AA.quest_desc": [
+    "&r&7The Experience Tome (&r&dXP&r&7 Tome)",
+    "&7stores your levels so you don't lose them on death or to pass them to another player.",
+    "",
+    "&r&8Mod: &r&dXP&r&8 Tome"
+  ],
+  "quest.47162EF110CCA2CC.title": "&6Backpack",
+  "quest.47162EF110CCA2CC.quest_subtitle": "&7Craft a Traveler's Backpack: more inventory, fluid tanks…",
+  "quest.47162EF110CCA2CC.quest_desc": [
+    "&7Craft a Traveler's Backpack: more inventory, fluid tanks and a sleeping bag.",
+    "",
+    "&7Upgraded with iron, gold, diamond and netherite.",
+    "",
+    "&8Mod: Traveler's Backpack"
+  ],
+  "quest.47326320D8DD71CB.title": "&eSeasons",
+  "quest.47326320D8DD71CB.quest_subtitle": "&7There's spring, summer, autumn and winter. In winter it snows more and…",
+  "quest.47326320D8DD71CB.quest_desc": [
+    "&7There's spring, summer, autumn and winter. In winter it snows more and many crops do &r&dNOT&r&7 grow.",
+    "",
+    "&7Craft a Calendar to know which season it is.",
+    "",
+    "&8Mod: Serene Seasons"
+  ],
+  "quest.46D0AFA879A4AA9F.title": "&aCrops",
+  "quest.46D0AFA879A4AA9F.quest_subtitle": "&7Right-click a mature crop to harvest it and replant it…",
+  "quest.46D0AFA879A4AA9F.quest_desc": [
+    "&7Right-click a mature crop to harvest it and replant it automatically.",
+    "",
+    "&7Crops grow faster in the rain.",
+    "",
+    "&8Mods: RightClickHarvest, Crops Love Rain"
+  ],
+  "quest.4325AA702317DCA4.title": "&eHow do you craft something?",
+  "quest.4325AA702317DCA4.quest_subtitle": "&7Open your inventory and search for the item in the list on the right (REI).",
+  "quest.4325AA702317DCA4.quest_desc": [
+    "&7Open your inventory and search for the item in the list on the right (&r&dREI&r&7).",
+    "",
+    "&7Hover over it and press R to see its recipe, or U to see what it's used for."
+  ],
+  "quest.4794662C9817B656.title": "&a&lFor your first days",
+  "quest.4794662C9817B656.quest_subtitle": "&7Things that will make your life easier from the start.",
+  "quest.4794662C9817B656.quest_desc": [
+    "Things that will make your life easier from the start."
+  ],
+  "chapter.472F67A339681000.title": "&2The World",
+  "task.43623B5FEF3DD218.title": "Kill a monster",
+  "quest.484C5BF94595D9BD.title": "&2Monster hunter",
+  "quest.484C5BF94595D9BD.quest_subtitle": "Kill a monster.",
+  "quest.484C5BF94595D9BD.quest_desc": [
+    "Monsters get stronger the more you play: see &dScaling Monsters&7 in The Server."
+  ],
+  "task.4D237321763FF3EF.title": "Trade with a villager",
+  "quest.46F339D47935077E.title": "&2Trading",
+  "quest.46F339D47935077E.quest_subtitle": "Trade with a villager.",
+  "quest.46F339D47935077E.quest_desc": [
+    "Villages from &dLio's Overhauled Villages&7 and &dRepurposed Structures&7 are big and varied. Emeralds buy books, tools and even an &dEvil Eye&7 for the End."
+  ],
+  "task.499909CCEB628CDE.title": "Have the explorer's compass",
+  "quest.4519ABCA6F2580E3.title": "&2Explorer's Compass",
+  "quest.4519ABCA6F2580E3.quest_subtitle": "Have the structure compass.",
+  "quest.4519ABCA6F2580E3.quest_desc": [
+    "Takes you to the &dstructure&7 of your choice: villages, dungeons, temples...",
+    "",
+    "Check the lists in &a› Dungeons&7."
+  ],
+  "task.493B76109D8F4346.title": "Have the compass",
+  "quest.411E2E0395550CFD.title": "&2Nature's Compass",
+  "quest.411E2E0395550CFD.quest_subtitle": "Have the biome compass.",
+  "quest.411E2E0395550CFD.quest_desc": [
+    "Takes you to the &dbiome&7 of your choice. With so many new biomes, it's essential."
+  ],
+  "task.40E793B6DBA61E16.title": "Enter some trial chambers",
+  "quest.4130540DB0E994B5.title": "&2Trial Chambers",
+  "quest.4130540DB0E994B5.quest_subtitle": "Enter some trial chambers.",
+  "quest.4130540DB0E994B5.quest_desc": [
+    "Waves of mobs with &6loot&7 in chests and vaults."
+  ],
+  "task.4C79D3959A27A53E.title": "Find a pillager outpost",
+  "quest.4C5441DAC3434226.title": "&ePillager outpost",
+  "quest.4C5441DAC3434226.quest_subtitle": "Find a pillager outpost.",
+  "quest.4C5441DAC3434226.quest_desc": [
+    "The &dpillagers'&7 tower. Their captain carries the banner."
+  ],
+  "task.4CBE6831D4944F3E.title": "Find desert ruins",
+  "quest.4831E531FA0F440C.title": "&eDesert ruins",
+  "quest.4831E531FA0F440C.quest_subtitle": "Find some desert ruins.",
+  "quest.4831E531FA0F440C.quest_desc": [
+    "Buried ruins with &darchaeology&7."
+  ],
+  "task.444E952435BEA8C0.title": "Find some catacombs",
+  "quest.4B780CA04C180B91.title": "&6Catacombs",
+  "quest.4B780CA04C180B91.quest_subtitle": "Find some catacombs.",
+  "quest.4B780CA04C180B91.quest_desc": [
+    "&cDangerous&7: lots of undead underground."
+  ],
+  "task.42CDBDA9444553D8.title": "Find a mansion",
+  "quest.405779D6A2587147.title": "&6Woodland Mansion",
+  "quest.405779D6A2587147.quest_subtitle": "Find a woodland mansion.",
+  "quest.405779D6A2587147.quest_desc": [
+    "Full of &cevokers and vindicators&7. It may hold the &dMagic Eye&7."
+  ],
+  "task.4C51BC8489623C4D.title": "Find an icy fort",
+  "quest.4E76F3082EC1A118.title": "&cFrozen fort",
+  "quest.4E76F3082EC1A118.quest_subtitle": "Find a glacial skeleton fort.",
+  "quest.4E76F3082EC1A118.quest_desc": [
+    "&cVery hard&7: &dstrays&7 by the dozen."
+  ],
+  "task.4DA30460E400557F.title": "Find the toxic lair",
+  "quest.4E13A833657A74CF.title": "&cToxic lair",
+  "quest.4E13A833657A74CF.quest_subtitle": "Find the toxic lair.",
+  "quest.4E13A833657A74CF.quest_desc": [
+    "In swamps. Its boss holds the &dAntidote&7 enchantment."
+  ],
+  "task.49D68A4E9141B649.title": "Find the Trident Monument",
+  "quest.495D6DD9DDA2FDE8.title": "&4&lTrident Monument",
+  "quest.495D6DD9DDA2FDE8.quest_subtitle": "Find the Trident Monument.",
+  "quest.495D6DD9DDA2FDE8.quest_desc": [
+    "&cVery hard&7 and underwater. Bring water breathing."
+  ],
+  "task.42961B6F81D3B4A9.title": "Kill a captain",
+  "quest.42E469F569BC040F.title": "&2Fallen Captain",
+  "quest.42E469F569BC040F.quest_subtitle": "Kill a patrol captain.",
+  "quest.42E469F569BC040F.quest_desc": [
+    "It gives you &cBad Omen&7: if you enter a village a &draid&7 starts."
+  ],
+  "task.4910D583FEB2464D.title": "Win a raid",
+  "quest.49B3091602911AA7.title": "&6&lHero of the Village",
+  "quest.49B3091602911AA7.quest_subtitle": "Win a raid.",
+  "quest.49B3091602911AA7.quest_desc": [
+    "Pillagers fire &crockets&7 and new illagers show up: see &7› Raids and illagers&7.",
+    "",
+    "Villagers will give you &6discounts&7."
+  ],
+  "task.4AD94C3E561403DA.title": "Kill an Elder Guardian",
+  "quest.45733E782D248DDB.title": "&bElder Guardian",
+  "quest.45733E782D248DDB.quest_subtitle": "&780 health and Mining Fatigue. It drops the Guardian Eye for the End. Bring…",
+  "quest.45733E782D248DDB.quest_desc": [
+    "&780 health and Mining Fatigue. It drops the Guardian Eye for the End. Bring Water Breathing."
+  ],
+  "task.4652B0BD6994F510.title": "Enter an ancient city",
+  "quest.4F5C936B1049344A.title": "&3Fallen civilization",
+  "quest.4F5C936B1049344A.quest_subtitle": "Enter an ancient city.",
+  "quest.4F5C936B1049344A.quest_desc": [
+    "Where the &cWarden&7 lives. Move while sneaking and don't make noise."
+  ],
+  "task.461A35CDE9023AC0.title": "Stealth 100",
+  "quest.45F1B0B22B045F16.title": "&3Sigil 100",
+  "quest.45F1B0B22B045F16.quest_subtitle": "Sneak past a sculk sensor.",
+  "quest.45F1B0B22B045F16.quest_desc": [
+    "Sneak near a &dsculk sensor&7 or a &dsculk shrieker&7 so it doesn't detect you."
+  ],
+  "task.4CE6B57AC7EF7CAB.title": "Kill the Warden",
+  "quest.4EE737AE7B6EB60A.title": "&3&lWarden",
+  "quest.4EE737AE7B6EB60A.quest_subtitle": "Kill the Warden. Yes, really.",
+  "quest.4EE737AE7B6EB60A.quest_desc": [
+    "&7500 health and hits of 45 on hard. Better not to fight: move sneaking and make no noise.",
+    "",
+    "Unlocks when you enter an &dancient city&7 or reach &dStealth 100&7.",
+    "",
+    "&6A worthy reward&7: diamonds, lots of experience and totems."
+  ],
+  "quest.4B6D70BA9202F2B9.title": "&dBefore going in",
+  "quest.4B6D70BA9202F2B9.quest_subtitle": "&7Golden food, Healing and Fire Resistance potions, a totem and…",
+  "quest.4B6D70BA9202F2B9.quest_desc": [
+    "&7Golden food, Healing and Fire Resistance potions, a totem and blocks to escape.",
+    "",
+    "&7Underwater: Water Breathing and Depth Strider.",
+    "",
+    "&7If you die, your grave waits for you where you fell."
+  ],
+  "quest.46F97F6F8FE8C459.title": "&e&lBefore exploring",
+  "quest.46F97F6F8FE8C459.quest_subtitle": "&7How to prepare and how the difficulty was calculated.",
+  "quest.46F97F6F8FE8C459.quest_desc": [
+    "How to prepare and how the difficulty was calculated."
+  ],
+  "chapter.456AC8A24AB94CAC.title": "&7› &aEasy dungeons",
+  "quest.476CB1E61042EE37.title": "&fPyramid, temple and mansion variants (RS)",
+  "quest.476CB1E61042EE37.quest_subtitle": "&7Where: End, Overworld, Ocean",
+  "quest.476CB1E61042EE37.quest_desc": [
+    "&bWhere: End, Overworld, Ocean",
+    "&fMobs: silverfish, endermites, husks, creepers",
+    "&6Many mobs can gather at once."
+  ],
+  "quest.4414DC669190292D.title": "&fMVS towers (toned down)",
+  "quest.4414DC669190292D.quest_subtitle": "&7Where: Overworld, Ocean",
+  "quest.4414DC669190292D.quest_desc": [
+    "&bWhere: Overworld, Ocean",
+    "&9Underwater: 58% of the structure",
+    "&fMobs: guardians, drowned, skeletons",
+    "",
+    "&7Its spawners are limited on this server."
+  ],
+  "quest.4CBC753287770C8F.title": "&fBiome shrines (D＆T)",
+  "quest.4CBC753287770C8F.quest_subtitle": "&7Where: Overworld",
+  "quest.4CBC753287770C8F.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: endermites, parched skeletons, zombies, skeletons"
+  ],
+  "quest.485E131ABDBBB9EB.title": "&fFortified villages (Terralith)",
+  "quest.485E131ABDBBB9EB.quest_subtitle": "&7Where: Overworld",
+  "quest.485E131ABDBBB9EB.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: zombies"
+  ],
+  "quest.49205601D176D0DD.title": "&fDesert pyramid and jungle temple",
+  "quest.49205601D176D0DD.quest_subtitle": "&7Where: Overworld",
+  "quest.49205601D176D0DD.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: traps",
+    "",
+    "&7No special mobs, but watch out for &r&dTNT&r&7 and arrows."
+  ],
+  "quest.4993D86D396B3816.title": "&fSmall structures (MVS, Terralith, Lio)",
+  "quest.4993D86D396B3816.quest_subtitle": "&7Where: Overworld",
+  "quest.4993D86D396B3816.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: almost none",
+    "",
+    "&7Houses, wells, ruins, villages and ancient portals. Ideal for starting out."
+  ],
+  "quest.42471ED1D4566EBA.title": "&aEasy",
+  "quest.42471ED1D4566EBA.quest_subtitle": "&7Recommended gear:",
+  "quest.42471ED1D4566EBA.quest_desc": [
+    "&eRecommended gear:",
+    "&7Iron and shield.",
+    "",
+    "&76 structure groups."
+  ],
+  "chapter.4AD6E4301A9C2DE3.title": "&7› &eMedium dungeons",
+  "quest.471DC801BB945A9C.title": "&fPillager outpost variants (RS)",
+  "quest.471DC801BB945A9C.quest_subtitle": "&7Where: End, Overworld, Nether, Ocean",
+  "quest.471DC801BB945A9C.quest_desc": [
+    "&bWhere: End, Overworld, Nether, Ocean",
+    "&9Underwater: 57% of the structure",
+    "&fMobs: pillagers, piglins, zombified piglins, hoglins",
+    "&6Many mobs can gather at once.",
+    "",
+    "&7The Nether and ocean ones are much tougher than the normal ones."
+  ],
+  "quest.45136EBF596364C9.title": "&fRuins and lairs (D＆T)",
+  "quest.45136EBF596364C9.quest_subtitle": "&7Where: Overworld",
+  "quest.45136EBF596364C9.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: bogged, zombies, cave spiders, witches",
+    "&cOver 60 mobs can pile up:",
+    "&clag!"
+  ],
+  "quest.4BE4664D917ADCA6.title": "&fMage towers and complex (Terralith)",
+  "quest.4BE4664D917ADCA6.quest_subtitle": "&7Where: Overworld",
+  "quest.4BE4664D917ADCA6.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: pillagers, witches, vindicators, evokers",
+    "&cOver 60 mobs can pile up:",
+    "&clag!"
+  ],
+  "quest.4D78C77CD0A4EE5E.title": "&fNether skeleton towers (D＆T)",
+  "quest.4D78C77CD0A4EE5E.quest_subtitle": "&7Where: Overworld, Nether",
+  "quest.4D78C77CD0A4EE5E.quest_desc": [
+    "&bWhere: Overworld, Nether",
+    "&fMobs: wither skeletons, skeletons",
+    "&cOver 60 mobs can pile up:",
+    "&clag!"
+  ],
+  "quest.4F947DE45E24D9ED.title": "&fIllager forts and towers (Illager Invasion)",
+  "quest.4F947DE45E24D9ED.quest_subtitle": "&7Where: Overworld",
+  "quest.4F947DE45E24D9ED.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: vindicators, provokers, bashers, marauders",
+    "&6Many mobs can gather at once.",
+    "",
+    "&7Inquisitors (80 health, 15-damage hits). The Invoker is a boss."
+  ],
+  "quest.4B2367F4553995FD.title": "&fBadlands mining outpost (D＆T)",
+  "quest.4B2367F4553995FD.quest_subtitle": "&7Where: Overworld",
+  "quest.4B2367F4553995FD.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: evokers, pillagers, vindicators, witches",
+    "&6Many mobs can gather at once."
+  ],
+  "quest.42E9FB1363E95306.title": "&fTrial chambers (vanilla)",
+  "quest.42E9FB1363E95306.quest_subtitle": "&7Where: Overworld",
+  "quest.42E9FB1363E95306.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: strays, bogged, slimes, silverfish",
+    "&6Many mobs can gather at once.",
+    "",
+    "&7Waves of mobs based on how many players go in."
+  ],
+  "quest.445542EC25E1D7AA.title": "&fMineshaft variants (RS)",
+  "quest.445542EC25E1D7AA.quest_subtitle": "&7Where: End, Overworld, Nether, Ocean",
+  "quest.445542EC25E1D7AA.quest_desc": [
+    "&bWhere: End, Overworld, Nether, Ocean",
+    "&9Underwater: 54% of the structure",
+    "&fMobs: cave spiders",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Cave spider spawners: bring milk for the poison."
+  ],
+  "quest.401A1AD85994715A.title": "&fNether city, temples and shipwrecks (RS)",
+  "quest.401A1AD85994715A.quest_subtitle": "&7Where: Nether",
+  "quest.401A1AD85994715A.quest_desc": [
+    "&bWhere: Nether",
+    "&fMobs: zombified piglins, wither skeletons, blazes, zoglins"
+  ],
+  "quest.4A9A614AED7B9EE8.title": "&fAncient city variants (RS)",
+  "quest.4A9A614AED7B9EE8.quest_subtitle": "&7Where: End, Nether, Ocean",
+  "quest.4A9A614AED7B9EE8.quest_desc": [
+    "&bWhere: End, Nether, Ocean",
+    "&fMobs: drowned, ghasts, endermites, magma cubes",
+    "&6Many mobs can gather at once.",
+    "",
+    "&7There are 3 different structures: one at the bottom of the ocean, one in the Nether and one in the End. Careful with noise: the Warden may appear."
+  ],
+  "quest.4C56F8173BFD60C3.title": "&fOcean monument (vanilla)",
+  "quest.4C56F8173BFD60C3.quest_subtitle": "&7Where: Ocean",
+  "quest.4C56F8173BFD60C3.quest_desc": [
+    "&bWhere: Ocean",
+    "&9Underwater: 90% of the structure",
+    "&fMobs: guardians, elder guardians",
+    "",
+    "&7Toned down on this server: far fewer guardians. There are still 3 elders (Mining Fatigue)."
+  ],
+  "quest.4393E18D5C697E8B.title": "&6Media",
+  "quest.4393E18D5C697E8B.quest_subtitle": "&7Recommended gear:",
+  "quest.4393E18D5C697E8B.quest_desc": [
+    "&eRecommended gear:",
+    "&7Diamond with Protection III, a shield and good food.",
+    "",
+    "&711 structure groups."
+  ],
+  "chapter.4FC740B1A27DA7FB.title": "&7› &6Hard dungeons",
+  "quest.4B752AE291866D82.title": "&fOcean village (RS)",
+  "quest.4B752AE291866D82.quest_subtitle": "&7Where: Ocean",
+  "quest.4B752AE291866D82.quest_desc": [
+    "&bWhere: Ocean",
+    "&9Underwater: 45% of the structure",
+    "&fMobs: drowned",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Full of drowned underwater."
+  ],
+  "quest.433608D07BC9D1C5.title": "&fCombat shrines (D＆T)",
+  "quest.433608D07BC9D1C5.quest_subtitle": "&7Where: Overworld",
+  "quest.433608D07BC9D1C5.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: husks, zombies, slimes, cave spiders",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7They're like trial chambers:",
+    "&7waves of mobs (already toned down on the server)."
+  ],
+  "quest.47A4C5CE9FB3F9A0.title": "&fBastion (vanilla)",
+  "quest.47A4C5CE9FB3F9A0.quest_subtitle": "&7Where: Nether",
+  "quest.47A4C5CE9FB3F9A0.quest_desc": [
+    "&bWhere: Nether",
+    "&fMobs: piglins, piglin brutes, hoglins, magma cubes",
+    "&6Many mobs can gather at once.",
+    "",
+    "&7Barbarian piglins. Bring gold."
+  ],
+  "quest.41AC8FB580070FB8.title": "&fMine, cathedral and jungle tower (MVS)",
+  "quest.41AC8FB580070FB8.quest_subtitle": "&7Where: Overworld",
+  "quest.41AC8FB580070FB8.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: skeletons, zombies, bogged, creepers",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Lots of skeleton and zombie spawners."
+  ],
+  "quest.4E53D14B4CC4D489.title": "&fWildfire Citadel (Friends ＆ Foes)",
+  "quest.4E53D14B4CC4D489.quest_subtitle": "&7Where: Nether",
+  "quest.4E53D14B4CC4D489.quest_desc": [
+    "&bWhere: Nether",
+    "&fMobs: wither skeletons, Wildfire (boss)",
+    "",
+    "&7Wildfire boss (120 health).",
+    "&7Fire Resistance."
+  ],
+  "quest.4C2785811F062AFC.title": "&fNether fortress (vanilla)",
+  "quest.4C2785811F062AFC.quest_subtitle": "&7Where: Nether",
+  "quest.4C2785811F062AFC.quest_desc": [
+    "&bWhere: Nether",
+    "&fMobs: blazes, wither skeletons, magma cubes",
+    "",
+    "&7Blaze spawners and wither skeletons that spawn on their own."
+  ],
+  "quest.40481D2399539C25.title": "&fWoodland mansion (vanilla)",
+  "quest.40481D2399539C25.quest_subtitle": "&7Where: Overworld",
+  "quest.40481D2399539C25.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: vindicators, evokers",
+    "",
+    "&7Lots of illagers in rooms. Evokers drop totems."
+  ],
+  "quest.4AA86769F198B138.title": "&fEnd city (vanilla)",
+  "quest.4AA86769F198B138.quest_subtitle": "&7Where: End",
+  "quest.4AA86769F198B138.quest_desc": [
+    "&bWhere: End",
+    "&fMobs: shulkers",
+    "",
+    "&7They make you levitate over the void.",
+    "&7The elytra are here."
+  ],
+  "quest.4D97780531C57F80.title": "&cHard",
+  "quest.4D97780531C57F80.quest_subtitle": "&7Recommended gear:",
+  "quest.4D97780531C57F80.quest_desc": [
+    "&eRecommended gear:",
+    "&7Netherite or diamond with Protection IV, golden food, potions and a totem.",
+    "",
+    "&78 structure groups."
+  ],
+  "chapter.44E0AB9E92909346.title": "&7› &c&lVery hard dungeons",
+  "quest.442690B428D7A993.title": "&fAncient city (vanilla)",
+  "quest.442690B428D7A993.quest_subtitle": "&7Where: Overworld",
+  "quest.442690B428D7A993.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: Warden (500 health, hits for 45)",
+    "",
+    "&7No spawners: the danger is the Warden if you make noise. Sneak around and don't break sensors."
+  ],
+  "quest.4CE2A3BD10169302.title": "&fNether fortresses (D＆T)",
+  "quest.4CE2A3BD10169302.quest_subtitle": "&7Where: Nether",
+  "quest.4CE2A3BD10169302.quest_desc": [
+    "&bWhere: Nether",
+    "&fMobs: blazes, wither skeletons, skeletons, magma cubes",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Full of blaze spawners.",
+    "&7Fire Resistance is a must."
+  ],
+  "quest.4F5BB6DA8DBCB041.title": "&fIllager bases (D＆T)",
+  "quest.4F5BB6DA8DBCB041.quest_subtitle": "&7Where: Overworld",
+  "quest.4F5BB6DA8DBCB041.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: pillagers, vindicators, witches, evokers",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Lots of evokers and vindicators together. Bring a shield and totems."
+  ],
+  "quest.42B1CB8F10419FE6.title": "&fNether villages (RS)",
+  "quest.42B1CB8F10419FE6.quest_subtitle": "&7Where: Nether",
+  "quest.42B1CB8F10419FE6.quest_desc": [
+    "&bWhere: Nether",
+    "&fMobs: piglins, hoglins, piglin brutes, zoglins",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Dozens of piglins and hoglins. Wear a piece of gold."
+  ],
+  "quest.4BD494F68908729F.title": "&fFrozen forts and citadel (D＆T)",
+  "quest.4BD494F68908729F.quest_subtitle": "&7Where: Overworld",
+  "quest.4BD494F68908729F.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: strays, zombie villagers, parched skeletons, bogged",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Lots of glacial skeletons: their arrows slow you down."
+  ],
+  "quest.4516D98A21B7DF58.title": "&fEnd castle, ship and lighthouse (D＆T)",
+  "quest.4516D98A21B7DF58.quest_subtitle": "&7Where: End",
+  "quest.4516D98A21B7DF58.quest_desc": [
+    "&bWhere: End",
+    "&fMobs: shulkers, endermites, phantoms",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Shulkers that make you levitate over the void. Bring Feather Falling and blocks."
+  ],
+  "quest.40D015B43B7C1AC4.title": "&fPiglin camps (D＆T)",
+  "quest.40D015B43B7C1AC4.quest_subtitle": "&7Where: Nether",
+  "quest.40D015B43B7C1AC4.quest_desc": [
+    "&bWhere: Nether",
+    "&fMobs: piglins, magma cubes, piglin brutes, hoglins",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Barbarian piglins: they hit really hard.",
+    "&7A gold piece is a must."
+  ],
+  "quest.45B50862D75D33B6.title": "&fStronghold variants (RS)",
+  "quest.45B50862D75D33B6.quest_subtitle": "&7Where: End, Nether",
+  "quest.45B50862D75D33B6.quest_desc": [
+    "&bWhere: End, Nether",
+    "&fMobs: endermites, blazes, endermen, wither skeletons",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7The Nether one is full of blaze spawners."
+  ],
+  "quest.488258276014F847.title": "&fBunker, catacombs and crypts (D＆T)",
+  "quest.488258276014F847.quest_subtitle": "&7Where: Overworld",
+  "quest.488258276014F847.quest_desc": [
+    "&bWhere: Overworld",
+    "&fMobs: skeletons, zombies, spiders, creepers",
+    "&cOver 60 mobs can pile up:",
+    "&clag!",
+    "",
+    "&7Narrow corridors with lots of spawners."
+  ],
+  "quest.4B90B95AB7CD8586.title": "&fTrident Monument (D＆T)",
+  "quest.4B90B95AB7CD8586.quest_subtitle": "&7Where: Overworld",
+  "quest.4B90B95AB7CD8586.quest_desc": [
+    "&bWhere: Overworld",
+    "&9Underwater: 65% of the structure",
+    "&fMobs: guardians, drowned, elder guardians",
+    "&6Many mobs can gather at once.",
+    "",
+    "&7Huge and almost entirely underwater.",
+    "&7Toned down on this server: few guardians (there used to be dozens).",
+    "&7Full of drowned with tridents.",
+    "&7Water Breathing is a must."
+  ],
+  "quest.4A8673E476997357.title": "&4Very hard",
+  "quest.4A8673E476997357.quest_subtitle": "&7Recommended gear:",
+  "quest.4A8673E476997357.quest_desc": [
+    "&eRecommended gear:",
+    "&7Enchanted advanced netherite (Protection IV), totems, potions and a group of 3 or more.",
+    "",
+    "&710 structure groups."
+  ],
+  "chapter.43D8126DC96590CE.title": "&7› &6Raids and illagers",
+  "quest.4C184774761E4952.title": "&cPillager rockets",
+  "quest.4C184774761E4952.quest_subtitle": "&7Every 10 levels of the NEAREST player, their rockets carry a…",
+  "quest.4C184774761E4952.quest_desc": [
+    "&r&7Every 10 levels of the &r&dNEAREST&r&7 player, their rockets carry one more explosion.",
+    "&7From level 75 they fire 3 rockets at once.",
+    "",
+    "&eRocket damage on hard:",
+    "&r&7Level 20: &r&c6.8 ❤&r&7   Level 40: &r&c9.8 ❤ Level 60: &r&c12.8 ❤&r&7   Level 90: &r&c17.3 ❤",
+    "",
+    "&7They explode in an area. You have 10 ❤ in total.",
+    "",
+    "&r&7Lost Rocket: the &r&e&lSun&r&7 undoes 20% of rockets before they land."
+  ],
+  "quest.4E8F409FF7102984.title": "&fWith IRON armor",
+  "quest.4E8F409FF7102984.quest_subtitle": "&7A level 60 rocket takes away:",
+  "quest.4E8F409FF7102984.quest_desc": [
+    "&7A level 60 rocket takes away:",
+    "",
+    "&r&7Unenchanted → &r&c11.2 ❤",
+    "&r&eProtection IV ×4 → &r&c4 ❤",
+    "&r&aBlast Prot. IV ×4 → &r&c2.2 ❤",
+    "",
+    "&7Without enchantments, a single rocket kills you."
+  ],
+  "quest.471D2D91C7F7E177.title": "&bWith DIAMOND armor",
+  "quest.471D2D91C7F7E177.quest_subtitle": "&7A level 60 rocket takes away:",
+  "quest.471D2D91C7F7E177.quest_desc": [
+    "&7A level 60 rocket takes away:",
+    "",
+    "&r&7Unenchanted → &r&c5.8 ❤",
+    "&r&eProtection IV ×4 → &r&c2.1 ❤ Blast Prot. IV ×4 → &r&c1.2 ❤"
+  ],
+  "quest.44D107455EA71E9B.title": "&6With NETHERITE armor",
+  "quest.44D107455EA71E9B.quest_subtitle": "&7A level 60 rocket takes away:",
+  "quest.44D107455EA71E9B.quest_desc": [
+    "&7A level 60 rocket takes away:",
+    "",
+    "&r&7Unenchanted → &r&c5.2 ❤",
+    "&r&eProtection IV ×4 → &r&c1.9 ❤ Blast Prot. IV ×4 → &r&c1 ❤"
+  ],
+  "quest.48A5F45DC2AE4CBC.title": "&dWith NETHERITE AND DIAMOND",
+  "quest.48A5F45DC2AE4CBC.quest_subtitle": "&7A level 60 rocket takes away:",
+  "quest.48A5F45DC2AE4CBC.quest_desc": [
+    "&7A level 60 rocket takes away:",
+    "",
+    "&r&7Unenchanted → &r&c2.5 ❤",
+    "&r&eProtection IV ×4 → &r&c0.9 ❤ Blast Prot. IV ×4 → &r&c0.5 ❤",
+    "",
+    "&7Already reaches max protection against this rocket. Aeternium-netherite and siftite-netherite handle even stronger hits better."
+  ],
+  "quest.46F70611939EB189.title": "&aHow to protect yourself",
+  "quest.46F70611939EB189.quest_subtitle": "&7Rockets count as EXPLOSIONS: Blast Protection…",
+  "quest.46F70611939EB189.quest_desc": [
+    "&7Rockets count as EXPLOSIONS&r&7: Blast Protection stops them much better than regular Protection.",
+    "",
+    "&r&7Dazzle: sometimes the &r&e&lSun stops vindicators, inquisitors and marauders.",
+    "",
+    "&r&7The &r&dSHIELD&r&7 blocks rockets head-on.",
+    "",
+    "&7Go with the LOWEST&r&7-level player nearby: pillagers use the nearest player's level."
+  ],
+  "quest.46E15D7D143DFD32.title": "&aRewards for winning",
+  "quest.46E15D7D143DFD32.quest_subtitle": "&7Hero of the Village:",
+  "quest.46E15D7D143DFD32.quest_desc": [
+    "&eHero of the Village:",
+    "&r&7Villagers give you &r&dDISCOUNTS&r&7 and throw you gifts. The stronger the Bad Omen, the better the discount.",
+    "",
+    "&7Also, illagers drop their loot: the Evoker a &r&dTOTEM&r&7, the ravager a mount, the captain an ominous bottle...",
+    "",
+    "&eof each one."
+  ],
+  "quest.4C250AE8D861CDB0.title": "&6Raids (village attacks)",
+  "quest.4C250AE8D861CDB0.quest_subtitle": "&7Pillagers shoot ROCKETS that scale with your level, and they come…",
+  "quest.4C250AE8D861CDB0.quest_desc": [
+    "&r&7Pillagers fire &r&dROCKETS that scale with your level, and new illagers from Illager Invasion show up.",
+    "",
+    "&eprotect yourself"
+  ],
+  "task.42BF9B3DB005E90C.title": "Kill a pillager",
+  "quest.40603EDA0B76B8FC.title": "&7Pillager",
+  "quest.40603EDA0B76B8FC.quest_subtitle": "&7Health: 12 ❤",
+  "quest.40603EDA0B76B8FC.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&carrows and ROCKETS (3 ❤ to 17 ❤)",
+    "&r&7Drops: &r&aarrows, sometimes its crossbow",
+    "",
+    "&7Rockets scale with level: check the Raids menu."
+  ],
+  "task.4EDC9EB136AEF4BE.title": "Kill a vindicator",
+  "quest.449A36616B5F60EE.title": "&7Vindicator",
+  "quest.449A36616B5F60EE.quest_subtitle": "&7Health: 12 ❤",
+  "quest.449A36616B5F60EE.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&caxe, 9.8 ❤ per hit Drops: &r&aemerald, sometimes its axe",
+    "",
+    "&7At level 50: +50% health and +24% damage.",
+    "&r&7Level 100: they carry a &r&dTOTEM&r&7."
+  ],
+  "task.48AC83C7E1380EAB.title": "Kill an evoker",
+  "quest.4E089140E36D02D8.title": "&5Evoker",
+  "quest.4E089140E36D02D8.quest_subtitle": "&7Health: 12 ❤",
+  "quest.4E089140E36D02D8.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&cfangs, 3 ❤, and summons vexes Drops: &r&aTotem of Undying always, emerald"
+  ],
+  "task.48DB371C93949588.title": "Kill a vex",
+  "quest.41D88D2BD970804B.title": "&bVex",
+  "quest.41D88D2BD970804B.quest_subtitle": "&7Health: 7 ❤",
+  "quest.41D88D2BD970804B.quest_desc": [
+    "&r&7Health: &r&f7 ❤",
+    "&r&7Attack: &r&c6.8 ❤ per hit, goes through walls Drops: &r&anothing"
+  ],
+  "task.43CEE54DB5D3ABE1.title": "Kill a ravager",
+  "quest.4FB689A1C2D793D6.title": "&8Ravager",
+  "quest.4FB689A1C2D793D6.quest_subtitle": "&7Health: 50 ❤",
+  "quest.4FB689A1C2D793D6.quest_desc": [
+    "&r&7Health: &r&f50 ❤",
+    "&r&7Attack: &r&c9 ❤ per hit, breaks your shield Drops: &r&asaddle"
+  ],
+  "task.42B627A560B48BBC.title": "Kill a witch",
+  "quest.4A7F51591860062B.title": "&2Witch",
+  "quest.4A7F51591860062B.quest_subtitle": "&7Health: 13 ❤",
+  "quest.4A7F51591860062B.quest_desc": [
+    "&r&7Health: &r&f13 ❤",
+    "&r&7Attack: &r&cpotions (3 ❤ damage, poison, slowness)",
+    "&r&7Drops: &r&apotions, gunpowder, redstone, sugar..."
+  ],
+  "task.4981D5BDA855E19A.title": "Kill an illusioner",
+  "quest.419C5F27909E5EBD.title": "&9Illusioner",
+  "quest.419C5F27909E5EBD.quest_subtitle": "&7Health: 12 ❤",
+  "quest.419C5F27909E5EBD.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&carrows, copies of itself and blindness Drops: &r&aTOTEM of Illusion, emerald, arrows",
+    "",
+    "&8Friends ＆ Foes"
+  ],
+  "task.4819542653CE7ACF.title": "Kill an iceologer",
+  "quest.44332876F45AC625.title": "&bIceologer",
+  "quest.44332876F45AC625.quest_subtitle": "&7Health: 12 ❤",
+  "quest.44332876F45AC625.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&cthrows ice blocks at you Drops: &r&aTOTEM of Freezing, emerald, blue ice",
+    "",
+    "&7Doesn't come in raids: lives in cabins in the snow.",
+    "",
+    "&8Friends ＆ Foes"
+  ],
+  "task.4792663CDD1AEB9D.title": "Kill the Inquisitor",
+  "quest.4346A79A006025A0.title": "&cInquisitor",
+  "quest.4346A79A006025A0.quest_subtitle": "&7Health: 40 ❤",
+  "quest.4346A79A006025A0.quest_desc": [
+    "&r&7Health: &r&f40 ❤",
+    "&r&7Attack: &r&c7.5 ❤ per hit, breaks your shield Drops: &r&aemerald, iron, leather and PLATINUM (50%)",
+    "",
+    "&74 platinum chunks = platinum sheet (armor trims with effects).",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.408AF4F7658BD6D8.title": "Kill the Basher",
+  "quest.41528023F72A5EF7.title": "&7Basher",
+  "quest.41528023F72A5EF7.quest_subtitle": "&7Health: 16 ❤",
+  "quest.41528023F72A5EF7.quest_desc": [
+    "&r&7Health: &r&f16 ❤",
+    "&r&7Attack: &r&c2.3 ❤ per hit, knocks down your shield Drops: &r&aemerald, iron nuggets",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4C889CA06165EA03.title": "Kill the Marauder",
+  "quest.4E6434D6BE1421FE.title": "&7Marauder",
+  "quest.4E6434D6BE1421FE.quest_subtitle": "&7Health: 12 ❤",
+  "quest.4E6434D6BE1421FE.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&cthrown axes Drops: &r&aemerald; the captain, ominous bottle",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.419AB43FF9AD41CB.title": "Kill the Provoker",
+  "quest.4DE808797F699106.title": "&7Provoker",
+  "quest.4DE808797F699106.quest_subtitle": "&7Health: 12 ❤",
+  "quest.4DE808797F699106.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&carrows, and cheers the others on Drops: &r&aemerald, arrows",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.42C5BF2235BB3C59.title": "Kill the Necromancer",
+  "quest.4130AB73031DAEC2.title": "&8Necromancer",
+  "quest.4130AB73031DAEC2.quest_subtitle": "&7Health: 16 ❤",
+  "quest.4130AB73031DAEC2.quest_desc": [
+    "&r&7Health: &r&f16 ❤",
+    "&r&7Attack: &r&craises zombies and skeletons Drops: &r&aemerald, skull or zombie head",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.40368A16C0BE926B.title": "Kill the Sorcerer",
+  "quest.463F2ACC683BF208.title": "&dSorcerer",
+  "quest.463F2ACC683BF208.quest_subtitle": "&7Health: 16 ❤",
+  "quest.463F2ACC683BF208.quest_desc": [
+    "&r&7Health: &r&f16 ❤",
+    "&r&7Attack: &r&cranged spells Drops: &r&aemerald, book and UNUSUAL DUST (40%)",
+    "",
+    "&7The dust is used for the Hallowed Gem and the Horn of Sight.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.42CBB2E30111A7ED.title": "Kill the Archivist",
+  "quest.4A548E13D71447FF.title": "&bArchivist",
+  "quest.4A548E13D71447FF.quest_subtitle": "&7Health: 12 ❤",
+  "quest.4A548E13D71447FF.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&cmakes you LEVITATE (watch the fall)",
+    "&r&7Drops: &r&aemerald, book, paper",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.421E2DF8DB028EC1.title": "Kill the Alchemist",
+  "quest.4FC53B2E563B9681.title": "&aAlchemist",
+  "quest.4FC53B2E563B9681.quest_subtitle": "&7Health: 12 ❤",
+  "quest.4FC53B2E563B9681.quest_desc": [
+    "&r&7Health: &r&f12 ❤",
+    "&r&7Attack: &r&cthrows potions",
+    "&r&7Drops: &r&aemerald, gunpowder, bottle",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4A347AA1DFF55A6F.title": "Kill the Firecaller",
+  "quest.44F5206B785704FD.title": "&6Firecaller",
+  "quest.44F5206B785704FD.quest_subtitle": "&7Health: 16 ❤",
+  "quest.44F5206B785704FD.quest_desc": [
+    "&r&7Health: &r&f16 ❤",
+    "&r&7Attack: &r&cmagic fire",
+    "&r&7Drops: &r&aemerald, fire charge",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.488E9B53C665B5AD.title": "Kill the Summoner",
+  "quest.46625BC48516BC58.title": "&5Invoker (boss)",
+  "quest.46625BC48516BC58.quest_subtitle": "&7Health: 125 ❤",
+  "quest.46625BC48516BC58.quest_desc": [
+    "&r&7Health: &r&f125 ❤",
+    "&r&7Attack: &r&c6 ❤ per hit, fangs and summons Drops: &r&aemerald and PRIMORDIAL ESSENCE",
+    "",
+    "&7Doesn't come in raids. The essence is used for the Imbuing Table.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "task.4BAA756BDEC2BABF.title": "Kill the Surrendered",
+  "quest.4E42C25AF4A08E3A.title": "&fSurrendered",
+  "quest.4E42C25AF4A08E3A.quest_subtitle": "&7Health: 7 ❤",
+  "quest.4E42C25AF4A08E3A.quest_desc": [
+    "&r&7Health: &r&f7 ❤",
+    "&r&7Attack: &r&c3.8 ❤ per hit",
+    "&r&7Drops: &r&anothing",
+    "",
+    "&7Spirit summoned by the Invoker.",
+    "",
+    "&8Illager Invasion"
+  ],
+  "quest.4639B7B1EE211ECD.title": "&4Illagers",
+  "quest.4639B7B1EE211ECD.quest_subtitle": "&7Damage on hard and WITHOUT armor.",
+  "quest.4639B7B1EE211ECD.quest_desc": [
+    "&r&7Damage on hard and &r&dWITHOUT&r&7 armor.",
+    "&7You have 10 ❤.",
+    "",
+    "&7Pillagers, vindicators, witches and ravagers hit harder the higher the nearest player's level."
+  ],
+  "chapter.442D47D50D40226A.title": "&cThe Nether",
+  "task.47F2AA4E79FBE90D.title": "Enter the Nether",
+  "quest.4AB966CAFDBC5119.title": "&cOn the other side",
+  "quest.4AB966CAFDBC5119.quest_subtitle": "Enter the Nether.",
+  "quest.4AB966CAFDBC5119.quest_desc": [
+    "Wear &da gold piece&7 so piglins don't attack you, and bring blocks for cover."
+  ],
+  "task.4298FF1CD1FD9647.title": "Find a fortress",
+  "quest.4E8C55C7FEFB5385.title": "&cA fortress",
+  "quest.4E8C55C7FEFB5385.quest_subtitle": "Find a Nether fortress.",
+  "quest.4E8C55C7FEFB5385.quest_desc": [
+    "Here you'll find &dblazes&7 and &cwither skeletons&7. Their chests may hold the &dNether Eye&7."
+  ],
+  "task.4C24DF4F28670B89.title": "Get a blaze rod",
+  "quest.417379B58220C8EF.title": "&cBlaze Rod",
+  "quest.417379B58220C8EF.quest_subtitle": "Get a blaze rod.",
+  "quest.417379B58220C8EF.quest_desc": [
+    "For &dpotions&7 and for the End."
+  ],
+  "task.4D352B829E021BBC.title": "Enter a bastion",
+  "quest.44EC6F5D35EC04BC.title": "&6A bastion",
+  "quest.44EC6F5D35EC04BC.quest_subtitle": "Enter a bastion.",
+  "quest.44EC6F5D35EC04BC.quest_desc": [
+    "&cVery dangerous&7: piglin brutes. Its treasure chest can hold the &dCursed eye&7."
+  ],
+  "task.450E2E5912FA1008.title": "Get ancient debris",
+  "quest.4505F9731C4C0888.title": "&5Ancient Debris",
+  "quest.4505F9731C4C0888.quest_subtitle": "Find ancient debris.",
+  "quest.4505F9731C4C0888.quest_desc": [
+    "Far down, near layer 15. Blow up the area with beds or TNT."
+  ],
+  "task.4E6DD61A20EA57CF.title": "Have netherite",
+  "quest.4BF1A53EC8D08209.title": "&5&lNetherite",
+  "quest.4BF1A53EC8D08209.quest_subtitle": "Have a netherite ingot or netherite gear.",
+  "quest.4BF1A53EC8D08209.quest_desc": [
+    "4 scraps and 4 gold ingots. With the &e&lSun&r&7 on your side: &dBlessed Forge&7 and &dSun's Warmth&7."
+  ],
+  "task.4CC9C77CBDB8DABF.title": "Full netherite armor",
+  "quest.4CCBDC9DD754E4E1.title": "&5&lCovered in netherite",
+  "quest.4CCBDC9DD754E4E1.quest_subtitle": "Wear full netherite armor.",
+  "quest.4CCBDC9DD754E4E1.quest_desc": [
+    "The foundation for everything that comes next.",
+    "",
+    "Next step: &bGear → Advanced Netherite&7."
+  ],
+  "task.49E731EB50694AEC.title": "Kill the Wither",
+  "quest.45DDA816909586AB.title": "&8Wither",
+  "quest.45DDA816909586AB.quest_subtitle": "&7300 health. Summon it far from your base. It drops the Decayed Eye…",
+  "quest.45DDA816909586AB.quest_desc": [
+    "&7300 health. Summon it far from your base. It drops the Decayed Eye you need for the End."
+  ],
+  "task.44F10EFEF5B26DAB.title": "Find the citadel",
+  "quest.42AB4A43EEAB4E0A.title": "&cWildfire Citadel",
+  "quest.42AB4A43EEAB4E0A.quest_subtitle": "Find the citadel.",
+  "quest.42AB4A43EEAB4E0A.quest_desc": [
+    "Home of the &cWildfire&7. Fire Resistance is a must."
+  ],
+  "task.4459F821F93022D8.title": "Kill the Wildfire",
+  "quest.415248638104CB8D.title": "&6Wildfire",
+  "quest.415248638104CB8D.quest_subtitle": "&7120 health. Lives in the Nether Citadel. Fire Resistance…",
+  "quest.415248638104CB8D.quest_desc": [
+    "&7120 health. Lives in the Nether Citadel. Fire Resistance is a must."
+  ],
+  "quest.49AFE87459E48250.title": "&6Cincinnasite",
+  "quest.49AFE87459E48250.quest_subtitle": "&7Nether ore. Armor with 17 defense.",
+  "quest.49AFE87459E48250.quest_desc": [
+    "&7Nether ore. Armor with 17 defense."
+  ],
+  "quest.4DC2922C1462EB5C.title": "&cNether Ruby",
+  "quest.4DC2922C1462EB5C.quest_subtitle": "&7Nether gem. Armor with 18 defense.",
+  "quest.4DC2922C1462EB5C.quest_desc": [
+    "&7Nether gem. Armor with 18 defense."
+  ],
+  "quest.46B4A97E925ACEF6.title": "&6Fire ruby armor",
+  "quest.46B4A97E925ACEF6.quest_subtitle": "&7Defense 20 · Toughness 2.6",
+  "quest.46B4A97E925ACEF6.quest_desc": [
+    "&7Defense 20 · Toughness 2.6",
+    "&7Upgrade of the ruby one with its template. Own enchantment:",
+    "&7Ruby fire."
+  ],
+  "quest.424A4C0C96BEFBA5.title": "&6Fire ruby sword",
+  "quest.424A4C0C96BEFBA5.quest_subtitle": "&7One of the highest-damage swords in the pack.",
+  "quest.424A4C0C96BEFBA5.quest_desc": [
+    "&7One of the highest-damage swords in the pack."
+  ],
+  "chapter.4B953832B0648166.title": "&bThe End",
+  "quest.49758A31802979AE.title": "&6Old Eye",
+  "quest.49758A31802979AE.quest_subtitle": "&7Where:",
+  "quest.49758A31802979AE.quest_desc": [
+    "&eWhere:",
+    "&7Chests in desert pyramids.",
+    "",
+    "&7Low chance (15%)."
+  ],
+  "quest.4C62142B6F34A05E.title": "&aCunning eye",
+  "quest.4C62142B6F34A05E.quest_subtitle": "&7Where:",
+  "quest.4C62142B6F34A05E.quest_desc": [
+    "&eWhere:",
+    "&7Chests in jungle temples.",
+    "",
+    "&7Chance 40%."
+  ],
+  "quest.4B0B617D2EA24B01.title": "&cNether eye",
+  "quest.4B0B617D2EA24B01.quest_subtitle": "&7Where:",
+  "quest.4B0B617D2EA24B01.quest_desc": [
+    "&eWhere:",
+    "&7Chests in Nether fortresses.",
+    "",
+    "&7Chance 30%."
+  ],
+  "quest.4C0F5DB17DEB9DF2.title": "&bCold eye",
+  "quest.4C0F5DB17DEB9DF2.quest_subtitle": "&7Where:",
+  "quest.4C0F5DB17DEB9DF2.quest_desc": [
+    "&eWhere:",
+    "&7Chests in igloos.",
+    "",
+    "&7Chance 70%."
+  ],
+  "quest.42789F5D99610BD7.title": "&dMagic eye",
+  "quest.42789F5D99610BD7.quest_subtitle": "&7Where:",
+  "quest.42789F5D99610BD7.quest_desc": [
+    "&eWhere:",
+    "&7Chests in Woodland Mansions, or by killing Evokers.",
+    "",
+    "&7Rare (10% in chests, 5% from the Evoker)."
+  ],
+  "quest.41118E5BE53DD1C0.title": "&8Black eye",
+  "quest.41118E5BE53DD1C0.quest_subtitle": "&7Where:",
+  "quest.41118E5BE53DD1C0.quest_desc": [
+    "&eWhere:",
+    "&7Buried treasure (treasure maps).",
+    "",
+    "&7Chance 30%."
+  ],
+  "quest.4A391BC657F358AC.title": "&7Lost Eye",
+  "quest.4A391BC657F358AC.quest_subtitle": "&7Where:",
+  "quest.4A391BC657F358AC.quest_desc": [
+    "&eWhere:",
+    "&7Chests in mineshafts.",
+    "",
+    "&7Chance 20%."
+  ],
+  "quest.4DDA1B063506E090.title": "&5Corrupted Eye",
+  "quest.4DDA1B063506E090.quest_subtitle": "&7Where:",
+  "quest.4DDA1B063506E090.quest_desc": [
+    "&eWhere:",
+    "&7Chests in pillager outposts.",
+    "",
+    "&7Chance 30%."
+  ],
+  "quest.4ECB42C1FB9EA610.title": "&4Cursed Eye",
+  "quest.4ECB42C1FB9EA610.quest_subtitle": "&7Where:",
+  "quest.4ECB42C1FB9EA610.quest_desc": [
+    "&eWhere:",
+    "&7Treasure chests in bastions (Nether).",
+    "",
+    "&7Chance 70%."
+  ],
+  "quest.49DBD5F90254F641.title": "&bGuardian eye",
+  "quest.49DBD5F90254F641.quest_subtitle": "&7Where:",
+  "quest.49DBD5F90254F641.quest_desc": [
+    "&eWhere:",
+    "&7Dropped by the Elder Guardian (ocean monuments).",
+    "",
+    "&7Chance 35%."
+  ],
+  "quest.4365C934CD72F751.title": "&8Rotten eye",
+  "quest.4365C934CD72F751.quest_subtitle": "&7Where:",
+  "quest.4365C934CD72F751.quest_desc": [
+    "&eWhere:",
+    "&7Dropped by the Wither.",
+    "",
+    "&7Almost certain."
+  ],
+  "quest.483DDF72ACBA7B2D.title": "&2Witch Eye",
+  "quest.483DDF72ACBA7B2D.quest_subtitle": "&7Where:",
+  "quest.483DDF72ACBA7B2D.quest_desc": [
+    "&eWhere:",
+    "&7Crafted from: Eye of Ender + Witch Pupil.",
+    "",
+    "&7Witches drop the pupil (10%)."
+  ],
+  "quest.49B1DE1F14E3980D.title": "&7Undead Eye",
+  "quest.49B1DE1F14E3980D.quest_subtitle": "&7Where:",
+  "quest.49B1DE1F14E3980D.quest_desc": [
+    "&eWhere:",
+    "&7Crafted with an Undead Soul.",
+    "",
+    "&7The soul is dropped by skeleton horses (25%)."
+  ],
+  "quest.412A22019999520E.title": "&dExotic eye",
+  "quest.412A22019999520E.quest_subtitle": "&7Where:",
+  "quest.412A22019999520E.quest_desc": [
+    "&eWhere:",
+    "&7Crafted with coral, an Eye of Ender and glow ink.",
+    "",
+    "&r&7Check the recipe with &r&dREI&r&7 (R)."
+  ],
+  "quest.4A42009F06B8FB87.title": "&cEvil eye",
+  "quest.4A42009F06B8FB87.quest_subtitle": "&7Where:",
+  "quest.4A42009F06B8FB87.quest_desc": [
+    "&eWhere:",
+    "&7Sold by a villager.",
+    "",
+    "&716 emeralds + rabbit's foot."
+  ],
+  "quest.449360C24071FC03.title": "&5Cryptic Eye",
+  "quest.449360C24071FC03.quest_subtitle": "&7Where:",
+  "quest.449360C24071FC03.quest_desc": [
+    "&eWhere:",
+    "&7Secret...",
+    "",
+    "&7Nobody knows where it is."
+  ],
+  "quest.4CD861137CBE5D84.title": "&3How to open the End portal",
+  "quest.4CD861137CBE5D84.quest_subtitle": "&7Regular Eyes of Ender don't work anymore.",
+  "quest.4CD861137CBE5D84.quest_desc": [
+    "&7Regular Eyes of Ender don't work anymore.",
+    "",
+    "&7Each portal frame needs a &r&dDIFFERENT&r&7 special eye.",
+    "",
+    "&7Find enough eyes and place them in the stronghold's frames.",
+    "",
+    "&8Mod: End Remastered"
+  ],
+  "task.455C246D6F546A8D.title": "Enter the End",
+  "quest.45BD71C6BF878287.title": "&b&lThe End",
+  "quest.45BD71C6BF878287.quest_subtitle": "Enter the End.",
+  "quest.45BD71C6BF878287.quest_desc": [
+    "Prepare beforehand: the &cremastered Ender Dragon&7 is much tougher. Better in a group."
+  ],
+  "task.42F8459F1C13590A.title": "Kill the Ender Dragon",
+  "quest.47C0A5A79B1553E5.title": "&5&lThe Ender Dragon",
+  "quest.47C0A5A79B1553E5.quest_subtitle": "Kill the Ender Dragon.",
+  "quest.47C0A5A79B1553E5.quest_desc": [
+    "Bring a bow, Healing and Slow Falling potions."
+  ],
+  "task.4B0AD7017837470E.title": "Enter an End city",
+  "quest.412E8FA9D2C3DCA1.title": "&dAn End city",
+  "quest.412E8FA9D2C3DCA1.quest_subtitle": "Find an End city.",
+  "quest.412E8FA9D2C3DCA1.quest_desc": [
+    "Use the &dEnd gateways&7 to reach the outer islands. Watch out for &cshulkers&7."
+  ],
+  "task.44F9705194A5B072.title": "Get elytra",
+  "quest.4EB141DD04450A4E.title": "&dElytra",
+  "quest.4EB141DD04450A4E.quest_subtitle": "Get some elytra.",
+  "quest.4EB141DD04450A4E.quest_desc": [
+    "They're in End ships."
+  ],
+  "task.4430931FE17DE2C4.title": "Have aeternium",
+  "quest.4D94B8B0F8872001.title": "&2Aeternium",
+  "quest.4D94B8B0F8872001.quest_subtitle": "Have aeternium or aeternium gear.",
+  "quest.4D94B8B0F8872001.quest_desc": [
+    "The &dBetterEnd&7 metal. Needed for the next netherite tier."
+  ],
+  "task.406A567040E9C993.title": "Kill the Void Worm",
+  "quest.405156E666096B7A.title": "&5Void Worm",
+  "quest.405156E666096B7A.quest_subtitle": "&7Alex's Mobs End boss. Attacks from the void.",
+  "quest.405156E666096B7A.quest_desc": [
+    "&7Alex's Mobs End boss. Attacks from the void."
+  ],
+  "quest.497A313AEEAB6AE5.title": "&bThallasium",
+  "quest.497A313AEEAB6AE5.quest_subtitle": "&7First End metal. Weak-ish armor (12 defense).",
+  "quest.497A313AEEAB6AE5.quest_desc": [
+    "&7First End metal. Weak-ish armor (12 defense)."
+  ],
+  "quest.4C4C978D77FAC102.title": "&aTerminite",
+  "quest.4C4C978D77FAC102.quest_subtitle": "&7Iron + End dust in the smelter. Armor with 19 defense.",
+  "quest.4C4C978D77FAC102.quest_desc": [
+    "&7Iron + End dust in the smelter. Armor with 19 defense."
+  ],
+  "quest.41E00C94BD983455.title": "&2Aeternium",
+  "quest.41E00C94BD983455.quest_subtitle": "&7Terminite + netherite in the End smelter. The best End metal.",
+  "quest.41E00C94BD983455.quest_desc": [
+    "&7Terminite + netherite in the End smelter. The best End metal.",
+    "",
+    "&7With 4 ingots + a netherite and diamond ingot you make the netherite and aeternium one (Advanced Netherite)."
+  ],
+  "quest.46096983E406CE87.title": "&2Aeternium armor",
+  "quest.46096983E406CE87.quest_subtitle": "&7Defense 24 · Toughness 3.5",
+  "quest.46096983E406CE87.quest_desc": [
+    "&6Defense 24 · Toughness 3.5",
+    "&7Better than regular netherite.",
+    "&7For even better armor:",
+    "&7aeternium-netherite (Gear → Advanced Netherite)."
+  ],
+  "quest.422BEC11EE327C07.title": "&dCrystalite armor",
+  "quest.422BEC11EE327C07.quest_subtitle": "&7Defense 20 · Toughness 1.2",
+  "quest.422BEC11EE327C07.quest_desc": [
+    "&7Defense 20 · Toughness 1.2",
+    "&7Terminite infused with crystals."
+  ],
+  "quest.497D926DE531C966.title": "&2Aeternium sword",
+  "quest.497D926DE531C966.quest_subtitle": "&7Top weapon of the End.",
+  "quest.497D926DE531C966.quest_desc": [
+    "&7Top weapon of the End."
+  ],
+  "quest.432B7F6B39537768.title": "&2Aeternium hammer",
+  "quest.432B7F6B39537768.quest_subtitle": "&7Tool for crushing.",
+  "quest.432B7F6B39537768.quest_desc": [
+    "&7Tool for crushing."
+  ],
+  "quest.4043F673B9368664.title": "&7Armored elytra",
+  "quest.4043F673B9368664.quest_subtitle": "&7Elytra that also protect you.",
+  "quest.4043F673B9368664.quest_desc": [
+    "&7Elytra that also protect you."
+  ],
+  "quest.40B2871D7D419677.title": "&bEternal crystal",
+  "quest.40B2871D7D419677.quest_subtitle": "&7Material for the eternal portal.",
+  "quest.40B2871D7D419677.quest_desc": [
+    "&7Material for the eternal portal."
+  ],
+  "chapter.489C4B5B50DB34CA.title": "&5The Sift",
+  "task.41EEA3C0B2B7B7CE.title": "Have a rift (or siftite)",
+  "quest.4F992696B60A7931.title": "&5The Sift rift",
+  "quest.4F992696B60A7931.quest_subtitle": "Get a rift.",
+  "quest.4F992696B60A7931.quest_desc": [
+    "The way to reach the dimension. It stays open for &d5 minutes&7."
+  ],
+  "task.4DFF94BA2B0FC95C.title": "Enter The Sift",
+  "quest.4D711FC7B839432D.title": "&5&lThe Sift",
+  "quest.4D711FC7B839432D.quest_subtitle": "Enter The Sift.",
+  "quest.4D711FC7B839432D.quest_desc": [
+    "Its creatures are among the most &cdangerous&7 in the pack. Go with netherite and aeternium."
+  ],
+  "task.4659E65FDB12C1E4.title": "Have siftite",
+  "quest.4DB281B41AE80969.title": "&dSiftite",
+  "quest.4DB281B41AE80969.quest_subtitle": "Have siftite.",
+  "quest.4DB281B41AE80969.quest_desc": [
+    "Nine nuggets make an ingot."
+  ],
+  "task.4B910E9A7320A14F.title": "Have a siftite ingot",
+  "quest.4805740973780A15.title": "&dSiftite ingot",
+  "quest.4805740973780A15.quest_subtitle": "Have a siftite ingot or siftite gear.",
+  "quest.4805740973780A15.quest_desc": [
+    "Upgrade the netherite."
+  ],
+  "quest.4CFF9EEE7ACD9073.title": "&3The Sift rift",
+  "quest.4CFF9EEE7ACD9073.quest_subtitle": "&7The way to reach the dimension.",
+  "quest.4CFF9EEE7ACD9073.quest_desc": [
+    "&7The way to reach the dimension.",
+    "&7Stays open for 5 minutes."
+  ],
+  "quest.419C0FE25809D551.title": "&dRuined portals",
+  "quest.419C0FE25809D551.quest_subtitle": "&7The only structures in The Sift.",
+  "quest.419C0FE25809D551.quest_desc": [
+    "&7The only structures in The Sift.",
+    "&7They have valuable loot."
+  ],
+  "quest.419BF3EEA6CFBDF9.title": "&3Siftite",
+  "quest.419BF3EEA6CFBDF9.quest_subtitle": "&7Made from 9 nuggets. Upgrades netherite.",
+  "quest.419BF3EEA6CFBDF9.quest_desc": [
+    "&7Made from 9 nuggets. Upgrades netherite.",
+    "",
+    "&7With 4 ingots + a netherite and aeternium ingot you make the netherite and siftite one (Advanced Netherite)."
+  ],
+  "quest.4289E0FAEAD91000.title": "&dSiftite upgrade template",
+  "quest.4289E0FAEAD91000.quest_subtitle": "&7Duplicated with diamonds and The Sift slate.",
+  "quest.4289E0FAEAD91000.quest_desc": [
+    "&7Duplicated with diamonds and The Sift slate."
+  ],
+  "quest.4D81AEFBE035D5FF.title": "&3Siftite armor",
+  "quest.4D81AEFBE035D5FF.quest_subtitle": "&7Defense 22 · Toughness 3.5",
+  "quest.4D81AEFBE035D5FF.quest_desc": [
+    "&7Defense 22 · Toughness 3.5",
+    "&7Better than regular netherite.",
+    "&7Smithing table: netherite piece + template + siftite.",
+    "",
+    "&7For the best armor in the modpack:",
+    "&7siftite-netherite (Gear → Advanced Netherite)."
+  ],
+  "quest.4E5FB47D18C5E806.title": "&3Siftite spear",
+  "quest.4E5FB47D18C5E806.quest_subtitle": "&7Weapon from the dimension.",
+  "quest.4E5FB47D18C5E806.quest_desc": [
+    "&7Weapon from the dimension."
+  ],
+  "quest.474AF4895DCE4569.title": "&6Bottle of ichor",
+  "quest.474AF4895DCE4569.quest_subtitle": "&7Gives you regeneration.",
+  "quest.474AF4895DCE4569.quest_desc": [
+    "&7Gives you regeneration."
+  ],
+  "quest.4B8EEED4F12200B9.title": "&dCharoite",
+  "quest.4B8EEED4F12200B9.quest_subtitle": "&7Gem from The Sift.",
+  "quest.4B8EEED4F12200B9.quest_desc": [
+    "&7Gem from The Sift."
+  ],
+  "quest.48B7CA32F62186C8.title": "&4The Sift creatures",
+  "quest.48B7CA32F62186C8.quest_subtitle": "&7Sifter: fast predator. 40 health, 15-damage hits on Hard (between…",
+  "quest.48B7CA32F62186C8.quest_desc": [
+    "&fSifter: fast predator. 40 health, hits for 15 on hard (between a wither skeleton and a vindicator).",
+    "&fDark Sniffer: a sniffer infected by the sculk. 40 health, hits for 10.5 (like an enderman).",
+    "&fEcho Golem: rare and solitary.",
+    "&fBlub and Singer: peaceful.",
+    "",
+    "&r&7With &r&dNETHERITE&r&7 and Protection IV the Sifter takes a little over 1 heart per hit."
+  ],
+  "quest.4298BEF86346F62D.title": "&5&lThe dimension",
+  "quest.4298BEF86346F62D.quest_subtitle": "&7What's in The Sift and what to get from it.",
+  "quest.4298BEF86346F62D.quest_desc": [
+    "What's in The Sift and what to get from it."
+  ],
+  "chapter.4619C2E767BB6C2C.title": "&2&lThe Veil",
+  "task.482C06AA6C9F113A.title": "Defeat the echo",
+  "quest.40BFC8AD8DCEE173.title": "&d&lLunar Priest",
+  "quest.40BFC8AD8DCEE173.quest_subtitle": "&7Echo of the one who guided the lost beneath the moon. Today it preaches what…",
+  "quest.40BFC8AD8DCEE173.quest_desc": [
+    "&7Echo of the one who guided the lost beneath the moon. Today it preaches what the outsiders whisper.",
+    "",
+    "&7Own loot: lunar crystal.",
+    "",
+    "&r&7Crystal: &r&eCrystal of the Lunatic Priest Piece: &r&a&lBroken Veil Helmet"
+  ],
+  "task.4248663E5CCCA941.title": "Lunatic Priest Crystal",
+  "quest.41C5BD1F93A47BA4.title": "&e&lCrystal of the Lunatic Priest",
+  "quest.41C5BD1F93A47BA4.quest_subtitle": "&7Divine power left over from the echo of the Lunar Priest.",
+  "quest.41C5BD1F93A47BA4.quest_desc": [
+    "&r&7Divine power left over from the echo of the &lLunar Priest&r&7.",
+    "",
+    "&r&7Combine it with a &r&bnetherite and siftite&r&7 ingot at the crafting table."
+  ],
+  "task.4D9313CE48EAA9C2.title": "Broken Veil Ingot (Lunatic)",
+  "quest.4B105AC521620CA6.title": "&a&lBroken Veil Ingot (Lunatic)",
+  "quest.4B105AC521620CA6.quest_subtitle": "&7For the piece: Helmet.",
+  "quest.4B105AC521620CA6.quest_desc": [
+    "&r&7For the piece: &r&a&lHelmet&r&7.",
+    "",
+    "&r&bSmithing Table&r&7: netherite and siftite piece + netherite template + this ingot."
+  ],
+  "task.409DDABFAA127C7C.title": "Defeat the echo",
+  "quest.45E463870A19D0D2.title": "&6&lChained god",
+  "quest.45E463870A19D0D2.quest_subtitle": "&7Echo of the god who guarded the veil.",
+  "quest.45E463870A19D0D2.quest_desc": [
+    "&7Echo of the god who guarded the veil.",
+    "&7His chains now bind him to the corruption.",
+    "",
+    "&7Own loot (among others): golden Nether steak and pyromaniac ingot.",
+    "",
+    "&r&7Crystal: &r&eCrystal of the Chained God Piece: &r&a&lBroken Veil Chestplate"
+  ],
+  "task.422D538DE519A9E6.title": "Chained God Crystal",
+  "quest.42534F09BAEB8529.title": "&e&lCrystal of the Chained God",
+  "quest.42534F09BAEB8529.quest_subtitle": "&7Divine power left over from the echo of the Chained God.",
+  "quest.42534F09BAEB8529.quest_desc": [
+    "&r&7Divine power left over from the echo of the &lChained God&r&7.",
+    "",
+    "&r&7Combine it with a &r&bnetherite and siftite&r&7 ingot at the crafting table."
+  ],
+  "task.4E43AFFAC78B84B4.title": "Broken Veil Ingot (Chained)",
+  "quest.483CDFB97F92B64A.title": "&a&lBroken Veil Ingot (Chained)",
+  "quest.483CDFB97F92B64A.quest_subtitle": "&7For the piece: Chestplate.",
+  "quest.483CDFB97F92B64A.quest_desc": [
+    "&r&7For the piece: &r&a&lChestplate&r&7.",
+    "",
+    "&r&bSmithing Table&r&7: netherite and siftite piece + netherite template + this ingot."
+  ],
+  "task.4A6EBD7AE4F08BE1.title": "Defeat the echo",
+  "quest.4A670853ADBE78BC.title": "&5&lLilith",
+  "quest.4A670853ADBE78BC.quest_subtitle": "&7Echo of the one who watched over dreams from the shadows. Today the whispers…",
+  "quest.4A670853ADBE78BC.quest_desc": [
+    "&7Echo of the one who watched over dreams from the shadows. Today the whispers slip into them.",
+    "",
+    "&r&7Crystal: &r&eLilith's Crystal Piece: &r&a&lBroken Veil Leggings"
+  ],
+  "task.47D0E2DB0F858B38.title": "Lilith Crystal",
+  "quest.47494E685930C5DB.title": "&e&lLilith's Crystal",
+  "quest.47494E685930C5DB.quest_subtitle": "&7Divine power left over from the echo of Lilith.",
+  "quest.47494E685930C5DB.quest_desc": [
+    "&r&7Divine power left over from the echo of &lLilith&r&7.",
+    "",
+    "&r&7Combine it with a &r&bnetherite and siftite&r&7 ingot at the crafting table."
+  ],
+  "task.49374497F3DB0DE7.title": "Broken Veil Ingot (Shadowed)",
+  "quest.47A76A21C7113A86.title": "&a&lBroken Veil Ingot (Shadowy)",
+  "quest.47A76A21C7113A86.quest_subtitle": "&7For the piece: Leggings.",
+  "quest.47A76A21C7113A86.quest_desc": [
+    "&r&7For the piece: &r&a&lLeggings&r&7.",
+    "",
+    "&r&bSmithing Table&r&7: netherite and siftite piece + netherite template + this ingot."
+  ],
+  "task.4706AE713E89F700.title": "Defeat the echo",
+  "quest.413576029EF4BD79.title": "&2&lMage of the mud cycle",
+  "quest.413576029EF4BD79.quest_subtitle": "&7Echo of the one who guarded the cycle of mud and life. Today it turns for…",
+  "quest.413576029EF4BD79.quest_desc": [
+    "&7Echo of the one who guarded the cycle of mud and life. Today it turns for the outsiders.",
+    "",
+    "&7Own loot (among others): mud bone and obsidian shard.",
+    "",
+    "&r&7Crystal: &r&eCrystal of the Mud Cycle Mage Piece: &r&a&lBroken Veil Boots"
+  ],
+  "task.47237F362F40C55E.title": "Mud Cycle Mage Crystal",
+  "quest.4BC5D1EA27DAFFCA.title": "&e&lCrystal of the Mud Cycle Mage",
+  "quest.4BC5D1EA27DAFFCA.quest_subtitle": "&7Divine power left over from the echo of the Mudcycle Mage.",
+  "quest.4BC5D1EA27DAFFCA.quest_desc": [
+    "&r&7Divine power left over from the echo of the &lMud Cycle Mage&r&7.",
+    "",
+    "&r&7Combine it with a &r&bnetherite and siftite&r&7 ingot at the crafting table."
+  ],
+  "task.4F84771B8D8EE002.title": "Broken Veil Ingot (Mud)",
+  "quest.44750FDDB03C65CC.title": "&a&lBroken Veil Ingot (Mud)",
+  "quest.44750FDDB03C65CC.quest_subtitle": "&7For the piece: Boots.",
+  "quest.44750FDDB03C65CC.quest_desc": [
+    "&r&7For the piece: &r&a&lBoots&r&7.",
+    "",
+    "&r&bSmithing Table&r&7: netherite and siftite piece + netherite template + this ingot."
+  ],
+  "quest.409A041597EC8F4B.title": "&2&lThe Broken Veil",
+  "quest.409A041597EC8F4B.quest_subtitle": "Gather the four Broken Veil pieces.",
+  "quest.409A041597EC8F4B.quest_desc": [
+    "With all four equipped, the &dWhispers of a Divine Power&7 awaken."
+  ],
+  "quest.4808884CA6FC720E.title": "&e&lCrossing the Veil",
+  "quest.4808884CA6FC720E.quest_subtitle": "&7Only when the Veil weakens:",
+  "quest.4808884CA6FC720E.quest_desc": [
+    "&r&7Only when the &r&e&lVeil&r&7 weakens:",
+    "&7the chat warns you with a green message and a chorus of whispers.",
+    "",
+    "&r&7Climb up to the &r&eworld's ceiling&r&7 and keep going up to cross.",
+    "",
+    "&7You reach the islands, not the top.",
+    "&r&7If you fall into the void, you return to the &r&bOverworld&r&7.",
+    "",
+    "&r&7With the &r&e&lVeil&r&7 closed, an invisible force holds you back."
+  ],
+  "quest.44411FC6C725352F.title": "&5&lBeings from the other side",
+  "quest.44411FC6C725352F.quest_subtitle": "&7Overworld mobs born there are corrupted by a power…",
+  "quest.44411FC6C725352F.quest_desc": [
+    "&7Overworld mobs born there are &r&e&lcorrupted&r&7 by a power they cannot withstand, and they &r&e&looze&r&7.",
+    "",
+    "&r&7They stay that way even if you &r&ftame&r&7 them.",
+    "&7They whisper when you're nearby.",
+    "",
+    "&r&7Mobs native to &r&aAerial Hell&r&7 don't change."
+  ],
+  "quest.4EAA13D611CE5347.title": "&2&lDivine Corruption",
+  "quest.4EAA13D611CE5347.quest_subtitle": "&7The touch of the corrupted beings.",
+  "quest.4EAA13D611CE5347.quest_desc": [
+    "&7The touch of the corrupted beings.",
+    "",
+    "&r&7Duration: &r&f7 s",
+    "&r&7Damage: &r&f1 per second&r&7 (+0.5 per level, up to level &r&f3&r&7)",
+    "&r&7Pierces armor; only &r&bProtection reduces it.",
+    "&r&7Never kills: it stops at &r&c1 heart&r&7.",
+    "",
+    "&r&a&lImmunity: &r&72 Broken Veil pieces."
+  ],
+  "quest.4BD2F98DE32C556F.title": "&e&lForging the Broken Veil",
+  "quest.4BD2F98DE32C556F.quest_subtitle": "&71. Defeat a divine echo: it drops its crystal.",
+  "quest.4BD2F98DE32C556F.quest_desc": [
+    "&r&71. Defeat a &r&ddivine echo&r&7: it drops its &r&ecrystal&r&7.",
+    "&r&72. &r&eCrystal&r&7 + netherite and siftite ingot = &r&aBroken Veil ingot&r&7.",
+    "&r&73. &r&bSmithing Table&r&7: netherite and siftite piece + netherite template + Broken Veil ingot."
+  ],
+  "quest.41F63852B02F57EE.title": "&e&lAerial Hell",
+  "quest.41F63852B02F57EE.quest_subtitle": "&7Beyond the veil, the sky no longer belongs to those who tended it.",
+  "quest.41F63852B02F57EE.quest_desc": [
+    "&7Beyond the veil, the sky no longer belongs to those who tended it.",
+    "",
+    "&r&7The &r&5&ldemons from outside&r&7 found this corner of the world, corrupted the beings of the sky and rule the lesser ones with whispers.",
+    "",
+    "&r&7They hid behind a &r&e&lVeil&r&7.",
+    "&r&7Today, sometimes, the &r&e&lVeil&r&7 weakens."
+  ],
+  "quest.4160F2D432C5E4CA.title": "&2&lThe biome on the other side",
+  "quest.4160F2D432C5E4CA.quest_subtitle": "&7What the Aerial Hell dimension is like.",
+  "quest.4160F2D432C5E4CA.quest_desc": [
+    "What the Aerial Hell dimension is like."
+  ],
+  "chapter.4658AA70AFF93CE0.title": "&fArmor",
+  "quest.43A1C010FA28AEAF.title": "&61. Leather",
+  "quest.43A1C010FA28AEAF.quest_subtitle": "&7Total defense: 7",
+  "quest.43A1C010FA28AEAF.quest_desc": [
+    "&fTotal armor: 7",
+    "&fToughness: 0",
+    "",
+    "&7Vanilla. Just for starting out."
+  ],
+  "quest.448D65BEE3808546.title": "&62. Copper",
+  "quest.448D65BEE3808546.quest_subtitle": "&7Total defense: 10",
+  "quest.448D65BEE3808546.quest_desc": [
+    "&fTotal armor: 10",
+    "&fToughness: 0",
+    "",
+    "&7Vanilla. Cheap, better than leather."
+  ],
+  "quest.416F20E65476D05D.title": "&e3. Gold",
+  "quest.416F20E65476D05D.quest_subtitle": "&7Total defense: 11",
+  "quest.416F20E65476D05D.quest_desc": [
+    "&fTotal armor: 11",
+    "&fToughness: 0",
+    "",
+    "&7Vanilla. Piglins won't attack you if you wear a piece."
+  ],
+  "quest.485442D5072EF34E.title": "&74. Chainmail",
+  "quest.485442D5072EF34E.quest_subtitle": "&7Total defense: 12",
+  "quest.485442D5072EF34E.quest_desc": [
+    "&fTotal armor: 12",
+    "&fToughness: 0",
+    "",
+    "&7Vanilla. Only from chests or trading."
+  ],
+  "quest.49B62F5D17005CC8.title": "&b4. Thallasium (End)",
+  "quest.49B62F5D17005CC8.quest_subtitle": "&7Total defense: 12",
+  "quest.49B62F5D17005CC8.quest_desc": [
+    "&fTotal armor: 12",
+    "&fToughness: 0",
+    "",
+    "&7BetterEnd. Weak: not worth it."
+  ],
+  "quest.4FC866220700337A.title": "&f5. Iron",
+  "quest.4FC866220700337A.quest_subtitle": "&7Total defense: 15",
+  "quest.4FC866220700337A.quest_desc": [
+    "&fTotal armor: 15",
+    "&fToughness: 0",
+    "",
+    "&7Vanilla. The basics for exploring."
+  ],
+  "quest.4696E4F26CEFB1CD.title": "&66. Cincinnasite (Nether)",
+  "quest.4696E4F26CEFB1CD.quest_subtitle": "&7Total defense: 17",
+  "quest.4696E4F26CEFB1CD.quest_desc": [
+    "&fTotal armor: 17",
+    "&fToughness: 1",
+    "&fKnockback resistance: 0.05",
+    "",
+    "&7BetterNether. Better than iron."
+  ],
+  "quest.41DFE33EB145D60B.title": "&c7. Nether Ruby",
+  "quest.41DFE33EB145D60B.quest_subtitle": "&7Total defense: 18",
+  "quest.41DFE33EB145D60B.quest_desc": [
+    "&fTotal armor: 18",
+    "&fToughness: 1.4",
+    "&fKnockback resistance: 0.2",
+    "",
+    "&7BetterNether."
+  ],
+  "quest.4508BE567CA728AE.title": "&a8. Terminite (End)",
+  "quest.4508BE567CA728AE.quest_subtitle": "&7Total defense: 19",
+  "quest.4508BE567CA728AE.quest_desc": [
+    "&fTotal armor: 19",
+    "&fToughness: 1",
+    "&fKnockback resistance: 0.05",
+    "",
+    "&7BetterEnd. Base for aeternium."
+  ],
+  "quest.42ACD3F175FCABC8.title": "&b9. Diamond",
+  "quest.42ACD3F175FCABC8.quest_subtitle": "&7Total defense: 20",
+  "quest.42ACD3F175FCABC8.quest_desc": [
+    "&fTotal armor: 20",
+    "&fToughness: 2",
+    "",
+    "&7Vanilla. The minimum for hard dungeons."
+  ],
+  "quest.4C4FCB47BE46BC5C.title": "&d9. Crystalite (End)",
+  "quest.4C4FCB47BE46BC5C.quest_subtitle": "&7Total defense: 20",
+  "quest.4C4FCB47BE46BC5C.quest_desc": [
+    "&fTotal armor: 20",
+    "&fToughness: 1.2",
+    "&fKnockback resistance: 0.1",
+    "",
+    "&7BetterEnd."
+  ],
+  "quest.44F054AC866335CE.title": "&610. Fire ruby (Nether)",
+  "quest.44F054AC866335CE.quest_subtitle": "&7Total defense: 20",
+  "quest.44F054AC866335CE.quest_desc": [
+    "&fTotal armor: 20",
+    "&fToughness: 2.6",
+    "&fKnockback resistance: 0.3",
+    "",
+    "&7BetterNether. Almost netherite."
+  ],
+  "quest.49F9354ADE0290C7.title": "&811. Netherite",
+  "quest.49F9354ADE0290C7.quest_subtitle": "&7Total defense: 20",
+  "quest.49F9354ADE0290C7.quest_desc": [
+    "&fTotal armor: 20",
+    "&fToughness: 3",
+    "&fKnockback resistance: 0.1",
+    "",
+    "&7Vanilla. The base for everything that follows."
+  ],
+  "quest.48116E451ABE30B9.title": "&a12. Siftite (The Sift)",
+  "quest.48116E451ABE30B9.quest_subtitle": "&7Total defense: 22",
+  "quest.48116E451ABE30B9.quest_desc": [
+    "&fTotal armor: 22",
+    "&fToughness: 3.5",
+    "&fKnockback resistance: 0.15",
+    "",
+    "&7The Sift. A bit better than netherite."
+  ],
+  "quest.4C9967AB52045B7C.title": "&712. Netherite and iron",
+  "quest.4C9967AB52045B7C.quest_subtitle": "&7Total defense: 22",
+  "quest.4C9967AB52045B7C.quest_desc": [
+    "&fTotal armor: 22",
+    "&fToughness: 3.5",
+    "&fKnockback resistance: 0.1",
+    "",
+    "&7Advanced Netherite. First real upgrade."
+  ],
+  "quest.42446F28F7077964.title": "&213. Aeternium (End)",
+  "quest.42446F28F7077964.quest_subtitle": "&7Total defense: 24",
+  "quest.42446F28F7077964.quest_desc": [
+    "&fTotal armor: 24",
+    "&fToughness: 3.5",
+    "&fKnockback resistance: 0.2",
+    "",
+    "&7BetterEnd. Better than normal netherite."
+  ],
+  "quest.4F6DACC21AE307BF.title": "&613. Netherite and gold",
+  "quest.4F6DACC21AE307BF.quest_subtitle": "&7Total defense: 24",
+  "quest.4F6DACC21AE307BF.quest_desc": [
+    "&fTotal armor: 24",
+    "&fToughness: 3.5",
+    "&fKnockback resistance: 0.1",
+    "",
+    "&7Advanced Netherite. The best one to enchant."
+  ],
+  "quest.4E0CA9916875D763.title": "&a13. Netherite and emerald",
+  "quest.4E0CA9916875D763.quest_subtitle": "&7Total defense: 24",
+  "quest.4E0CA9916875D763.quest_desc": [
+    "&fTotal armor: 24",
+    "&fToughness: 3.5",
+    "&fKnockback resistance: 0.1",
+    "",
+    "&7Advanced Netherite."
+  ],
+  "quest.4AC2B7E19DD7B7F0.title": "&b14. Netherite and diamond",
+  "quest.4AC2B7E19DD7B7F0.quest_subtitle": "&7Total defense: 26",
+  "quest.4AC2B7E19DD7B7F0.quest_desc": [
+    "&fTotal armor: 26",
+    "&fToughness: 4",
+    "&fKnockback resistance: 0.1",
+    "",
+    "&7Advanced Netherite. The best of its line."
+  ],
+  "quest.48B561B451F7F04B.title": "&215. Netherite and aeternium (End)",
+  "quest.48B561B451F7F04B.quest_subtitle": "&7Total defense: 28",
+  "quest.48B561B451F7F04B.quest_desc": [
+    "&fTotal armor: 28",
+    "&fToughness: 4.5",
+    "&fKnockback resistance: 0.15",
+    "",
+    "&7Advanced Netherite + aeternium. Better than netherite and diamond, and shulkers do &r&dNOT&r&7 make you levitate."
+  ],
+  "quest.496B2AA10B280586.title": "&a16. Netherite and siftite (The Sift)",
+  "quest.496B2AA10B280586.quest_subtitle": "&7Total defense: 30",
+  "quest.496B2AA10B280586.quest_desc": [
+    "&fTotal armor: 30",
+    "&fToughness: 5",
+    "&fKnockback resistance: 0.2",
+    "",
+    "&r&7Advanced Netherite + siftite. &r&dTHE BEST&r&7 in the modpack. It also resists darkness."
+  ],
+  "quest.4372F5A0D6500E03.title": "&dArmor: from worst to best",
+  "quest.4372F5A0D6500E03.quest_subtitle": "&7Every armor from every mod sorted by defense.",
+  "quest.4372F5A0D6500E03.quest_desc": [
+    "&7Every armor from every mod sorted by defense.",
+    "",
+    "&7From weakest to strongest: Advanced Netherite, Netherite and aeternium (End) and Netherite and siftite (The Sift), the best in the modpack."
+  ],
+  "quest.485979860545D2C2.title": "&eHow to read these numbers",
+  "quest.485979860545D2C2.quest_subtitle": "&7Defense: how much damage you block (max 30).",
+  "quest.485979860545D2C2.quest_desc": [
+    "&7Defense: how much damage you block (max 30).",
+    "&7Toughness: protects more against strong hits.",
+    "&7Knockback: how much less you get knocked back.",
+    "",
+    "&7Values are for the full set. In REI&r&7 (inventory) you can see each piece."
+  ],
+  "chapter.4272A6076F1D6175.title": "&7› &2Veil Armor",
+  "quest.4D99CEF3AEB4F9BC.title": "&e&l17. Broken Veil Netherite (Aerial Hell)",
+  "quest.4D99CEF3AEB4F9BC.quest_subtitle": "&7Total defense: 34",
+  "quest.4D99CEF3AEB4F9BC.quest_desc": [
+    "&r&fTotal armor: &r&734",
+    "&r&fToughness: &r&76",
+    "&r&fKnockback resistance: &r&70.25",
+    "",
+    "&r&7Forged with the &r&ecrystals of the fallen gods&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption &l4 pieces&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "",
+    "&r&7THE &r&dBEST&r&7 in the modpack."
+  ],
+  "quest.4EE3E1A53C37569A.title": "&e&lBroken Veil Netherite Helmet",
+  "quest.4EE3E1A53C37569A.quest_subtitle": "&7Defense 7 · Toughness 6 · Knockback 0.25",
+  "quest.4EE3E1A53C37569A.quest_desc": [
+    "&r&fArmor 7&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&dLunar Priest crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aLunatic&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.4C6467831C5F1552.title": "&e&lBroken Veil Netherite Chestplate",
+  "quest.4C6467831C5F1552.quest_subtitle": "&7Defense 11 · Toughness 6 · Knockback 0.25",
+  "quest.4C6467831C5F1552.quest_desc": [
+    "&r&fArmor 11&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&6Chained God crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aChained&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.4CE96C4B1EF0D422.title": "&e&lBroken Veil Netherite Leggings",
+  "quest.4CE96C4B1EF0D422.quest_subtitle": "&7Defense 9 · Toughness 6 · Knockback 0.25",
+  "quest.4CE96C4B1EF0D422.quest_desc": [
+    "&r&fArmor 9&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&5Lilith crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aShadowed&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.42F9B74CFCDF3FF3.title": "&e&lBroken Veil Netherite Boots",
+  "quest.42F9B74CFCDF3FF3.quest_subtitle": "&7Defense 7 · Toughness 6 · Knockback 0.25",
+  "quest.42F9B74CFCDF3FF3.quest_desc": [
+    "&r&fArmor 7&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&2Mud Cycle Mage crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aMud&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.4B99EA5D24A4C043.title": "&2&lArmors of the Veil",
+  "quest.4B99EA5D24A4C043.quest_subtitle": "&7The gear that only exists beyond the Veil.",
+  "quest.4B99EA5D24A4C043.quest_desc": [
+    "The gear that only exists beyond the Veil."
+  ],
+  "chapter.427D5A9D97452282.title": "&fWeapons and tools",
+  "quest.4F6F968576717381.title": "&fIron",
+  "quest.4F6F968576717381.quest_subtitle": "&7The basic sword.",
+  "quest.4F6F968576717381.quest_desc": [
+    "&7The basic sword."
+  ],
+  "quest.4AA017664C4E93F9.title": "&bDiamond",
+  "quest.4AA017664C4E93F9.quest_subtitle": "&7Quite a bit better than iron.",
+  "quest.4AA017664C4E93F9.quest_desc": [
+    "&7Quite a bit better than iron."
+  ],
+  "quest.450F0D9668090D1C.title": "&cNether Ruby",
+  "quest.450F0D9668090D1C.quest_subtitle": "&7BetterNether.",
+  "quest.450F0D9668090D1C.quest_desc": [
+    "&7BetterNether."
+  ],
+  "quest.420DC32F91CAC4B7.title": "&aTerminite",
+  "quest.420DC32F91CAC4B7.quest_subtitle": "&7BetterEnd.",
+  "quest.420DC32F91CAC4B7.quest_desc": [
+    "&7BetterEnd."
+  ],
+  "quest.418B5790E0EDC135.title": "&8Netherite",
+  "quest.418B5790E0EDC135.quest_subtitle": "&7Vanilla.",
+  "quest.418B5790E0EDC135.quest_desc": [
+    "&7Vanilla."
+  ],
+  "quest.436A042F5EC000B6.title": "&2Aeternium",
+  "quest.436A042F5EC000B6.quest_subtitle": "&7BetterEnd. A bit more damage than netherite.",
+  "quest.436A042F5EC000B6.quest_desc": [
+    "&7BetterEnd. A bit more damage than netherite."
+  ],
+  "quest.4DBDDC5CCADDF1BB.title": "&aSiftite",
+  "quest.4DBDDC5CCADDF1BB.quest_subtitle": "&7The Sift. A bit more damage than the aeternium one.",
+  "quest.4DBDDC5CCADDF1BB.quest_desc": [
+    "&7The Sift. A bit more damage than the aeternium one."
+  ],
+  "quest.47215ABA8D3F1B2C.title": "&6Fire ruby",
+  "quest.47215ABA8D3F1B2C.quest_subtitle": "&7BetterNether. One of the hardest-hitting.",
+  "quest.47215ABA8D3F1B2C.quest_desc": [
+    "&7BetterNether. One of the hardest-hitting."
+  ],
+  "quest.429EB782557E6E3A.title": "&bNetherite and diamond",
+  "quest.429EB782557E6E3A.quest_subtitle": "&7Advanced Netherite.",
+  "quest.429EB782557E6E3A.quest_desc": [
+    "&7Advanced Netherite."
+  ],
+  "quest.4DE4FBBCBBD294D2.title": "&2Netherite and aeternium",
+  "quest.4DE4FBBCBBD294D2.quest_subtitle": "&7Advanced Netherite + aeternium. More damage than netherite and diamond.",
+  "quest.4DE4FBBCBBD294D2.quest_desc": [
+    "&7Advanced Netherite + aeternium. More damage than netherite and diamond."
+  ],
+  "quest.42F03219A8C9B656.title": "&aNetherite and siftite",
+  "quest.42F03219A8C9B656.quest_subtitle": "&7Advanced Netherite + siftite. The hardest-hitting one.",
+  "quest.42F03219A8C9B656.quest_desc": [
+    "&7Advanced Netherite + siftite. The hardest-hitting one."
+  ],
+  "quest.47B160918DBA5E02.title": "&bWeapons",
+  "quest.47B160918DBA5E02.quest_subtitle": "&7The swords of each material. Check exact damage by looking up the weapon…",
+  "quest.47B160918DBA5E02.quest_desc": [
+    "&7The swords of each material. Check exact damage by looking up the weapon in &r&dREI&r&7 (inventory)."
+  ],
+  "chapter.4E048EF21416D554.title": "&bAdvanced netherite",
+  "task.4BB8924C8EA9E0BE.title": "Have an ingot or gear of this tier",
+  "quest.4433F2BE3D50AC29.title": "&7Iron-netherite ingot",
+  "quest.4433F2BE3D50AC29.quest_subtitle": "&7Tier 1 of 6 · Iron",
+  "quest.4433F2BE3D50AC29.quest_desc": [
+    "&7Netherite ingot + 4 iron ingots in the crafting table.",
+    "",
+    "&7Smithing table: netherite piece + netherite upgrade template + this ingot.",
+    "",
+    "&7Each piece must be upgraded tier by tier: iron → gold → emerald → diamond."
+  ],
+  "task.4253D52B70D1FD99.title": "Upgrade the armor to this tier (or better)",
+  "quest.48E98C1904256E92.title": "&7Netherite and iron armor",
+  "quest.48E98C1904256E92.quest_subtitle": "&7Defense 22 · Toughness 3.5 (full set)",
+  "quest.48E98C1904256E92.quest_desc": [
+    "&fArmor 22 · Toughness 3.5 (full set)",
+    "",
+    "&r&7&r&dPHANTOMS&r&7 don't attack you."
+  ],
+  "task.4FD90B9D350C1EA1.title": "Upgrade the sword to this tier (or better)",
+  "quest.4097938B0F6614B1.title": "&7Netherite and iron sword",
+  "quest.4097938B0F6614B1.quest_subtitle": "&7More damage than the netherite one.",
+  "quest.4097938B0F6614B1.quest_desc": [
+    "&7More damage than the netherite one.",
+    "",
+    "&7Phantoms drop EXTRA&r&7 membranes.",
+    "",
+    "&7There's also a spear of this material."
+  ],
+  "task.483972CA5674D21A.title": "Upgrade the pickaxe to this tier (or better)",
+  "quest.468DB25A2D3D8055.title": "&7Iron-netherite pickaxe",
+  "quest.468DB25A2D3D8055.quest_subtitle": "&7Mines faster than the netherite one.",
+  "quest.468DB25A2D3D8055.quest_desc": [
+    "&7Mines faster than the netherite one.",
+    "",
+    "&r&7Sometimes gives &r&dEXTRA&r&7 iron when mining iron."
+  ],
+  "task.479D68780BF0CF27.title": "Upgrade the axe to this tier (or better)",
+  "quest.4A32AB9CCFF328EF.title": "&7Netherite and iron axe",
+  "quest.4A32AB9CCFF328EF.quest_subtitle": "&7Chops faster and hits hard.",
+  "quest.4A32AB9CCFF328EF.quest_desc": [
+    "&7Chops faster and hits hard."
+  ],
+  "task.4CBB3343F0A2345F.title": "Upgrade the shovel to this tier (or better)",
+  "quest.4F9A0AAE52567C18.title": "&7Iron-netherite shovel",
+  "quest.4F9A0AAE52567C18.quest_subtitle": "&7Digs faster.",
+  "quest.4F9A0AAE52567C18.quest_desc": [
+    "&7Digs faster."
+  ],
+  "task.418E1FA74BFCAB11.title": "Upgrade the hoe to this tier (or better)",
+  "quest.45735D69FA7B5375.title": "&7Netherite and iron hoe",
+  "quest.45735D69FA7B5375.quest_subtitle": "&7When harvesting mature crops, it sometimes gives an EXTRA harvest.",
+  "quest.45735D69FA7B5375.quest_desc": [
+    "&7When harvesting mature crops, it sometimes gives an &r&dEXTRA&r&7 harvest."
+  ],
+  "task.4986E0039FE56DC7.title": "Have an ingot or gear of this tier",
+  "quest.4BF2E19760115D35.title": "&6Netherite and gold ingot",
+  "quest.4BF2E19760115D35.quest_subtitle": "&7Tier 2 of 6 · Gold",
+  "quest.4BF2E19760115D35.quest_desc": [
+    "&7Iron-netherite ingot + 4 gold ingots in the crafting table.",
+    "",
+    "&7Smithing table: iron-netherite piece + netherite upgrade template + this ingot.",
+    "",
+    "&7Each piece must be upgraded tier by tier: iron → gold → emerald → diamond."
+  ],
+  "task.4D10E3000F65474D.title": "Upgrade the armor to this tier (or better)",
+  "quest.4D391B5EF25D36D2.title": "&6Netherite and gold armor",
+  "quest.4D391B5EF25D36D2.quest_subtitle": "&7Defense 24 · Toughness 3.5 (full set)",
+  "quest.4D391B5EF25D36D2.quest_desc": [
+    "&fArmor 24 · Toughness 3.5 (full set)",
+    "",
+    "&r&7&r&dPIGLINS&r&7 don't attack you.",
+    "&7High enchantability: you get better enchantments."
+  ],
+  "task.44C13D0340937F47.title": "Upgrade the sword to this tier (or better)",
+  "quest.4254DDDC72F48DCF.title": "&6Netherite and gold sword",
+  "quest.4254DDDC72F48DCF.quest_subtitle": "&7More damage than the netherite one.",
+  "quest.4254DDDC72F48DCF.quest_desc": [
+    "&7More damage than the netherite one.",
+    "",
+    "&7Piglins and zombified piglins drop EXTRA&r&7 gold.",
+    "",
+    "&7There's also a spear of this material."
+  ],
+  "task.49BCA49071072E03.title": "Upgrade the pickaxe to this tier (or better)",
+  "quest.4D38628AA9F7D5CF.title": "&6Netherite and gold pickaxe",
+  "quest.4D38628AA9F7D5CF.quest_subtitle": "&7Mines faster than the netherite one.",
+  "quest.4D38628AA9F7D5CF.quest_desc": [
+    "&7Mines faster than the netherite one.",
+    "",
+    "&r&7Sometimes gives &r&dEXTRA&r&7 gold when mining gold."
+  ],
+  "task.4630068829A3BC48.title": "Upgrade the axe to this tier (or better)",
+  "quest.4004576E2759B285.title": "&6Netherite and gold axe",
+  "quest.4004576E2759B285.quest_subtitle": "&7Chops faster and hits hard.",
+  "quest.4004576E2759B285.quest_desc": [
+    "&7Chops faster and hits hard."
+  ],
+  "task.4228DE728502C741.title": "Upgrade the shovel to this tier (or better)",
+  "quest.481EDBDE60BABF9B.title": "&6Netherite and gold shovel",
+  "quest.481EDBDE60BABF9B.quest_subtitle": "&7Digs faster.",
+  "quest.481EDBDE60BABF9B.quest_desc": [
+    "&7Digs faster."
+  ],
+  "task.4B8F766017F396F6.title": "Upgrade the hoe to this tier (or better)",
+  "quest.441C87E617C2DBD8.title": "&6Netherite and gold hoe",
+  "quest.441C87E617C2DBD8.quest_subtitle": "&7When harvesting mature crops, it sometimes gives an EXTRA harvest.",
+  "quest.441C87E617C2DBD8.quest_desc": [
+    "&7When harvesting mature crops, it sometimes gives an &r&dEXTRA&r&7 harvest."
+  ],
+  "task.4CCAE9A11644BCF1.title": "Have an ingot or gear of this tier",
+  "quest.457AA80A2D4F4023.title": "&aNetherite and emerald ingot",
+  "quest.457AA80A2D4F4023.quest_subtitle": "&7Tier 3 of 6 · Emerald",
+  "quest.457AA80A2D4F4023.quest_desc": [
+    "&7Gold-netherite ingot + 4 emeralds in the crafting table.",
+    "",
+    "&7Smithing table: gold-netherite piece + netherite upgrade template + this ingot.",
+    "",
+    "&7Each piece must be upgraded tier by tier: iron → gold → emerald → diamond."
+  ],
+  "task.41284E181180005A.title": "Upgrade the armor to this tier (or better)",
+  "quest.46C9BC5EC6255D17.title": "&aNetherite and emerald armor",
+  "quest.46C9BC5EC6255D17.quest_subtitle": "&7Defense 24 · Toughness 3.5 (full set)",
+  "quest.46C9BC5EC6255D17.quest_desc": [
+    "&fArmor 24 · Toughness 3.5 (full set)",
+    "",
+    "&r&7&r&dENDERMEN&r&7 don't get angry if you look at them."
+  ],
+  "task.468CD3A951878F5B.title": "Upgrade the sword to this tier (or better)",
+  "quest.44918EDB328A17B5.title": "&aNetherite and emerald sword",
+  "quest.44918EDB328A17B5.quest_subtitle": "&7More damage than the netherite one.",
+  "quest.44918EDB328A17B5.quest_desc": [
+    "&7More damage than the netherite one.",
+    "",
+    "&r&7Endermen drop &r&dEXTRA&r&7 pearls.",
+    "",
+    "&7There's also a spear of this material."
+  ],
+  "task.4DB03FFF87F228A8.title": "Upgrade the pickaxe to this tier (or better)",
+  "quest.423F85066035FB61.title": "&aNetherite and emerald pickaxe",
+  "quest.423F85066035FB61.quest_subtitle": "&7Mines faster than the netherite one.",
+  "quest.423F85066035FB61.quest_desc": [
+    "&7Mines faster than the netherite one.",
+    "",
+    "&r&7Sometimes gives &r&dEXTRA&r&7 emerald when mining emeralds."
+  ],
+  "task.4BE6A7E618BD7A21.title": "Upgrade the axe to this tier (or better)",
+  "quest.4703BD1251DD64F3.title": "&aNetherite and emerald axe",
+  "quest.4703BD1251DD64F3.quest_subtitle": "&7Chops faster and hits hard.",
+  "quest.4703BD1251DD64F3.quest_desc": [
+    "&7Chops faster and hits hard."
+  ],
+  "task.43263F562E5AD142.title": "Upgrade the shovel to this tier (or better)",
+  "quest.4E10979451E5253A.title": "&aNetherite and emerald shovel",
+  "quest.4E10979451E5253A.quest_subtitle": "&7Digs faster.",
+  "quest.4E10979451E5253A.quest_desc": [
+    "&7Digs faster."
+  ],
+  "task.49A29B16AB7D30AC.title": "Upgrade the hoe to this tier (or better)",
+  "quest.4BE3BE4F2B21A506.title": "&aNetherite and emerald hoe",
+  "quest.4BE3BE4F2B21A506.quest_subtitle": "&7When harvesting mature crops, it sometimes gives an EXTRA harvest.",
+  "quest.4BE3BE4F2B21A506.quest_desc": [
+    "&7When harvesting mature crops, it sometimes gives an &r&dEXTRA&r&7 harvest."
+  ],
+  "task.409B006981213BB5.title": "Have an ingot or gear of this tier",
+  "quest.49BB7D60A127532D.title": "&bNetherite and diamond ingot",
+  "quest.49BB7D60A127532D.quest_subtitle": "&7Tier 4 of 6 · Diamond",
+  "quest.49BB7D60A127532D.quest_desc": [
+    "&7Netherite-emerald ingot + 4 diamonds in the crafting table.",
+    "",
+    "&7Smithing table: emerald-netherite piece + netherite upgrade template + this ingot.",
+    "",
+    "&7Each piece must be upgraded tier by tier: iron → gold → emerald → diamond."
+  ],
+  "task.4D7F981DDB877E14.title": "Upgrade the armor to this tier (or better)",
+  "quest.4B812FA2C34BC439.title": "&bNetherite and diamond armor",
+  "quest.4B812FA2C34BC439.quest_subtitle": "&7Defense 26 · Toughness 4 (full set)",
+  "quest.4B812FA2C34BC439.quest_desc": [
+    "&fArmor 26 · Toughness 4 (full set)",
+    "",
+    "&7Phantoms, piglins and endermen:",
+    "&r&dNONE&r&7 bother you.",
+    "&7The best armor in Advanced Netherite."
+  ],
+  "task.4F5295F88F8919FC.title": "Upgrade the sword to this tier (or better)",
+  "quest.46FF2CECCEA61248.title": "&bNetherite and diamond sword",
+  "quest.46FF2CECCEA61248.quest_subtitle": "&7More damage than the netherite one.",
+  "quest.46FF2CECCEA61248.quest_desc": [
+    "&7More damage than the netherite one.",
+    "",
+    "&r&7&r&dEXTRA&r&7 loot from phantoms, piglins and endermen.",
+    "",
+    "&7There's also a spear of this material."
+  ],
+  "task.4D8BF0C9AD43C954.title": "Upgrade the pickaxe to this tier (or better)",
+  "quest.4ABA12AFBC1828E8.title": "&bNetherite and diamond pickaxe",
+  "quest.4ABA12AFBC1828E8.quest_subtitle": "&7Mines faster than the netherite one.",
+  "quest.4ABA12AFBC1828E8.quest_desc": [
+    "&7Mines faster than the netherite one.",
+    "",
+    "&r&7Sometimes gives &r&dEXTRA&r&7 diamond when mining diamonds."
+  ],
+  "task.4F4B0B6F0B45CB46.title": "Upgrade the axe to this tier (or better)",
+  "quest.42FE9DA2C43AB326.title": "&bNetherite and diamond axe",
+  "quest.42FE9DA2C43AB326.quest_subtitle": "&7Chops faster and hits hard.",
+  "quest.42FE9DA2C43AB326.quest_desc": [
+    "&7Chops faster and hits hard."
+  ],
+  "task.49CDA2AC10E6E942.title": "Upgrade the shovel to this tier (or better)",
+  "quest.460C0C7E41932BE3.title": "&bNetherite and diamond shovel",
+  "quest.460C0C7E41932BE3.quest_subtitle": "&7Digs faster.",
+  "quest.460C0C7E41932BE3.quest_desc": [
+    "&7Digs faster."
+  ],
+  "task.45C80939BDEE746C.title": "Upgrade the hoe to this tier (or better)",
+  "quest.487D17AFE894CCE2.title": "&bNetherite and diamond hoe",
+  "quest.487D17AFE894CCE2.quest_subtitle": "&7When harvesting mature crops, it sometimes gives an EXTRA harvest.",
+  "quest.487D17AFE894CCE2.quest_desc": [
+    "&7When harvesting mature crops, it sometimes gives an &r&dEXTRA&r&7 harvest."
+  ],
+  "task.4F38D452A8B4FA71.title": "Have an ingot or gear of this tier",
+  "quest.47DC245602665367.title": "&2Netherite and aeternium ingot",
+  "quest.47DC245602665367.quest_subtitle": "&7Tier 5 of 6 · Aeternium (End)",
+  "quest.47DC245602665367.quest_desc": [
+    "&7Netherite-diamond ingot + 4 aeternium ingots (BetterEnd) in the crafting table.",
+    "",
+    "&7Smithing table: diamond-netherite piece + netherite upgrade template + this ingot.",
+    "",
+    "&7Upgrade each diamond-netherite piece (tier 5) with the netherite template + this ingot."
+  ],
+  "task.450BAF5816A48243.title": "Upgrade the armor to this tier (or better)",
+  "quest.46A97AE9D3EEC709.title": "&2Netherite and aeternium armor",
+  "quest.46A97AE9D3EEC709.quest_subtitle": "&7Defense 28 · Toughness 4.5 (full set)",
+  "quest.46A97AE9D3EEC709.quest_desc": [
+    "&fArmor 28 · Toughness 4.5 (full set)",
+    "",
+    "&7Phantoms, piglins and endermen:",
+    "&r&dNONE&r&7 bother you. &r&dNEW&r&7: SHULKERS&r&7 no longer lift you.",
+    "&7Better than diamond-netherite at everything: defense, toughness, durability and enchantability."
+  ],
+  "task.434D77BD88D1DC90.title": "Upgrade the sword to this tier (or better)",
+  "quest.444C1846D648E0B8.title": "&2Netherite and aeternium sword",
+  "quest.444C1846D648E0B8.quest_subtitle": "&7More damage than the netherite one.",
+  "quest.444C1846D648E0B8.quest_desc": [
+    "&7More damage than the netherite one.",
+    "",
+    "&r&7All the &r&dEXTRA&r&7 loot of the diamond one, plus extra shulker &r&dSHELLS&r&7 when killing shulkers.",
+    "",
+    "&7There's also a spear of this material."
+  ],
+  "task.471E224969671D43.title": "Upgrade the pickaxe to this tier (or better)",
+  "quest.4B336602D62CEA64.title": "&2Netherite and aeternium pickaxe",
+  "quest.4B336602D62CEA64.quest_subtitle": "&7Mines faster than the netherite one.",
+  "quest.4B336602D62CEA64.quest_desc": [
+    "&7Mines faster than the netherite one.",
+    "",
+    "&r&7&r&dEXTRA&r&7 diamond when mining diamonds and extra raw &r&dTHALLASIUM&r&7 when mining thallasium (the base metal of aeternium)."
+  ],
+  "task.49458C3CB2C339A0.title": "Upgrade the axe to this tier (or better)",
+  "quest.4A43128A97701FCC.title": "&2Netherite and aeternium axe",
+  "quest.4A43128A97701FCC.quest_subtitle": "&7Chops faster and hits hard.",
+  "quest.4A43128A97701FCC.quest_desc": [
+    "&7Chops faster and hits hard."
+  ],
+  "task.48CBAD92F14F9E18.title": "Upgrade the shovel to this tier (or better)",
+  "quest.401AC33D34D5277E.title": "&2Netherite and aeternium shovel",
+  "quest.401AC33D34D5277E.quest_subtitle": "&7Digs faster.",
+  "quest.401AC33D34D5277E.quest_desc": [
+    "&7Digs faster."
+  ],
+  "task.42158337667C3728.title": "Upgrade the hoe to this tier (or better)",
+  "quest.4B5B97D632382E32.title": "&2Netherite and aeternium hoe",
+  "quest.4B5B97D632382E32.quest_subtitle": "&7When harvesting mature crops, it sometimes gives an EXTRA harvest.",
+  "quest.4B5B97D632382E32.quest_desc": [
+    "&7When harvesting mature crops, it sometimes gives an &r&dEXTRA&r&7 harvest."
+  ],
+  "task.4D153351C4F81C0D.title": "Have an ingot or gear of this tier",
+  "quest.4CA96DA59B997684.title": "&aNetherite and siftite ingot",
+  "quest.4CA96DA59B997684.quest_subtitle": "&7Tier 6 of 6 · Siftite (The Sift)",
+  "quest.4CA96DA59B997684.quest_desc": [
+    "&7Netherite-aeternium ingot + 4 siftite ingots (The Sift) in the crafting table.",
+    "",
+    "&7Smithing table: aeternium-netherite piece + netherite upgrade template + this ingot.",
+    "",
+    "&7Upgrade each aeternium-netherite piece (tier 6) with the netherite template + this ingot."
+  ],
+  "task.4993697E995E2E62.title": "Upgrade the armor to this tier (or better)",
+  "quest.4D7C52FDC829835F.title": "&aNetherite and siftite armor",
+  "quest.4D7C52FDC829835F.quest_subtitle": "&7Defense 30 · Toughness 5 (full set)",
+  "quest.4D7C52FDC829835F.quest_desc": [
+    "&fArmor 30 · Toughness 5 (full set)",
+    "",
+    "&7Phantoms, piglins and endermen:",
+    "&r&dNONE&r&7 bother you. &r&dSHULKERS don't lift you. &r&dNEW&r&7: resistance to &r&dDARKNESS&r&7 (Warden).",
+    "&7The best in the modpack: beats netherite and aeternium at everything."
+  ],
+  "task.416317C81B794F89.title": "Upgrade the sword to this tier (or better)",
+  "quest.4A12D94FF40281F6.title": "&aNetherite and siftite sword",
+  "quest.4A12D94FF40281F6.quest_subtitle": "&7More damage than the netherite one.",
+  "quest.4A12D94FF40281F6.quest_desc": [
+    "&7More damage than the netherite one.",
+    "",
+    "&r&7All the &r&dEXTRA&r&7 loot of the aeternium one (with shulker shells), plus &r&dNUGGETS&r&7 &r&dOF&r&7 &r&dSIFTITE&r&7 when killing dark Sniffers.",
+    "",
+    "&7There's also a spear of this material."
+  ],
+  "task.483FB5E0DFE6E534.title": "Upgrade the pickaxe to this tier (or better)",
+  "quest.4EDFFABBCC2B9045.title": "&aNetherite and siftite pickaxe",
+  "quest.4EDFFABBCC2B9045.quest_subtitle": "&7Mines faster than the netherite one.",
+  "quest.4EDFFABBCC2B9045.quest_desc": [
+    "&7Mines faster than the netherite one.",
+    "",
+    "&r&7Diamond and thallasium &r&dEXTRA&r&7, and extra NUGGETS&r&7 &r&dOF&r&7 &r&dSIFTITE&r&7 when mining siftite (the material it's made of)."
+  ],
+  "task.49204475EC1824A7.title": "Upgrade the axe to this tier (or better)",
+  "quest.4291114A05CD3E92.title": "&aNetherite and siftite axe",
+  "quest.4291114A05CD3E92.quest_subtitle": "&7Chops faster and hits hard.",
+  "quest.4291114A05CD3E92.quest_desc": [
+    "&7Chops faster and hits hard."
+  ],
+  "task.4A0E5A5AB7C558F1.title": "Upgrade the shovel to this tier (or better)",
+  "quest.4344BA818FD11A79.title": "&aNetherite and siftite shovel",
+  "quest.4344BA818FD11A79.quest_subtitle": "&7Digs faster.",
+  "quest.4344BA818FD11A79.quest_desc": [
+    "&7Digs faster."
+  ],
+  "task.4DEE5A8DB601DE8B.title": "Upgrade the hoe to this tier (or better)",
+  "quest.46E137FE08AFCD68.title": "&aNetherite and siftite hoe",
+  "quest.46E137FE08AFCD68.quest_subtitle": "&7When harvesting mature crops, it sometimes gives an EXTRA harvest.",
+  "quest.46E137FE08AFCD68.quest_desc": [
+    "&7When harvesting mature crops, it sometimes gives an &r&dEXTRA&r&7 harvest."
+  ],
+  "quest.44D05B1A628D8F1C.title": "&dAdvanced Netherite",
+  "quest.44D05B1A628D8F1C.quest_subtitle": "&7One row per material, from worst to best:",
+  "quest.44D05B1A628D8F1C.quest_desc": [
+    "&7One row per material, from worst to best:",
+    "&7iron → gold → emerald → diamond → aeternium (End) → siftite (The Sift).",
+    "",
+    "&7Each material has its own special advantage. The last two are upgrades added by Primazos."
+  ],
+  "chapter.47C573CD412004CD.title": "&7› &2Veil Netherite",
+  "quest.418CD3FDAD19C357.title": "&e&lBroken Veil Netherite Helmet",
+  "quest.418CD3FDAD19C357.quest_subtitle": "&7Defense 7 · Toughness 6 · Knockback 0.25",
+  "quest.418CD3FDAD19C357.quest_desc": [
+    "&r&fArmor 7&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&dLunar Priest crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aLunatic&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.4FB63B0543E4BA57.title": "&e&lBroken Veil Netherite Chestplate",
+  "quest.4FB63B0543E4BA57.quest_subtitle": "&7Defense 11 · Toughness 6 · Knockback 0.25",
+  "quest.4FB63B0543E4BA57.quest_desc": [
+    "&r&fArmor 11&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&6Chained God crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aChained&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.460CDC47514D0EE9.title": "&e&lBroken Veil Netherite Leggings",
+  "quest.460CDC47514D0EE9.quest_subtitle": "&7Defense 9 · Toughness 6 · Knockback 0.25",
+  "quest.460CDC47514D0EE9.quest_desc": [
+    "&r&fArmor 9&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&5Lilith crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aShadowed&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.45B6907ED0A7C811.title": "&e&lBroken Veil Netherite Boots",
+  "quest.45B6907ED0A7C811.quest_subtitle": "&7Defense 7 · Toughness 6 · Knockback 0.25",
+  "quest.45B6907ED0A7C811.quest_desc": [
+    "&r&fArmor 7&r&7 · &r&fToughness 6&r&7 · &r&fKnockback 0.25",
+    "",
+    "&r&7Forged with the &r&2Mud Cycle Mage crystal Smithing Table&r&7: netherite and siftite piece + netherite template + &r&aBroken Veil ingot (&r&aMud&r&7).",
+    "",
+    "&r&6&lFull set&r&7: &r&e&lWhispers of a Divine Power +15%&r&7 damage and &r&2&lReactive Corruption&r&7.",
+    "&r&6&l2 pieces&r&7: immune to &r&2Divine Corruption&r&7."
+  ],
+  "quest.495850DE95BB0866.title": "&2&lThe Broken Veil tier",
+  "quest.495850DE95BB0866.quest_subtitle": "&7After siftite: one piece for each echo of the gods.",
+  "quest.495850DE95BB0866.quest_desc": [
+    "After siftite: one piece for each echo of the gods.",
+    "",
+    "See &aAdventure → The Veil&7 to get them."
+  ],
+  "chapter.4C6FC243F51FFE4E.title": "&5Enchantments",
+  "quest.42CECEFB22CDD882.title": "&bHelmet",
+  "quest.42CECEFB22CDD882.quest_subtitle": "&7Protection IV",
+  "quest.42CECEFB22CDD882.quest_desc": [
+    "&dProtection &f&lIV",
+    "&dUnbreaking &f&lIII",
+    "&dMending",
+    "&dRespiration &f&lIII",
+    "&dAqua Affinity"
+  ],
+  "quest.450216DFE0A93326.title": "&bChestplate",
+  "quest.450216DFE0A93326.quest_subtitle": "&7Protection IV",
+  "quest.450216DFE0A93326.quest_desc": [
+    "&dProtection &f&lIV",
+    "&dUnbreaking &f&lIII",
+    "&dMending",
+    "&a&lAntidote (Dungeons and Taverns)"
+  ],
+  "quest.40CB1D0B8C4B0C24.title": "&bLeggings",
+  "quest.40CB1D0B8C4B0C24.quest_subtitle": "&7Protection IV",
+  "quest.40CB1D0B8C4B0C24.quest_desc": [
+    "&dProtection &f&lIV",
+    "&dUnbreaking &f&lIII",
+    "&dMending",
+    "&dSwift Sneak &f&lIII"
+  ],
+  "quest.4B5A7887C73A0B75.title": "&bBoots",
+  "quest.4B5A7887C73A0B75.quest_subtitle": "&7Protection IV",
+  "quest.4B5A7887C73A0B75.quest_desc": [
+    "&dProtection &f&lIV",
+    "&dFeather Falling &f&lIV",
+    "&dUnbreaking &f&lIII",
+    "&dMending",
+    "&dDepth Strider &f&lIII",
+    "&dSoul Speed &f&lIII",
+    "&a&lTraveler (Dungeons and Taverns)"
+  ],
+  "quest.40DB3C9465D11CAE.title": "&bSword",
+  "quest.40DB3C9465D11CAE.quest_subtitle": "&7Sharpness V",
+  "quest.40DB3C9465D11CAE.quest_desc": [
+    "&dSharpness &f&lV",
+    "&dLooting &f&lIII",
+    "&dFire Aspect &f&lII",
+    "&dSweeping Edge &f&lIII",
+    "&dUnbreaking &f&lIII",
+    "&dMending",
+    "&a&lIllager's Bane (D＆T)",
+    "&dagainst illagers"
+  ],
+  "quest.4306A5EEB50F68CA.title": "&bPickaxe",
+  "quest.4306A5EEB50F68CA.quest_subtitle": "&7Efficiency V",
+  "quest.4306A5EEB50F68CA.quest_desc": [
+    "&dEfficiency &f&lV",
+    "&a&lFortune III (or Silk Touch)",
+    "&dUnbreaking &f&lIII",
+    "&dMending"
+  ],
+  "quest.40D8AFC007F4A2C5.title": "&bBow",
+  "quest.40D8AFC007F4A2C5.quest_subtitle": "&7Power V",
+  "quest.40D8AFC007F4A2C5.quest_desc": [
+    "&dPower &f&lV",
+    "&a&lInfinity (or Mending)",
+    "&dFire",
+    "&dKnockback",
+    "&a&lMultishot or Piercing (D＆T)"
+  ],
+  "quest.4DAD96FCA495E875.title": "&bElytra",
+  "quest.4DAD96FCA495E875.quest_subtitle": "&7Unbreaking III",
+  "quest.4DAD96FCA495E875.quest_desc": [
+    "&dUnbreaking &f&lIII",
+    "&dMending",
+    "&a&lWax Wings (D＆T)"
+  ],
+  "quest.440F0F06CC057ED5.title": "&bWhat to put on each piece",
+  "quest.440F0F06CC057ED5.quest_subtitle": "&7The recommended enchantment set for armor, weapons and…",
+  "quest.440F0F06CC057ED5.quest_desc": [
+    "&7The recommended enchantment set for armor, weapons and tools."
+  ],
+  "quest.4168CACB46B73BBF.title": "&aAntidote",
+  "quest.4168CACB46B73BBF.quest_subtitle": "&7Chestplate: absorbs poison damage.",
+  "quest.4168CACB46B73BBF.quest_desc": [
+    "&7Chestplate: absorbs poison damage.",
+    "",
+    "&eWhere:",
+    "&fToxic lair (swamp): chests and boss chamber.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.48E1C871FCAD6A52.title": "&aIllager's Bane",
+  "quest.48E1C871FCAD6A52.quest_subtitle": "&7More damage to illagers and witches.",
+  "quest.48E1C871FCAD6A52.quest_desc": [
+    "&7More damage to illagers and witches.",
+    "",
+    "&eWhere:",
+    "&fMansion libraries, illager hideouts and pale residences.",
+    "&fPillager outpost treasure.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4076C303135A6495.title": "&aAerial Bane",
+  "quest.4076C303135A6495.quest_subtitle": "&7More damage to flying mobs.",
+  "quest.4076C303135A6495.quest_desc": [
+    "&7More damage to flying mobs.",
+    "",
+    "&eWhere:",
+    "&fEnd castle and ships.",
+    "&fBoss chambers of the Seal Halls.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4B6CE9E8FEA08BE7.title": "&aSpite",
+  "quest.4B6CE9E8FEA08BE7.quest_subtitle": "&7More damage at low health and sometimes Strength.",
+  "quest.4B6CE9E8FEA08BE7.quest_desc": [
+    "&7More damage at low health and sometimes Strength.",
+    "",
+    "&eWhere:",
+    "&fCombat shrines: ominous vaults and pots.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.470BCABB920F2DFB.title": "&aTraveler",
+  "quest.470BCABB920F2DFB.quest_subtitle": "&7You sprint faster and step up blocks without jumping.",
+  "quest.470BCABB920F2DFB.quest_desc": [
+    "&7You sprint faster and step up blocks without jumping.",
+    "",
+    "&eWhere:",
+    "&fCombat shrine treasures.",
+    "&fBunker altar and watchtowers.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4C82D3905C4CE5A6.title": "&aPhotosynthesis",
+  "quest.4C82D3905C4CE5A6.quest_subtitle": "&7Repairs the item with sunlight.",
+  "quest.4C82D3905C4CE5A6.quest_desc": [
+    "&7Repairs the item with sunlight.",
+    "",
+    "&eWhere:",
+    "&fJungle ruins temple and its pots.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.45D1B17FC2CBEEA7.title": "&aReach",
+  "quest.45D1B17FC2CBEEA7.quest_subtitle": "&7Interact with blocks from farther away.",
+  "quest.45D1B17FC2CBEEA7.quest_desc": [
+    "&7Interact with blocks from farther away.",
+    "",
+    "&eWhere:",
+    "&fDesert ruins: chests, pots and archaeology.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.43E7E85EE1F6B664.title": "&aWax Wings",
+  "quest.43E7E85EE1F6B664.quest_subtitle": "&7Elytra don't wear out when gliding slowly.",
+  "quest.43E7E85EE1F6B664.quest_desc": [
+    "&7Elytra don't wear out when gliding slowly.",
+    "",
+    "&eWhere:",
+    "&fEnd ship chambers.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4727917D66A178E0.title": "&aMultishot / Piercing",
+  "quest.4727917D66A178E0.quest_subtitle": "&7For bows: 3 arrows or piercing enemies.",
+  "quest.4727917D66A178E0.quest_desc": [
+    "&7For bows: 3 arrows or piercing enemies.",
+    "",
+    "&eWhere:",
+    "&fToxic lair: spider boss chamber.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4AB87EFF84C31DA4.title": "&aGravity",
+  "quest.4AB87EFF84C31DA4.quest_subtitle": "&7Arrows that pull enemies in.",
+  "quest.4AB87EFF84C31DA4.quest_desc": [
+    "&7Arrows that pull enemies in.",
+    "",
+    "&eWhere:",
+    "&fEnd castle, ships and lighthouse.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4807235ACC419247.title": "&aGhastified",
+  "quest.4807235ACC419247.quest_subtitle": "&7Arrows that are fireballs.",
+  "quest.4807235ACC419247.quest_desc": [
+    "&7Arrows that are fireballs.",
+    "",
+    "&eWhere:",
+    "&fSeal Halls (Nether): boss and pots.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.49B481D1F942718C.title": "&aWater Veil / Swift Flight",
+  "quest.49B481D1F942718C.quest_subtitle": "&7Upgrades for the Happy Ghast.",
+  "quest.49B481D1F942718C.quest_desc": [
+    "&7Upgrades for the Happy Ghast.",
+    "",
+    "&eWhere:",
+    "&fD＆T Nether fortresses and Seal Halls.",
+    "&fSwift Flight also works in the Nether port.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4CD86439FB75C23A.title": "&aDecay coating",
+  "quest.4CD86439FB75C23A.quest_subtitle": "&7Applies Wither on hit, uses more durability.",
+  "quest.4CD86439FB75C23A.quest_desc": [
+    "&7Applies Wither on hit, uses more durability.",
+    "",
+    "&eWhere:",
+    "&fD＆T Nether fortresses and Seal Halls.",
+    "&fSome wither skeletons wear it.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4E8A9F43C671BD2C.title": "&cCurse of Conductivity",
+  "quest.4E8A9F43C671BD2C.quest_subtitle": "&7Curse! Attracts lightning during storms.",
+  "quest.4E8A9F43C671BD2C.quest_desc": [
+    "&7Curse! Attracts lightning during storms.",
+    "",
+    "&eWhere:",
+    "&fLibrary and pots of the witch's villa.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.41B0FAE57666C7AF.title": "&eSecret librarians",
+  "quest.41B0FAE57666C7AF.quest_subtitle": "&7A librarian who lives INSIDE one of those structures trades you…",
+  "quest.41B0FAE57666C7AF.quest_desc": [
+    "&r&7A librarian who lives &r&dINSIDE one of those structures trades you the book for that structure's boss key.",
+    "",
+    "&8Dungeons and Taverns"
+  ],
+  "quest.4372BF67B99FB3ED.title": "&6Ruby fire",
+  "quest.4372BF67B99FB3ED.quest_subtitle": "&7Pickaxe: smelts ores. Armor and sword: fire and knockback.",
+  "quest.4372BF67B99FB3ED.quest_desc": [
+    "&7Pickaxe: smelts ores. Armor and sword: fire and knockback.",
+    "",
+    "&eWhere:",
+    "&r&fCan't be enchanted: it comes &r&dBUILT IN&r&f on fire ruby gear.",
+    "",
+    "&8BetterNether"
+  ],
+  "quest.4D01A14F32FD1B98.title": "&6Obsidian breaker",
+  "quest.4D01A14F32FD1B98.quest_subtitle": "&7You break obsidian much faster.",
+  "quest.4D01A14F32FD1B98.quest_desc": [
+    "&7You break obsidian much faster.",
+    "",
+    "&eWhere:",
+    "&r&fCan't be enchanted: it comes &r&dBUILT IN&r&f on some BetterNether pickaxes.",
+    "",
+    "&8BetterNether"
+  ],
+  "quest.422716798758A90C.title": "&5End Veil",
+  "quest.422716798758A90C.quest_subtitle": "&7You can look at Endermen without angering them.",
+  "quest.422716798758A90C.quest_desc": [
+    "&7You can look at Endermen without angering them.",
+    "",
+    "&eWhere:",
+    "&r&fIt's a &r&dPOTION&r&f: awkward potion + End dust in the brewing stand.",
+    "",
+    "&8BetterEnd"
+  ],
+  "quest.4E2073747FFA4AD8.title": "&dMod enchantments",
+  "quest.4E2073747FFA4AD8.quest_subtitle": "&7The new enchantments added by the mods and what they do.",
+  "quest.4E2073747FFA4AD8.quest_desc": [
+    "&7The new enchantments added by the mods and what they do."
+  ],
+  "quest.4FB49D9479A7979C.title": "&eTips",
+  "quest.4FB49D9479A7979C.quest_subtitle": "&7Easy Magic: the table keeps your items and lapis lazuli.",
+  "quest.4FB49D9479A7979C.quest_desc": [
+    "&7Easy Magic: the table keeps your items and lapis lazuli.",
+    "&7Easy Anvils: the anvil costs fewer levels.",
+    "&7Gold netherite (Advanced Netherite) gives better enchantments.",
+    "&7The Imbuing Table (Illager Invasion)",
+    "&7pushes enchantments above their max level."
+  ],
+  "chapter.4C8D0CBF387CF035.title": "&eRecommended route",
+  "quest.4F77C40DB519E79B.title": "&fPhase 1: Survive",
+  "quest.4F77C40DB519E79B.quest_subtitle": "&7Stone tools, food, a bed and a base. Craft a backpack…",
+  "quest.4F77C40DB519E79B.quest_desc": [
+    "&7Stone tools, food, a bed and a base. Craft a backpack and a calendar."
+  ],
+  "quest.4D8431B3AF6BB688.title": "&fPhase 2: Iron and exploring",
+  "quest.4D8431B3AF6BB688.quest_subtitle": "&7Iron armor and shield. Explore easy structures and look for eyes…",
+  "quest.4D8431B3AF6BB688.quest_desc": [
+    "&7Iron armor and shield. Explore easy structures and start looking for End eyes now."
+  ],
+  "quest.4667020EDA4B9FE1.title": "&bPhase 3: Diamond and Nether",
+  "quest.4667020EDA4B9FE1.quest_subtitle": "&7Go to the Nether with diamond and a gold piece. Nether fortresses and…",
+  "quest.4667020EDA4B9FE1.quest_desc": [
+    "&7Go to the Nether with diamond and a gold piece. Nether fortresses and villages are among the most dangerous places. BetterNether gives you cincinnasite and rubies."
+  ],
+  "quest.4596518D509AC349.title": "&8Phase 4: Netherite",
+  "quest.4596518D509AC349.quest_subtitle": "&7Look for ancient debris and upgrade everything to netherite. Enchant your…",
+  "quest.4596518D509AC349.quest_desc": [
+    "&7Look for ancient debris and upgrade everything to netherite. Enchant your gear well."
+  ],
+  "quest.41EF52622DC8DDF7.title": "&bPhase 5: Advanced netherite",
+  "quest.41EF52622DC8DDF7.quest_subtitle": "&7Upgrade to iron, gold, emerald and finally diamond netherite…",
+  "quest.41EF52622DC8DDF7.quest_desc": [
+    "&7Upgrade to iron, gold, emerald and finally diamond netherite (26 defense). Later on there are two more upgrades: aeternium and siftite."
+  ],
+  "quest.496AF721CFBDE226.title": "&3Phase 6: Open the End",
+  "quest.496AF721CFBDE226.quest_subtitle": "&7Gather the special eyes from End Remastered and get ready for the…",
+  "quest.496AF721CFBDE226.quest_desc": [
+    "&7Gather the special eyes from End Remastered and get ready for the remastered Ender Dragon. Better in a group."
+  ],
+  "quest.4DFD392D27514515.title": "&5Phase 7: The real End",
+  "quest.4DFD392D27514515.quest_subtitle": "&7Explore BetterEnd: terminite, crystalite and aeternium. With 4 ingots…",
+  "quest.4DFD392D27514515.quest_desc": [
+    "&7Explore BetterEnd: terminite, crystalite and aeternium. With 4 aeternium ingots and a netherite and diamond ingot you make netherite and aeternium (defense 28, and shulkers no longer lift you). The End cities and the elytra."
+  ],
+  "quest.4C5C2202670202A5.title": "&3Phase 8: The Sift and bosses",
+  "quest.4C5C2202670202A5.quest_subtitle": "&7With all of the above, explore The Sift, the bosses and the hardest…",
+  "quest.4C5C2202670202A5.quest_desc": [
+    "&7With all of the above, explore The Sift, the bosses and the hardest dungeons.",
+    "",
+    "&7The Sift has no dungeons: with 4 siftite ingots and an aeternium-netherite ingot you make siftite-netherite, the best gear in the modpack (30 defense, resists darkness). The Sifter hits like an elite mob."
+  ],
+  "quest.49F3FDB4BB632ADC.title": "&aRecommended route",
+  "quest.49F3FDB4BB632ADC.quest_subtitle": "&7What to do at each stage of the game so you don't get lost.",
+  "quest.49F3FDB4BB632ADC.quest_desc": [
+    "&7What to do at each stage of the game so you don't get lost."
+  ],
+  "chapter.48116F9F4DFBB1BA.title": "&7› &2Route: the Veil",
+  "quest.47C1575671C9D30E.title": "&e&lPhase 9: Aerial Hell and the Broken Veil",
+  "quest.47C1575671C9D30E.quest_subtitle": "&7When the Veil weakens, climb to the roof of the world and cross it.",
+  "quest.47C1575671C9D30E.quest_desc": [
+    "&r&7When the &r&e&lVeil&r&7 weakens, climb to the roof of the world and cross.",
+    "&r&7Defeat the &r&d4 divine echoes&r&7 and forge the &r&aBroken Veil armor&r&7."
+  ],
+  "quest.48767560B4568E4A.title": "&2&lAfter all",
+  "quest.48767560B4568E4A.quest_subtitle": "&7The final stage of the game.",
+  "quest.48767560B4568E4A.quest_desc": [
+    "The final stage of the game."
+  ],
+  "chapter.47E2FC8676212358.title": "&bControls and commands",
+  "quest.46EF21490829FEFF.title": "&aMap (JourneyMap)",
+  "quest.46EF21490829FEFF.quest_subtitle": "&7. (period): full map.",
+  "quest.46EF21490829FEFF.quest_desc": [
+    "&e&l. (period)&r&7: full map.",
+    "&e&l, (comma)&r&7: show or hide the minimap.",
+    "&e&l+ and -&r&7: zoom.",
+    "&e&lO (on the map)&r&7: options."
+  ],
+  "quest.4692468053346220.title": "&eRecipes (REI)",
+  "quest.4692468053346220.quest_subtitle": "&7In the inventory, with the mouse over an item:",
+  "quest.4692468053346220.quest_desc": [
+    "&7In the inventory, with the mouse over an item:",
+    "&e&lR&r&7: how it's crafted.",
+    "&e&lU&r&7: what it's used for."
+  ],
+  "quest.41FB317AF553458E.title": "&6Backpack",
+  "quest.41FB317AF553458E.quest_subtitle": "&7B: open the backpack you're wearing.",
+  "quest.41FB317AF553458E.quest_desc": [
+    "&e&lB&r&7: open the backpack you're wearing.",
+    "&e&lZ&r&7: switch the backpack tool."
+  ],
+  "quest.414AE7643F85C292.title": "&bVoice chat",
+  "quest.414AE7643F85C292.quest_subtitle": "&7V: voice chat menu.",
+  "quest.414AE7643F85C292.quest_desc": [
+    "&e&lV&r&7: voice chat menu.",
+    "&e&lM&r&7: mute your microphone.",
+    "&e&lN&r&7: turn off voice chat.",
+    "",
+    "&7Voice-activated talking (no need to press anything)."
+  ],
+  "quest.4458F39F18C964AF.title": "&eMarking spots",
+  "quest.4458F39F18C964AF.quest_subtitle": "&7Side mouse button (button 5):",
+  "quest.4458F39F18C964AF.quest_desc": [
+    "&7&e&lSide mouse button&r&7 (&e&lbutton 5&r&7):",
+    "&7mark a spot or mob for your friends."
+  ],
+  "quest.4B89D3C8ECB4B85C.title": "&ePicking up chests and animals",
+  "quest.4B89D3C8ECB4B85C.quest_subtitle": "&7Left Alt + right-click with an empty hand (Carry On).",
+  "quest.4B89D3C8ECB4B85C.quest_desc": [
+    "&7&e&lLeft Alt&r&7 + &e&lright-click&r&7 with an empty hand (Carry On)."
+  ],
+  "quest.4E336E1BF7123B65.title": "&fZoom",
+  "quest.4E336E1BF7123B65.quest_subtitle": "&7C: zoom.",
+  "quest.4E336E1BF7123B65.quest_desc": [
+    "&e&lC&r&7: zoom."
+  ],
+  "quest.4412C64872013A9E.title": "&6See where monsters spawn",
+  "quest.4412C64872013A9E.quest_subtitle": "&7F9: shows on the ground the blocks where monsters can spawn.",
+  "quest.4412C64872013A9E.quest_desc": [
+    "&e&lF9&r&7: shows the blocks on the ground where monsters can spawn."
+  ],
+  "quest.4916E0291B3ADC02.title": "&bInfo (Jade)",
+  "quest.4916E0291B3ADC02.quest_subtitle": "&7Insert: more details on what you're looking at.",
+  "quest.4916E0291B3ADC02.quest_desc": [
+    "&e&lInsert&r&7: more details on what you're looking at.",
+    "&e&lNumpad 3 and 4&r&7: recipes and uses of what you're looking at."
+  ],
+  "quest.4A45E9CF87EBA7D9.title": "&6Emotes",
+  "quest.4A45E9CF87EBA7D9.quest_subtitle": "&7Backspace (delete): pick a quick emote.",
+  "quest.4A45E9CF87EBA7D9.quest_desc": [
+    "&e&lBackspace&r&7: pick a quick emote."
+  ],
+  "quest.4C49108BDF53CA97.title": "&7Others",
+  "quest.4C49108BDF53CA97.quest_subtitle": "&7Scroll Lock: show or hide the day counter.",
+  "quest.4C49108BDF53CA97.quest_desc": [
+    "&e&lScroll Lock&r&7: show or hide the day counter.",
+    "&e&lH&r&7: faces that move when talking (Talking Heads).",
+    "&e&lR&r&7: reload the shaders."
+  ],
+  "quest.44F07F55A2D4932F.title": "&7Change keys",
+  "quest.44F07F55A2D4932F.quest_subtitle": "&7Options > Controls > Key Binds.",
+  "quest.44F07F55A2D4932F.quest_desc": [
+    "&7&e&lOptions > Controls > Key Binds&r&7.",
+    "&7There's a search bar to find any action by its name."
+  ],
+  "quest.4044E978069E6E42.title": "&dCommands",
+  "quest.4044E978069E6E42.quest_subtitle": "&7Book button in the inventory, or the book you get when you join",
+  "quest.4044E978069E6E42.quest_desc": [
+    "&7Book button in the inventory, or the book you get when you join",
+    "&7Open this book."
+  ],
+  "quest.4A4E451521967243.title": "&eControls and commands",
+  "quest.4A4E451521967243.quest_subtitle": "&7Useful keys, the map, voice chat and server commands.",
+  "quest.4A4E451521967243.quest_desc": [
+    "&7Useful keys, the map, voice chat and server commands."
+  ],
+  "quest.4DC3263B600E81A4.title": "&aJourneyMap",
+  "quest.4DC3263B600E81A4.quest_subtitle": "&7Minimap and full map (key .",
+  "quest.4DC3263B600E81A4.quest_desc": [
+    "&7Minimap and full map (key .",
+    "&7period). You can save points of interest (waypoints)."
+  ],
+  "quest.4559726C5407C4AD.title": "&ePing Wheel",
+  "quest.4559726C5407C4AD.quest_subtitle": "&7Mark spots or mobs (mouse side button) so your friends can…",
+  "quest.4559726C5407C4AD.quest_desc": [
+    "&7Mark spots or mobs (mouse side button) so your friends can see them, and they show up on their JourneyMap."
+  ],
+  "quest.4F5587D6763708E3.title": "&bSimple Voice Chat",
+  "quest.4F5587D6763708E3.quest_subtitle": "&7Proximity voice chat: the closer you are, the louder it is. Menu with the…",
+  "quest.4F5587D6763708E3.quest_desc": [
+    "&e&lProximity voice chat&r&7: the closer you are, the louder it is. Menu with the V key, mute your mic with M.",
+    "",
+    "&7There are also voice messages in chat."
+  ],
+  "quest.44C86C913A30C685.title": "&dDiscord",
+  "quest.44C86C913A30C685.quest_subtitle": "&7The server chat is connected to our Discord.",
+  "quest.44C86C913A30C685.quest_desc": [
+    "&7The server chat is connected to our Discord."
+  ],
+  "quest.41B4299533EF96E5.title": "&fImproved chat",
+  "quest.41B4299533EF96E5.quest_subtitle": "&7Player heads in chat, emojis, Twitch emotes and more…",
+  "quest.41B4299533EF96E5.quest_desc": [
+    "&7Player heads in chat, emojis, Twitch emotes and more history."
+  ],
+  "quest.477FF157EF548BBA.title": "&eDay Count",
+  "quest.477FF157EF548BBA.quest_subtitle": "&7On-screen day counter.",
+  "quest.477FF157EF548BBA.quest_desc": [
+    "&7On-screen day counter."
+  ],
+  "quest.497B42A6138C841B.title": "&fBetter Tab",
+  "quest.497B42A6138C841B.quest_subtitle": "&7The player list (Tab) shows exact ping and can be…",
+  "quest.497B42A6138C841B.quest_desc": [
+    "&7The player list (&e&lTab&r&7) shows exact ping and can be scrolled."
+  ],
+  "quest.4D76DD0A074EA494.title": "&6Show Me Your Skin",
+  "quest.4D76DD0A074EA494.quest_subtitle": "&7Hide or customize how your armor looks, to show off your skin.",
+  "quest.4D76DD0A074EA494.quest_desc": [
+    "&7Hide or customize how your armor looks, to show off your skin."
+  ],
+  "quest.442E7979A4536AEF.title": "&dMap and communication",
+  "quest.442E7979A4536AEF.quest_subtitle": "&7Real-time map, waypoints, voice chat, emotes and Discord.",
+  "quest.442E7979A4536AEF.quest_desc": [
+    "&7Real-time map, waypoints, voice chat, emotes and Discord."
+  ],
+  "chapter.48B9611DC0D886EC.title": "&cIf you die",
+  "quest.4DB9A40D131B98D7.title": "&7If you die: your grave",
+  "quest.4DB9A40D131B98D7.quest_subtitle": "&7When you die, a gravestone with ALL your stuff appears where you fell.",
+  "quest.4DB9A40D131B98D7.quest_desc": [
+    "&7When you die, a gravestone with ALL&r&7 your stuff appears where you fell.",
+    "",
+    "&7Go back and right-click it to get your stuff back. Nobody else should be able to open it.",
+    "",
+    "&8Mod: Gravestones"
+  ],
+  "quest.4F13AE37C252E255.title": "&6Totem from the inventory",
+  "quest.4F13AE37C252E255.quest_subtitle": "&7The Totem of Undying works even if it's in your inventory, no…",
+  "quest.4F13AE37C252E255.quest_desc": [
+    "&7The Totem of Undying works even if it's in your inventory, no need to hold it in your hand.",
+    "",
+    "&8Mod: Inventory Totem"
+  ],
+  "quest.4D57FE8694C497E6.title": "&dPets that come back",
+  "quest.4D57FE8694C497E6.quest_subtitle": "&7Your tamed pets can come back to life if they die.",
+  "quest.4D57FE8694C497E6.quest_desc": [
+    "&7Your tamed pets can come back to life if they die.",
+    "",
+    "&7The Etheric Gem is the key: look up its recipe in &r&dREI&r&7 (R key).",
+    "",
+    "&8Mod: Respawnable Pets"
+  ],
+  "quest.4A5518F0139D5407.title": "&aStoring experience",
+  "quest.4A5518F0139D5407.quest_subtitle": "&7The Experience Tome (XP Tome)",
+  "quest.4A5518F0139D5407.quest_desc": [
+    "&r&7The Experience Tome (&r&dXP&r&7 Tome)",
+    "&7stores your levels so you don't lose them on death or to pass them to another player.",
+    "",
+    "&r&8Mod: &r&dXP&r&8 Tome"
+  ],
+  "quest.44142FAFEF3E3A65.title": "&c&lIf you die",
+  "quest.44142FAFEF3E3A65.quest_subtitle": "&7Dying in Primazos isn't the end: your stuff waits for you and the Aegis…",
+  "quest.44142FAFEF3E3A65.quest_desc": [
+    "Dying in Primazos isn't the end: your stuff waits for you and the &a&lAegis&r&7 helps if you die repeatedly."
+  ],
+  "chapter.4DB240077E0917AE.title": "&a&lAegis of Protection",
+  "quest.4A7ECEFFB1CE929A.title": "&a&lAegis&r&7",
+  "quest.4A7ECEFFB1CE929A.quest_subtitle": "If you die several times in a row.",
+  "quest.4A7ECEFFB1CE929A.quest_desc": [
+    "When you respawn, the &a&lAegis&r&7 covers you for &d15 minutes&7:",
+    "&aSpeed, Regeneration and Strength&7",
+    "The more deaths in a row (up to 5), the stronger.",
+    "",
+    "&eUnderwater, also: &bWater Breathing and Night Vision&7",
+    "",
+    "&eChance of a &dTOTEM&7&e:",
+    "&71: &f5%&7 · 2: &f10%&7 · 3: &f15%&7 · 4: &f25%&7 · 5: &650%",
+    "",
+    "&8It doesn't trigger if another player kills you."
+  ],
+  "quest.4676ADFB8603167E.title": "&6Blinded Spawners",
+  "quest.4676ADFB8603167E.quest_subtitle": "Spawners spawn fewer monsters.",
+  "quest.4676ADFB8603167E.quest_desc": [
+    "The &e&lSun's&r&7 rays blind spawners: they spawn far fewer monsters than usual.",
+    "",
+    "&8Monuments, towers and trial spawners."
+  ],
+  "quest.4BD515C40CD0CD0C.title": "&bInstant Evaporation",
+  "quest.4BD515C40CD0CD0C.quest_subtitle": "Fewer guardians.",
+  "quest.4BD515C40CD0CD0C.quest_desc": [
+    "If guardians overdo the mitosis (more than 20), the &e&lSun&r&7 evaporates &dHALF&7 of them without a trace."
+  ],
+  "quest.4C43DF55E70F0A48.title": "&6Lost Rocket",
+  "quest.4C43DF55E70F0A48.quest_subtitle": "20% chance for a rocket to fizzle out.",
+  "quest.4C43DF55E70F0A48.quest_desc": [
+    "Each rocket a pillager fires has a &d20%&7 chance to dissolve into smoke before reaching you."
+  ],
+  "quest.4E3055876B934EA9.title": "&eDazzle",
+  "quest.4E3055876B934EA9.quest_subtitle": "25% chance to dazzle the illager.",
+  "quest.4E3055876B934EA9.quest_desc": [
+    "When a vindicator, inquisitor or marauder hits you, there's a &d25%&7 chance the &e&lSun&r&7 dazzles it:",
+    "&c3 ❤ of damage&7",
+    "&bWeak and almost frozen for 10 seconds&7"
+  ],
+  "quest.4C84E15B6B2634F6.title": "&5Blessed Forge",
+  "quest.4C84E15B6B2634F6.quest_subtitle": "20% chance of an extra ingot.",
+  "quest.4C84E15B6B2634F6.quest_desc": [
+    "When crafting a netherite ingot, there's a &d20%&7 chance the &e&lSun&r&7 gifts you another."
+  ],
+  "quest.4B16A06875A5D051.title": "&6Warmth of the Sun",
+  "quest.4B16A06875A5D051.quest_subtitle": "20% extra scrap.",
+  "quest.4B16A06875A5D051.quest_desc": [
+    "When taking netherite scrap out of the furnace, each one has a &d20%&7 chance to give you another.",
+    "",
+    "&8Taking it out yourself: hoppers don't count."
+  ],
+  "quest.4480F963C9234B4A.title": "&5Blessed Template",
+  "quest.4480F963C9234B4A.quest_subtitle": "25% chance of an extra template.",
+  "quest.4480F963C9234B4A.quest_desc": [
+    "When duplicating a netherite upgrade template, there's a &d25%&7 chance the &e&lSun&r&7 gives you one more."
+  ],
+  "quest.40D481890F723CF4.title": "&dBroken Brew",
+  "quest.40D481890F723CF4.quest_subtitle": "25% chance to break a witch's potion.",
+  "quest.40D481890F723CF4.quest_desc": [
+    "Each potion a witch throws at you has a &d25%&7 chance to break in mid-air."
+  ],
+  "quest.4B2CACA647FCCD72.title": "&bBroken Trident",
+  "quest.4B2CACA647FCCD72.quest_subtitle": "20% chance to shatter a trident.",
+  "quest.4B2CACA647FCCD72.quest_desc": [
+    "Each trident a drowned throws has a &d20%&7 chance to shatter into stardust."
+  ],
+  "quest.44DF2E7F9D84C824.title": "&fLost Arrow",
+  "quest.44DF2E7F9D84C824.quest_subtitle": "15% chance to lose an arrow.",
+  "quest.44DF2E7F9D84C824.quest_desc": [
+    "Each arrow from a skeleton (of any kind) has a &d15%&7 chance to get lost in the night."
+  ],
+  "quest.4AB2F0C9EB89246A.title": "&aSnuffed Fuse",
+  "quest.4AB2F0C9EB89246A.quest_subtitle": "30% chance to defuse a creeper.",
+  "quest.4AB2F0C9EB89246A.quest_desc": [
+    "When a creeper reaches you, there's a &d30%&7 chance the &d&lStars&r&7 snuff out its fuse."
+  ],
+  "quest.40511FDA626F7CE1.title": "&7Clear Skies",
+  "quest.40511FDA626F7CE1.quest_subtitle": "30% chance to erase a phantom.",
+  "quest.40511FDA626F7CE1.quest_desc": [
+    "Each phantom that spawns has a &d30%&7 chance of being erased from the sky by the &d&lStars&r&7."
+  ],
+  "quest.4F47932405EE7D6D.title": "&2Infusion of Undead Life",
+  "quest.4F47932405EE7D6D.quest_subtitle": "20% chance to harm the zombie that hits you.",
+  "quest.4F47932405EE7D6D.quest_desc": [
+    "When a zombie hits you, there's a &d20%&7 chance it receives:",
+    "&cInstant Health: 3 ❤ of damage&7",
+    "&bSlowness VI for 5 seconds&7"
+  ],
+  "quest.42B3A405FBB94B9F.title": "&dStellar Recast",
+  "quest.42B3A405FBB94B9F.quest_subtitle": "10% chance to repair a piece every 5 min.",
+  "quest.42B3A405FBB94B9F.quest_desc": [
+    "Every 5 minutes outdoors at night, there's a &d10%&7 chance the &d&lStars&r&7 &dFULLY&7 repair a worn piece.",
+    "",
+    "&8They can't see you under a roof or in caves."
+  ],
+  "quest.43D07842A1056114.title": "&dConstellation",
+  "quest.43D07842A1056114.quest_subtitle": "More experience in a group.",
+  "quest.43D07842A1056114.quest_desc": [
+    "The &d&lStars&r&7 are prettier in company. At night, within 32 blocks:",
+    "&73 players: &f+25%",
+    "&74 or more: &6+50%",
+    "",
+    "&8You'll see it at the top of the screen."
+  ],
+  "quest.48352B8BC49CB196.title": "&e&lSun Protection",
+  "quest.48352B8BC49CB196.quest_subtitle": "The &e&lSun&r&7&r protects you from excess.",
+  "quest.48352B8BC49CB196.quest_desc": [
+    "The &e&lSun&r&7 is a benevolent god who watches over the players of Primazos.",
+    "",
+    "These are their blessings."
+  ],
+  "quest.43EDB872081104E2.title": "&d&lProtection of the Stars",
+  "quest.43EDB872081104E2.quest_subtitle": "The &d&lStars&r&7&r guide those who walk in the dark.",
+  "quest.43EDB872081104E2.quest_desc": [
+    "The &d&lStars&r&7 are a benevolent god. They don't grant power: they grant guidance, so hard nights are a little easier.",
+    "",
+    "&fThey only act at night (from dusk) or during a storm."
+  ],
+  "quest.42283FA0885C276E.title": "&a&lAegis of Protection",
+  "quest.42283FA0885C276E.quest_subtitle": "Two benevolent gods watch over Primazos.",
+  "quest.42283FA0885C276E.quest_desc": [
+    "The &e&lSun&r&7 by day and the &d&lStars&r&7 by night.",
+    "",
+    "And when everything goes wrong, the &a&lAegis&r&7 covers you."
+  ],
+  "chapter.49245C1C892580C8.title": "&4Scaling monsters",
+  "quest.4DC647F23DED0C4B.title": "&eHow it works",
+  "quest.4DC647F23DED0C4B.quest_subtitle": "&7Each player goes up 1 level for every 20 minutes played, up to 100.",
+  "quest.4DC647F23DED0C4B.quest_desc": [
+    "&7Each player goes up 1 level for every 20 minutes played, up to 100.",
+    "&7",
+    "&7Monsters spawning nearby use the level of the &r&dNEAREST&r&7 player.",
+    "&7",
+    "&7If you're with a high-level player, monsters around them will be tougher for everyone.",
+    "&7",
+    "&7In &dYoth&7 it doesn't count: your level &dneither goes up nor down&7 and monsters there don't get stronger."
+  ],
+  "quest.471998B7E9B2D38F.title": "&2Zombies",
+  "quest.471998B7E9B2D38F.quest_subtitle": "&7Level 25: +25% health, +38% damage.",
+  "quest.471998B7E9B2D38F.quest_desc": [
+    "&7&6&lLevel 25&r&7: &c+25% health&7, &c+38% damage&7.",
+    "&7&6&lLevel 50&r&7: &c+50% health&7, &c+75% damage&7.",
+    "&7&6&lLevel 100&r&7: &cdouble&7 health and &c+150% damage&7, and they call reinforcements."
+  ],
+  "quest.4AD5E99117F257D7.title": "&fSkeletons",
+  "quest.4AD5E99117F257D7.quest_subtitle": "&7Level 25: +25% health, bow with Power I.",
+  "quest.4AD5E99117F257D7.quest_desc": [
+    "&7&6&lLevel 25&r&7: &c+25% health&7, bow with &cPower I&7.",
+    "&7&6&lLevel 50&r&7: &c+50% health&7, &cPower II&7 and &carmor&7.",
+    "&7&6&lLevel 100&r&7: double health, &cPower V&7, Punch and Flame."
+  ],
+  "quest.40A3F7D3C2DF97E8.title": "&8Spiders",
+  "quest.40A3F7D3C2DF97E8.quest_subtitle": "&7The ones that gain the most health:",
+  "quest.40A3F7D3C2DF97E8.quest_desc": [
+    "&7The ones that gain the most health:",
+    "&7&6&lLevel 25&r&7: &c+75% health&7.",
+    "&7&6&lLevel 50&r&7: &c+150% health&7.",
+    "&7&6&lLevel 100&r&7: &cfour times&7 more health."
+  ],
+  "quest.4EAB4B2498695AF2.title": "&aCreepers",
+  "quest.4EAB4B2498695AF2.quest_subtitle": "&7They explode sooner and harder.",
+  "quest.4EAB4B2498695AF2.quest_desc": [
+    "&7They explode sooner and harder.",
+    "&7&6&lLevel 50&r&7: explosion radius 4.",
+    "&7&6&lLevel 100&r&7: radius 6 and a much shorter fuse."
+  ],
+  "quest.4D60181555FDC5B2.title": "&bGuardians",
+  "quest.4D60181555FDC5B2.quest_subtitle": "&7Level 50: +75% health and armor.",
+  "quest.4D60181555FDC5B2.quest_desc": [
+    "&7&6&lLevel 50&r&7: &c+75% health and &carmor&7&7.",
+    "&7&6&lLevel 100&r&7: &c+150% health and +25% damage&7."
+  ],
+  "quest.43BAF7436C24984B.title": "&3Drowned",
+  "quest.43BAF7436C24984B.quest_subtitle": "&7Level 50: +75% health, half carry a trident.",
+  "quest.43BAF7436C24984B.quest_desc": [
+    "&7&6&lLevel 50&r&7: &c+75% health&7, half of them carry a &ctrident&7.",
+    "&7&6&lLevel 100&r&7: &c+150% health and all with a &ctrident&7&7."
+  ],
+  "quest.4BD80EE2EF4F3106.title": "&7Pillagers and illagers",
+  "quest.4BD80EE2EF4F3106.quest_subtitle": "&7More health, armor and damage. Pillagers even shoot firework…",
+  "quest.4BD80EE2EF4F3106.quest_desc": [
+    "&7More health, &carmor&7 and damage. Pillagers even shoot firework rockets."
+  ],
+  "quest.40C3A04C45E87EE9.title": "&6Tip",
+  "quest.40C3A04C45E87EE9.quest_subtitle": "&7Hard dungeons are best with low-level players nearby... or…",
+  "quest.40C3A04C45E87EE9.quest_desc": [
+    "&7Hard dungeons are best with low-level players nearby... or with very good gear."
+  ],
+  "quest.4F62A4268F38F40B.title": "&4Monsters get stronger",
+  "quest.4F62A4268F38F40B.quest_subtitle": "&7The more you play, the stronger the monsters around you get.",
+  "quest.4F62A4268F38F40B.quest_desc": [
+    "&7The more you play, the stronger the monsters around you get."
+  ],
+  "chapter.48A16BDEC86E0F14.title": "&aQuality of life",
+  "quest.4C692BC8BC9736ED.title": "&a1. The basics",
+  "quest.4C692BC8BC9736ED.quest_subtitle": "&7It's a Vanilla Plus: it plays like normal Minecraft, but with more…",
+  "quest.4C692BC8BC9736ED.quest_desc": [
+    "&7It's a Vanilla Plus: it plays like normal Minecraft, but with more biomes, mobs, dungeons and quality-of-life features.",
+    "",
+    "&7First: wood, stone tools, food and a bed."
+  ],
+  "quest.44D5585EA6235AF7.title": "&cSleeping",
+  "quest.44D5585EA6235AF7.quest_subtitle": "&7If part of the server sleeps, the night passes with a smooth animation.",
+  "quest.44D5585EA6235AF7.quest_desc": [
+    "&7If part of the server sleeps, the night passes with a smooth animation.",
+    "",
+    "&8Mod: Seamless Sleep"
+  ],
+  "quest.44FB2EBBEE1F7826.title": "&bFinding biomes",
+  "quest.44FB2EBBEE1F7826.quest_subtitle": "&7The Nature's Compass guides you to any biome you choose.",
+  "quest.44FB2EBBEE1F7826.quest_desc": [
+    "&7The Nature's Compass guides you to any biome you choose.",
+    "&7Ideal with so many new biomes.",
+    "",
+    "&8Mod: Nature's Compass"
+  ],
+  "quest.45F048CC0E51D713.title": "&bWhat is that block or mob?",
+  "quest.45F048CC0E51D713.quest_subtitle": "&7When you look at something, a box appears at the top with its name and the mod it…",
+  "quest.45F048CC0E51D713.quest_desc": [
+    "&7When you look at something, a box appears at the top with its name and the mod it belongs to.",
+    "",
+    "&8Mod: Jade"
+  ],
+  "quest.430B23EA4B20877E.title": "&aFirst steps",
+  "quest.430B23EA4B20877E.quest_subtitle": "&7What to do at the start, what happens when you die, pets, experience and…",
+  "quest.430B23EA4B20877E.quest_desc": [
+    "&7What to do at the start, what happens when you die, pets, experience and seasons."
+  ],
+  "quest.4ED9299B6D03E005.title": "&6Traveler's Backpack",
+  "quest.4ED9299B6D03E005.quest_subtitle": "&7Backpacks with extra inventory, fluid tanks, sleeping bag and…",
+  "quest.4ED9299B6D03E005.quest_desc": [
+    "&7Backpacks with extra inventory, fluid tanks, sleeping bag and upgrades (furnace, magnet, crafting...)."
+  ],
+  "quest.4B0BEAFDCDAF5FE0.title": "&7Gravestones",
+  "quest.4B0BEAFDCDAF5FE0.quest_subtitle": "&7When you die, your stuff stays in a gravestone. Go back for it.",
+  "quest.4B0BEAFDCDAF5FE0.quest_desc": [
+    "&7When you die, your stuff stays in a gravestone. Go back for it."
+  ],
+  "quest.4AD6A76EF5A0C5EF.title": "&aXP Tome",
+  "quest.4AD6A76EF5A0C5EF.quest_subtitle": "&7Stores your experience in a book so you don't lose it.",
+  "quest.4AD6A76EF5A0C5EF.quest_desc": [
+    "&7Stores your experience in a book so you don't lose it."
+  ],
+  "quest.40C0E86C23749FA0.title": "&dRespawnable Pets",
+  "quest.40C0E86C23749FA0.quest_subtitle": "&7Your pets can revive after dying.",
+  "quest.40C0E86C23749FA0.quest_desc": [
+    "&7Your pets can revive after dying."
+  ],
+  "quest.4B8834430C69708A.title": "&bNature's Compass",
+  "quest.4B8834430C69708A.quest_subtitle": "&7Compass that leads you to the biome you choose.",
+  "quest.4B8834430C69708A.quest_desc": [
+    "&7Compass that leads you to the biome you choose."
+  ],
+  "quest.45E9F45A2E27D2FB.title": "&6Inventory Totem",
+  "quest.45E9F45A2E27D2FB.quest_subtitle": "&7The totem saves you even if it's in your inventory.",
+  "quest.45E9F45A2E27D2FB.quest_desc": [
+    "&7The totem saves you even if it's in your inventory."
+  ],
+  "quest.4838644783E4382A.title": "&aFallingTree",
+  "quest.4838644783E4382A.quest_subtitle": "&7Chopping one log fells the whole tree.",
+  "quest.4838644783E4382A.quest_desc": [
+    "&7Chopping one log fells the whole tree."
+  ],
+  "quest.433F9B00AFC35131.title": "&eCarry On",
+  "quest.433F9B00AFC35131.quest_subtitle": "&7With an empty hand, hold left Alt and right-click to pick up…",
+  "quest.433F9B00AFC35131.quest_desc": [
+    "&7With an empty hand, hold left Alt and right-click to pick up chests (with their contents) or animals and carry them."
+  ],
+  "quest.440370794A2245AF.title": "&7Easy Anvils and Easy Magic",
+  "quest.440370794A2245AF.quest_subtitle": "&7Fairer anvils (no \"Too Expensive\" so soon) and tables for…",
+  "quest.440370794A2245AF.quest_desc": [
+    "&7Fairer anvils (no \"Too Expensive\" so early) and enchanting tables that keep your items."
+  ],
+  "quest.46C3CC27C35E0B17.title": "&dImproved shulkers",
+  "quest.46C3CC27C35E0B17.quest_subtitle": "&7See shulker box contents from your inventory and put items in or…",
+  "quest.46C3CC27C35E0B17.quest_desc": [
+    "&7See shulker box contents from your inventory and put items in or take them out without placing them."
+  ],
+  "quest.40E15D68886B723A.title": "&aEasy harvesting",
+  "quest.40E15D68886B723A.quest_subtitle": "&7Right-click to harvest and replant. In the rain crops…",
+  "quest.40E15D68886B723A.quest_desc": [
+    "&7Right-click to harvest and replant. Crops grow faster in the rain."
+  ],
+  "quest.47FFF200389D1B8C.title": "&fSit",
+  "quest.47FFF200389D1B8C.quest_subtitle": "&7Right-click a slab or stairs to sit.",
+  "quest.47FFF200389D1B8C.quest_desc": [
+    "&7Right-click a slab or stairs to sit."
+  ],
+  "quest.4CB3FAECE93E5E32.title": "&7Inventory",
+  "quest.4CB3FAECE93E5E32.quest_subtitle": "&7Buttons to sort chests and inventory, and mouse shortcuts to…",
+  "quest.4CB3FAECE93E5E32.quest_desc": [
+    "&7Buttons to sort chests and inventory, and mouse shortcuts to move items quickly (Mouse Tweaks)."
+  ],
+  "quest.464FDD1524822097.title": "&fSpeed Happy Ghast",
+  "quest.464FDD1524822097.quest_subtitle": "&7The Happy Ghast flies faster when you ride it.",
+  "quest.464FDD1524822097.quest_desc": [
+    "&7The Happy Ghast flies faster when you ride it."
+  ],
+  "quest.437CD7D9B077B9E9.title": "&fExplorer's Compass",
+  "quest.437CD7D9B077B9E9.quest_subtitle": "&7Compass that leads you to the structure you choose: villages, temples,…",
+  "quest.437CD7D9B077B9E9.quest_desc": [
+    "Compass that leads you to the &dstructure&7 of your choice: villages, temples, modded dungeons...",
+    "",
+    "Craft it and right-click to choose where to go.",
+    "",
+    "&8Mod: Explorer's Compass"
+  ],
+  "quest.45B4B38CBCAD408C.title": "&eUtilities",
+  "quest.45B4B38CBCAD408C.quest_subtitle": "&7Backpacks, graves, storing experience, pets that revive, easy…",
+  "quest.45B4B38CBCAD408C.quest_desc": [
+    "&7Backpacks, graves, storing experience, pets that revive, easy harvesting..."
+  ],
+  "chapter.40191BDA19B86834.title": "&6Creatures",
+  "quest.4CDA439E526FC98E.title": "&6Alex's Mobs",
+  "quest.4CDA439E526FC98E.quest_subtitle": "&7Over 80 new animals and creatures, each with their own items and…",
+  "quest.4CDA439E526FC98E.quest_desc": [
+    "&7Over 80 new animals and creatures, each with their own special items and armor."
+  ],
+  "quest.4229E36FBBC694B5.title": "&2Useless Reptile",
+  "quest.4229E36FBBC694B5.quest_subtitle": "&7Dragons and draconic creatures you can tame and ride, with…",
+  "quest.4229E36FBBC694B5.quest_desc": [
+    "&7Dragons and draconic creatures you can tame and ride, with their own armor."
+  ],
+  "quest.45D47E02445B6646.title": "&6Friends ＆ Foes",
+  "quest.45D47E02445B6646.quest_subtitle": "&7The mobs from Mojang's mob votes: copper and tuff golems,…",
+  "quest.45D47E02445B6646.quest_desc": [
+    "&7The mobs from Mojang's mob votes: copper and tuff golems, moobloom, crab, glare, iceologer... and the Wildfire."
+  ],
+  "quest.40262B6F6C81B500.title": "&aVariants ＆ Ventures",
+  "quest.40262B6F6C81B500.quest_subtitle": "&7New zombie and skeleton variants by biome: Gelid (cold),…",
+  "quest.40262B6F6C81B500.quest_desc": [
+    "&7New zombie and skeleton variants by biome: Gelid (cold), Murk (water), Thicket and Verdant (forest)."
+  ],
+  "quest.44989C0401A99EAC.title": "&cIllager Invasion",
+  "quest.44989C0401A99EAC.quest_subtitle": "&7Lots of new, dangerous illagers.",
+  "quest.44989C0401A99EAC.quest_desc": [
+    "&7Lots of new, dangerous illagers."
+  ],
+  "quest.44B4E389106E8932.title": "&5End and Nether mobs",
+  "quest.44B4E389106E8932.quest_subtitle": "&7BetterEnd and BetterNether add their own creatures: dragonflies,…",
+  "quest.44B4E389106E8932.quest_desc": [
+    "&7BetterEnd and BetterNether add their own creatures: dragonflies, jellyfish, nagas, flying pigs..."
+  ],
+  "quest.456CFD1714FC7557.title": "&3The Sift mobs",
+  "quest.456CFD1714FC7557.quest_subtitle": "&7The Sift dimension has its own creatures (Sifter, Echo…",
+  "quest.456CFD1714FC7557.quest_desc": [
+    "&7The Sift dimension has its own creatures (Sifter, Echo Golem, Singer...)."
+  ],
+  "quest.47D6CF2F6014C7EF.title": "&fSit, PatPat and more",
+  "quest.47D6CF2F6014C7EF.quest_subtitle": "&7Small extras: petting mobs (PatPat) and new…",
+  "quest.47D6CF2F6014C7EF.quest_desc": [
+    "&7Small extras: petting mobs (PatPat) and new creature animations."
+  ],
+  "quest.48C46EB22B06804A.title": "&6Mobs and creatures",
+  "quest.48C46EB22B06804A.quest_subtitle": "&7New animals and monsters: Alex's Mobs, dragons, variants of…",
+  "quest.48C46EB22B06804A.quest_desc": [
+    "&7New animals and monsters: Alex's Mobs, dragons, zombie variants..."
+  ],
+  "chapter.47499DF7C7D5B3A5.title": "&7› &6Alex's Mobs",
+  "task.4A2B472E0B5D156F.title": "Ask for the dictionary",
+  "quest.457414AEDC2A22D1.title": "&6&lAnimal dictionary",
+  "quest.457414AEDC2A22D1.quest_subtitle": "Ask for it whenever you want (and again if you lose it).",
+  "quest.457414AEDC2A22D1.quest_desc": [
+    "The book with every creature from &dAlex's Mobs&7: where they live, what they drop and how to tame them.",
+    "",
+    "Press the &a✔&7 and claim the reward. You can repeat it every 10 minutes."
+  ],
+  "quest.4889000668C4FCED.title": "&6Animal encyclopedia",
+  "quest.4889000668C4FCED.quest_subtitle": "&7Book with info on every mob in the mod.",
+  "quest.4889000668C4FCED.quest_desc": [
+    "&7Book with info on every mob in the mod."
+  ],
+  "quest.4C9696C35FED1440.title": "&6Grizzly Bear",
+  "quest.4C9696C35FED1440.quest_subtitle": "&7Can be tamed with salmon and honey.",
+  "quest.4C9696C35FED1440.quest_desc": [
+    "&7Can be tamed with salmon and honey."
+  ],
+  "quest.439E584E911EA34E.title": "&2Crocodile",
+  "quest.439E584E911EA34E.quest_subtitle": "&7Dangerous in rivers and swamps. Drops scales for its chestplate.",
+  "quest.439E584E911EA34E.quest_desc": [
+    "&7Dangerous in rivers and swamps. Drops scales for its chestplate."
+  ],
+  "quest.402F6A706A6BDB55.title": "&7Elephant",
+  "quest.402F6A706A6BDB55.quest_subtitle": "&7Can be ridden and carry chests.",
+  "quest.402F6A706A6BDB55.quest_desc": [
+    "&7Can be ridden and carry chests."
+  ],
+  "quest.4805705D52F12AF0.title": "&2Komodo Dragon",
+  "quest.4805705D52F12AF0.quest_subtitle": "&7Poisonous bite.",
+  "quest.4805705D52F12AF0.quest_desc": [
+    "&7Poisonous bite."
+  ],
+  "quest.413ACF493B9B16B4.title": "&fEagle",
+  "quest.413ACF493B9B16B4.quest_subtitle": "&7Can be used for falconry with the glove.",
+  "quest.413ACF493B9B16B4.quest_desc": [
+    "&7Can be used for falconry with the glove."
+  ],
+  "quest.4DA751386404D35A.title": "&fBone serpent",
+  "quest.4DA751386404D35A.quest_subtitle": "&7Swims in the Nether's lava lakes.",
+  "quest.4DA751386404D35A.quest_desc": [
+    "&7Swims in the Nether's lava lakes."
+  ],
+  "quest.4EFA0BD8A50FCC7E.title": "&bWarped toad",
+  "quest.4EFA0BD8A50FCC7E.quest_subtitle": "&7From the Nether.",
+  "quest.4EFA0BD8A50FCC7E.quest_desc": [
+    "&7From the Nether."
+  ],
+  "quest.4D27F55B20D8C4C2.title": "&5Void Worm",
+  "quest.4D27F55B20D8C4C2.quest_subtitle": "&7End boss. Very dangerous.",
+  "quest.4D27F55B20D8C4C2.quest_desc": [
+    "&cEnd boss. Very dangerous."
+  ],
+  "quest.40F457D627947B80.title": "&4Farseer",
+  "quest.40F457D627947B80.quest_subtitle": "&7Very rare and dangerous hostile creature.",
+  "quest.40F457D627947B80.quest_desc": [
+    "&cVery rare and dangerous hostile creature."
+  ],
+  "quest.48B5AD4AA062D624.title": "&3Cachalot Whale",
+  "quest.48B5AD4AA062D624.quest_subtitle": "&7Ocean giant. Drops ambergris.",
+  "quest.48B5AD4AA062D624.quest_desc": [
+    "&7Ocean giant. Drops ambergris."
+  ],
+  "quest.493ADDA79CB9D2E1.title": "&dMimic octopus",
+  "quest.493ADDA79CB9D2E1.quest_subtitle": "&7Mimics other mobs.",
+  "quest.493ADDA79CB9D2E1.quest_desc": [
+    "&7Mimics other mobs."
+  ],
+  "quest.426F46FF0CB655BB.title": "&aCrocodile Chestplate",
+  "quest.426F46FF0CB655BB.quest_subtitle": "&7Special armor that helps you underwater.",
+  "quest.426F46FF0CB655BB.quest_desc": [
+    "&7Special armor that helps you underwater."
+  ],
+  "quest.4F001F4479C5F322.title": "&eRoadrunner boots",
+  "quest.4F001F4479C5F322.quest_subtitle": "&7You run faster on sand.",
+  "quest.4F001F4479C5F322.quest_desc": [
+    "&7You run faster on sand."
+  ],
+  "quest.4D8534FA6EA0DC34.title": "&bIce helmet",
+  "quest.4D8534FA6EA0DC34.quest_subtitle": "&7For cold climates.",
+  "quest.4D8534FA6EA0DC34.quest_desc": [
+    "&7For cold climates."
+  ],
+  "quest.4BA3C1B656BC7BA9.title": "&6Antler headdress",
+  "quest.4BA3C1B656BC7BA9.quest_subtitle": "&7Increases knockback on hit.",
+  "quest.4BA3C1B656BC7BA9.quest_desc": [
+    "&7Increases knockback on hit."
+  ],
+  "quest.4C09A5D1DDD19C14.title": "&4Centipede exoskeleton",
+  "quest.4C09A5D1DDD19C14.quest_subtitle": "&7Helps you climb.",
+  "quest.4C09A5D1DDD19C14.quest_desc": [
+    "&7Helps you climb."
+  ],
+  "quest.426E18FDDD616C76.title": "&bFlying fish boots",
+  "quest.426E18FDDD616C76.quest_subtitle": "&7Longer jumps in water.",
+  "quest.426E18FDDD616C76.quest_desc": [
+    "&7Longer jumps in water."
+  ],
+  "quest.493E6FF87C2F7D0A.title": "&6Wasp elytra",
+  "quest.493E6FF87C2F7D0A.quest_subtitle": "&7Alternative elytra.",
+  "quest.493E6FF87C2F7D0A.quest_desc": [
+    "&7Alternative elytra."
+  ],
+  "quest.45CC4FC437875B8E.title": "&fFalconry glove",
+  "quest.45CC4FC437875B8E.quest_subtitle": "&7To carry your bird on your arm.",
+  "quest.45CC4FC437875B8E.quest_desc": [
+    "&7To carry your bird on your arm."
+  ],
+  "quest.4FCA6F35517DD9A1.title": "&5Dimension carver",
+  "quest.4FCA6F35517DD9A1.quest_subtitle": "&7Opens temporary portals.",
+  "quest.4FCA6F35517DD9A1.quest_desc": [
+    "&7Opens temporary portals."
+  ],
+  "quest.490157946178000D.title": "&bEcholocator",
+  "quest.490157946178000D.quest_subtitle": "&7Locates hidden structures.",
+  "quest.490157946178000D.quest_desc": [
+    "&7Locates hidden structures."
+  ],
+  "quest.4F7CCD409BB42D13.title": "&fPhantom pickaxe",
+  "quest.4F7CCD409BB42D13.quest_subtitle": "&7Special pickaxe dropped by a mob.",
+  "quest.4F7CCD409BB42D13.quest_desc": [
+    "&7Special pickaxe dropped by a mob."
+  ],
+  "quest.414EDCEAC702B0EA.title": "&7Armored chestplate",
+  "quest.414EDCEAC702B0EA.quest_subtitle": "&7Lets you roll like an armadillo.",
+  "quest.414EDCEAC702B0EA.quest_desc": [
+    "&7Lets you roll like an armadillo."
+  ],
+  "quest.4B83910CDCB2CF34.title": "&6&lThe most useful",
+  "quest.4B83910CDCB2CF34.quest_subtitle": "&7The mod's most important items and creatures.",
+  "quest.4B83910CDCB2CF34.quest_desc": [
+    "The mod's most important items and creatures."
+  ],
+  "chapter.496A2C7739A0CE84.title": "&7› &6Friends ＆ Foes",
+  "quest.4F8DEF8330AF1176.title": "&6Wildfire",
+  "quest.4F8DEF8330AF1176.quest_subtitle": "&7Nether boss, lives in the Citadel.",
+  "quest.4F8DEF8330AF1176.quest_desc": [
+    "&cNether boss, lives in the Citadel.",
+    "&7Drops fragments of its crown."
+  ],
+  "quest.470213A24B92135B.title": "&6Infernal crown",
+  "quest.470213A24B92135B.quest_subtitle": "&7Wildfire helmet. Protects you from fire.",
+  "quest.470213A24B92135B.quest_desc": [
+    "&7Wildfire helmet. Protects you from fire."
+  ],
+  "quest.4D0304F6BD49C6AE.title": "&bIceologer",
+  "quest.4D0304F6BD49C6AE.quest_subtitle": "&7Ice illager, lives in cabins in the snow.",
+  "quest.4D0304F6BD49C6AE.quest_desc": [
+    "&7Ice illager, lives in cabins in the snow."
+  ],
+  "quest.4CF9CFB50BB92ECC.title": "&9Illusioner",
+  "quest.4CF9CFB50BB92ECC.quest_subtitle": "&7Creates copies of itself.",
+  "quest.4CF9CFB50BB92ECC.quest_desc": [
+    "&7Creates copies of itself."
+  ],
+  "quest.49BE7A91139225C5.title": "&7Tuff Golem",
+  "quest.49BE7A91139225C5.quest_subtitle": "&7Holds and displays items like a statue.",
+  "quest.49BE7A91139225C5.quest_desc": [
+    "&7Holds and displays items like a statue."
+  ],
+  "quest.4620FD6305399B4F.title": "&eMoobloom",
+  "quest.4620FD6305399B4F.quest_subtitle": "&7Flower cow.",
+  "quest.4620FD6305399B4F.quest_desc": [
+    "&7Flower cow."
+  ],
+  "quest.47EE58CB6759B881.title": "&cCrab",
+  "quest.47EE58CB6759B881.quest_subtitle": "&7Its claw gives you more reach.",
+  "quest.47EE58CB6759B881.quest_desc": [
+    "&7Its claw gives you more reach."
+  ],
+  "quest.46233CAD2A6B0348.title": "&aGlare",
+  "quest.46233CAD2A6B0348.quest_subtitle": "&7Warns you about dark areas where monsters spawn.",
+  "quest.46233CAD2A6B0348.quest_desc": [
+    "&7Warns you about dark areas where monsters spawn."
+  ],
+  "quest.48CD0087B5A2EFF3.title": "&7Rascal",
+  "quest.48CD0087B5A2EFF3.quest_subtitle": "&7Hides in mineshafts.",
+  "quest.48CD0087B5A2EFF3.quest_desc": [
+    "&7Hides in mineshafts.",
+    "&7Find it!"
+  ],
+  "quest.447047A912FF6A2B.title": "&6Mauler",
+  "quest.447047A912FF6A2B.quest_subtitle": "&7Desert predator.",
+  "quest.447047A912FF6A2B.quest_desc": [
+    "&7Desert predator."
+  ],
+  "quest.43C2713FDF7DC123.title": "&bTotem of Freezing",
+  "quest.43C2713FDF7DC123.quest_subtitle": "&7Special totem from the Iceologer.",
+  "quest.43C2713FDF7DC123.quest_desc": [
+    "&7Special totem from the Iceologer."
+  ],
+  "quest.465F4B5003D246A0.title": "&dTotem of Illusion",
+  "quest.465F4B5003D246A0.quest_subtitle": "&7Special totem from the Illusioner.",
+  "quest.465F4B5003D246A0.quest_desc": [
+    "&7Special totem from the Illusioner."
+  ],
+  "quest.4A7C7F66FB445420.title": "&cCrab claw",
+  "quest.4A7C7F66FB445420.quest_subtitle": "&7Increases your reach for placing blocks.",
+  "quest.4A7C7F66FB445420.quest_desc": [
+    "&7Increases your reach for placing blocks."
+  ],
+  "quest.4C3125044E8D36B5.title": "&6Friends ＆ Foes",
+  "quest.4C3125044E8D36B5.quest_subtitle": "&7The mobs from Mojang's mob votes: copper and tuff golems,…",
+  "quest.4C3125044E8D36B5.quest_desc": [
+    "&7The mobs from Mojang's mob votes: copper and tuff golems, moobloom, crab, glare, iceologer... and the Wildfire."
+  ],
+  "chapter.4D9A475CF55E2077.title": "&7› &6Useless Reptile",
+  "quest.4EB01E40F3569BDA.title": "&2Swamp wyvern",
+  "quest.4EB01E40F3569BDA.quest_subtitle": "&7Where: swamps.",
+  "quest.4EB01E40F3569BDA.quest_desc": [
+    "&bWhere: swamps.",
+    "&eTaming it:",
+    "&r&7Give it 1-2 stacks of &r&dchicken&r&7 (raw or cooked) or 4 stacks of any other meat (rotten flesh works).",
+    "&eItems:",
+    "&r&dSaddle&r&7 or &r&dDouble&r&7 &r&dSaddle&r&7 (for two riders). With an &r&dempty&r&7 &r&dbottle&r&7 you collect acid, which works like a potion.",
+    "&r&dCANNOT&r&7 wear armor.",
+    "&eAbilities (G and R):",
+    "&r&7Spits &r&dacid&r&7 balls (so-so aim) and bites."
+  ],
+  "quest.4028E6C369FD4CB0.title": "&eLightning Chaser",
+  "quest.4028E6C369FD4CB0.quest_subtitle": "&7Where: appears during storms near players.",
+  "quest.4028E6C369FD4CB0.quest_desc": [
+    "&bWhere: spawns during storms near players.",
+    "&eTaming it:",
+    "&7You have to beat it: lower its health and strike it with &r&d3&r&7 &r&dlightning bolts&r&7 (trident with &r&dChanneling&r&7).",
+    "&eItems:",
+    "&r&dSaddle&r&7, &r&ddragon&r&7 &r&darmor&r&7 &r&d(helmet, chestplate and tail in iron, gold, diamond or netherite) and banners.",
+    "&eAbilities (G and R):",
+    "&r&dBreath&r&7 &r&dof&r&7 &r&dlightning&r&7: breaks blocks and does the same as lightning (charged creepers, witches...).",
+    "&r&dShock&r&7 &r&dwave&r&7 (only while flying):",
+    "&7deflects arrows and pushes mobs away.",
+    "&7On the ground, it bites.",
+    "&r&7Both attacks inflict &r&dShock&r&7: the enemy moves slower, hits weaker and sees worse."
+  ],
+  "quest.4262A3CF669E9159.title": "&6Moleclaw",
+  "quest.4262A3CF669E9159.quest_subtitle": "&7Where: caves.",
+  "quest.4262A3CF669E9159.quest_desc": [
+    "&bWhere: caves.",
+    "&eTaming it:",
+    "&7Feed it on average a stack of beetroot&r&7.",
+    "&eItems:",
+    "&r&dSaddle&r&7, &r&ddragon&r&7 &r&darmor&r&7 &r&dand&r&7 &r&dits &r&dMoleclaw&r&7 &r&dhelmet&r&7: without the helmet it's afraid of light.",
+    "&eAbilities (G and R):",
+    "&r&dDigs&r&7 whatever a wooden pickaxe breaks. With a &r&dStrength&r&7 potion it breaks harder blocks; with &r&dWeakness it breaks nothing.",
+    "&7Melee attacks that hit everything in front of you."
+  ],
+  "quest.4AA866B9AC7C316F.title": "&bRiver Pikehorn",
+  "quest.4AA866B9AC7C316F.quest_subtitle": "&7Where: rivers and beaches that aren't frozen.",
+  "quest.4AA866B9AC7C316F.quest_desc": [
+    "&bWhere: rivers and beaches that aren't frozen.",
+    "&eTaming it:",
+    "&r&7A &r&dbucket&r&7 &r&dof&r&7 &r&dtropical&r&7 &r&dfish&r&7 or 4-8 tropical fish.",
+    "&eItems:",
+    "&r&7With the &r&dFlute&r&7 you order it to fish for you or attack a mob.",
+    "&r&dCANNOT&r&7 be ridden: it's worn on your head (sneak and click a block to put it on or take it off).",
+    "&eAbilities:",
+    "&7Only attacks in melee."
+  ],
+  "quest.466A8F910111B077.title": "&cMagmamuncher",
+  "quest.466A8F910111B077.quest_subtitle": "&7Where: Nether, near lava lakes.",
+  "quest.466A8F910111B077.quest_desc": [
+    "&bWhere: Nether, near lava lakes.",
+    "&eTaming it:",
+    "&r&7Give it between 4 and 12 &r&dblaze&r&7 &r&drods&r&7.",
+    "&eItems:",
+    "&r&dCANNOT&r&7 be ridden: it's worn on your head like the Pikehorn.",
+    "&r&7If it has &r&dfuel&r&7 in its inventory (coal...), it gives you&r&7 &r&dFire&r&7 &r&dResistance&r&7 when you catch fire.",
+    "&eAbilities:",
+    "&7Digs magma blocks (sometimes gets coal). Its bites burn and it's immune to fire."
+  ],
+  "quest.4F3998BAF5DA2293.title": "&eOrders and care",
+  "quest.4F3998BAF5DA2293.quest_subtitle": "&7Works for all tamed dragons:",
+  "quest.4F3998BAF5DA2293.quest_desc": [
+    "&7Works for all tamed dragons:",
+    "",
+    "&r&dSneak&r&7 &r&d+&r&7 &r&dright&r&7 &r&dclick&r&7:",
+    "&7open its inventory and give it orders (follow, stay, sit).",
+    "&r&dStick&r&7 or horn while sneaking: make it sit or stand.",
+    "&7Sneak to give potions to the dragon.",
+    "&7If you put food in its inventory, it eats on its own."
+  ],
+  "quest.42CD36F88043CB23.title": "&bDragon armor",
+  "quest.42CD36F88043CB23.quest_subtitle": "&7Helmet, chestplate and tail in iron, gold, diamond or netherite (the…",
+  "quest.42CD36F88043CB23.quest_desc": [
+    "&7Helmet, chestplate and tail in iron, gold, diamond or netherite (the netherite one, at the smithing table).",
+    "",
+    "&r&7Only for the &r&dLightning&r&7 &r&dChaser&r&7 and the &r&dMoleclaw&r&7."
+  ],
+  "quest.47518FCD7A890C0F.title": "&7Moleclaw helmet",
+  "quest.47518FCD7A890C0F.quest_subtitle": "&7Makes the Moleclaw not afraid of light.",
+  "quest.47518FCD7A890C0F.quest_desc": [
+    "&7Makes the Moleclaw not afraid of light."
+  ],
+  "quest.4E656E9748B1534E.title": "&6Double mount",
+  "quest.4E656E9748B1534E.quest_subtitle": "&7Wyvern only: lets two players ride at once.",
+  "quest.4E656E9748B1534E.quest_desc": [
+    "&7Wyvern only: lets two players ride at once."
+  ],
+  "quest.41A856F95FB3CC76.title": "&eFlute",
+  "quest.41A856F95FB3CC76.quest_subtitle": "&7Gives orders from a distance: call, sit, stand, attack or fish.",
+  "quest.41A856F95FB3CC76.quest_desc": [
+    "&7Gives orders from a distance: call, sit, stand, attack or fish.",
+    "",
+    "&r&dSneak&r&7 &r&d+&r&7 &r&dright&r&7 &r&dclick&r&7 &r&din the air&r&7: change command.",
+    "&r&dRight&r&7 &r&dclick&r&7 &r&don&r&7 &r&da&r&7 &r&ddragon&r&7:",
+    "&7choose which type of dragon you command."
+  ],
+  "quest.479914831587CC98.title": "&dVortex horn",
+  "quest.479914831587CC98.quest_subtitle": "&7Upgraded goat horn that STORES your dragons inside to…",
+  "quest.479914831587CC98.quest_desc": [
+    "&7Upgraded goat horn that STORES&r&7 your dragons inside so you can take them with you.",
+    "",
+    "&7There are iron, gold, diamond and netherite versions: the better it is, the more dragons fit."
+  ],
+  "quest.473E7C48EF200BEC.title": "&6Calling your dragon",
+  "quest.473E7C48EF200BEC.quest_subtitle": "&7Right-click your dragon with a goat horn to…",
+  "quest.473E7C48EF200BEC.quest_desc": [
+    "&r&7Right-click your dragon with a &r&dgoat&r&7 &r&dhorn&r&7 to bind it.",
+    "",
+    "&7When you blow this horn, your dragon will come even if it is sitting."
+  ],
+  "quest.455D7936C805FA99.title": "&2Wyvern skin",
+  "quest.455D7936C805FA99.quest_subtitle": "&7Only good for getting 2 leather.",
+  "quest.455D7936C805FA99.quest_desc": [
+    "&7Only good for getting 2 leather."
+  ],
+  "quest.42C5627372EC7267.title": "&6Riding controls",
+  "quest.42C5627372EC7267.quest_subtitle": "&7W/S move · Ctrl descend",
+  "quest.42C5627372EC7267.quest_desc": [
+    "&r&dW/S&r&7 move · &r&dCtrl&r&7 descend",
+    "&r&dG&r&7 and &r&dR&r&7 abilities · &r&dZ&r&7 free look",
+    "",
+    "&7Dragons don't move sideways.",
+    "&7Change keys in Options > Controls."
+  ],
+  "chapter.4C40184AC9BD5AFD.title": "&7› &6Illager Invasion",
+  "quest.41028C857DB629EC.title": "&5Invoker",
+  "quest.41028C857DB629EC.quest_subtitle": "&7Very dangerous illager boss: summons fangs and turns invisible.",
+  "quest.41028C857DB629EC.quest_desc": [
+    "&7Very dangerous illager boss: summons fangs and turns invisible."
+  ],
+  "quest.4B9A62D5A424CD73.title": "&8Necromancer",
+  "quest.4B9A62D5A424CD73.quest_subtitle": "&7Raises the dead to fight for him.",
+  "quest.4B9A62D5A424CD73.quest_desc": [
+    "&7Raises the dead to fight for him."
+  ],
+  "quest.4AD7CD1AF6E242A4.title": "&cInquisitor",
+  "quest.4AD7CD1AF6E242A4.quest_subtitle": "&7Warrior with a shield, hits very hard.",
+  "quest.4AD7CD1AF6E242A4.quest_desc": [
+    "&7Warrior with a shield, hits very hard."
+  ],
+  "quest.4EECD8224E8DA7C9.title": "&dSorcerer",
+  "quest.4EECD8224E8DA7C9.quest_subtitle": "&7Casts ranged spells.",
+  "quest.4EECD8224E8DA7C9.quest_desc": [
+    "&7Casts ranged spells."
+  ],
+  "quest.4500974E3DD60613.title": "&6Firecaller",
+  "quest.4500974E3DD60613.quest_subtitle": "&7Shoots magic fire.",
+  "quest.4500974E3DD60613.quest_desc": [
+    "&7Shoots magic fire."
+  ],
+  "quest.47EE1607AB7A6696.title": "&7Basher",
+  "quest.47EE1607AB7A6696.quest_subtitle": "&7Breaks your shield with its hits.",
+  "quest.47EE1607AB7A6696.quest_desc": [
+    "&7Breaks your shield with its hits."
+  ],
+  "quest.48EE5B9A4060C079.title": "&7Marauder",
+  "quest.48EE5B9A4060C079.quest_subtitle": "&7Throws axes.",
+  "quest.48EE5B9A4060C079.quest_desc": [
+    "&7Throws axes."
+  ],
+  "quest.4F8C9625B2F73EB0.title": "&7Provoker",
+  "quest.4F8C9625B2F73EB0.quest_subtitle": "&7Supports the other illagers.",
+  "quest.4F8C9625B2F73EB0.quest_desc": [
+    "&7Supports the other illagers."
+  ],
+  "quest.43374A57379E02D8.title": "&aAlchemist",
+  "quest.43374A57379E02D8.quest_subtitle": "&7Throws potions.",
+  "quest.43374A57379E02D8.quest_desc": [
+    "&7Throws potions."
+  ],
+  "quest.424E26C1BCB25695.title": "&bArchivist",
+  "quest.424E26C1BCB25695.quest_subtitle": "&7Makes its enemies levitate.",
+  "quest.424E26C1BCB25695.quest_desc": [
+    "&7Makes its enemies levitate."
+  ],
+  "quest.4947BF823E58E56D.title": "&fSurrendered",
+  "quest.4947BF823E58E56D.quest_subtitle": "&7Spirit that accompanies the Invoker.",
+  "quest.4947BF823E58E56D.quest_desc": [
+    "&7Spirit that accompanies the Invoker."
+  ],
+  "quest.46359B09BB84C66F.title": "&fPlatinum axe",
+  "quest.46359B09BB84C66F.quest_subtitle": "&7Throwing weapon obtained from illagers.",
+  "quest.46359B09BB84C66F.quest_desc": [
+    "&7Throwing weapon obtained from illagers."
+  ],
+  "quest.459193C5458DA105.title": "&dImbuing table",
+  "quest.459193C5458DA105.quest_subtitle": "&7Lets you raise enchantments above the normal max.",
+  "quest.459193C5458DA105.quest_desc": [
+    "&7Lets you raise enchantments above the normal max."
+  ],
+  "quest.47EA464092934E28.title": "&eHorn of sight",
+  "quest.47EA464092934E28.quest_subtitle": "&7Reveals nearby enemies.",
+  "quest.47EA464092934E28.quest_desc": [
+    "&7Reveals nearby enemies."
+  ],
+  "quest.4860C026AA83B6E6.title": "&bSacred gem",
+  "quest.4860C026AA83B6E6.quest_subtitle": "&7Rare illager material.",
+  "quest.4860C026AA83B6E6.quest_desc": [
+    "&7Rare illager material."
+  ],
+  "quest.469D25CF7BDE4409.title": "&fPlatinum",
+  "quest.469D25CF7BDE4409.quest_subtitle": "&7Material for platinum gear.",
+  "quest.469D25CF7BDE4409.quest_desc": [
+    "&7Material for platinum gear."
+  ],
+  "quest.4211EC5D1F2E8708.title": "&cIllager Invasion",
+  "quest.4211EC5D1F2E8708.quest_subtitle": "&7Lots of new, dangerous illagers.",
+  "quest.4211EC5D1F2E8708.quest_desc": [
+    "&7Lots of new, dangerous illagers."
+  ],
+  "chapter.459A2F7493AAA428.title": "&6Home and creativity",
+  "quest.46D6099044CD1A79.title": "&6MrCrayfish's Furniture: Refurbished",
+  "quest.46D6099044CD1A79.quest_subtitle": "&7Hundreds of furniture pieces: kitchens, sofas, lamps, TVs,…",
+  "quest.46D6099044CD1A79.quest_desc": [
+    "&7Hundreds of furniture pieces: kitchens, sofas, lamps, TVs, computers, bathrooms... many of them work!"
+  ],
+  "quest.4D41E9AE12A4C2A4.title": "&fElevators",
+  "quest.4D41E9AE12A4C2A4.quest_subtitle": "&7Place two elevators vertically:",
+  "quest.4D41E9AE12A4C2A4.quest_desc": [
+    "&7Place two elevators vertically:",
+    "&7jump to go up and sneak to go down. They can be dyed."
+  ],
+  "quest.477D5FE6989C7247.title": "&eImmersive Melodies",
+  "quest.477D5FE6989C7247.quest_subtitle": "&7Real instruments (lute, piano, flute, bagpipes...) to play…",
+  "quest.477D5FE6989C7247.quest_desc": [
+    "&7Real instruments (lute, piano, flute, bagpipes...) to play songs with friends."
+  ],
+  "quest.4926CA15C759C962.title": "&fArmor Statues",
+  "quest.4926CA15C759C962.quest_subtitle": "&7Pose armor stands any way you like, with arms, and with no…",
+  "quest.4926CA15C759C962.quest_desc": [
+    "&7Pose armor stands any way you like, with arms, and with no need for commands."
+  ],
+  "quest.49C77FD642A988B5.title": "&bLitematica",
+  "quest.49C77FD642A988B5.quest_subtitle": "&7Loads building schematics as a hologram so you can copy them block…",
+  "quest.49C77FD642A988B5.quest_desc": [
+    "&7Loads building schematics as a hologram so you can copy them block by block."
+  ],
+  "quest.407803B4E879BD19.title": "&dFlashback (camera)",
+  "quest.407803B4E879BD19.quest_subtitle": "&7Record your sessions and then move freely through the recording to…",
+  "quest.407803B4E879BD19.quest_desc": [
+    "&7Record your sessions and then move freely through the recording to make videos and cinematic shots."
+  ],
+  "quest.49C57A08F8D650E4.title": "&dJi AFK Cinematic",
+  "quest.49C57A08F8D650E4.quest_subtitle": "&7If you go AFK, the camera takes automatic cinematic shots…",
+  "quest.49C57A08F8D650E4.quest_desc": [
+    "&r&7If you go &r&dAFK&r&7, the camera takes automatic cinematic shots around you."
+  ],
+  "quest.491474BF6CD8BDE1.title": "&6Emotecraft",
+  "quest.491474BF6CD8BDE1.quest_subtitle": "&7Dances and gestures for your character.",
+  "quest.491474BF6CD8BDE1.quest_desc": [
+    "&7Dances and gestures for your character.",
+    "&7You can also create your own."
+  ],
+  "quest.4DB6E2EF2AA33222.title": "&5Elytra Trims",
+  "quest.4DB6E2EF2AA33222.quest_subtitle": "&7Customize your elytra with trims, banners and colors.",
+  "quest.4DB6E2EF2AA33222.quest_desc": [
+    "&7Customize your elytra with trims, banners and colors."
+  ],
+  "quest.4449A0EAAC146764.title": "&fScholar and Scribble",
+  "quest.4449A0EAAC146764.quest_subtitle": "&7Better books: text formatting, two-page view and editing on the…",
+  "quest.4449A0EAAC146764.quest_desc": [
+    "&7Better books: text formatting, two-page view and editing on the lectern."
+  ],
+  "quest.447E5B7D62D2ABAD.title": "&5BetterEnd and BetterNether blocks",
+  "quest.447E5B7D62D2ABAD.quest_subtitle": "&7New End and Nether woods, stones, plants and lights for…",
+  "quest.447E5B7D62D2ABAD.quest_desc": [
+    "&7New End and Nether woods, stones, plants and lights for building."
+  ],
+  "quest.4D8F557D1903FFCA.title": "&bBuilding and creativity",
+  "quest.4D8F557D1903FFCA.quest_subtitle": "&7Furniture, elevators, instruments, schematics, video recording and…",
+  "quest.4D8F557D1903FFCA.quest_desc": [
+    "&7Furniture, elevators, instruments, schematics, video recording and decoration."
+  ],
+  "chapter.416F96FD638651E8.title": "&7› &6Furniture",
+  "quest.426ACD72D3C7A19F.title": "&6Tables and chairs",
+  "quest.426ACD72D3C7A19F.quest_subtitle": "&7In every wood type.",
+  "quest.426ACD72D3C7A19F.quest_desc": [
+    "&7In every wood type."
+  ],
+  "quest.455904268DD1280C.title": "&fKitchen",
+  "quest.455904268DD1280C.quest_subtitle": "&7Sinks, cabinets, drawers...",
+  "quest.455904268DD1280C.quest_desc": [
+    "&7Sinks, cabinets, drawers..."
+  ],
+  "quest.474993FEAFC038A2.title": "&fStove",
+  "quest.474993FEAFC038A2.quest_subtitle": "&7Cooks real food.",
+  "quest.474993FEAFC038A2.quest_desc": [
+    "&7Cooks real food."
+  ],
+  "quest.48BF397F8CD131CA.title": "&fFridge",
+  "quest.48BF397F8CD131CA.quest_subtitle": "&7Stores food.",
+  "quest.48BF397F8CD131CA.quest_desc": [
+    "&7Stores food."
+  ],
+  "quest.42000780FC3DFEE9.title": "&fMicrowave",
+  "quest.42000780FC3DFEE9.quest_subtitle": "&7Cooks fast.",
+  "quest.42000780FC3DFEE9.quest_desc": [
+    "&7Cooks fast."
+  ],
+  "quest.4B444DAEE79B91E0.title": "&fToaster",
+  "quest.4B444DAEE79B91E0.quest_subtitle": "&7Toast!",
+  "quest.4B444DAEE79B91E0.quest_desc": [
+    "&7Toast!"
+  ],
+  "quest.4082E7315C2CC166.title": "&7Frying pan",
+  "quest.4082E7315C2CC166.quest_subtitle": "&7For cooking on the stove.",
+  "quest.4082E7315C2CC166.quest_desc": [
+    "&7For cooking on the stove."
+  ],
+  "quest.42DCC3E51802920A.title": "&7Television",
+  "quest.42DCC3E51802920A.quest_subtitle": "&7With a remote control.",
+  "quest.42DCC3E51802920A.quest_desc": [
+    "&7With a remote control."
+  ],
+  "quest.4EEB07755A88D970.title": "&7Computer",
+  "quest.4EEB07755A88D970.quest_subtitle": "&7Has programs inside.",
+  "quest.4EEB07755A88D970.quest_desc": [
+    "&7Has programs inside."
+  ],
+  "quest.4594F5F11338EDDE.title": "&eDoorbell",
+  "quest.4594F5F11338EDDE.quest_subtitle": "&7For your home.",
+  "quest.4594F5F11338EDDE.quest_desc": [
+    "&7For your home."
+  ],
+  "quest.4973456CEE6EB3C4.title": "&eElectric generator",
+  "quest.4973456CEE6EB3C4.quest_subtitle": "&7Some furniture needs electricity.",
+  "quest.4973456CEE6EB3C4.quest_desc": [
+    "&7Some furniture needs electricity."
+  ],
+  "quest.429F196896B54592.title": "&6MrCrayfish's Furniture: Refurbished",
+  "quest.429F196896B54592.quest_subtitle": "&7Hundreds of furniture pieces: kitchens, sofas, lamps, TVs,…",
+  "quest.429F196896B54592.quest_desc": [
+    "&7Hundreds of furniture pieces: kitchens, sofas, lamps, TVs, computers, bathrooms... many of them work!"
+  ],
+  "chapter.490234D27BDD56D5.title": "&7› &6Backpacks",
+  "quest.45C6CBF00CB4A208.title": "&6Normal backpack",
+  "quest.45C6CBF00CB4A208.quest_subtitle": "&7The first one you can craft.",
+  "quest.45C6CBF00CB4A208.quest_desc": [
+    "&7The first one you can craft."
+  ],
+  "quest.4415D16FB8F49532.title": "&7Iron backpack",
+  "quest.4415D16FB8F49532.quest_subtitle": "&7More space.",
+  "quest.4415D16FB8F49532.quest_desc": [
+    "&7More space."
+  ],
+  "quest.40CC5A7F4C786B7A.title": "&6Gold backpack",
+  "quest.40CC5A7F4C786B7A.quest_subtitle": "&7Even more space.",
+  "quest.40CC5A7F4C786B7A.quest_desc": [
+    "&7Even more space."
+  ],
+  "quest.4AFB8A1B4B0BF01A.title": "&bDiamond backpack",
+  "quest.4AFB8A1B4B0BF01A.quest_subtitle": "&7Lots of space.",
+  "quest.4AFB8A1B4B0BF01A.quest_desc": [
+    "&7Lots of space."
+  ],
+  "quest.479C81BA4190F8DD.title": "&8Netherite backpack",
+  "quest.479C81BA4190F8DD.quest_subtitle": "&7The biggest one.",
+  "quest.479C81BA4190F8DD.quest_desc": [
+    "&7The biggest one."
+  ],
+  "quest.42999DECD53AD445.title": "&fTier upgrades",
+  "quest.42999DECD53AD445.quest_subtitle": "&7Upgrade your backpack without losing what's inside.",
+  "quest.42999DECD53AD445.quest_desc": [
+    "&7Upgrade your backpack without losing what's inside."
+  ],
+  "quest.48BEF986AB9A51AF.title": "&eCrafting upgrade",
+  "quest.48BEF986AB9A51AF.quest_subtitle": "&7Crafting table inside the backpack.",
+  "quest.48BEF986AB9A51AF.quest_desc": [
+    "&7Crafting table inside the backpack."
+  ],
+  "quest.441EED7EA0E9E5FF.title": "&7Furnace upgrade",
+  "quest.441EED7EA0E9E5FF.quest_subtitle": "&7Portable furnace.",
+  "quest.441EED7EA0E9E5FF.quest_desc": [
+    "&7Portable furnace."
+  ],
+  "quest.481BFE4A018AA98D.title": "&cMagnet upgrade",
+  "quest.481BFE4A018AA98D.quest_subtitle": "&7Pulls in items from the ground.",
+  "quest.481BFE4A018AA98D.quest_desc": [
+    "&7Pulls in items from the ground."
+  ],
+  "quest.4E28F42EA9ED8328.title": "&aPickup upgrade",
+  "quest.4E28F42EA9ED8328.quest_subtitle": "&7Puts what you pick up into the backpack.",
+  "quest.4E28F42EA9ED8328.quest_desc": [
+    "&7Puts what you pick up into the backpack."
+  ],
+  "quest.41EC04CACF562298.title": "&6Food upgrade",
+  "quest.41EC04CACF562298.quest_subtitle": "&7Feeds you automatically.",
+  "quest.41EC04CACF562298.quest_desc": [
+    "&7Feeds you automatically."
+  ],
+  "quest.4C33720767691111.title": "&cSleeping bag",
+  "quest.4C33720767691111.quest_subtitle": "&7Sleep anywhere without changing your spawn point.",
+  "quest.4C33720767691111.quest_desc": [
+    "&7Sleep anywhere without changing your spawn point."
+  ],
+  "quest.4CFA9FC2862B4048.title": "&5Themed backpacks",
+  "quest.4CFA9FC2862B4048.quest_subtitle": "&7There are dozens of designs: dragon, creeper, cow, End...",
+  "quest.4CFA9FC2862B4048.quest_desc": [
+    "&7There are dozens of designs: dragon, creeper, cow, End..."
+  ],
+  "quest.4557889F85B971C3.title": "&6Traveler's Backpack",
+  "quest.4557889F85B971C3.quest_subtitle": "&7Backpacks with extra inventory, fluid tanks, sleeping bag and…",
+  "quest.4557889F85B971C3.quest_desc": [
+    "&7Backpacks with extra inventory, fluid tanks, sleeping bag and upgrades (furnace, magnet, crafting...)."
+  ],
+  "chapter.431D22DAA74F4164.title": "&7› &6Instruments",
+  "quest.49EB47E448E41093.title": "&6Lute",
+  "quest.4E0B1808FF50AA60.title": "&fPiano",
+  "quest.46E09BA2C2AFA740.title": "&eFlute",
+  "quest.4F0C9882CD0B7333.title": "&cBagpipes",
+  "quest.4D7E23ED9D882D37.title": "&6Trumpet",
+  "quest.4BC01EF6F974D198.title": "&6Didgeridoo",
+  "quest.4BEBAD1AFC669599.title": "&7Handpan",
+  "quest.4546FE4303278642.title": "&7Triangle",
+  "quest.40ABB65CA534EC54.title": "&cDrum",
+  "quest.447A2247BF736CD8.title": "&6Hurdy-gurdy",
+  "quest.40142821B40F3F5C.title": "&5Ender Bass",
+  "quest.4F0052C6F3D1C6F2.title": "&eImmersive Melodies",
+  "quest.4F0052C6F3D1C6F2.quest_subtitle": "&7Real instruments (lute, piano, flute, bagpipes...) to play…",
+  "quest.4F0052C6F3D1C6F2.quest_desc": [
+    "&7Real instruments (lute, piano, flute, bagpipes...) to play songs with friends."
+  ],
+  "chapter.4F8A61C5F2461F5F.title": "&6Biomes and dimensions",
+  "quest.49CCD203849DF119.title": "&aTerralith",
+  "quest.49CCD203849DF119.quest_subtitle": "&7Almost 100 new biomes in the Overworld: huge mountains, canyons,…",
+  "quest.49CCD203849DF119.quest_desc": [
+    "&7Almost 100 new biomes in the Overworld: huge mountains, canyons, islands... with no weird blocks.",
+    "",
+    "&7Also adds structures like wizard towers."
+  ],
+  "quest.4035694D894EF2DC.title": "&dBiomes O' Plenty",
+  "quest.4035694D894EF2DC.quest_subtitle": "&7Over 50 biomes with new trees, flowers and woods (jacaranda,…",
+  "quest.4035694D894EF2DC.quest_desc": [
+    "&7Over 50 biomes with new trees, flowers and woods (jacaranda, redwood, maple...)."
+  ],
+  "quest.499B25243C76C27F.title": "&cBetterNether",
+  "quest.499B25243C76C27F.quest_subtitle": "&7A Nether full of new biomes, plants, mobs, ores and armor.",
+  "quest.499B25243C76C27F.quest_desc": [
+    "&7A Nether full of new biomes, plants, mobs, ores and armor."
+  ],
+  "quest.493B52128425283F.title": "&fPale Garden Remaster",
+  "quest.493B52128425283F.quest_subtitle": "&7The Pale Garden revamped, with more detail.",
+  "quest.493B52128425283F.quest_desc": [
+    "&7The Pale Garden revamped, with more detail."
+  ],
+  "quest.4FA824317BCF06A9.title": "&5BetterEnd",
+  "quest.4FA824317BCF06A9.quest_subtitle": "&7The End fills with biomes, lakes, villages and materials: thallasium,…",
+  "quest.4FA824317BCF06A9.quest_desc": [
+    "&7The End fills with biomes, lakes, villages and materials: thallasium, terminite and aeternium."
+  ],
+  "quest.4151A30784C766C0.title": "&3The Sift",
+  "quest.4151A30784C766C0.quest_subtitle": "&7A whole new dimension, with its own ore (siftite) that…",
+  "quest.4151A30784C766C0.quest_desc": [
+    "&7A whole new dimension, with its own ore (siftite) that upgrades netherite."
+  ],
+  "quest.4C430E744383A2EA.title": "&bImmersive Gateways",
+  "quest.4C430E744383A2EA.quest_subtitle": "&7Ancient portals scattered across biomes that link parts…",
+  "quest.4C430E744383A2EA.quest_desc": [
+    "&7Ancient portals scattered across biomes that link parts of the world together."
+  ],
+  "quest.474C341A272062D3.title": "&eImproved villages",
+  "quest.474C341A272062D3.quest_subtitle": "&7Lio's Overhauled Villages revamps villages and Improved Village…",
+  "quest.474C341A272062D3.quest_desc": [
+    "&7Lio's Overhauled Villages revamps villages and Improved Village Placement makes them spawn on flat ground."
+  ],
+  "quest.4252915C1E2A3AC1.title": "&eSerene Seasons",
+  "quest.4252915C1E2A3AC1.quest_subtitle": "&7Seasons: the colors, temperature and which… change.",
+  "quest.4252915C1E2A3AC1.quest_desc": [
+    "&7Seasons: the colors, temperature and which crops grow all change."
+  ],
+  "quest.4E413A012030A033.title": "&aBiomes and dimensions",
+  "quest.4E413A012030A033.quest_subtitle": "&7Over 200 new biomes, a revamped Nether and End, and the…",
+  "quest.4E413A012030A033.quest_desc": [
+    "&7Over 200 new biomes, a revamped Nether and End, and The Sift dimension."
+  ],
+  "chapter.4ABF38276AB9DA0A.title": "&6Combat and dungeons",
+  "quest.4BF43E3746C41F19.title": "&6Dungeons and Taverns",
+  "quest.4BF43E3746C41F19.quest_subtitle": "&7Over 100 structures: taverns, illager camps and mansions,…",
+  "quest.4BF43E3746C41F19.quest_desc": [
+    "&7Over 100 structures: taverns, illager camps and mansions, catacombs, crypts, Nether fortresses and End castles.",
+    "",
+    "&7Comes with its own enchantments (see Enchantments)."
+  ],
+  "quest.494DE2E0D4A9AF8A.title": "&cIllager Invasion",
+  "quest.494DE2E0D4A9AF8A.quest_subtitle": "&7New illagers (Invoker, Necromancer, Inquisitor, Sorcerer...) with…",
+  "quest.494DE2E0D4A9AF8A.quest_desc": [
+    "&7New illagers (Invoker, Necromancer, Inquisitor, Sorcerer...) with forts, mazes and towers."
+  ],
+  "quest.41E6D08492B4F2B3.title": "&dAdvanced Netherite",
+  "quest.41E6D08492B4F2B3.quest_subtitle": "&74 netherite tiers better than the normal one: iron, gold, emerald…",
+  "quest.41E6D08492B4F2B3.quest_desc": [
+    "&74 netherite tiers better than the normal one: iron, gold, emerald and diamond."
+  ],
+  "quest.4FA7316916C50AF5.title": "&3End Remastered",
+  "quest.4FA7316916C50AF5.quest_subtitle": "&7Regular Eyes of Ender no longer open the portal: you need special…",
+  "quest.4FA7316916C50AF5.quest_desc": [
+    "&7Regular Eyes of Ender no longer open the portal: you need special eyes scattered around the world."
+  ],
+  "quest.40C823539CD07465.title": "&5Ender Dragon Fight Remastered",
+  "quest.40C823539CD07465.quest_subtitle": "&7The Ender Dragon is much harder, with new attacks and phases.",
+  "quest.40C823539CD07465.quest_desc": [
+    "&7The Ender Dragon is much harder, with new attacks and phases.",
+    "&7Go prepared and in a group."
+  ],
+  "quest.461FEA79551DFC6C.title": "&8Wither Spawn Animation",
+  "quest.461FEA79551DFC6C.quest_subtitle": "&7Summoning the Wither builds an animated altar before it appears.",
+  "quest.461FEA79551DFC6C.quest_desc": [
+    "&7Summoning the Wither builds an animated altar before it appears.",
+    "&7Visual only, but it won't catch you off guard."
+  ],
+  "quest.45254225FF33B44F.title": "&4Hostile Mobs Improve Over Time",
+  "quest.45254225FF33B44F.quest_subtitle": "&7Monsters gain health, damage, armor and abilities based on how long…",
+  "quest.45254225FF33B44F.quest_desc": [
+    "&7Monsters gain health, damage, armor and abilities based on how long the nearest player has played."
+  ],
+  "quest.44ECC62FE24457D2.title": "&aRepurposed Structures",
+  "quest.44ECC62FE24457D2.quest_subtitle": "&7Vanilla structure variants in every biome: mansions,…",
+  "quest.44ECC62FE24457D2.quest_desc": [
+    "&7Vanilla structure variants in every biome: mansions, monuments, jungle temples, pyramids, mineshafts and ancient cities in the Nether and the End."
+  ],
+  "quest.48BF3971DB3F3D85.title": "&eMoog's Voyager Structures",
+  "quest.48BF3971DB3F3D85.quest_subtitle": "&7Over 130 small structures:",
+  "quest.48BF3971DB3F3D85.quest_desc": [
+    "&7Over 130 small structures:",
+    "&7houses, wells, ruins, camps...",
+    "&7The world feels more alive."
+  ],
+  "quest.417C688D90E51302.title": "&7Cut Through and Friendly Fire",
+  "quest.417C688D90E51302.quest_subtitle": "&7You can hit through tall grass, and you won't hurt your…",
+  "quest.417C688D90E51302.quest_desc": [
+    "&7You can hit through tall grass, and you won't hurt your pets or friendly mobs by accident."
+  ],
+  "quest.4FC528F41A926D6F.title": "&cCombat and dungeons",
+  "quest.4FC528F41A926D6F.quest_subtitle": "&7New structures, bosses, illagers, the End and the netherite…",
+  "quest.4FC528F41A926D6F.quest_desc": [
+    "&7New structures, bosses, illagers, the End and advanced netherite gear."
+  ],
+  "chapter.4C88E4F47197CDEF.title": "&6Visuals and performance",
+  "quest.427371C2FBF6C87C.title": "&eShaders (Iris)",
+  "quest.427371C2FBF6C87C.quest_subtitle": "&7You can enable shaders in Options > Video Settings > Shaders. They're…",
+  "quest.427371C2FBF6C87C.quest_desc": [
+    "&7You can enable shaders in Options > Video Settings > Shaders. They're quite GPU-heavy."
+  ],
+  "quest.4887F58A9402A30A.title": "&3Voxy (far render distance)",
+  "quest.4887F58A9402A30A.quest_subtitle": "&7Shows mountains and very distant terrain at low cost. The server…",
+  "quest.4887F58A9402A30A.quest_desc": [
+    "&7Shows mountains and very distant terrain at low cost. The server sends that data."
+  ],
+  "quest.42CB41E788FF8FA8.title": "&bSounds",
+  "quest.42CB41E788FF8FA8.quest_subtitle": "&7Ambient sounds, realistic cave echoes and different footsteps depending…",
+  "quest.42CB41E788FF8FA8.quest_desc": [
+    "&7Ambient sounds, realistic cave echoes and different footsteps depending on the block."
+  ],
+  "quest.43963A6663093866.title": "&aFresh Animations",
+  "quest.43963A6663093866.quest_subtitle": "&7Mobs move more naturally thanks to the modpack's…",
+  "quest.43963A6663093866.quest_desc": [
+    "&7Mobs move more naturally thanks to the modpack's resource packs."
+  ],
+  "quest.4E408B3913B22C58.title": "&aParticles",
+  "quest.4E408B3913B22C58.quest_subtitle": "&7Falling leaves, wind, revamped clouds and small visual touches.",
+  "quest.4E408B3913B22C58.quest_desc": [
+    "&7Falling leaves, wind, revamped clouds and small visual touches."
+  ],
+  "quest.4B00C3C73E192134.title": "&fZoomify",
+  "quest.4B00C3C73E192134.quest_subtitle": "&7Zoom with the C key.",
+  "quest.4B00C3C73E192134.quest_desc": [
+    "&7Zoom with the C key."
+  ],
+  "quest.460DFE73E9301888.title": "&7Controlify",
+  "quest.460DFE73E9301888.quest_subtitle": "&7You can play with a controller.",
+  "quest.460DFE73E9301888.quest_desc": [
+    "&7You can play with a controller."
+  ],
+  "quest.4F1BA84280C4B810.title": "&cPerformance",
+  "quest.4F1BA84280C4B810.quest_subtitle": "&7Sodium, Lithium, FerriteCore and others make the game run much…",
+  "quest.4F1BA84280C4B810.quest_desc": [
+    "&7Sodium, Lithium, FerriteCore and others make the game run much smoother. If it's slow, lower shaders or render distance."
+  ],
+  "quest.45BA21F861210564.title": "&3Visuals, sound and performance",
+  "quest.45BA21F861210564.quest_subtitle": "&7Shaders, realistic sounds, animations and mods that keep the game…",
+  "quest.45BA21F861210564.quest_desc": [
+    "&7Shaders, realistic sounds, animations and mods that keep the game running smoothly."
+  ],
+  "chapter.454FABAB4D9ED871.title": "&d&lYoth&r&7: fast track",
+  "image.4E21C5C5F21BE88A.title": "&f&lGo to Yoth",
+  "image.45FEB1981C1A8930.title": "&f&lGo back",
+  "quest.4EACA8D62A63C301.title": "&dWhat is Yoth",
+  "quest.4EACA8D62A63C301.quest_subtitle": "&7A &dfriendly&7 cave world to learn the ropes and reach &dnetherite&7 fast.",
+  "quest.4EACA8D62A63C301.quest_desc": [
+    "&7A &dfriendly&7 cave world to learn the ropes and reach &dnetherite&7 fast.",
+    "",
+    "&7There are &dvery few monsters&7 and almost everything from the normal world: villages, dungeons, every ore and Nether zones with &dbastions&7.",
+    "&dAncient debris&7 spawns in &devery biome&7.",
+    "",
+    "&7The &dscaling monsters&7 don't count here: your level &dneither goes up nor down&7.",
+    "&7Whatever you get in Yoth &dcomes with you&7 to the normal world, and the other way round.",
+    "",
+    "&cBeds don't set your respawn point&7: if you die, you wake up in your bed in the normal world and your grave stays in Yoth.",
+    "",
+    "&7This chapter &donly moves forward with what you get inside Yoth&7: crafting, smelting, mining or picking up. Anything brought from outside doesn't count.",
+    "",
+    "&7When you enter you wear the &dYoth lantern&7: monsters leave you alone."
+  ],
+  "quest.4B8C3DC2448B1B41.title": "&d&lEnter Yoth",
+  "quest.4B8C3DC2448B1B41.quest_subtitle": "&7Press &e&lGo to Yoth&r&7 (below) and walk through the portal.",
+  "quest.4B8C3DC2448B1B41.quest_desc": [
+    "&7Press &e&lGo to Yoth&r&7 (below) and walk through the portal.",
+    "",
+    "&e&lGo to Yoth&r&7: a &dportal&7 opens in front of you. It's ready in 2 seconds: &dwalk through it&7.",
+    "&e&lGo back&r&7: the same from Yoth, and you appear &dwhere you were&7.",
+    "",
+    "&7Also with &e&l/trigger yoth set 1&r&7 (go) and &e&l/trigger yoth set 2&r&7 (back).",
+    "&cIt can't be opened in the middle of a fight&7.",
+    "",
+    "&7The first time you arrive above where you were; after that, at your &dlast safe spot&7 in Yoth.",
+    "",
+    "&7The portal always drops you in a &dsafe spot&7 and you get a few seconds of &dfull protection&7 on arrival."
+  ],
+  "quest.46090082BF3B0803.title": "&fStone and wood",
+  "quest.46090082BF3B0803.quest_subtitle": "&7Craft a &dstone pickaxe&7.",
+  "quest.46090082BF3B0803.quest_desc": [
+    "&7Craft a &dstone pickaxe&7.",
+    "",
+    "&7There's no sun in Yoth: carry &dtorches&7 and don't wander off without light."
+  ],
+  "quest.4F06056A7B906436.title": "&fIron",
+  "quest.4F06056A7B906436.quest_subtitle": "&7Gather &d8 iron ingots&7.",
+  "quest.4F06056A7B906436.quest_desc": [
+    "&7Gather &d8 iron ingots&7.",
+    "",
+    "&7It's everywhere on cave walls. Smelt it in a furnace."
+  ],
+  "quest.4736B846400EFFE0.title": "&fIron pickaxe",
+  "quest.4736B846400EFFE0.quest_subtitle": "&7Craft an &diron pickaxe&7: now you can mine &ddiamond&7 and &dgold&7.",
+  "quest.4736B846400EFFE0.quest_desc": [
+    "&7Craft an &diron pickaxe&7: now you can mine &ddiamond&7 and &dgold&7."
+  ],
+  "quest.4FE98792CFBB4DDF.title": "&dThe Yoth lantern",
+  "quest.4FE98792CFBB4DDF.quest_subtitle": "&7In Yoth you always wear an &damethyst lantern&7 on your belt.",
+  "quest.4FE98792CFBB4DDF.quest_desc": [
+    "&7In Yoth you always wear an &damethyst lantern&7 on your belt.",
+    "",
+    "&7It's put on when you enter, &dcan't be taken off&7 and disappears when you leave or die.",
+    "&7- Nearby monsters &dstep away&7 and don't chase you.",
+    "&7- If you &chit one&7, that monster fights back for 15 seconds.",
+    "&7- &dFewer monsters&7 spawn around you.",
+    "&7- &cBosses&7 ignore it."
+  ],
+  "quest.49FFC7CD9BC37E56.title": "&bDiamonds",
+  "quest.49FFC7CD9BC37E56.quest_subtitle": "&7Get &d3 diamonds&7.",
+  "quest.49FFC7CD9BC37E56.quest_desc": [
+    "&7Get &d3 diamonds&7.",
+    "",
+    "&7They're at the very bottom, below layer 0. Explore big caves or branch mine."
+  ],
+  "quest.4C14BA8F7DC2A3C1.title": "&bDiamond pickaxe",
+  "quest.4C14BA8F7DC2A3C1.quest_subtitle": "&7Craft a &ddiamond pickaxe&7: the only one that mines &dancient debris&7.",
+  "quest.4C14BA8F7DC2A3C1.quest_desc": [
+    "&7Craft a &ddiamond pickaxe&7: the only one that mines &dancient debris&7."
+  ],
+  "quest.4045D997AE397EB5.title": "&6Ancient debris",
+  "quest.4045D997AE397EB5.quest_subtitle": "&7Get &d4 ancient debris&7.",
+  "quest.4045D997AE397EB5.quest_desc": [
+    "&7Get &d4 ancient debris&7.",
+    "",
+    "&7In Yoth it spawns in &devery biome&7, from the bottom up to layer 140, with bigger veins &dbelow layer 30&7.",
+    "&7It looks like brown stone with swirls and survives explosions.",
+    "&7Smelt it in a furnace: each one gives a &dnetherite scrap&7."
+  ],
+  "quest.426B306E73BE5A5D.title": "&eGold",
+  "quest.426B306E73BE5A5D.quest_subtitle": "&7Gather &d4 gold ingots&7.",
+  "quest.426B306E73BE5A5D.quest_desc": [
+    "&7Gather &d4 gold ingots&7.",
+    "",
+    "&d4 netherite scraps&7 and &d4 gold ingots&7 make a netherite ingot."
+  ],
+  "quest.468315DA3D9135C1.title": "&8Netherite ingot",
+  "quest.468315DA3D9135C1.quest_subtitle": "&7Craft a &dnetherite ingot&7.",
+  "quest.468315DA3D9135C1.quest_desc": [
+    "&7Craft a &dnetherite ingot&7.",
+    "",
+    "&7At the crafting table: 4 netherite scraps and 4 gold ingots, in any order."
+  ],
+  "quest.43EDB52C38E79855.title": "&dNetherite upgrade template",
+  "quest.43EDB52C38E79855.quest_subtitle": "&7Find it in a &dbastion&7 in Yoth's Nether zones.",
+  "quest.43EDB52C38E79855.quest_desc": [
+    "&7Find it in a &dbastion&7 in Yoth's Nether zones.",
+    "",
+    "&7The Nether zones (crimson and warped forests, lava rivers, demonic incursions) have &dbastions&7. The template is in their chests.",
+    "&cPiglins attack you unless you wear gold&7: put on some gold boots.",
+    "&7To copy it: the template, &d7 diamonds&7 and &d1 netherrack&7."
+  ],
+  "quest.471327BBFCAF11E0.title": "&8First netherite piece",
+  "quest.471327BBFCAF11E0.quest_subtitle": "&7Upgrade a &ddiamond&7 tool or armor piece to &dnetherite&7.",
+  "quest.471327BBFCAF11E0.quest_desc": [
+    "&7Upgrade a &ddiamond&7 tool or armor piece to &dnetherite&7.",
+    "",
+    "&7At the &dsmithing table&7: the template, the diamond piece and a netherite ingot.",
+    "&cThe template is used up&7: copy it first."
+  ],
+  "quest.465AADD25710CEE9.title": "&5&lCovered in netherite",
+  "quest.465AADD25710CEE9.quest_subtitle": "&7Wear the &dfull netherite armor&7.",
+  "quest.465AADD25710CEE9.quest_desc": [
+    "&7Wear the &dfull netherite armor&7.",
+    "",
+    "&7You're ready for the normal world: everything you carry &dcomes with you&7.",
+    "&7Next step: &dAdvanced Netherite&7, in the &f&lGear&r&7 group."
+  ],
+  "quest.447B564C35375558.title": "&aYoth fast track",
+  "quest.447B564C35375558.quest_subtitle": "&7From zero to netherite in the friendly world.",
+  "quest.447B564C35375558.quest_desc": [
+    "&7From zero to netherite in the friendly world."
+  ],
+  "task.4666D3CD34F65F48.title": "&7Craft a stone pickaxe in Yoth",
+  "task.4830FF6609B34E86.title": "&7Smelt or pick up 8 iron ingots in Yoth",
+  "task.4520D768EBE06E2B.title": "&7Craft an iron pickaxe in Yoth",
+  "task.4ABE7E6118DC8E62.title": "&7Pick up 3 diamonds in Yoth",
+  "task.42A94609EDB05FAE.title": "&7Craft a diamond pickaxe in Yoth",
+  "task.4773B30C77045867.title": "&7Mine 4 ancient debris in Yoth",
+  "task.44DA7E1F749A3ECC.title": "&7Smelt or pick up 4 gold ingots in Yoth",
+  "task.496F1780B1F3FA58.title": "&7Craft a netherite ingot in Yoth",
+  "task.425D4EB0D424D92D.title": "&7Get a netherite upgrade template in Yoth",
+  "task.44FC087FC58F9A8D.title": "&7Upgrade a piece to netherite in Yoth",
+  "task.46891C307E0C133A.title": "&7Wear the full netherite armor in Yoth"
+}

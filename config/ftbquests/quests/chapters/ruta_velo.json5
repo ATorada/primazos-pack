@@ -1,0 +1,58 @@
+{
+  id: "48116F9F4DFBB1BA",
+  group: "4B9BB1154CE5E86A",
+  order_index: 7,
+  icon: {
+    id: "aerialhell:chiseled_stellar_grass_block",
+    count: 1,
+  },
+  disable_toast: true,
+  filename: "ruta_velo",
+  always_invisible: true,
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  autofocus_id: "48767560B4568E4A",
+  quests: [
+    {
+      icon: {
+        id: "advancednetherite:netherite_veil_chestplate",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 2.1,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "47C1575671C9D30E",
+    },
+    {
+      icon: {
+        id: "minecraft:filled_map",
+        count: 1,
+      },
+      disable_toast: true,
+      x: 0.0,
+      y: 0.0,
+      shape: "gear",
+      hide_dependency_lines: true,
+      dependencies: [
+        "47C1575671C9D30E",
+      ],
+      size: 1.5,
+      optional: true,
+      id: "48767560B4568E4A",
+      rewards: [
+        {
+          id: "48DB15BDE47C614E",
+          type: "xp",
+          xp: 20,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}
