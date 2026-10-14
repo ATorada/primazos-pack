@@ -1665,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/certain-questing-additions-fabric-26.2.0.1-primazos.jar"
-hash = "e1230ddac73759e816f531502e655c214da8c518225141bab94f89f89c519460"
+hash = "168b088e3ee406216de3d2ae01c3eb59ebae4bb2749efbdd0252cbebb61919b4"
 
 [[files]]
 file = "mods/chat-heads-1-2-6-fabric-26-1.pw.toml"
