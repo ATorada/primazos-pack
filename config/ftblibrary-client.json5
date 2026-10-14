@@ -53,7 +53,7 @@
      * Default: "top_left"
      * Valid values: "top_left", "top_right", "bottom_left", "bottom_right"
      */
-    position: "top_left",
+    position: "bottom_right",
   },
   tooltips: {
     /*
