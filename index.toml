@@ -626,7 +626,7 @@ hash = "c6d6376a96d8048e43d78befdb0b801923e847cd91a0d0032b8f292e631e8991"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/yoth.json5"
-hash = "0a44ed4a26a106fdec6cc4d9e44e2d2896f63370b348223c739b3809dc918206"
+hash = "6720a1147fc0d83d6163a0582f795fa2f765e1af98e5c7bfef44989d98481b50"
 
 [[files]]
 file = "config/ftbquests/quests/data.json5"
@@ -634,15 +634,15 @@ hash = "b3ecacf2a11397bb4712f51fcc86c6c65e5c79600249f59357285d23a147db91"
 
 [[files]]
 file = "config/ftbquests/quests/lang/ca_es/primazos.json5"
-hash = "b7202ffd9164027dccdc7c8370e3341dd8f4e16239766ba0b8b7e67867fb0ed6"
+hash = "6650970db18608cf2c0fe081ce4fc85924746ed2d3ef92474f012923e81ec628"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/primazos.json5"
-hash = "79f8f8930503e7af71141aec0a88618da56b74019c6af35ccb2f4ead3cf86713"
+hash = "b2ac740f3cce1fdf228b87f0922bcf6b45ab4ae152f3e6b33f778a01bded0a08"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/primazos.json5"
-hash = "176a9001c2e384c06171b2c066b61a3863b9c098e4a0abdaf59b4bded12f6596"
+hash = "497b0b91d8f493bd9b0bee650f36828445fa48f22f47f55bb6e229f9052e4298"
 
 [[files]]
 file = "config/fullscreenfix.properties"
