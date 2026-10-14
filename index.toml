@@ -2105,8 +2105,8 @@ file = "mods/primazos-progresion-2.2.0.jar"
 hash = "b8f439aee4ef193a444fe55dece4b05b532e3fd002e6dda4d2cbe03fcf5a4093"
 
 [[files]]
-file = "mods/primazos-velo-1.0.0.jar"
-hash = "9de9abc87d00da3fe67687738e1faad7a3bef582fd0c4b68102dde0e6b81f716"
+file = "mods/primazos-velo-1.1.0.jar"
+hash = "3a66c978572b6d34d0000032ed6e579304462183c741eab212e26b9a9fbe2dab"
 
 [[files]]
 file = "mods/puzzleslib-v26-2-1-mc26-2-x-fabric.pw.toml"
@@ -2356,8 +2356,8 @@ hash = "e7d2abf4c9fbb1770a4f604acc10c75a2341257f950b2617e668145ae9945174"
 metafile = true
 
 [[files]]
-file = "mods/yoth-1.4.0.jar"
-hash = "483c61698a78ddc12dc07496271026b932aecfda35d41efcca758aacf6b95bab"
+file = "mods/yoth-1.4.1.jar"
+hash = "b34d1f349f7d268b51f0ddaa11f60f8444497fee587446aab6cd1caf02384269"
 
 [[files]]
 file = "mods/zoomify-2-16-1-26-2.pw.toml"
