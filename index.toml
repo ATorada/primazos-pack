@@ -2105,8 +2105,8 @@ file = "mods/primazos-guides-2.6.0.jar"
 hash = "54090e4522e0b6f707b6067fb5a12ed42a2a09f9da911defb24854f73a33a6c2"
 
 [[files]]
-file = "mods/primazos-linterna-1.1.0.jar"
-hash = "950e55736e31061bf1d9c89465ac9c22bc14db15e301ed8ddcfb9c96ab937be4"
+file = "mods/primazos-linterna-1.2.0.jar"
+hash = "c64b10e43e32957fd68b60a292d57176c704016ff046c5fbdcb25677a8716a8c"
 
 [[files]]
 file = "mods/primazos-presets-1.0.0.jar"
