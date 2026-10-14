@@ -370,7 +370,7 @@ hash = "3c0f6204a097304c69166a28d793745e23cf743fb99b9224c085e823a77c16b2"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_pause_screen.txt"
-hash = "ee3e6ea10677b31388c92f43524df7f277e3a3f0679a246e39af775e77e2e075"
+hash = "b6bb22bdf337b1d0f065872693ed0182df5dcd24360bf1320286765af9706517"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_ok_screen.txt"
@@ -459,6 +459,14 @@ hash = "e68f5c4cfb232c53d67ffb2f05dd520f812f4fada71c6c065211e75d4abfe234"
 [[files]]
 file = "config/friendsandfoes.json"
 hash = "358a049568d9031aed9ae78615c99bc70b8d3f5b03c71e5a28057ffe28d03179"
+
+[[files]]
+file = "config/ftblibrary-client.json5"
+hash = "e92faff3e25baa3f1082a5e3508c0d7dcaebe807a7a2c3d0b711cb53f78d110c"
+
+[[files]]
+file = "config/ftbquests-client.json5"
+hash = "30595b622385696b71e4aedefc559c95fb2a42e6272b485c0b581c1b0f0cd4ce"
 
 [[files]]
 file = "config/fullscreenfix.properties"
@@ -1253,12 +1261,24 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "533523955fd5948e1c1d48eafa1aec49fbf2912f8e78fdb731f58ac5a1fc76db"
 
 [[files]]
+file = "mods/DarkPaintings-fabric-MC26.2-26.2.0.1.jar"
+hash = "1ff6a363524127c23d1da6e0b95396e14db0346cd49b7546d4af8a0c6b91962a"
+
+[[files]]
 file = "mods/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
 hash = "f6be638d63462d765004d08f912a105db981dc6a24ba2dd6b5e22b5fab416589"
 
 [[files]]
+file = "mods/ExplorersCompass-26.2-2.5.1-fabric.jar"
+hash = "17bd0478290f3c38853b105029aa61fa3094338234b34f08b516331e73115f74"
+
+[[files]]
 file = "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
 hash = "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac"
+
+[[files]]
+file = "mods/Iceberg-26.2-fabric-1.4.2.2.jar"
+hash = "97ab52228563d32a6fe74b6a8bd10d29bd8dc4b156cd0860ec599d68a74e5df6"
 
 [[files]]
 file = "mods/IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar"
@@ -1267,6 +1287,14 @@ hash = "03938ff551de675c36402bae792b1077fa1a6d076929b2c6c609e8735a999b34"
 [[files]]
 file = "mods/InventoryParticles-3.2.0+26.2+fabric.jar"
 hash = "dd461dba2de86a9e18a7e16c36889aaddee4773d3abf1c282648547b6f67e04d"
+
+[[files]]
+file = "mods/IronChests-2.0.8.jar"
+hash = "4e1db65f122f16c8b91cb52d81d6fcfe2281ea3ef1f7c3820ff554bcbbd1d4c7"
+
+[[files]]
+file = "mods/ItemBorders-26.2-fabric-1.3.2.jar"
+hash = "8c7c4ae92547571c9dc62e6bffedcd38de6779a02f9324647fbf6d28f3afa9e4"
 
 [[files]]
 file = "mods/LocatorColors-26.2-1.1.2.jar"
@@ -1287,6 +1315,10 @@ hash = "bc7b95364d0e5e2c38b042ae2cc0ce509330f1081eb964d4f310d0cde27fa7f4"
 [[files]]
 file = "mods/ParticleEffects-1.6.0+26.2+fabric.jar"
 hash = "239a3f74916e2718bc89f499063635c079202e2b93b0969ddc4389b91dc3773a"
+
+[[files]]
+file = "mods/Prism-26.2-fabric-1.1.2.jar"
+hash = "0ab6fd6056a89cdf0cfea2dca6cb741ebb80f65a393e49ae9967668cc968472d"
 
 [[files]]
 file = "mods/PuzzlesLib-v26.2.4-mc26.2.x-Fabric.jar"
@@ -1322,6 +1354,10 @@ hash = "6e2f9c6469ac1db808601ca48c1860b0c397d9385fba958f881cf95672731d81"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough-1.2.1+26.2.jar"
+hash = "7fd48f61dc7de3ba6f221a40ac46d2b93aa647aeec459e10f39211046b3e3423"
+
+[[files]]
 file = "mods/animatica-0-6-3-26-2.pw.toml"
 hash = "2aacd33bf73dec9349de4cdacb2f32a822ddc68ad246648b26138de31c78782b"
 metafile = true
@@ -1337,6 +1373,10 @@ hash = "ec7002fd4232359561cc0d88997351c496596102ca344d40a0330d9d8aec725a"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric-21.0.7.jar"
+hash = "0f57afbd3dcddd0b7304c22d712ccf5437e2c41270ec08bd2d8c4e1df0a6d627"
+
+[[files]]
 file = "mods/armorstatues-v26-2-0-mc26-2-x-fabric.pw.toml"
 hash = "0c7f69b250e496200df0653ec896070eb3f262c823a01073b1c186b024e75e78"
 metafile = true
@@ -1348,6 +1388,10 @@ hash = "ec15507fa62570697e61d60d1ce070e22d2145327a1d879a6f5d127d67f177c7"
 [[files]]
 file = "mods/auras-fabric-1.0.2+26.2.jar"
 hash = "9c62671d407e631a4e1ec673764ff947f3a9d5116fa2a96db1b8d991b17c418c"
+
+[[files]]
+file = "mods/auroraslanterns-2.1.1+26.2.jar"
+hash = "e0f8fe41c5ada5746de8db256eca8d2d6854c08b35fb6c83fad0ef3d66158a8a"
 
 [[files]]
 file = "mods/balm-fabric-26-2-26-2-0-5.pw.toml"
@@ -1436,6 +1480,10 @@ hash = "88de628cdad4e2d69666cde2af76c697a0db89910ca65b2d6af9bde5f1257fda"
 metafile = true
 
 [[files]]
+file = "mods/certain-questing-additions-fabric-26.2.0.1-primazos.jar"
+hash = "6b5104b8627b06bd7389c06ac887b5a49a226bc96046dd57ef5bdcbb14c13907"
+
+[[files]]
 file = "mods/chat-heads-1-2-6-fabric-26-1.pw.toml"
 hash = "c65c59dfb28aeafa6a5338a5d25d3944e4f5bc581af8ba75d7fd6cc41dddc702"
 metafile = true
@@ -1474,12 +1522,24 @@ hash = "c6e147169c7367448e4f46f299ce99bbfaf54020e6f462bd1474d35d034f1b04"
 metafile = true
 
 [[files]]
+file = "mods/cluttered-3.0.3-26.2.x-0.1.1-fabric-unofficial.jar"
+hash = "79720c398231e4a42a1d091a7c4ee56527287b69b393d8d8a70ee8c46eec9ecd"
+
+[[files]]
 file = "mods/codxlib-1.6.1-fabric+26.2.jar"
 hash = "a08c517bd08dbc2c4c40e3d4769525c753b884f523a52c0ef0dbcde1582fcb38"
 
 [[files]]
 file = "mods/collective-26.2.0-8.42.jar"
 hash = "0d2ddcf71123702b6451ec60d744e883a7ea09756a0ca8b6630e7ef09aa6f77d"
+
+[[files]]
+file = "mods/connectiblechains-2.4.4+26.2-fabric.jar"
+hash = "011c439f4f60a03ca2ff889a83e4d0d74c84dc3f46e89be49692ba354fe3dc44"
+
+[[files]]
+file = "mods/constructionwand-2.1.3+26.2.jar"
+hash = "096d7be2576c1df546922427cfb462ad900a66012389f04d7e534462caccc881"
 
 [[files]]
 file = "mods/continuity-3-0-1-26-2.pw.toml"
@@ -1497,6 +1557,10 @@ hash = "af55dc6a669b7320a1b0d8b2538cbe0e9db8131299b17cb0201ea1f690f92673"
 metafile = true
 
 [[files]]
+file = "mods/coolrain-1.4.0-26.2.jar"
+hash = "b7ec31587d29e194f8aa4eea39b253a8e2a3ef86965c20f605604d5b9755f50b"
+
+[[files]]
 file = "mods/creativecore-fabric-v2-14-16-mc26-2.pw.toml"
 hash = "7d6d1300e0578ed5cdcd3dee37c7e4bf1e386f5b2c01f483dd6621130bd9eca9"
 metafile = true
@@ -1505,10 +1569,6 @@ metafile = true
 file = "mods/cropsloverain-3-2-1.pw.toml"
 hash = "62ba73dd9ec007e50f19e229b233fffea6869083aa0f9cc2aa276ce487fc5ea9"
 metafile = true
-
-[[files]]
-file = "mods/customchestmenus-fabric-26.2-2.4.0.jar"
-hash = "ffca6f7c2cd24d0c92825dbc32fe5d8a8db2795ca1150c348ea1520d0d7f1f96"
 
 [[files]]
 file = "mods/customskyboxes-mc26.2-1.0.4.jar"
@@ -1684,6 +1744,18 @@ hash = "881562866cc98225dc0d91059c1d120843cddaf387a6b99db1a0f5021d2f02e1"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric-26.2.0.1.jar"
+hash = "75710e0ffb4e412ca93150dc578f4f72b22ae6f4e0c308ec82662a42ae9fe993"
+
+[[files]]
+file = "mods/ftb-quests-fabric-26.2.0.1.jar"
+hash = "258beb33b8cb9d2ef844dd8df5d873e3e97fa2d632eed6dc2df82f7e9e62787c"
+
+[[files]]
+file = "mods/ftb-teams-fabric-26.2.0.1.jar"
+hash = "5b8669c942f72262cbd8335cb6d2f1d0953fd50789c4d3500b57f8f090eab354"
+
+[[files]]
 file = "mods/fzzy-config-0-7-7-26-2.pw.toml"
 hash = "288edd19ce4b4a792cc422dd99f58819a8390ef18c7d5d76a7d5242bfef9f6fb"
 metafile = true
@@ -1758,6 +1830,10 @@ hash = "1f2e0aa69aa96969fb779ace4e0543e14fcd69c6ea2ca323f2aa44b875591896"
 metafile = true
 
 [[files]]
+file = "mods/jakes-build-tools-v5.0.6.jar"
+hash = "7d9c309adc2955c4c79a4ca43eb958ce41a283b4a629386b3bd55125782302da"
+
+[[files]]
 file = "mods/jamlib-fabric-2-3-1-26-2-x.pw.toml"
 hash = "cc6242551b120bcc4c78131c4e48ef778a36a0d0a7adfca78191b27c3549a458"
 metafile = true
@@ -1771,6 +1847,10 @@ metafile = true
 file = "mods/journeymap-fabric-26-2-6-0-2.pw.toml"
 hash = "1db5d4f01bb8ca9bb0ccff624f8945a53931e08aa1259705f90194e2f3dc3ce3"
 metafile = true
+
+[[files]]
+file = "mods/jumpoverfences-fabric-26.2-1.8.1.jar"
+hash = "dfaad11ddb4c5a21bd007bb8a9dffebf173c948ecdf8088a066ac88d7355514c"
 
 [[files]]
 file = "mods/konkrete-fabric-1-11-1-mc-26-2.pw.toml"
@@ -1943,6 +2023,10 @@ hash = "e5b511b0afe19a6bc4b19390b11b5af4408c4d78f2fde0f1e05b7f6955e1aa59"
 metafile = true
 
 [[files]]
+file = "mods/particlerain-4.0.2+26.2-fabric.jar"
+hash = "45e80313df9940438c7439aa26c58da85454952016b03cbfeede6d385291dd65"
+
+[[files]]
 file = "mods/patpat-1-3-1-26-2-fabric.pw.toml"
 hash = "8e422fee543c798fe9b9c4529d4c408b85be73d8b64f5991d8c53b1c725d70b4"
 metafile = true
@@ -2007,6 +2091,10 @@ metafile = true
 file = "mods/pricklemc-fabric-mc26-2-26-2-0-3.pw.toml"
 hash = "8192b4616df5021d6e3ac3c473d1798150397eb43527dfeaaa56b8e094279afb"
 metafile = true
+
+[[files]]
+file = "mods/primazos-guides-2.6.0.jar"
+hash = "54090e4522e0b6f707b6067fb5a12ed42a2a09f9da911defb24854f73a33a6c2"
 
 [[files]]
 file = "mods/primazos-presets-1.0.0.jar"
@@ -2226,6 +2314,10 @@ hash = "e085f52277ac8af9e723ae885ebc58e7245eef78c3dba58c7a67148e48cdb87d"
 [[files]]
 file = "mods/voxy-0.2.19-beta.jar"
 hash = "a06e4d93db88dc22d6cde6dfe1e58d8428ae271d1f432bbb430735336f4b5c12"
+
+[[files]]
+file = "mods/waveycapes-fabric-1.11.2-mc26.2.jar"
+hash = "5e3c43104b802ec258b9002d8105e555280f06ba912f381529f44908e14344c2"
 
 [[files]]
 file = "mods/waystones-fabric-26.2-26.2.0.12.jar"

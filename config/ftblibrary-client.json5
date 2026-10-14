@@ -1,0 +1,81 @@
+/*
+ * Client-specific configuration for FTB Library
+ * Modpack defaults should be defined in <instance>/config/ftblibrary-client.json5
+ *   (may be overwritten on modpack update)
+ * Players may locally override this by copying into <instance>/local/ftblibrary-client.json5
+ *   (will NOT be overwritten on modpack update)
+ */
+{
+  colorselector: {
+    /*
+     * Colors recently selected in the color selector
+     * Default: []
+     */
+    recents: [
+    ],
+  },
+  sidebar: {
+    buttons: {
+      "ftbquests:quests": {
+        enabled: true,
+        x: 0,
+        y: 0,
+      },
+      "ftbteams:my_team": {
+        enabled: false,
+      },
+      "ftbteams:team_lives": {
+        enabled: false,
+      },
+      "ftblibrary:config": {
+        enabled: false,
+      },
+      "ftblibrary:toggle/gamemode": {
+        enabled: false,
+      },
+      "ftblibrary:toggle/day": {
+        enabled: false,
+      },
+      "ftblibrary:toggle/night": {
+        enabled: false,
+      },
+      "ftblibrary:toggle/rain": {
+        enabled: false,
+      },
+    },
+    /*
+     * Enable the sidebar
+     * Default: true
+     */
+    enabled: true,
+    /*
+     * Position of the sidebar
+     * Default: "top_left"
+     * Valid values: "top_left", "top_right", "bottom_left", "bottom_right"
+     */
+    position: "top_left",
+  },
+  tooltips: {
+    /*
+     * Add the name of the mod that entities belong to in the entity face selection GUI.
+     * Default: true
+     */
+    entity_modname: true,
+    /*
+     * Add the name of the mod that fluids belong to in the fluid selection GUI.
+     * Default: true
+     */
+    fluid_modname: true,
+    /*
+     * Add the name of the mod that images belong to in the image selection GUI.
+     * Default: true
+     */
+    image_modname: true,
+    /*
+     * Add the name of the mod that items belong to in the item selection GUI.
+     * Note that several common mods also do this (modnametooltip,WTHIT,EMI...) so this is false by default
+     * Default: false
+     */
+    item_modname: false,
+  },
+}
