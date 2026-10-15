@@ -73,6 +73,10 @@ file = "config/bclib/main.json"
 hash = "bd1a2321000f3e9f2e0fe369faf030051ca027b38aade4fb8ee7f5c8f4064957"
 
 [[files]]
+file = "config/better_party-hud.properties"
+hash = "6112ef1f5b5ca1803f3384593e33b3d11e351bf0006440633f22143bf6bc13dc"
+
+[[files]]
 file = "config/betteradvancements.json"
 hash = "c81c89e9534c83ecef3206b6c7d311c7695a396c23080b15abeedeabbd7064d5"
 
@@ -1237,6 +1241,10 @@ file = "config/punchy/punchy_config.json"
 hash = "afe0db894ba5368a8c4da20fbee56c82d210a4fc76d11b7b7d1473aeb4701acd"
 
 [[files]]
+file = "config/r3ct_daily/r3ct_daily_client.json"
+hash = "3754f1309b42e5ba324abb5fcf4e163d1483a3e12b09525187a41940cc5e2a40"
+
+[[files]]
 file = "config/reachbehind-client.toml"
 hash = "9cecab7606abc432bd005307fea39590a9527cb981bf1ddc3814c95884e7fb9a"
 
@@ -1508,6 +1516,10 @@ metafile = true
 [[files]]
 file = "mods/MobCatcher-Fabric-1.5.726.2.jar"
 hash = "9fd2376a20ade35d0e375957db4e66aa8aeec013b36af61bb256a47b1e97600f"
+
+[[files]]
+file = "mods/R3CT-Daily-fabric-26.2-5.1.0-primazos.jar"
+hash = "cdca83c71f1e614452e68320a6d7f37d4cbaaef1f7bcfae7c0c57d4dd6057d89"
 
 [[files]]
 file = "mods/Totem Slot-1.0.6.jar"
@@ -2354,11 +2366,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "79420b4be1a8073dd606a986f0af5365761804b1231801f8960fb1e7fcf3c9bf"
-metafile = true
-
-[[files]]
-file = "mods/r3ct-daily-quests-rewards.pw.toml"
-hash = "f45a30c5c7919a5631c9e179b7eeb12bc851e49d4370c1b1bfb1c12129a11d7f"
 metafile = true
 
 [[files]]
