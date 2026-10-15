@@ -1441,6 +1441,14 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "d721dd1c44f6c8972c16f5249fd83702c9c36567280bca33c078668165a69b7d"
 
 [[files]]
+file = "config/voxy-config.json"
+hash = "67371a577f3b4dce53baeadb3724ef41fea1a57adf0ddd97243e21c852522896"
+
+[[files]]
+file = "config/voxyworldgenv2.json"
+hash = "1ef9c3784d6ddcf5bfe9602558e8ac6f9778cd0e2372f8e1ad9c2b376edcb4d6"
+
+[[files]]
 file = "config/windy-config.json"
 hash = "b0a9620eb61c344a858051eee8e0a89830dda32d52444a924da009c2b2ca5faa"
 
