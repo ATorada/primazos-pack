@@ -1839,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "751cb9aa8953df5f8faed55cd35b1d89ba7ee651151f2f76a5999ebea86284a3"
+hash = "56219a8acb0cb7fb2aae19d971d3250a6ec9704867e24e1d3c10a1e4ad1ae23c"
 metafile = true
 
 [[files]]
@@ -2030,7 +2030,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3fc31ba4a9148711f3639c0e21ac140d5cb6fdc7b4cea711fee46d1df44fe9e1"
+hash = "94fd7221f86dea17d2f48f97a9de84194f2d1c8061afd0223966a304dc827a0a"
 metafile = true
 
 [[files]]
@@ -2349,7 +2349,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "60104accdaaf2a8a03bf7eb54589604e94eedf26560b1637a6e5202a90e5aca1"
+hash = "00e0e539574b9823e74e1983d2740aedb25b61caf3e87917a5aa48e02e5e326c"
 metafile = true
 
 [[files]]
@@ -2448,7 +2448,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "0c11570655d616f234f7831886865ae1bf63edbfd8c25a7247e0b669392fa338"
+hash = "a93ef183e2807a911228063aa867575d7396bc41290895a20df8c492e4c1897a"
 metafile = true
 
 [[files]]
@@ -2458,7 +2458,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "129ac48e3ff991857ed5fc45c00a7fe0ad40f39a73ec6d376c7baec442e3f8f9"
+hash = "08db0eab509ef444a653e0550184bda292f1d2f2f1efe264a2fe13fa9358446b"
 metafile = true
 
 [[files]]
