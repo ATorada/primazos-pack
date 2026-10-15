@@ -9,7 +9,7 @@ config_version: 1 # Local settings schema version, independent of the network pr
 # memory and processing time. Turning reception off does not erase cached terrain.
 lod:
   receive: true # Download server LOD terrain; off stops acquisition, not saved terrain display.
-  distance_chunks: 48 # 0 = server default; otherwise 1–2048, capped by the server's radius.
+  distance_chunks: 0 # 0 = server default; otherwise 1–2048, capped by the server's radius.
   # Balance terrain fill speed against connection quality and client processing load.
   # A column-rate limit counts chunk columns, not bytes: dense/modded terrain can
   # cost more per column. Lower rates can help stutters but take longer to fill.

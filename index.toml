@@ -950,7 +950,7 @@ hash = "264ff92847ac9ef4e03e3577f721036d10889c96282dfe0ca02449c27b186099"
 
 [[files]]
 file = "config/primazos_presets/alto/lss-client-config.yaml"
-hash = "9a09f54ebcf875aef789072fc2d0cee2332c61f76690bc5e9dbb0b43e7c55532"
+hash = "a9c412f03a4a7f8701e996779b284cb90e99e19d90c2beb2011183c5743ebe7c"
 
 [[files]]
 file = "config/primazos_presets/alto/moreculling.toml"
@@ -1010,7 +1010,7 @@ hash = "d124d6e57b95b41b6fa327a570ea4e524ae03ca0cbb58f583d2178ba3fe2e971"
 
 [[files]]
 file = "config/primazos_presets/basico/lss-client-config.yaml"
-hash = "0e7f111702e09d6c71f58bfe11a02fc492d547e30e52bc4378e15ecc78ca65d9"
+hash = "6a4898ed608815cf542f6971c5401185b96757c2bad41c774f122342bf24f0b3"
 
 [[files]]
 file = "config/primazos_presets/basico/moreculling.toml"
@@ -1070,7 +1070,7 @@ hash = "1b319df212aac246eee97625e360fb88a9918fea912a7b0fc8675df05c8c9ce0"
 
 [[files]]
 file = "config/primazos_presets/medio/lss-client-config.yaml"
-hash = "bd37c921591f764edef4b0ef68f99667efb2a2d8911492c3741999f33119db3d"
+hash = "54ecc2ec47a2968767c9339254480585d0de9a4ea052e1671d2b43ce309e6408"
 
 [[files]]
 file = "config/primazos_presets/medio/moreculling.toml"
@@ -1130,7 +1130,7 @@ hash = "994f02cb2bf347fbbf0d3b82ee43a5900edd84c19d9f5311d575b89d5b02f022"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/lss-client-config.yaml"
-hash = "d6b8c1f3e3cd60b55e37fb85cb3d922120a613be5c4a860b7dfb06a3b2d63c81"
+hash = "95214176ac763874e4cc02c1f71d49355181d33f425e871a527d162519081a5e"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/moreculling.toml"
@@ -1190,7 +1190,7 @@ hash = "a3a759d9ed35d16478bf282a564e427626cb00a222d90f6ea8ae5d233cc2144f"
 
 [[files]]
 file = "config/primazos_presets/patata/lss-client-config.yaml"
-hash = "5121ac3baebb2622bbfb9368d2df44d97690cbb80df73c69b241e3f4e3025fc5"
+hash = "34eaf27f3b90ed8a7315aca72bf5e7701f75d407099ec87eb59cde33f85a8265"
 
 [[files]]
 file = "config/primazos_presets/patata/moreculling.toml"
@@ -1680,11 +1680,6 @@ metafile = true
 [[files]]
 file = "mods/chest-search-bar.pw.toml"
 hash = "bbd2af62b853ec6af9cf75c0596ea9907bced1bb771cadf4cb752dd06a783be1"
-metafile = true
-
-[[files]]
-file = "mods/chunks-fade-in.pw.toml"
-hash = "f016d7ee1fe0a29be1d739a71b7f718084da356aaf5061fe9cbf4f4d5629fbce"
 metafile = true
 
 [[files]]
