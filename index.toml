@@ -1593,9 +1593,23 @@ hash = "4f525e60ece6b756fd7465caca4adda3c3cde8381806ebecf10ee31170c57ee6"
 metafile = true
 
 [[files]]
+file = "mods/better-party-x-simple-voice.pw.toml"
+hash = "fc1f35b52fc8f89594042a36be9fcd0ba4cb27bd4ec4cb84db6389e9db867c70"
+metafile = true
+
+[[files]]
+file = "mods/better-party.pw.toml"
+hash = "e83d3d0353e8e321a934245913579f099de9c5e839718fafad23db44da6c536e"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "a7d46bdd6d64401013a2878c83d865c15581431211faa2ea1a27bd4f3b88c02b"
 metafile = true
+
+[[files]]
+file = "mods/better_party_ftb_teams-fabric-26.2-1.0.1-primazos.jar"
+hash = "5e88209fae9a1c446f73ad4a886875b3979f4cccf4b35008d38d260e3350574f"
 
 [[files]]
 file = "mods/betterend.pw.toml"
@@ -2343,6 +2357,11 @@ hash = "79420b4be1a8073dd606a986f0af5365761804b1231801f8960fb1e7fcf3c9bf"
 metafile = true
 
 [[files]]
+file = "mods/r3ct-daily-quests-rewards.pw.toml"
+hash = "f45a30c5c7919a5631c9e179b7eeb12bc851e49d4370c1b1bfb1c12129a11d7f"
+metafile = true
+
+[[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "f4d40b6296a88a693daec9ebfb3d24af5aabeb1dcd34850b0b8997c284c02700"
 metafile = true
@@ -2623,7 +2642,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0d1cffdf39afd2f287ec48ccf9f98c7411514347c232d7f6d7fe0e9c5297f68c"
+hash = "21e33e33086d3d2a9b25ccf0b8e9199e00809e0706fcb5b377ef4b35f1f4a575"
 preserve = true
 
 [[files]]
@@ -2773,7 +2792,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos.zip"
-hash = "ae6114d4b015134014b5a9ed699702db29574d4e1ad03f101269ae762a522630"
+hash = "6cd2c204e579585e1eb7e82fd422c297b0fd7dc112b24378b58b9dce567db3c3"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"

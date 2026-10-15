@@ -1,0 +1,13 @@
+name = "Better Party"
+filename = "better-party-fabric-26.2-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "7fbd62f60561f153a89c4947c3a4fb683a0a9f3ff6f5265f3c11fcbc60c3e0f03ead1e596f992d44cf81344a3758b6666d059920779c1269180dea061ee08c5f"
+url = "https://cdn.modrinth.com/data/qHdVMcp2/versions/RAKSHFON/better-party-fabric-26.2-1.1.7.jar"
+
+[update]
+[update.modrinth]
+mod-id = "qHdVMcp2"
+version = "RAKSHFON"

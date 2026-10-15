@@ -308,3 +308,4 @@ modelPart_right_pants_leg:true
 modelPart_hat:true
 strawberrylib.equippable_glint_color:"purple"
 strawberrylib.glint_color:"purple"
+key_key.r3ct_daily.open_quests:key.keyboard.keypad.multiply

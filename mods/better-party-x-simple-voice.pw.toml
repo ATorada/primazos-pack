@@ -1,0 +1,13 @@
+name = "Better Party X Simple Voice"
+filename = "Better Party X Simple Voice - Fabric - 26.2 - 1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "e44919b8288e594a4532223a34d827f727ffdb496b69899e342ba164405b51e3bf9d8ddb5465ac04ec33521d7e2cc557f982e4cf4b8d57dc598d21abaee36b71"
+url = "https://cdn.modrinth.com/data/sRbqS4W3/versions/oToeG5Ll/Better%20Party%20X%20Simple%20Voice%20-%20Fabric%20-%2026.2%20-%201.0.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "sRbqS4W3"
+version = "oToeG5Ll"
