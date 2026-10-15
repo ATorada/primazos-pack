@@ -2937,6 +2937,10 @@ hash = "51dd3cac543b61237e4c5902b11aa0d80d9651d050af93d7b68860d744e85b87"
 preserve = true
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+hash = "dfac5fc2d75295a390c9d4efa5a303cf2165da84edd70090a39cd82645b01e15"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3_Cueva.zip"
 hash = "9da35931e3ba58bd39537821ec21429d09731c6091508c9dc18f7d101d0fe92a"
 
