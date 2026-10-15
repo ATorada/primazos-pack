@@ -1,0 +1,13 @@
+name = "Dark Paintings"
+filename = "DarkPaintings-fabric-MC26.2-26.2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b5eec7f76ad27dcf6d581ccb2e3420e60acd244938a77c6d0bcd3c69c20834388a83e985fe72ab3906f7307f93c59535b5c9d1cb232f20d398e23c6d118a5b0a"
+url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/aymsGrDY/DarkPaintings-fabric-MC26.2-26.2.0.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "lFGQ4Hnk"
+version = "aymsGrDY"

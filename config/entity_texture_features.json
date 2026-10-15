@@ -36,5 +36,6 @@
   "entityRandomOverrides": {},
   "entityEmissiveBrightOverrides": {},
   "entityRenderLayerOverrides": {},
-  "entityLightOverrides": {}
+  "entityLightOverrides": {},
+  "stackDebugPrinting": false
 }

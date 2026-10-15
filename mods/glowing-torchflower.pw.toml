@@ -1,0 +1,13 @@
+name = "Glowing Torchflower"
+filename = "glowing-torchflower-fabric-mc26.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "c0c71d324dd6fc786a954bcb4a9ae85348aedf4dca8ff50dc26f3adbddcee263d82ca252f5e82c0af7abc811a933e8219993703091495d2fc4da0d866c1c0350"
+url = "https://cdn.modrinth.com/data/1S4LxcvL/versions/ML0vNxkY/glowing-torchflower-fabric-mc26.2-1.4.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "1S4LxcvL"
+version = "ML0vNxkY"

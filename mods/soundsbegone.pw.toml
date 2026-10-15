@@ -1,0 +1,13 @@
+name = "Sounds Be Gone!"
+filename = "soundsbegone-fabric-1.6.0+mc26.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "c0ea3c8a455678870c4c068784b37e377db41aad3ce88ba1449b8f360b7db30fdcb939ca05bff1df24b1bacd7743b2cf01cfb08642dc774a5bbee1ae6f3193a5"
+url = "https://cdn.modrinth.com/data/FOIvwGKz/versions/VF5uqd4L/soundsbegone-fabric-1.6.0%2Bmc26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "FOIvwGKz"
+version = "VF5uqd4L"

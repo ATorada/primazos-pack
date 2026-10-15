@@ -1,0 +1,13 @@
+name = "ElevatorMod"
+filename = "elevatorid-fabric-26.2-1.16.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b78b9570bce0459f1ea623501c8456a2e0e08dd3181f72f4465e167b14b0b0a364f1ed3844133eb9a42bdafd39bdaddbb20c5c37a673277ef6205553468462e5"
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/Dx1HL6RR/elevatorid-fabric-26.2-1.16.4.jar"
+
+[update]
+[update.modrinth]
+mod-id = "hi2dSXTu"
+version = "Dx1HL6RR"

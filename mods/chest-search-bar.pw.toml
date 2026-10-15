@@ -1,0 +1,13 @@
+name = "Chest Search Bar"
+filename = "chestsearchbar-fabric-26.2-1.7.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "49e5622f715fcce2dfe5ab9f103228abefcdaef512a73866a46f3642359f2cbdbe8eff3cde79bacad211eca700e0ceb1f677c30ddbb499b7194faea1025f9ea1"
+url = "https://cdn.modrinth.com/data/FqlAuAzY/versions/hIVvyvBm/chestsearchbar-fabric-26.2-1.7.0.jar"
+
+[update]
+[update.modrinth]
+mod-id = "FqlAuAzY"
+version = "hIVvyvBm"

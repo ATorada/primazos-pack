@@ -1,0 +1,13 @@
+name = "Locator Colors"
+filename = "LocatorColors-26.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "3ef77eb2cb3636e08b10e6249b616794d9837c94e5ec85cd4f903b2a97add5a5aead776d6c7820bbb084708255553d1a21275edd819db9566568ca56d01f6f4f"
+url = "https://cdn.modrinth.com/data/cipon5Xy/versions/NJz5Wjqq/LocatorColors-26.2-1.1.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "cipon5Xy"
+version = "NJz5Wjqq"

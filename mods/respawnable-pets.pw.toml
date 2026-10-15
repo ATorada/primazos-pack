@@ -1,0 +1,13 @@
+name = "Respawnable Pets"
+filename = "respawnable-pets-fabric-26.2-r2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "a4cad1a293c6e87b2a807e80b4fe9472e8eb99b41a5c68b8ca988630a0185d0590756d74b2075fb378dad477875cec86b93cfed88c9098345cf9544beaaef661"
+url = "https://cdn.modrinth.com/data/gbFe1FWa/versions/t8eNxCmV/respawnable-pets-fabric-26.2-r2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "gbFe1FWa"
+version = "t8eNxCmV"

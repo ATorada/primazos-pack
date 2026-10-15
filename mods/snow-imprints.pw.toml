@@ -1,0 +1,13 @@
+name = "Soft Imprints"
+filename = "softimprints-fabric-26.2-2.8.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "6863205d3823986a876b8c031d00cfcac3544186744d7a6278571ddfc054daea7f4b3d2587ea13d8b062ac4a8e02b73e4766c069e4534f6aa1aadbbb43063358"
+url = "https://cdn.modrinth.com/data/UhxJgB1o/versions/z2PtGMFc/softimprints-fabric-26.2-2.8.0.jar"
+
+[update]
+[update.modrinth]
+mod-id = "UhxJgB1o"
+version = "z2PtGMFc"

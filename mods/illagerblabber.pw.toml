@@ -1,0 +1,13 @@
+name = "IllagerBlabber"
+filename = "illagerblabber-26.2-Fabric-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "3c9aabe370be2b6705d7acf1b5acfc01952fc512c4ee69d5940faf892c70d39c2e249760e72925f2531bbb837d1b2f39a278c5c00cea0a61288129d5c714ca5f"
+url = "https://cdn.modrinth.com/data/WS4FswTq/versions/UrxK3Zzq/illagerblabber-26.2-Fabric-1.1.0.jar"
+
+[update]
+[update.modrinth]
+mod-id = "WS4FswTq"
+version = "UrxK3Zzq"

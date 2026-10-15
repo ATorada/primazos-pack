@@ -1,0 +1,13 @@
+name = "Inventory Management"
+filename = "inventorymanagement-fabric-2.0.2+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "269ce2469e7af86c603740b6e0eea504c58ffce19f97262f2a91165489dd9d5dbbb4e08b1b1eff8a6674dcdccfc4b437ac114f2e44d7f6813b9aa2ac23ce897b"
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/PxZPDukH/inventorymanagement-fabric-2.0.2%2B26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "PxZPDukH"

@@ -1,0 +1,13 @@
+name = "Talking Heads"
+filename = "talking-heads-1.1.4+26.2+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "c04f3f354fb642750ddf0f1982b2d9ca31cbbe4095661b2595f9f66b708a98f19bc117a51a78f0f839a8c6e8f5a0eb182ac175cc58d10f64c33bc85e15283f84"
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/cSZGeb5a/talking-heads-1.1.4%2B26.2%2Bfabric.jar"
+
+[update]
+[update.modrinth]
+mod-id = "Os35nfkh"
+version = "cSZGeb5a"

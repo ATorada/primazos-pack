@@ -1,0 +1,13 @@
+name = "Aerial Hell"
+filename = "aerialhell-0.7.8_fabric26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "09c8d817113fc2fb9e75faeec9927b10970d6760b902778ca2c61733341e93402e9b2201c79aff3c5977c4a6f585064f6358f63de5aa0bffab09d5709cca8e6c"
+url = "https://cdn.modrinth.com/data/hvaVU41U/versions/NSUPFM0F/aerialhell-0.7.8_fabric26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "hvaVU41U"
+version = "NSUPFM0F"

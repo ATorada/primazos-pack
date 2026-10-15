@@ -1,0 +1,13 @@
+name = "Elytra Contrails Mod"
+filename = "elytratrails-1.6.7-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "45c780d06203d1d16f2758a971174b58ee9da147a87792c3908bb81f620a06b4f4f263533102db3a39e3ffb5ef718cdd0f82994b75d5092cb38fc8de7f4b19c0"
+url = "https://cdn.modrinth.com/data/dWMHBEAQ/versions/PgCvLele/elytratrails-1.6.7-26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "dWMHBEAQ"
+version = "PgCvLele"

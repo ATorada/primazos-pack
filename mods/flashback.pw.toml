@@ -1,0 +1,14 @@
+pin = true
+name = "Flashback"
+filename = "Flashback-0.43.3-for-MC26.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "6e859b4b24d3a7b14d4a248a0001333b0c49a7ec216ae858026094d172b8a89a574932786582ae04691a4a6ea418d63146e7952b7b12f01e7409d3908d57a850"
+url = "https://cdn.modrinth.com/data/4das1Fjq/versions/fZW00XaD/Flashback-0.43.3-for-MC26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "4das1Fjq"
+version = "fZW00XaD"

@@ -1,0 +1,13 @@
+name = "Variants&Ventures"
+filename = "variantsandventures-fabric-1.0.28+mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "f5359efd4e367e9ebcfd97ab0216c53f6da18603f3b65c00eac10c7ff6353aaa8bb188056d9ffd7553f23299bcb9c576088dc033f9ebd1e34a65ec225b742986"
+url = "https://cdn.modrinth.com/data/lNDRiXkY/versions/ji9xxQDZ/variantsandventures-fabric-1.0.28%2Bmc26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "lNDRiXkY"
+version = "ji9xxQDZ"

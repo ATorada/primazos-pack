@@ -1,0 +1,13 @@
+name = "Streamotes: Streamer Emotes"
+filename = "streamotes-FABRIC-1.2.15+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b209e149a60d3112cb0350b8b318c686cd5511e2151f7148a0fe83e222592b1f1d9f9906a768dd408f599cfc8b5ac77782c9ce2d00f915b2d974d17491777d5d"
+url = "https://cdn.modrinth.com/data/IAJz3K09/versions/ccKOrxYu/streamotes-FABRIC-1.2.15%2B26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "IAJz3K09"
+version = "ccKOrxYu"

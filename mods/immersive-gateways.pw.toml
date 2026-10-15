@@ -1,0 +1,13 @@
+name = "Immersive Gateways"
+filename = "immersive_gateways-fabric-0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "ce5f8c1c7211b909afc2a7b5dfd5bdc377fcf09c6fc6c8f95685f11732e5e9488f7718b7fa2515904c0317a8445a6d4c170034e481ddbd8809205dedee6d12db"
+url = "https://cdn.modrinth.com/data/3hZmBMYA/versions/rMqzTLPS/immersive_gateways-fabric-0.0.7.jar"
+
+[update]
+[update.modrinth]
+mod-id = "3hZmBMYA"
+version = "rMqzTLPS"

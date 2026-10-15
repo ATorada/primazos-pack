@@ -1,2 +1,8 @@
 #Primazos - variante de cuevas (solo yoth)
 CAVE_LIGHTING=300
+
+#Primazos visibility v2
+BORDER_FOG_DENSITY_NETHER=0.40
+BORDER_FOG_DISTANCE_NETHER=1
+CAVE_FOG_DENSITY=0.5
+NETHER_VIEW_LIMIT=512.0

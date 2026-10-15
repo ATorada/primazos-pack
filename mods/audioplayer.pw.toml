@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-fabric-2.5.0+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "03f7ecd84e0dd313a3f632192596a9d8754186fd0bd5b35664f1d850830ec4787f4bfce0bcdd1b4f9a1e4495ea94e6eda6710c6cafe4da05d7e813e71b12a79d"
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/7grrYGZg/audioplayer-fabric-2.5.0%2B26.2.jar"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "7grrYGZg"

@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-fabric-26.2-6.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "ef3d63cd554c1a54f4f23942613cf429532d9afecfd71d5a41b8532df14a0dced1867ad06ea21f9651ce67e153161974488e5dbf3233ea53088f68bc5d96083d"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/C6LURNke/journeymap-fabric-26.2-6.0.10.jar"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "C6LURNke"

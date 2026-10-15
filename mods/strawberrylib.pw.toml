@@ -1,0 +1,13 @@
+name = "StrawberryLib"
+filename = "strawberrylib-fabric-26.2-r5.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "5907cc3237986e72e6f952ac957fe99b720379d3a07ae9133d5fdaa1aed524b87129887be55e07be7078559a17bc35cbb799a42c7b61c629e073ef23f41da4e9"
+url = "https://cdn.modrinth.com/data/9Ya7Yyre/versions/taWe52SL/strawberrylib-fabric-26.2-r5.jar"
+
+[update]
+[update.modrinth]
+mod-id = "9Ya7Yyre"
+version = "taWe52SL"

@@ -1,0 +1,13 @@
+name = "Scholar"
+filename = "scholar-fabric-26.2-1.2.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "48b2db8f72f1be51fa0c02f699ac0b6f6547cf6440a96e40403758d7fcdc5153e57d88a91e06448ae2c4fcbda2a3cb6caaf3edf8bd018e6e98053775481ac8a2"
+url = "https://cdn.modrinth.com/data/fX4dIQCo/versions/HSHlx0J9/scholar-fabric-26.2-1.2.10.jar"
+
+[update]
+[update.modrinth]
+mod-id = "fX4dIQCo"
+version = "HSHlx0J9"

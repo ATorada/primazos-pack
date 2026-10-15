@@ -1,0 +1,13 @@
+name = "Biology Dictionary"
+filename = "biology-dictionary-1.3.2-mc26.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "4b66f172db63a13385c6a7263bec769050816d849ded7661d81b91ce06a0f116b84f4df49830cb5169e424d9b586412ff0e58ee2505f26345208b4ad7e0385b2"
+url = "https://cdn.modrinth.com/data/S3ELyJhj/versions/XhqOgjMD/biology-dictionary-1.3.2-mc26.2-fabric.jar"
+
+[update]
+[update.modrinth]
+mod-id = "S3ELyJhj"
+version = "XhqOgjMD"

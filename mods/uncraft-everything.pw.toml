@@ -1,0 +1,13 @@
+name = "Uncraft Everything"
+filename = "uncrafteverything-fabric-26.2-26.2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "027a1d961a9bedfcf989f8129e246e0ab148ff1b316c60660f687595ce1b8c8be3f3d0be92af067ad1cf461642020ad8e7f4f9ad81cb2758d69a63c4690c4fad"
+url = "https://cdn.modrinth.com/data/9cz66Qto/versions/2CnwIUsg/uncrafteverything-fabric-26.2-26.2.0.3.jar"
+
+[update]
+[update.modrinth]
+mod-id = "9cz66Qto"
+version = "2CnwIUsg"
