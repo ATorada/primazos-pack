@@ -1514,12 +1514,24 @@ hash = "c9f55dd6994596ab6b1a7454bfb6f29a5c94c979443cfe17667eaec00011de7e"
 metafile = true
 
 [[files]]
+file = "mods/CameraOverhaul-v2.1.2-fabric+mc[26.2].jar"
+hash = "844b26a102dc726202562ebdaad20c4a40b5a83edd4cd5fafc61025b34487ed9"
+
+[[files]]
+file = "mods/ItemParticles-1.2.0+26.2+fabric.jar"
+hash = "835f46732d3f39b1c1223ce03fdaccdae980ea8d04bf1580613946ccbcdd8593"
+
+[[files]]
 file = "mods/MobCatcher-Fabric-1.5.726.2.jar"
 hash = "9fd2376a20ade35d0e375957db4e66aa8aeec013b36af61bb256a47b1e97600f"
 
 [[files]]
 file = "mods/R3CT-Daily-fabric-26.2-5.1.0-primazos.jar"
 hash = "a5a4fab1277a4645b7a59cbcf1c0ca03a389e148359c2a355f9991da9f728371"
+
+[[files]]
+file = "mods/SpiderOverhaul-0.0.6-Fabric-v26.2.jar"
+hash = "4a11b31522e81754525b9e6b9a45957456c51e06fd63180e286157164ad68b85"
 
 [[files]]
 file = "mods/Totem Slot-1.0.6.jar"
@@ -1554,6 +1566,10 @@ metafile = true
 file = "mods/animaticarefabricated.pw.toml"
 hash = "67aeb1f6426aa31ed94629e66c659208718eb88cc56607e13173a3c9873dfb1a"
 metafile = true
+
+[[files]]
+file = "mods/apple_cows-fabric-26.2-1.0.2.jar"
+hash = "ec24d6ce00594e6917e0b552990e93920ef1d0f3214d132df5a0b6ded1289c32"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -1618,6 +1634,10 @@ metafile = true
 file = "mods/better-stats.pw.toml"
 hash = "a7d46bdd6d64401013a2878c83d865c15581431211faa2ea1a27bd4f3b88c02b"
 metafile = true
+
+[[files]]
+file = "mods/better_nether_portals-fabric-26.1.2-26.1.2-1.0.0.jar"
+hash = "30e65def4a758c1cde2ef98b16e4df05a3079718e1b99f031cc7ef7a64792845"
 
 [[files]]
 file = "mods/better_party_ftb_teams-fabric-26.2-1.0.1-primazos.jar"
@@ -1779,9 +1799,8 @@ hash = "d52928bda4985de690b24399cd07812a7ca957eb9a6568897ea0a439be531a11"
 metafile = true
 
 [[files]]
-file = "mods/customskyboxes.pw.toml"
-hash = "83289baf7cb5b525e5587531e3eb4a9d35855b0aa375f54eda72d2da2bbc6818"
-metafile = true
+file = "mods/customskyboxes-mc26.2-1.0.4.jar"
+hash = "9c148e79b5eb4abe3f5af77fcf5796ad470a22e2be56eafe79a2164c43b8a4b1"
 
 [[files]]
 file = "mods/cut-through.pw.toml"
@@ -2000,6 +2019,10 @@ hash = "0a67d7972f8d544c1746031c582d2adb22964aea25dbc1e8d9bc6d981cb6b5a2"
 metafile = true
 
 [[files]]
+file = "mods/icys-better-horses-2.1.0-26.2-fab.jar"
+hash = "94af8134af4ec94b5040b48907ba1c9fe343e5b37cab63b27e991bfe13f83903"
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "950d6a6980f1259cd8e503828ff557f98dbb67a7d489ee8a00449b845b189e10"
 metafile = true
@@ -2190,6 +2213,10 @@ hash = "75d3b3d91cf8007c027bbd76fe14a768c7ea1aa5f88657c1b893377167760f5f"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon-26.2-fabric-2.5.0.jar"
+hash = "fc6955d5147e8cf197ca31b029c56515abbd415ca09251866d6f66cfa20120e8"
+
+[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "c985c0b74d273a6ac5ba9497d8a621d19668188a02f36fa57c02f84eed270306"
 metafile = true
@@ -2253,6 +2280,10 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "ca5592dfe94a0aba15cbe7757b47db07714970ec84e735d7bc306831d05e63c8"
 metafile = true
+
+[[files]]
+file = "mods/nyfsspiders-fabric-26.2-3.0.1.jar"
+hash = "a37b07b7f3bfb67a6ad1d7c2d45db3bea8ad8bab68060da5162668c9e151e4da"
 
 [[files]]
 file = "mods/optigui.pw.toml"
@@ -2413,6 +2444,10 @@ hash = "f123d0cbf03542b116cd068664c5d07d629962c8d44d7eabdc7b710d9d8ea984"
 metafile = true
 
 [[files]]
+file = "mods/roomfortwo-fabric-26.2-0.3.0.jar"
+hash = "c470b3f9613675ec7510e88158047e314864ae2a880b6bc33a05d8562f4b300e"
+
+[[files]]
 file = "mods/scholar.pw.toml"
 hash = "ebed4363fab714e7bab3c68ff085f33ffafc4b23312bfd55c352f2ee7122d255"
 metafile = true
@@ -2451,6 +2486,10 @@ metafile = true
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "0c2578ed8660211a93359aa8568e9bbbfc0ae3de8fea948b27df683093bc0409"
 metafile = true
+
+[[files]]
+file = "mods/signpost-fabric-26.2-2.04.1.jar"
+hash = "e27fe632f7cfb03ba569ec76186818ab7a6f64729ced04f6f445416e63bdab8a"
 
 [[files]]
 file = "mods/simple-datapacks.pw.toml"
@@ -2561,6 +2600,10 @@ metafile = true
 file = "mods/trinkets-updated.pw.toml"
 hash = "1379b5d8eea1f17a48e7b1e7f8db028aa31eb76ce57d9c25448bd33b26483fc0"
 metafile = true
+
+[[files]]
+file = "mods/umbrellas-1.4.4+26.2+A.jar"
+hash = "b664d460b89d7f3cc0ab16643c5164b20855bba0b7ff62b762bc6fd2c9f5511c"
 
 [[files]]
 file = "mods/uncraft-everything.pw.toml"
@@ -2799,7 +2842,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos.zip"
-hash = "139b96021bab15c64cc1d09d755902945dd5c6c4dbcee6083c469f3175bca0d0"
+hash = "cdc0fc29e723c09a61a467e85d1e23c2b22b7b7ed268861d61c0829ac2a4ddd7"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
