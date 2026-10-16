@@ -3,7 +3,8 @@
   "enable_rendering": true,
   "ingest_enabled": true,
   "section_render_distance": 24.0,
-  "service_threads": 6,
+  "service_threads": 24,
   "sub_division_size": 64.0,
-  "dont_use_sodium_builder_threads": false
+  "dont_use_sodium_builder_threads": false,
+  "fog_mode": "fog_and_fade"
 }

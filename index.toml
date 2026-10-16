@@ -950,15 +950,15 @@ hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
 
 [[files]]
 file = "config/primazos_presets/alto/fallingleaves2.json"
-hash = "37955b087c078f5fa6a4d3639e67565f396f7a66ec763e74d0e8f50e23ac6343"
+hash = "4a33bd1d9cd137860eeaf7b298f713f21d4b2ac0976b2e4b2a6cda8828b8f1b5"
 
 [[files]]
 file = "config/primazos_presets/alto/iris.properties"
-hash = "264ff92847ac9ef4e03e3577f721036d10889c96282dfe0ca02449c27b186099"
+hash = "73792c44c9557751984aa1b1a062430f59358b5ef76ee1a2407a8da3ef5ee802"
 
 [[files]]
 file = "config/primazos_presets/alto/lss-client-config.yaml"
-hash = "a9c412f03a4a7f8701e996779b284cb90e99e19d90c2beb2011183c5743ebe7c"
+hash = "c855bb7bd183d378043ddf6b94badbaa15f0b8ccebcaa74d36780597a59aaff4"
 
 [[files]]
 file = "config/primazos_presets/alto/moreculling.toml"
@@ -966,19 +966,27 @@ hash = "93430d2637f35d7566fa2f64fb02d5760f6d3f84ea948fdfe00bd0aa453469c6"
 
 [[files]]
 file = "config/primazos_presets/alto/particle_effects.json5"
-hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+hash = "a51662d772459af48fcc07e75160e7112f2f021199239de46eb09646ad790836"
 
 [[files]]
 file = "config/primazos_presets/alto/particlerain_particles.json"
 hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
+file = "config/primazos_presets/alto/primazos-euphoria-cueva.properties"
+hash = "582b061bcfb928ee44f02fb0a90e982e25d2a3907d1724dcd073b9f43a17a5d8"
+
+[[files]]
+file = "config/primazos_presets/alto/primazos-euphoria.properties"
+hash = "f41d0a5ef349b5b1f4b0467928484a02b0b16ed3bda943aa1b1c4c838d2d2e3d"
+
+[[files]]
 file = "config/primazos_presets/alto/sodium-extra-options.json"
-hash = "54fb0e993603db603ebb1ae7512906d206554076067cd8f79987d207566c7ad1"
+hash = "e1a2afba94dc1049097a2ea47697be98a7839aeeaf233274412edc85d4c190bd"
 
 [[files]]
 file = "config/primazos_presets/alto/sodium-options.json"
-hash = "231060b6de49a98fae578caefea359caee1fc4199d0c68c7579626a661ccecaa"
+hash = "8313c6fde1047edcc2275c21374a9974f234a6b8b8285ca9fe5bbf639a783296"
 
 [[files]]
 file = "config/primazos_presets/alto/sodium-shadowy-path-blocks-options.json"
@@ -986,11 +994,11 @@ hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
 file = "config/primazos_presets/alto/visuality.json"
-hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+hash = "6ee640f3ee44148ad9397bac77fa309962b2edc5c969579310a0011ee823860d"
 
 [[files]]
 file = "config/primazos_presets/alto/voxy-config.json"
-hash = "8fb2248778a9e4821922a9511479114fd2d76fcb236791389d40ed8e6e10841c"
+hash = "8a766212d116bf3425897c8ff0195bd139436aed094ed796636ed9333dcc645f"
 
 [[files]]
 file = "config/primazos_presets/alto/voxyworldgenv2.json"
@@ -1010,15 +1018,15 @@ hash = "383b9478c2f78d9e4042c58486fb7df3f717df7c769879dba5ab04bcd26c7d02"
 
 [[files]]
 file = "config/primazos_presets/basico/fallingleaves2.json"
-hash = "6c1c9bda14e287ec5267c35b2145d5d4b5379502035cd77dc4d5070a1ff3f3fb"
+hash = "c512a19d73bf197b911343c10ac7618af77ee4765b6763048e2bdd6124d8ca69"
 
 [[files]]
 file = "config/primazos_presets/basico/iris.properties"
-hash = "d124d6e57b95b41b6fa327a570ea4e524ae03ca0cbb58f583d2178ba3fe2e971"
+hash = "ca46e4fa0e3b34fbc946cc81e49ff48f95f86f8ebc2627693c1bddafca88808d"
 
 [[files]]
 file = "config/primazos_presets/basico/lss-client-config.yaml"
-hash = "6a4898ed608815cf542f6971c5401185b96757c2bad41c774f122342bf24f0b3"
+hash = "4949e1cc4fa1b06d30ee62ac93242d14e60056f5261a865430861aeedf72c8b9"
 
 [[files]]
 file = "config/primazos_presets/basico/moreculling.toml"
@@ -1026,19 +1034,27 @@ hash = "013036d63c2044814e583dc74a2528a74aac20f79f017b5e2ca6c692d114764e"
 
 [[files]]
 file = "config/primazos_presets/basico/particle_effects.json5"
-hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+hash = "a51662d772459af48fcc07e75160e7112f2f021199239de46eb09646ad790836"
 
 [[files]]
 file = "config/primazos_presets/basico/particlerain_particles.json"
 hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
+file = "config/primazos_presets/basico/primazos-euphoria-cueva.properties"
+hash = "582b061bcfb928ee44f02fb0a90e982e25d2a3907d1724dcd073b9f43a17a5d8"
+
+[[files]]
+file = "config/primazos_presets/basico/primazos-euphoria.properties"
+hash = "f41d0a5ef349b5b1f4b0467928484a02b0b16ed3bda943aa1b1c4c838d2d2e3d"
+
+[[files]]
 file = "config/primazos_presets/basico/sodium-extra-options.json"
-hash = "f16b376ecb3e17d3d06747abaf4129b6e81b62ad0f2872709749426a4c13a6ff"
+hash = "cc59edb2dee6ac1adf1bfbdfb928c296f3ff627a606c90f8e02f877156ffde4f"
 
 [[files]]
 file = "config/primazos_presets/basico/sodium-options.json"
-hash = "3d4e36a43c24b3a719d9f123c5084d0d189e0e93a926c93136b1bdd8a0b7b705"
+hash = "6d44610d996b5b74a7df82c5800ff7ca6c50824a7efa7ff332dfdcf1e9e6c653"
 
 [[files]]
 file = "config/primazos_presets/basico/sodium-shadowy-path-blocks-options.json"
@@ -1046,11 +1062,11 @@ hash = "c22e489fa38a0c00272f6560f71614e2d4100a435593dd30ae39016b233e025c"
 
 [[files]]
 file = "config/primazos_presets/basico/visuality.json"
-hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+hash = "6ee640f3ee44148ad9397bac77fa309962b2edc5c969579310a0011ee823860d"
 
 [[files]]
 file = "config/primazos_presets/basico/voxy-config.json"
-hash = "dcfc00dfa3b884b628330dde74bf9842f4d337575938000dddbec54f1c758cc6"
+hash = "8ee63300a0a992900058bd40ccf08dc81ee477c5241515ce6d2a1ec78a2df983"
 
 [[files]]
 file = "config/primazos_presets/basico/voxyworldgenv2.json"
@@ -1070,15 +1086,15 @@ hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
 
 [[files]]
 file = "config/primazos_presets/medio/fallingleaves2.json"
-hash = "1c26092abd4794b7e133d1cd9ad94a1cd320584ec9807410c64529428c19ae98"
+hash = "789fa5b8ffd580db7ce011179878dc3c518dd564adfdc1ee336cf01bdf98c1a5"
 
 [[files]]
 file = "config/primazos_presets/medio/iris.properties"
-hash = "1b319df212aac246eee97625e360fb88a9918fea912a7b0fc8675df05c8c9ce0"
+hash = "8fb14ae7e4026c7ac6d558cb7ded007af79143d409ae4f34c4d71c337eb8bb58"
 
 [[files]]
 file = "config/primazos_presets/medio/lss-client-config.yaml"
-hash = "54ecc2ec47a2968767c9339254480585d0de9a4ea052e1671d2b43ce309e6408"
+hash = "e3b902fb660cd54c9dc0242e02f64e28082123d042e0eae782f69b2c38d48704"
 
 [[files]]
 file = "config/primazos_presets/medio/moreculling.toml"
@@ -1086,19 +1102,27 @@ hash = "7543bfadb43d28226da32ddc0541bc55f6b68fe613e41dabc1bfc890c9723226"
 
 [[files]]
 file = "config/primazos_presets/medio/particle_effects.json5"
-hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+hash = "a51662d772459af48fcc07e75160e7112f2f021199239de46eb09646ad790836"
 
 [[files]]
 file = "config/primazos_presets/medio/particlerain_particles.json"
 hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
+file = "config/primazos_presets/medio/primazos-euphoria-cueva.properties"
+hash = "677b66fba26e7cf7e2e6d5c0130649c17171c2fe663b8645d8824107b634a9d2"
+
+[[files]]
+file = "config/primazos_presets/medio/primazos-euphoria.properties"
+hash = "40198f224a51e6900050ac84b375d251db12eaabce92b36d4d35828e2a3eae53"
+
+[[files]]
 file = "config/primazos_presets/medio/sodium-extra-options.json"
-hash = "2357ec878d078158103c6016505cb26930e51cdb9691c989e03ebd82050015df"
+hash = "5162a607338e3c10ffbf52cd0b3aacdba825d20b922f3440fcb598fa826877b8"
 
 [[files]]
 file = "config/primazos_presets/medio/sodium-options.json"
-hash = "f6f002ae6ee1308b3c19b308cc5ea6be55f81c082d7e297270c51308ac8002a5"
+hash = "6d44610d996b5b74a7df82c5800ff7ca6c50824a7efa7ff332dfdcf1e9e6c653"
 
 [[files]]
 file = "config/primazos_presets/medio/sodium-shadowy-path-blocks-options.json"
@@ -1106,11 +1130,11 @@ hash = "ae7238a452441374365d6f3b054646ac0e4cd97229fd68258e075075d46b365c"
 
 [[files]]
 file = "config/primazos_presets/medio/visuality.json"
-hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+hash = "6ee640f3ee44148ad9397bac77fa309962b2edc5c969579310a0011ee823860d"
 
 [[files]]
 file = "config/primazos_presets/medio/voxy-config.json"
-hash = "67371a577f3b4dce53baeadb3724ef41fea1a57adf0ddd97243e21c852522896"
+hash = "8a766212d116bf3425897c8ff0195bd139436aed094ed796636ed9333dcc645f"
 
 [[files]]
 file = "config/primazos_presets/medio/voxyworldgenv2.json"
@@ -1122,43 +1146,51 @@ hash = "689fae5507c789efa358244470b5374a710d210046b649259ea5f2ad0ca269c3"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/entity_model_features.json"
-hash = "e8198920f66400121f15f2e6546da89e7d0e616e71377eb0bd7be102bf7e445e"
+hash = "8ae22a8fde0eb0d785b2144275d2d3b6f9361552924c0b6e2f4a8dccd9786880"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/entityculling.json"
-hash = "395987197d64dc3007068f50a973f14d18593556f8e5cd6018a257c4fff9154b"
+hash = "20c5c3119341427a862c638c5777e40f89a7d260f4bc6d8248568752fff37b42"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/fallingleaves2.json"
-hash = "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f"
+hash = "4751145565db514ad12dc27a3cbed816f568f2ebeea39aab869e828b768dae7a"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/iris.properties"
-hash = "994f02cb2bf347fbbf0d3b82ee43a5900edd84c19d9f5311d575b89d5b02f022"
+hash = "d4865e6fe8186d28da39b2a60dc4698f2133a9c7343a0d1d779a2d7499071374"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/lss-client-config.yaml"
-hash = "95214176ac763874e4cc02c1f71d49355181d33f425e871a527d162519081a5e"
+hash = "84bc63191c5ece14f2909f222c7b8f38d3920bacaa2c15cd0999d868402ce3e5"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/moreculling.toml"
-hash = "e895251edcb1aa83b45873e513a0c5d8d8355578da7f2358f4156a2d6cd0c137"
+hash = "b8b11bb4f20f3a6d563e7cf752d134ebb9a54032a42354e2caa35139a617f437"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/particle_effects.json5"
-hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+hash = "a51662d772459af48fcc07e75160e7112f2f021199239de46eb09646ad790836"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/particlerain_particles.json"
 hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
+file = "config/primazos_presets/muy_alto/primazos-euphoria-cueva.properties"
+hash = "1ca1eb1451245d51b297056007107e93ec64342c6bddcfafe921edfa3376ef08"
+
+[[files]]
+file = "config/primazos_presets/muy_alto/primazos-euphoria.properties"
+hash = "5ff8fd32e93d4066a486df7587583daf8a71680ffcc14d3a1ecb81dce3eaa3fd"
+
+[[files]]
 file = "config/primazos_presets/muy_alto/sodium-extra-options.json"
-hash = "54fb0e993603db603ebb1ae7512906d206554076067cd8f79987d207566c7ad1"
+hash = "e1a2afba94dc1049097a2ea47697be98a7839aeeaf233274412edc85d4c190bd"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/sodium-options.json"
-hash = "6d75a5b9b0abdd3c5c05879e82cf1d4c9f54f8739ff92cdc1957b79c2b9ebd24"
+hash = "35c122f13016247cf730d873afaa4ba77a6871d1c3b0ef78fb19ffa0f4e40fa0"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/sodium-shadowy-path-blocks-options.json"
@@ -1166,11 +1198,11 @@ hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/visuality.json"
-hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+hash = "6ee640f3ee44148ad9397bac77fa309962b2edc5c969579310a0011ee823860d"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/voxy-config.json"
-hash = "ed243ed0748bf12b71d882760abb15e84527af5a947923e4b84d1a60931498ea"
+hash = "14ecc3b1936566e2b544f5909a6eccbdf2140d9e6c9f78811288ab9b038ce5dc"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/voxyworldgenv2.json"
@@ -1190,15 +1222,15 @@ hash = "dfce117dd64287a660c4b50e40ce7fdcbb7c45f7f78081ee1269cb0d493927de"
 
 [[files]]
 file = "config/primazos_presets/patata/fallingleaves2.json"
-hash = "6c1c9bda14e287ec5267c35b2145d5d4b5379502035cd77dc4d5070a1ff3f3fb"
+hash = "91b24f34ecdffac88903142f09336515d708c651d475d29a035bea387f6eaf64"
 
 [[files]]
 file = "config/primazos_presets/patata/iris.properties"
-hash = "fcb8a5bdf82bf0f895936a00b2101e83c8e41fd110ac70ebdd346e16f9fede26"
+hash = "728fb06272149d2f6c9bdd8887682001af2bb329f99289d73f0a4e2da485f7f2"
 
 [[files]]
 file = "config/primazos_presets/patata/lss-client-config.yaml"
-hash = "34eaf27f3b90ed8a7315aca72bf5e7701f75d407099ec87eb59cde33f85a8265"
+hash = "032a58e79e1c0e2f8065fa5ad0f37dc28acc19f21a930dc2294f3ef3063fef59"
 
 [[files]]
 file = "config/primazos_presets/patata/moreculling.toml"
@@ -1206,19 +1238,27 @@ hash = "6dc3962b00d0488a9c538e733b9126a209203caa923c8a79620429168c0c7d9b"
 
 [[files]]
 file = "config/primazos_presets/patata/particle_effects.json5"
-hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+hash = "a51662d772459af48fcc07e75160e7112f2f021199239de46eb09646ad790836"
 
 [[files]]
 file = "config/primazos_presets/patata/particlerain_particles.json"
 hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
+file = "config/primazos_presets/patata/primazos-euphoria-cueva.properties"
+hash = "582b061bcfb928ee44f02fb0a90e982e25d2a3907d1724dcd073b9f43a17a5d8"
+
+[[files]]
+file = "config/primazos_presets/patata/primazos-euphoria.properties"
+hash = "f41d0a5ef349b5b1f4b0467928484a02b0b16ed3bda943aa1b1c4c838d2d2e3d"
+
+[[files]]
 file = "config/primazos_presets/patata/sodium-extra-options.json"
-hash = "c1194a27c7b5cb10be181558200ab00d2bc26b0e14d0db56f53eafb419b572da"
+hash = "bd7f1f58a20eea766d2cbff047f6cfca3bb61b611b53740b52a9979769609a1d"
 
 [[files]]
 file = "config/primazos_presets/patata/sodium-options.json"
-hash = "08c4a74ca9dade00ea3198a57f9d6a7d7478219c6b26dbb232c53dff99194ea9"
+hash = "bc8dcc058c0d9dfd04c0cbfe2c9934a69f1144a49b7e4c5a44e210d9c804e218"
 
 [[files]]
 file = "config/primazos_presets/patata/sodium-shadowy-path-blocks-options.json"
@@ -1226,11 +1266,11 @@ hash = "c22e489fa38a0c00272f6560f71614e2d4100a435593dd30ae39016b233e025c"
 
 [[files]]
 file = "config/primazos_presets/patata/visuality.json"
-hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
+hash = "6ee640f3ee44148ad9397bac77fa309962b2edc5c969579310a0011ee823860d"
 
 [[files]]
 file = "config/primazos_presets/patata/voxy-config.json"
-hash = "d31c639ba9608975dad77ec09b2a71ccf413f79f9074cfe8c59ca0c8bbb971b7"
+hash = "8f10032ed878e1d0c3a0c6403651cd9662bb63370eeef87a25e8c7165926966e"
 
 [[files]]
 file = "config/primazos_presets/patata/voxyworldgenv2.json"
@@ -1459,7 +1499,7 @@ hash = "d721dd1c44f6c8972c16f5249fd83702c9c36567280bca33c078668165a69b7d"
 
 [[files]]
 file = "config/voxy-config.json"
-hash = "67371a577f3b4dce53baeadb3724ef41fea1a57adf0ddd97243e21c852522896"
+hash = "ff9d4345240e99d530a29aea4fefcb46c00d3635becc83fa01d22c0916b4e3ec"
 
 [[files]]
 file = "config/voxyworldgenv2.json"
@@ -2400,7 +2440,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "0a30902b3f94285bd72a29bef38b6eef366717034168e212cd15f615b193ceeb"
+hash = "a4283cd859ee9e6ab74ff207d3db9f8ea8ab65c0282d646e82924b9199758981"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"
@@ -2862,7 +2902,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos.zip"
-hash = "93b36d783290df252b1f11b0d5a71b7bd55f46e52045857683ee95d96dfa518b"
+hash = "dc866e421fb2c50f233dea1b0549ba205b5512612d10a39270a6752bc50c5251"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
@@ -3026,7 +3066,7 @@ hash = "51dd3cac543b61237e4c5902b11aa0d80d9651d050af93d7b68860d744e85b87"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
-hash = "700eb64bc20fef5c36fa65e212e3b95b0f3a68e5b7d57c1dc4d7efaec9a9d5fd"
+hash = "be01a1a51f7c48c8f1028c103cdc45558714bd61c28b876ec67b739900e1f7cd"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3_Cueva.zip"
@@ -3034,7 +3074,7 @@ hash = "9da35931e3ba58bd39537821ec21429d09731c6091508c9dc18f7d101d0fe92a"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3_Cueva.zip.txt"
-hash = "6373d29edf62cf76fd01832bdf88f91edf5aa031c4c24860d66de5467d19739f"
+hash = "d0eb5e2c1e9f9bd86da0148aa327195ae16421af9482142c00ab6e7a6d63e3d2"
 
 [[files]]
 file = "shaderpacks/I Like Vanilla v1.4.3c.zip.txt"

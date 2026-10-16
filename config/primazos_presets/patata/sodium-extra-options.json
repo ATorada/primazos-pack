@@ -27,7 +27,7 @@
     "sun": true,
     "moon": true,
     "stars": false,
-    "rain_snow": false,
+    "rain_snow": true,
     "biome_colors": false,
     "sky_colors": true
   },
