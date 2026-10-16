@@ -74,7 +74,7 @@ hash = "bd1a2321000f3e9f2e0fe369faf030051ca027b38aade4fb8ee7f5c8f4064957"
 
 [[files]]
 file = "config/better_party-hud.properties"
-hash = "6112ef1f5b5ca1803f3384593e33b3d11e351bf0006440633f22143bf6bc13dc"
+hash = "0a64ac1245e57ea72cb03bebc08c9885b3cf32ffa998c8849828800a99e7447d"
 
 [[files]]
 file = "config/betteradvancements.json"
@@ -1242,7 +1242,7 @@ hash = "afe0db894ba5368a8c4da20fbee56c82d210a4fc76d11b7b7d1473aeb4701acd"
 
 [[files]]
 file = "config/r3ct_daily/r3ct_daily_client.json"
-hash = "3754f1309b42e5ba324abb5fcf4e163d1483a3e12b09525187a41940cc5e2a40"
+hash = "f78537cbf93db85976543f6605451c0450151414630d14fba506dbd4f22aadb4"
 
 [[files]]
 file = "config/reachbehind-client.toml"
@@ -1964,7 +1964,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric-26.2.0.1.jar"
-hash = "75710e0ffb4e412ca93150dc578f4f72b22ae6f4e0c308ec82662a42ae9fe993"
+hash = "77f6744c38f3b80c51b3d580d238c10f3421d0f83c3aa3e59b6130fa00c4c725"
 
 [[files]]
 file = "mods/ftb-quests-fabric-26.2.0.1.jar"
