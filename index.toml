@@ -1793,6 +1793,10 @@ hash = "fcfaa9e45af6d87f69bebaed4c2c5c847d21cc7aeb0261eb45ca1662b5ce31d9"
 metafile = true
 
 [[files]]
+file = "mods/coroutil-fabric-26.2-1.3.8-port.1.jar"
+hash = "fc4639a1439d60f9bc01ff4acd4f14bc403bfba88f18a34535556854f0516ffd"
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "426e5d9be3f6d68ea3aa7d102abb761e546ebd532c31d819a465a155b6b2d99a"
 metafile = true
@@ -2654,6 +2658,10 @@ hash = "18d08e9ee33aac09fc31ab53d67b8d37fbb8fe78178014518bfd0eeb869e19fb"
 metafile = true
 
 [[files]]
+file = "mods/watut-fabric-26.2-1.2.5-port.1.jar"
+hash = "8a06fcb8e2cadb9d047a0370578c94cee3d9e5180eeca27b36581a1f25864272"
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "cbf9ef59d5d8357fd4666e48b5f4003dd05b925d7dfce2adc4f1fba493015ce8"
 metafile = true
@@ -3010,7 +3018,6 @@ hash = "ba6a68d734f41eaa8ba93ead89386a165e0a4439c0fabcba4a136a9c60ebc8c0"
 [[files]]
 file = "servers.dat"
 hash = "51dd3cac543b61237e4c5902b11aa0d80d9651d050af93d7b68860d744e85b87"
-preserve = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
