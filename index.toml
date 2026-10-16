@@ -382,19 +382,19 @@ hash = "4c861c9f77b94c40242114ecca1ad43ef21ef2e6ff7252892f659a5325bcdc34"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_options_screen.txt"
-hash = "3c0f6204a097304c69166a28d793745e23cf743fb99b9224c085e823a77c16b2"
+hash = "b61296debb4ff0b5e79ee7834ed0e31351217fc00db037ea3fcf70ebd2f3444e"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_pause_screen.txt"
-hash = "b6bb22bdf337b1d0f065872693ed0182df5dcd24360bf1320286765af9706517"
+hash = "e7a7e0c717552263b0f0a791a08419ddd1883eae238007a6775df184316a0f20"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_ok_screen.txt"
-hash = "8212beb5bd81717e73ee55be89b1566f507d394b8bee8ae073168fd90902f2cd"
+hash = "c2ee67598831880c13c1cda53ac462287120f8e428163d2df27319d430c22733"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "6a8dc3a959f262b41b358c38119188ed0a85febd545092ce2382dfd07549d6a7"
+hash = "2b7184b44e63245846e2aab7a8707750a4aade913d94b434cfdeb5b55c393cef"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -1519,7 +1519,7 @@ hash = "9fd2376a20ade35d0e375957db4e66aa8aeec013b36af61bb256a47b1e97600f"
 
 [[files]]
 file = "mods/R3CT-Daily-fabric-26.2-5.1.0-primazos.jar"
-hash = "cdca83c71f1e614452e68320a6d7f37d4cbaaef1f7bcfae7c0c57d4dd6057d89"
+hash = "a5a4fab1277a4645b7a59cbcf1c0ca03a389e148359c2a355f9991da9f728371"
 
 [[files]]
 file = "mods/Totem Slot-1.0.6.jar"
@@ -2356,7 +2356,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "94ed723dc8c648bb55982fe90e10529c24a12dde312392c04a74132e5d745dce"
+hash = "30c93091aa3f5e58c1e5dae4427e31f8a5b9e4ded5eeed43ae527c358cae3342"
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
@@ -2799,7 +2799,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos.zip"
-hash = "6cd2c204e579585e1eb7e82fd422c297b0fd7dc112b24378b58b9dce567db3c3"
+hash = "139b96021bab15c64cc1d09d755902945dd5c6c4dbcee6083c469f3175bca0d0"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"
@@ -2964,7 +2964,7 @@ preserve = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
-hash = "dfac5fc2d75295a390c9d4efa5a303cf2165da84edd70090a39cd82645b01e15"
+hash = "700eb64bc20fef5c36fa65e212e3b95b0f3a68e5b7d57c1dc4d7efaec9a9d5fd"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3_Cueva.zip"
@@ -2972,7 +2972,7 @@ hash = "9da35931e3ba58bd39537821ec21429d09731c6091508c9dc18f7d101d0fe92a"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3_Cueva.zip.txt"
-hash = "c7abd5cd06b638efcd5a1091e4349287260c7b1c4e2cbc64cd8ed1950dc278fb"
+hash = "6373d29edf62cf76fd01832bdf88f91edf5aa031c4c24860d66de5467d19739f"
 
 [[files]]
 file = "shaderpacks/I Like Vanilla v1.4.3c.zip.txt"

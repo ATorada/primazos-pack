@@ -26,7 +26,7 @@ customization {
 
 element {
   source_mode = direct
-  source = ^^^\n§a§l✔ Preset guardado\n§7Se aplica al volver a abrir el juego.\n§7Cierra Minecraft por completo y ábrelo\n§7otra vez desde el launcher.\n^^^
+  source = ^^^\n§a§l{"placeholder":"local","values":{"key":"primazos_menu.ok.saved"}}\n§7{"placeholder":"local","values":{"key":"primazos_menu.ok.l1"}}\n§7{"placeholder":"local","values":{"key":"primazos_menu.ok.l2"}}\n§7{"placeholder":"local","values":{"key":"primazos_menu.ok.l3"}}\n^^^
   shadow = true
   case_mode = normal
   scrolling = false
@@ -71,7 +71,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §c§lCerrar Minecraft ahora
+  label = §c§l{"placeholder":"local","values":{"key":"primazos_menu.ok.close"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = cf0cd831-4520-40fa-a04c-e62353101d9b-1791400000000
   [loading_requirement_container_meta:cf0cd831-4520-40fa-a04c-e62353101d9b-1791400000000] = [groups:][instances:]
@@ -113,7 +113,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §e§lMás tarde (seguir jugando)
+  label = §e§l{"placeholder":"local","values":{"key":"primazos_menu.ok.later"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = fefe6b5c-9be8-4182-a97d-d4def39e829c-1791400000000
   [loading_requirement_container_meta:fefe6b5c-9be8-4182-a97d-d4def39e829c-1791400000000] = [groups:][instances:]

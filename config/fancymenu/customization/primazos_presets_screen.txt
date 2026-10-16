@@ -26,7 +26,7 @@ customization {
 
 element {
   source_mode = direct
-  source = §7Elige un preset y reinicia el juego
+  source = §7{"placeholder":"local","values":{"key":"primazos_menu.presets.hint"}}
   shadow = true
   case_mode = normal
   scrolling = false
@@ -115,7 +115,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §7§lPatata §8- §7Distancia 4 + Voxy, sin sombras ni shaders
+  label = §7§l{"placeholder":"local","values":{"key":"primazos_menu.presets.patata.name"}} §8- §7{"placeholder":"local","values":{"key":"primazos_menu.presets.patata.desc"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = a5a1f2cc-7706-48b2-bda1-507f151685c8-1791400000000
   [loading_requirement_container_meta:a5a1f2cc-7706-48b2-bda1-507f151685c8-1791400000000] = [groups:][instances:]
@@ -201,7 +201,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §a§lBásico §8- §7Distancia 8, sin shaders
+  label = §a§l{"placeholder":"local","values":{"key":"primazos_menu.presets.basico.name"}} §8- §7{"placeholder":"local","values":{"key":"primazos_menu.presets.basico.desc"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = 8b5fde21-ae0f-4c0a-92c0-8171f97fa284-1791400000000
   [loading_requirement_container_meta:8b5fde21-ae0f-4c0a-92c0-8171f97fa284-1791400000000] = [groups:][instances:]
@@ -287,7 +287,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §e§lMedio §8- §7Distancia 12, sin shaders
+  label = §e§l{"placeholder":"local","values":{"key":"primazos_menu.presets.medio.name"}} §8- §7{"placeholder":"local","values":{"key":"primazos_menu.presets.medio.desc"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = 97ee0796-d74a-444a-866d-e798eca682ac-1791400000000
   [loading_requirement_container_meta:97ee0796-d74a-444a-866d-e798eca682ac-1791400000000] = [groups:][instances:]
@@ -373,7 +373,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §6§lAlto §8- §7Distancia 16, shaders Complementary
+  label = §6§l{"placeholder":"local","values":{"key":"primazos_menu.presets.alto.name"}} §8- §7{"placeholder":"local","values":{"key":"primazos_menu.presets.alto.desc"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = f97bc279-36dc-47e2-a557-7a23d3182b1f-1791400000000
   [loading_requirement_container_meta:f97bc279-36dc-47e2-a557-7a23d3182b1f-1791400000000] = [groups:][instances:]
@@ -459,7 +459,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §c§lMuy alto §8- §7Distancia 24, shaders Complementary
+  label = §c§l{"placeholder":"local","values":{"key":"primazos_menu.presets.muyalto.name"}} §8- §7{"placeholder":"local","values":{"key":"primazos_menu.presets.muyalto.desc"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = a6bee767-974f-412c-9c3d-fb49ffc0c643-1791400000000
   [loading_requirement_container_meta:a6bee767-974f-412c-9c3d-fb49ffc0c643-1791400000000] = [groups:][instances:]
@@ -501,7 +501,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §e§lVolver
+  label = §e§l{"placeholder":"local","values":{"key":"primazos_menu.presets.back"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = 91b91996-5592-4fbd-b27f-58a40bf34cdd-1791400000000
   [loading_requirement_container_meta:91b91996-5592-4fbd-b27f-58a40bf34cdd-1791400000000] = [groups:][instances:]

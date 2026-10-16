@@ -23,7 +23,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §6§l✦ §e§lPresets de Calidad §6§l✦
+  label = §6§l✦ §e§l{"placeholder":"local","values":{"key":"primazos_menu.presets.button"}} §6§l✦
   navigatable = true
   widget_active_state_requirement_container_identifier = 3bc88caa-6693-48bf-8eae-3c70410d3604-1791400000000
   [loading_requirement_container_meta:3bc88caa-6693-48bf-8eae-3c70410d3604-1791400000000] = [groups:][instances:]

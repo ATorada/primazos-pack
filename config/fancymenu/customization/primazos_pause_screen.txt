@@ -23,7 +23,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §6§l✦ §e§lProgreso §6§l✦
+  label = §6§l✦ §e§l{"placeholder":"local","values":{"key":"primazos_menu.pause.ruta"}} §6§l✦
   navigatable = true
   widget_active_state_requirement_container_identifier = 7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d04-1791320000000
   [loading_requirement_container_meta:7a1c0e52-5b1e-4f0a-9d2e-0c5a1b2c3d04-1791320000000] = [groups:][instances:]
