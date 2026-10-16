@@ -394,7 +394,7 @@ hash = "c2ee67598831880c13c1cda53ac462287120f8e428163d2df27319d430c22733"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "2b7184b44e63245846e2aab7a8707750a4aade913d94b434cfdeb5b55c393cef"
+hash = "ff1273f1e69f3d99b2e470d29b28630e4a934a94c6a852295dde07d282659f23"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -1375,6 +1375,11 @@ hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
 [[files]]
 file = "config/status-effect-bars.json"
 hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
+
+[[files]]
+file = "config/streamotes.json5"
+hash = "37d640124cafa194d12ebda393316bcc0133d445f3b251e45c6d9110b8e5de0b"
+preserve = true
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -2395,7 +2400,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "30c93091aa3f5e58c1e5dae4427e31f8a5b9e4ded5eeed43ae527c358cae3342"
+hash = "c9e0652f34c7dd9d5863c70344e5c5c475930d4d8d7ba0740095741040e00855"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"

@@ -321,7 +321,7 @@ element {
 element {
   button_element_executable_block_identifier = 0bf9f6cd-e53e-4274-8a0e-5eeba26d5051-1791400000000
   [executable_action_instance:6456c364-a828-431f-b004-ceb8e8783f6a-1791400000000][action_type:write_file_in_game_dir] = config/primazos_presets/pending.txt|||alto|||false
-  [executable_action_instance:b131bfeb-38fb-4483-ba83-dc8865dd45d5-1791400000000][action_type:edit_minecraft_option] = renderDistance:16
+  [executable_action_instance:b131bfeb-38fb-4483-ba83-dc8865dd45d5-1791400000000][action_type:edit_minecraft_option] = renderDistance:4
   [executable_action_instance:67cc3bc6-83a1-4ed6-836c-67f61872a1f3-1791400000000][action_type:edit_minecraft_option] = simulationDistance:12
   [executable_action_instance:e5bf1815-b9b5-4e4a-8bed-86e1fca1aac0-1791400000000][action_type:edit_minecraft_option] = particles:0
   [executable_action_instance:910b2b7f-dfbe-40be-93b7-a5a7616dc0df-1791400000000][action_type:edit_minecraft_option] = renderClouds:"true"
@@ -373,7 +373,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §6§l{"placeholder":"local","values":{"key":"primazos_menu.presets.alto.name"}} §8- §7{"placeholder":"local","values":{"key":"primazos_menu.presets.alto.desc"}}
+  label = §6§l{"placeholder":"local","values":{"key":"primazos_menu.presets.alto.name"}} §8- §74 chunks, shaders Complementary
   navigatable = true
   widget_active_state_requirement_container_identifier = f97bc279-36dc-47e2-a557-7a23d3182b1f-1791400000000
   [loading_requirement_container_meta:f97bc279-36dc-47e2-a557-7a23d3182b1f-1791400000000] = [groups:][instances:]
