@@ -751,5 +751,31 @@
   quest_links: [
   ],
   images: [
+    {
+      x: -4.7,
+      y: 10.2,
+      width: 1.4,
+      height: 1.4,
+      rotation: 0.0,
+      image: "item:aerialhell:chiseled_stellar_grass_block",
+      click_action: {
+        type: "run_command",
+        data: "/trigger velo set 1",
+      },
+      id: "4A7D3E91C5B20F68",
+    },
+    {
+      x: -2.9,
+      y: 10.2,
+      width: 1.4,
+      height: 1.4,
+      rotation: 0.0,
+      image: "item:minecraft:recovery_compass",
+      click_action: {
+        type: "run_command",
+        data: "/trigger velo set 2",
+      },
+      id: "4F18B6C2D9A47E03",
+    },
   ],
 }

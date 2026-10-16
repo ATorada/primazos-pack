@@ -2684,7 +2684,7 @@
   "quest.442E7979A4536AEF.quest_desc": [
     "&7Real-time map, waypoints, voice chat, emotes and Discord."
   ],
-  "chapter.48B9611DC0D886EC.title": "&cIf you die",
+  "chapter.48B9611DC0D886EC.title": "&bIf you die",
   "quest.4DB9A40D131B98D7.title": "&7If you die: your grave",
   "quest.4DB9A40D131B98D7.quest_subtitle": "&7When you die, a gravestone with ALL your stuff appears where you fell.",
   "quest.4DB9A40D131B98D7.quest_desc": [
@@ -2723,7 +2723,7 @@
   "quest.44142FAFEF3E3A65.quest_desc": [
     "Dying in Primazos isn't the end: your stuff waits for you and the &a&lAegis&r&7 helps if you die repeatedly."
   ],
-  "chapter.4DB240077E0917AE.title": "&a&lAegis of Protection",
+  "chapter.4DB240077E0917AE.title": "&bAegis of Protection",
   "quest.4A7ECEFFB1CE929A.title": "&a&lAegis&r&7",
   "quest.4A7ECEFFB1CE929A.quest_subtitle": "If you die several times in a row.",
   "quest.4A7ECEFFB1CE929A.quest_desc": [
@@ -2848,7 +2848,7 @@
     "",
     "And when everything goes wrong, the &a&lAegis&r&7 covers you."
   ],
-  "chapter.49245C1C892580C8.title": "&4Scaling monsters",
+  "chapter.49245C1C892580C8.title": "&bScaling monsters",
   "quest.4DC647F23DED0C4B.title": "&eHow it works",
   "quest.4DC647F23DED0C4B.quest_subtitle": "&7Each player goes up 1 level for every 20 minutes played, up to 100.",
   "quest.4DC647F23DED0C4B.quest_desc": [
@@ -2916,7 +2916,7 @@
   "quest.4F62A4268F38F40B.quest_desc": [
     "&7The more you play, the stronger the monsters around you get."
   ],
-  "chapter.48A16BDEC86E0F14.title": "&aQuality of life",
+  "chapter.48A16BDEC86E0F14.title": "&bQuality of life",
   "quest.4C692BC8BC9736ED.title": "&a1. The basics",
   "quest.4C692BC8BC9736ED.quest_subtitle": "&7It's a Vanilla Plus: it plays like normal Minecraft, but with more…",
   "quest.4C692BC8BC9736ED.quest_desc": [
@@ -3075,6 +3075,11 @@
   "quest.47D6CF2F6014C7EF.quest_subtitle": "&7Small extras: petting mobs (PatPat) and new…",
   "quest.47D6CF2F6014C7EF.quest_desc": [
     "&7Small extras: petting mobs (PatPat) and new creature animations."
+  ],
+  "quest.4A93F2D6C81E0B57.title": "&6Icy's Better Horses",
+  "quest.4A93F2D6C81E0B57.quest_subtitle": "&7Real horses: ownership, bonding, 15 breeds, their own tack and carts.",
+  "quest.4A93F2D6C81E0B57.quest_desc": [
+    "&7Real horses: ownership, bonding, 15 breeds, their own tack and carts."
   ],
   "quest.48C46EB22B06804A.title": "&6Mobs and creatures",
   "quest.48C46EB22B06804A.quest_subtitle": "&7New animals and monsters: Alex's Mobs, dragons, variants of…",
@@ -3503,6 +3508,85 @@
   "quest.4211EC5D1F2E8708.quest_desc": [
     "&7Lots of new, dangerous illagers."
   ],
+  "chapter.4B2E7C91D05A3F68.title": "&7› &6Horses",
+  "quest.41D8E3A72C5B96F0.title": "&eYour horse",
+  "quest.41D8E3A72C5B96F0.quest_subtitle": "&7Tame a horse and it becomes yours.",
+  "quest.41D8E3A72C5B96F0.quest_desc": [
+    "&7Once you finish taming a horse it is &aregistered to you&7.",
+    "&7Only you can ride it: anyone else who tries to ride it as the main rider &cgets bucked off&7. It still accepts a second rider behind.",
+    "",
+    "&7To let a friend ride it alone:",
+    "&e/horse trust Name&7 (covers all your horses)",
+    "&e/horse untrust Name&7 to revoke it and &e/horse trusted&7 to see the list."
+  ],
+  "quest.47B05C1E9A3D2864.title": "&eWhistle and commands",
+  "quest.47B05C1E9A3D2864.quest_subtitle": "&7Call your horse and command it with the wheel.",
+  "quest.47B05C1E9A3D2864.quest_desc": [
+    "&e&lWhistle / Info&r&7 (side mouse button): nearby horses follow you and distant ones come closer. While riding, it opens the horse info screen.",
+    "&e&lCommand wheel&r&7 (middle mouse button): look at your horse and pick a command.",
+    "&e&lManage horses&r&7 (&f]&7): list of all your horses.",
+    "&e&lCharge&r&7 (right Alt): the horse rams whatever is in front of you.",
+    "&e&lFree look&r&7 (hold left Ctrl while riding): turn the camera without turning the horse.",
+    "",
+    "&7You can change the keys in Options > Controls > Icy's Better Horses."
+  ],
+  "quest.4C6A91F3E07D5B28.title": "&eBreeds and classes",
+  "quest.4C6A91F3E07D5B28.quest_subtitle": "&715 breeds split into 5 classes.",
+  "quest.4C6A91F3E07D5B28.quest_desc": [
+    "&7There are &e15 breeds&7 with their own coats and biomes, in five classes:",
+    "&6Race&7 (Thoroughbred, Arabian...): the fastest.",
+    "&cWar&7 (Friesian, Andalusian...): tough and charge hard.",
+    "&8Draft&7 (Percheron, Shire, Clydesdale, Belgian): strong, and the only ones that pull the &elarge cart&7.",
+    "&aPonies&7 (Icelandic, Haflinger): small and nimble.",
+    "&eWestern&7 (Mustang, Quarter, Paint, Appaloosa, Morgan): well balanced.",
+    "",
+    "&7Breeding different breeds gives a &dmix&7."
+  ],
+  "quest.42F7D08B6E1C3A95.title": "&eUpgraded Saddle",
+  "quest.42F7D08B6E1C3A95.quest_subtitle": "&7The base of all horse tack.",
+  "quest.42F7D08B6E1C3A95.quest_desc": [
+    "&7Made from a regular &fsaddle&7, &6copper&7 and a few &bdiamonds&7.",
+    "&7Unlocks the horse's &egear slots&7 and shows its stats while held."
+  ],
+  "quest.4D3B5E92A70C6F14.title": "&eHorseshoe",
+  "quest.4D3B5E92A70C6F14.quest_subtitle": "&7A steady step on rough ground.",
+  "quest.4D3B5E92A70C6F14.quest_desc": [
+    "&7Some &6copper&7 ingots and a leather strap.",
+    "&7The horse can walk on &fpowder snow&7 and takes &aless fall damage&7."
+  ],
+  "quest.48E2C6A0F5913B7D.title": "&eHorse Medkit",
+  "quest.48E2C6A0F5913B7D.quest_subtitle": "&7Heals your horse when it is in trouble.",
+  "quest.48E2C6A0F5913B7D.quest_desc": [
+    "&7Wool, healing supplies and a &dregeneration potion&7.",
+    "&7When the horse drops below &chalf health&7 it heals it automatically."
+  ],
+  "quest.43A9F1D75C08E26B.title": "&eGlidewing Harness",
+  "quest.43A9F1D75C08E26B.quest_subtitle": "&7Slows down big falls.",
+  "quest.43A9F1D75C08E26B.quest_desc": [
+    "&7Mounted on the &eupgraded saddle&7 and crafted from &6canisters&7 (copper and gold).",
+    "&7Slows big falls and can &acancel fall damage&7.",
+    "&7When it is spent, refuel it on an &fanvil&7 with another canister."
+  ],
+  "quest.4F05B8C3D2A6971E.title": "&eHorse Cart",
+  "quest.4F05B8C3D2A6971E.quest_subtitle": "&7Carries passengers, a chest or a plough.",
+  "quest.4F05B8C3D2A6971E.quest_desc": [
+    "&7Two &ewheels&7 (sticks and planks), a row of planks and two slabs on top.",
+    "&7Your horse pulls it and it can carry &fpassengers&7, a &6chest&7 or a &aplough&7. Open it with &eleft Alt&7.",
+    "&7Only &8draft&7 horses can pull the &elarge cart&7."
+  ],
+  "quest.4917D4E0B8C25A3F.title": "&eStable Handbook",
+  "quest.4917D4E0B8C25A3F.quest_subtitle": "&7The mod's guide book.",
+  "quest.4917D4E0B8C25A3F.quest_desc": [
+    "&7Combine any Better Horses item with a &fbook&7 to get the &6Stable Handbook&7.",
+    "&7It explains everything in detail: breeds, coats, tack and recipes."
+  ],
+  "quest.4E61A0C7B93D2F15.title": "&6Icy's Better Horses",
+  "quest.4E61A0C7B93D2F15.quest_subtitle": "&7Horses stop being a throwaway way to get around.",
+  "quest.4E61A0C7B93D2F15.quest_desc": [
+    "&7Horses become &6long-term companions&7: they have an owner, bond with you, come in &e15 breeds&7 with their own coats and biomes, and get their own tack and &ecarts&7.",
+    "",
+    "&7The whole mod is explained in its guide book, the &6Stable Handbook&7."
+  ],
   "chapter.459A2F7493AAA428.title": "&6Home and creativity",
   "quest.46D6099044CD1A79.title": "&6MrCrayfish's Furniture: Refurbished",
   "quest.46D6099044CD1A79.quest_subtitle": "&7Hundreds of furniture pieces: kitchens, sofas, lamps, TVs,…",
@@ -3879,6 +3963,8 @@
   "chapter.454FABAB4D9ED871.title": "&d&lYoth&r&7: fast track",
   "image.4E21C5C5F21BE88A.title": "&lGo to Yoth",
   "image.45FEB1981C1A8930.title": "&lGo back",
+  "image.4A7D3E91C5B20F68.title": "&lGo to the Veil",
+  "image.4F18B6C2D9A47E03.title": "&lGo back",
   "quest.4EACA8D62A63C301.title": "&dWhat is Yoth",
   "quest.4EACA8D62A63C301.quest_subtitle": "&7A &dfriendly&7 cave world to learn the ropes and reach &dnetherite&7 fast.",
   "quest.4EACA8D62A63C301.quest_desc": [

@@ -2684,7 +2684,7 @@
   "quest.442E7979A4536AEF.quest_desc": [
     "&7Mapa en tiempo real, marcar sitios, chat de voz, emotes y Discord."
   ],
-  "chapter.48B9611DC0D886EC.title": "&cSi mueres",
+  "chapter.48B9611DC0D886EC.title": "&bSi mueres",
   "quest.4DB9A40D131B98D7.title": "&7Si mueres: tu tumba",
   "quest.4DB9A40D131B98D7.quest_subtitle": "&7Al morir aparece una lápida con TODAS tus cosas donde caíste.",
   "quest.4DB9A40D131B98D7.quest_desc": [
@@ -2723,7 +2723,7 @@
   "quest.44142FAFEF3E3A65.quest_desc": [
     "Morir en Primazos no es el fin: tus cosas te esperan y la &a&lÉgida&r&7 te ayuda si mueres seguido."
   ],
-  "chapter.4DB240077E0917AE.title": "&a&lÉgida de Protección",
+  "chapter.4DB240077E0917AE.title": "&bÉgida de Protección",
   "quest.4A7ECEFFB1CE929A.title": "&a&lÉgida&r&7",
   "quest.4A7ECEFFB1CE929A.quest_subtitle": "Si mueres varias veces seguidas.",
   "quest.4A7ECEFFB1CE929A.quest_desc": [
@@ -2848,7 +2848,7 @@
     "",
     "Y cuando todo sale mal, la &a&lÉgida&r&7 te cubre."
   ],
-  "chapter.49245C1C892580C8.title": "&4Monstruos que escalan",
+  "chapter.49245C1C892580C8.title": "&bMonstruos que escalan",
   "quest.4DC647F23DED0C4B.title": "&eCómo funciona",
   "quest.4DC647F23DED0C4B.quest_subtitle": "&7Cada jugador sube 1 nivel por cada 20 minutos jugados, hasta el 100.",
   "quest.4DC647F23DED0C4B.quest_desc": [
@@ -2916,7 +2916,7 @@
   "quest.4F62A4268F38F40B.quest_desc": [
     "&7Cuanto más juegas, más fuertes son los monstruos que te rodean."
   ],
-  "chapter.48A16BDEC86E0F14.title": "&aComodidades",
+  "chapter.48A16BDEC86E0F14.title": "&bComodidades",
   "quest.4C692BC8BC9736ED.title": "&a1. Lo básico",
   "quest.4C692BC8BC9736ED.quest_subtitle": "&7Es un Vanilla Plus: se juega como Minecraft normal, pero con más…",
   "quest.4C692BC8BC9736ED.quest_desc": [
@@ -3075,6 +3075,11 @@
   "quest.47D6CF2F6014C7EF.quest_subtitle": "&7Pequeños extras: acariciar a los mobs (PatPat) y animaciones nuevas…",
   "quest.47D6CF2F6014C7EF.quest_desc": [
     "&7Pequeños extras: acariciar a los mobs (PatPat) y animaciones nuevas para las criaturas."
+  ],
+  "quest.4A93F2D6C81E0B57.title": "&6Icy's Better Horses",
+  "quest.4A93F2D6C81E0B57.quest_subtitle": "&7Caballos de verdad: dueño, vínculo, 15 razas, equipo propio y carros.",
+  "quest.4A93F2D6C81E0B57.quest_desc": [
+    "&7Caballos de verdad: dueño, vínculo, 15 razas, equipo propio y carros."
   ],
   "quest.48C46EB22B06804A.title": "&6Mobs y criaturas",
   "quest.48C46EB22B06804A.quest_subtitle": "&7Animales y monstruos nuevos: Alex's Mobs, dragones, variantes de…",
@@ -3503,6 +3508,85 @@
   "quest.4211EC5D1F2E8708.quest_desc": [
     "&7Muchos illagers nuevos y peligrosos."
   ],
+  "chapter.4B2E7C91D05A3F68.title": "&7› &6Caballos",
+  "quest.41D8E3A72C5B96F0.title": "&eTu caballo",
+  "quest.41D8E3A72C5B96F0.quest_subtitle": "&7Doma un caballo y pasa a ser tuyo.",
+  "quest.41D8E3A72C5B96F0.quest_desc": [
+    "&7Cuando terminas de domar un caballo queda &aregistrado a tu nombre&7.",
+    "&7Solo tú puedes llevarlo: si otro jugador intenta montarlo como jinete principal, &cel caballo lo tira&7. Sí acepta un segundo jinete detrás.",
+    "",
+    "&7Para dejar que un amigo lo monte solo:",
+    "&e/horse trust Nombre&7 (vale para todos tus caballos)",
+    "&e/horse untrust Nombre&7 para quitárselo y &e/horse trusted&7 para ver la lista."
+  ],
+  "quest.47B05C1E9A3D2864.title": "&eSilbato y órdenes",
+  "quest.47B05C1E9A3D2864.quest_subtitle": "&7Llama a tu caballo y dale órdenes con la rueda.",
+  "quest.47B05C1E9A3D2864.quest_desc": [
+    "&e&lSilbato / Info&r&7 (botón lateral del ratón): los caballos cercanos te siguen y los lejanos se acercan. Montado, abre la ficha del caballo.",
+    "&e&lRueda de órdenes&r&7 (rueda del ratón): mira a tu caballo y elige una orden.",
+    "&e&lGestionar caballos&r&7 (&f]&7): lista de todos tus caballos.",
+    "&e&lCarga&r&7 (Alt derecho): el caballo embiste a lo que tengas delante.",
+    "&e&lMirar libre&r&7 (mantén Ctrl izquierdo montado): giras la cámara sin girar al caballo.",
+    "",
+    "&7Puedes cambiar las teclas en Opciones > Controles > Icy's Better Horses."
+  ],
+  "quest.4C6A91F3E07D5B28.title": "&eRazas y clases",
+  "quest.4C6A91F3E07D5B28.quest_subtitle": "&715 razas repartidas en 5 clases.",
+  "quest.4C6A91F3E07D5B28.quest_desc": [
+    "&7Hay &e15 razas&7 con pelajes y biomas propios, en cinco clases:",
+    "&6Carreras&7 (Pura sangre, Árabe...): las más rápidas.",
+    "&cGuerra&7 (Frisón, Andaluz...): aguantan y embisten.",
+    "&8Tiro&7 (Percherón, Shire, Clydesdale, Belga): fuertes y los únicos que tiran del &ecarro grande&7.",
+    "&aPonis&7 (Islandés, Haflinger): pequeños y ágiles.",
+    "&eWestern&7 (Mustang, Quarter, Paint, Appaloosa, Morgan): equilibrados.",
+    "",
+    "&7Al criar razas distintas sale un &dmestizo&7."
+  ],
+  "quest.42F7D08B6E1C3A95.title": "&eSilla mejorada",
+  "quest.42F7D08B6E1C3A95.quest_subtitle": "&7La base de todo el equipo del caballo.",
+  "quest.42F7D08B6E1C3A95.quest_desc": [
+    "&7Se hace con una &fsilla&7 normal, &6cobre&7 y unos &bdiamantes&7.",
+    "&7Desbloquea las &eranuras de equipo&7 del caballo y, al llevarla en la mano, te enseña sus estadísticas."
+  ],
+  "quest.4D3B5E92A70C6F14.title": "&eHerraduras",
+  "quest.4D3B5E92A70C6F14.quest_subtitle": "&7Pisada firme en terreno difícil.",
+  "quest.4D3B5E92A70C6F14.quest_desc": [
+    "&7Lingotes de &6cobre&7 y una tira de cuero.",
+    "&7El caballo puede andar sobre &fnieve en polvo&7 y recibe &amenos daño de caída&7."
+  ],
+  "quest.48E2C6A0F5913B7D.title": "&eBotiquín",
+  "quest.48E2C6A0F5913B7D.quest_subtitle": "&7Cura a tu caballo cuando está en apuros.",
+  "quest.48E2C6A0F5913B7D.quest_desc": [
+    "&7Lana, material de curación y una &dpoción de regeneración&7.",
+    "&7Cuando el caballo baja de &cla mitad de vida&7 lo cura automáticamente."
+  ],
+  "quest.43A9F1D75C08E26B.title": "&eArnés Alaplaneo",
+  "quest.43A9F1D75C08E26B.quest_subtitle": "&7Frena las caídas grandes.",
+  "quest.43A9F1D75C08E26B.quest_desc": [
+    "&7Se monta sobre la &esilla mejorada&7 y se fabrica con &6cápsulas&7 (cobre y oro).",
+    "&7Frena las caídas grandes y puede &aanular el daño de caída&7.",
+    "&7Cuando se gasta, recárgalo en un &fyunque&7 con otra cápsula."
+  ],
+  "quest.4F05B8C3D2A6971E.title": "&eCarro",
+  "quest.4F05B8C3D2A6971E.quest_subtitle": "&7Lleva pasajeros, un cofre o un arado.",
+  "quest.4F05B8C3D2A6971E.quest_desc": [
+    "&7Dos &eruedas&7 (palos y tablones), una fila de tablones y dos losas encima.",
+    "&7El caballo tira de él y puede llevar &fpasajeros&7, un &6cofre&7 o un &aarado&7. Ábrelo con &eAlt izquierdo&7.",
+    "&7El &ecarro grande&7 solo lo pueden mover los caballos de &8tiro&7."
+  ],
+  "quest.4917D4E0B8C25A3F.title": "&eManual del Establo",
+  "quest.4917D4E0B8C25A3F.quest_subtitle": "&7El libro guía del mod.",
+  "quest.4917D4E0B8C25A3F.quest_desc": [
+    "&7Junta cualquier objeto de Better Horses con un &flibro&7 y tendrás el &6Manual del Establo&7.",
+    "&7Explica todo con detalle: razas, pelajes, equipo y recetas."
+  ],
+  "quest.4E61A0C7B93D2F15.title": "&6Icy's Better Horses",
+  "quest.4E61A0C7B93D2F15.quest_subtitle": "&7Los caballos dejan de ser un medio de transporte de usar y tirar.",
+  "quest.4E61A0C7B93D2F15.quest_desc": [
+    "&7Los caballos pasan a ser &6compañeros para toda la partida&7: tienen dueño, se vinculan contigo, hay &e15 razas&7 con sus propios pelajes y biomas, equipo propio y &ecarros&7.",
+    "",
+    "&7Todo el mod viene explicado en su libro guía, el &6Manual del Establo&7."
+  ],
   "chapter.459A2F7493AAA428.title": "&6Hogar y creatividad",
   "quest.46D6099044CD1A79.title": "&6MrCrayfish's Furniture: Refurbished",
   "quest.46D6099044CD1A79.quest_subtitle": "&7Cientos de muebles: cocinas, sofás, lámparas, televisores,…",
@@ -3879,6 +3963,8 @@
   "chapter.454FABAB4D9ED871.title": "&d&lYoth&r&7: vía rápida",
   "image.4E21C5C5F21BE88A.title": "&lIr a Yoth",
   "image.45FEB1981C1A8930.title": "&lVolver",
+  "image.4A7D3E91C5B20F68.title": "&lIr al Velo",
+  "image.4F18B6C2D9A47E03.title": "&lVolver",
   "quest.4EACA8D62A63C301.title": "&dQué es Yoth",
   "quest.4EACA8D62A63C301.quest_subtitle": "&7Un mundo cueva &damable&7 para aprender y llegar rápido a la &dnetherita&7.",
   "quest.4EACA8D62A63C301.quest_desc": [

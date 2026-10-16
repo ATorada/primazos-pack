@@ -514,11 +514,15 @@ hash = "6e62ddbf8a25f2490b925b9c45e3457c5d8dd3914f2336626d1f578eec552a24"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/biomas.json5"
-hash = "a09fdba6ec3e6ef79c196556b098ee7de36de873ec73ed2ac03db916f8ffbc65"
+hash = "f5947ad6c34354925be1bcc26d826233e0b17a6874dfdbb98093c150fc47384b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/caballos.json5"
+hash = "a001d1d5b0a6b9e26d331e7c4b55f4a2323cd34294991cfc988fe93115dacc65"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/combate.json5"
-hash = "422b645f71d5591704f7c6e3aadc58e4a1318890d58c0e5de496ccbc92c0b43f"
+hash = "6c8793170af82435d0d8df023f35f9c173ca8561e43ae580c4daafdfcf4b7a3c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/comodidades.json5"
@@ -530,7 +534,7 @@ hash = "62eb74cbd0d9bd12b0c93b16bafc9826b3a4abce023b9ff31b238fe91cdafa22"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/criaturas.json5"
-hash = "5d44c6f07d2d9b2b2dbf0fbb42099f4ac31b9c76e9d83bd4d3271da02e82ec60"
+hash = "bdb1c051450732da911bd75932bcc2cd6623905cf91e788a50b53a93f5729240"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/egida.json5"
@@ -558,7 +562,7 @@ hash = "45b8b2e06663aec08e82230dc6ce68cd4b5ad3d231452fc19de65d4123bc3c8c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hogar.json5"
-hash = "554aa0f5fcbfa0b83dc8b5b8f78026e73266799a94a173fd0730041702f37f93"
+hash = "8b2b04b8b143ddead64584f84712ae2c9ba625f5045108ef7d6cd8b8d238d6b8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/illagerinvasion.json5"
@@ -566,7 +570,7 @@ hash = "d0a76768ff82dc75fb1c9efe5573c772f72cc0b3c5049b6ff167bb3ab64d8d8b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/instrumentos.json5"
-hash = "d0f09437eb998d308f49ae2f4f700bd2f8c4e0efd3d6332584307f7ee7734687"
+hash = "97ac2455f98a8037bf0e1f335a5c4a33f1e982d32b091d9e6d37ba9ed730840b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maz_dificil.json5"
@@ -586,11 +590,11 @@ hash = "2fb86f538b4e27a518af5fbf5c9782e36abfdcc0ea5ef0be10ea415136e59788"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mochilas.json5"
-hash = "0beb22102f125112ed2186aa12aa06df0d282f7ebd683f764d0b4b284b868a8c"
+hash = "e3502d3302964f1d3fa76d9232bb0390921f52ed868a0a6394c457d6007c30d0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/muebles.json5"
-hash = "11fd8075649af2622fc2275e325b57bb38cb999faa59737f3773025a2952df45"
+hash = "37e8116a23cbf4eef0850b5b2b95a8308df363e0331a5f497befcbc1be4eed08"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mundo.json5"
@@ -630,11 +634,11 @@ hash = "b5f4eaf8d56ea3bad72ebb4233cf84d4c318b9ac67dc8e0807ba510183a187ff"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/velo.json5"
-hash = "51841aca5adfca47416c6ccf9b934edd4c281e738abb260d351e8ba577747f87"
+hash = "87af853be48578bba11d52a0abde0a314a07856d00e8a14db40dbdc6f4c0cbfb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/visual.json5"
-hash = "c6d6376a96d8048e43d78befdb0b801923e847cd91a0d0032b8f292e631e8991"
+hash = "4577725497014fcd0878e2a8f1967f4d5e59b9d2f24d9c8b4a2421329e89bae6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/yoth.json5"
@@ -646,15 +650,15 @@ hash = "b3ecacf2a11397bb4712f51fcc86c6c65e5c79600249f59357285d23a147db91"
 
 [[files]]
 file = "config/ftbquests/quests/lang/ca_es/primazos.json5"
-hash = "6650970db18608cf2c0fe081ce4fc85924746ed2d3ef92474f012923e81ec628"
+hash = "82b84aedeef15a432c9f52b9bb275997893c99d771e87a580c04a078040a44c7"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/primazos.json5"
-hash = "b2ac740f3cce1fdf228b87f0922bcf6b45ab4ae152f3e6b33f778a01bded0a08"
+hash = "b18664ab73c915a4a9cef9f78da5a871afb614dc30433157a924679170f1e50e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/primazos.json5"
-hash = "497b0b91d8f493bd9b0bee650f36828445fa48f22f47f55bb6e229f9052e4298"
+hash = "c9342719f2061c9f4a3ac5d4da7919a734abc22b2e9de8d9499538516d722609"
 
 [[files]]
 file = "config/fullscreenfix.properties"
@@ -2390,6 +2394,10 @@ file = "mods/primazos-custom-cliente.jar"
 hash = "30c93091aa3f5e58c1e5dae4427e31f8a5b9e4ded5eeed43ae527c358cae3342"
 
 [[files]]
+file = "mods/primazos-party-voz-1.0.0.jar"
+hash = "660b8c0bd63057a6a4eb889e25d8e9667b49f212f6a792d3275c075dcd2d11c9"
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "42d1b4cfa4faf633a644416926e5c7ce59f7e5e6f7cac4f1394d3661a87082d2"
 metafile = true
@@ -2692,8 +2700,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "21e33e33086d3d2a9b25ccf0b8e9199e00809e0706fcb5b377ef4b35f1f4a575"
-preserve = true
+hash = "ee207a45f12ceecce549b2aff263ce00d2f620c429d525fd8b553995b456d3f5"
 
 [[files]]
 file = "resourcepacks/3-lc418-songs-only.pw.toml"

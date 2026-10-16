@@ -2684,7 +2684,7 @@
   "quest.442E7979A4536AEF.quest_desc": [
     "&7Mapa en temps real, marcar llocs, xat de veu, emotes i Discord."
   ],
-  "chapter.48B9611DC0D886EC.title": "&cSi mors",
+  "chapter.48B9611DC0D886EC.title": "&bSi mors",
   "quest.4DB9A40D131B98D7.title": "&7Si mors: la teva tomba",
   "quest.4DB9A40D131B98D7.quest_subtitle": "&7En morir apareix una làpida amb TOTES les teves coses on vas caure.",
   "quest.4DB9A40D131B98D7.quest_desc": [
@@ -2723,7 +2723,7 @@
   "quest.44142FAFEF3E3A65.quest_desc": [
     "Morir a Primazos no és la fi: les teves coses t'esperen i l'&a&lÈgida&r&7 t'ajuda si mors seguit."
   ],
-  "chapter.4DB240077E0917AE.title": "&a&lÈgida de Protecció",
+  "chapter.4DB240077E0917AE.title": "&bÈgida de Protecció",
   "quest.4A7ECEFFB1CE929A.title": "&a&lÈgida&r&7",
   "quest.4A7ECEFFB1CE929A.quest_subtitle": "Si mors diverses vegades seguides.",
   "quest.4A7ECEFFB1CE929A.quest_desc": [
@@ -2848,7 +2848,7 @@
     "",
     "I quan tot surt malament, l'&a&lÈgida&r&7 et cobreix."
   ],
-  "chapter.49245C1C892580C8.title": "&4Monstres que escalen",
+  "chapter.49245C1C892580C8.title": "&bMonstres que escalen",
   "quest.4DC647F23DED0C4B.title": "&eCom funciona",
   "quest.4DC647F23DED0C4B.quest_subtitle": "&7Cada jugador puja 1 nivell per cada 20 minuts jugats, fins al 100.",
   "quest.4DC647F23DED0C4B.quest_desc": [
@@ -2916,7 +2916,7 @@
   "quest.4F62A4268F38F40B.quest_desc": [
     "&7Com més jugues, més forts són els monstres que t'envolten."
   ],
-  "chapter.48A16BDEC86E0F14.title": "&aComoditats",
+  "chapter.48A16BDEC86E0F14.title": "&bComoditats",
   "quest.4C692BC8BC9736ED.title": "&a1. El bàsic",
   "quest.4C692BC8BC9736ED.quest_subtitle": "&7És un Vanilla Plus: es juga com el Minecraft normal, però amb més…",
   "quest.4C692BC8BC9736ED.quest_desc": [
@@ -3075,6 +3075,11 @@
   "quest.47D6CF2F6014C7EF.quest_subtitle": "&7Petits extres: acariciar els mobs (PatPat) i animacions noves…",
   "quest.47D6CF2F6014C7EF.quest_desc": [
     "&7Petits extres: acariciar els mobs (PatPat) i animacions noves per a les criatures."
+  ],
+  "quest.4A93F2D6C81E0B57.title": "&6Icy's Better Horses",
+  "quest.4A93F2D6C81E0B57.quest_subtitle": "&7Cavalls de veritat: amo, vincle, 15 races, equip propi i carros.",
+  "quest.4A93F2D6C81E0B57.quest_desc": [
+    "&7Cavalls de veritat: amo, vincle, 15 races, equip propi i carros."
   ],
   "quest.48C46EB22B06804A.title": "&6Mobs i criatures",
   "quest.48C46EB22B06804A.quest_subtitle": "&7Animals i monstres nous: Alex's Mobs, dracs, variants de…",
@@ -3503,6 +3508,85 @@
   "quest.4211EC5D1F2E8708.quest_desc": [
     "&7Molts illagers nous i perillosos."
   ],
+  "chapter.4B2E7C91D05A3F68.title": "&7› &6Cavalls",
+  "quest.41D8E3A72C5B96F0.title": "&eEl teu cavall",
+  "quest.41D8E3A72C5B96F0.quest_subtitle": "&7Doma un cavall i passa a ser teu.",
+  "quest.41D8E3A72C5B96F0.quest_desc": [
+    "&7Quan acabes de domar un cavall queda &aregistrat al teu nom&7.",
+    "&7Només tu el pots portar: si un altre jugador intenta muntar-lo com a genet principal, &cel cavall el tira&7. Sí que accepta un segon genet al darrere.",
+    "",
+    "&7Per deixar que un amic el munti sol:",
+    "&e/horse trust Nom&7 (val per a tots els teus cavalls)",
+    "&e/horse untrust Nom&7 per treure-li i &e/horse trusted&7 per veure la llista."
+  ],
+  "quest.47B05C1E9A3D2864.title": "&eXiulet i ordres",
+  "quest.47B05C1E9A3D2864.quest_subtitle": "&7Crida el teu cavall i dona-li ordres amb la roda.",
+  "quest.47B05C1E9A3D2864.quest_desc": [
+    "&e&lXiulet / Info&r&7 (botó lateral del ratolí): els cavalls propers et segueixen i els llunyans s'acosten. Muntat, obre la fitxa del cavall.",
+    "&e&lRoda d'ordres&r&7 (roda del ratolí): mira el teu cavall i tria una ordre.",
+    "&e&lGestionar cavalls&r&7 (&f]&7): llista de tots els teus cavalls.",
+    "&e&lCàrrega&r&7 (Alt dret): el cavall envesteix el que tinguis davant.",
+    "&e&lMirada lliure&r&7 (mantén Ctrl esquerre muntat): gires la càmera sense girar el cavall.",
+    "",
+    "&7Pots canviar les tecles a Opcions > Controls > Icy's Better Horses."
+  ],
+  "quest.4C6A91F3E07D5B28.title": "&eRaces i classes",
+  "quest.4C6A91F3E07D5B28.quest_subtitle": "&715 races repartides en 5 classes.",
+  "quest.4C6A91F3E07D5B28.quest_desc": [
+    "&7Hi ha &e15 races&7 amb pelatges i biomes propis, en cinc classes:",
+    "&6Curses&7 (Pura sang, Àrab...): les més ràpides.",
+    "&cGuerra&7 (Frisó, Andalús...): aguanten i envesteixen.",
+    "&8Tir&7 (Percheron, Shire, Clydesdale, Belga): forts i els únics que tiben del &ecarro gran&7.",
+    "&aPonis&7 (Islandès, Haflinger): petits i àgils.",
+    "&eWestern&7 (Mustang, Quarter, Paint, Appaloosa, Morgan): equilibrats.",
+    "",
+    "&7Si creues races diferents en surt un &dmestís&7."
+  ],
+  "quest.42F7D08B6E1C3A95.title": "&eSella millorada",
+  "quest.42F7D08B6E1C3A95.quest_subtitle": "&7La base de tot l'equip del cavall.",
+  "quest.42F7D08B6E1C3A95.quest_desc": [
+    "&7Es fa amb una &fsella&7 normal, &6coure&7 i uns &bdiamants&7.",
+    "&7Desbloqueja les &eranures d'equip&7 del cavall i, si la portes a la mà, et mostra les seves estadístiques."
+  ],
+  "quest.4D3B5E92A70C6F14.title": "&eFerradures",
+  "quest.4D3B5E92A70C6F14.quest_subtitle": "&7Petjada ferma en terreny difícil.",
+  "quest.4D3B5E92A70C6F14.quest_desc": [
+    "&7Lingots de &6coure&7 i una tira de cuir.",
+    "&7El cavall pot caminar sobre &fneu en pols&7 i rep &amenys dany de caiguda&7."
+  ],
+  "quest.48E2C6A0F5913B7D.title": "&eFarmaciola",
+  "quest.48E2C6A0F5913B7D.quest_subtitle": "&7Cura el teu cavall quan està en perill.",
+  "quest.48E2C6A0F5913B7D.quest_desc": [
+    "&7Llana, material de cura i una &dpoció de regeneració&7.",
+    "&7Quan el cavall baixa de &cla meitat de vida&7 el cura automàticament."
+  ],
+  "quest.43A9F1D75C08E26B.title": "&eArnès Aleplaneig",
+  "quest.43A9F1D75C08E26B.quest_subtitle": "&7Frena les caigudes grans.",
+  "quest.43A9F1D75C08E26B.quest_desc": [
+    "&7Es munta sobre la &esella millorada&7 i es fabrica amb &6càpsules&7 (coure i or).",
+    "&7Frena les caigudes grans i pot &aanul·lar el dany de caiguda&7.",
+    "&7Quan es gasta, recarrega'l en una &fenclusa&7 amb una altra càpsula."
+  ],
+  "quest.4F05B8C3D2A6971E.title": "&eCarro",
+  "quest.4F05B8C3D2A6971E.quest_subtitle": "&7Porta passatgers, un cofre o una arada.",
+  "quest.4F05B8C3D2A6971E.quest_desc": [
+    "&7Dues &erodes&7 (pals i taulons), una fila de taulons i dues lloses a sobre.",
+    "&7El cavall en tiba i pot portar &fpassatgers&7, un &6cofre&7 o una &aarada&7. Obre'l amb &eAlt esquerre&7.",
+    "&7El &ecarro gran&7 només el poden moure els cavalls de &8tir&7."
+  ],
+  "quest.4917D4E0B8C25A3F.title": "&eManual de l'Estable",
+  "quest.4917D4E0B8C25A3F.quest_subtitle": "&7El llibre guia del mod.",
+  "quest.4917D4E0B8C25A3F.quest_desc": [
+    "&7Ajunta qualsevol objecte de Better Horses amb un &fllibre&7 i tindràs el &6Manual de l'Estable&7.",
+    "&7Ho explica tot amb detall: races, pelatges, equip i receptes."
+  ],
+  "quest.4E61A0C7B93D2F15.title": "&6Icy's Better Horses",
+  "quest.4E61A0C7B93D2F15.quest_subtitle": "&7Els cavalls deixen de ser un transport d'usar i llençar.",
+  "quest.4E61A0C7B93D2F15.quest_desc": [
+    "&7Els cavalls passen a ser &6companys per a tota la partida&7: tenen amo, es vinculen amb tu, hi ha &e15 races&7 amb pelatges i biomes propis, equip propi i &ecarros&7.",
+    "",
+    "&7Tot el mod ve explicat al seu llibre guia, el &6Manual de l'Estable&7."
+  ],
   "chapter.459A2F7493AAA428.title": "&6Llar i creativitat",
   "quest.46D6099044CD1A79.title": "&6MrCrayfish's Furniture: Refurbished",
   "quest.46D6099044CD1A79.quest_subtitle": "&7Centenars de mobles: cuines, sofàs, làmpades, televisors,…",
@@ -3879,6 +3963,8 @@
   "chapter.454FABAB4D9ED871.title": "&d&lYoth&r&7: via ràpida",
   "image.4E21C5C5F21BE88A.title": "&lAnar a Yoth",
   "image.45FEB1981C1A8930.title": "&lTornar",
+  "image.4A7D3E91C5B20F68.title": "&lAnar al Vel",
+  "image.4F18B6C2D9A47E03.title": "&lTornar",
   "quest.4EACA8D62A63C301.title": "&dQuè és Yoth",
   "quest.4EACA8D62A63C301.quest_subtitle": "&7Un món cova &damable&7 per aprendre i arribar ràpid a la &dnetherita&7.",
   "quest.4EACA8D62A63C301.quest_desc": [

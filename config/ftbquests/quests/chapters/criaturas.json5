@@ -118,6 +118,19 @@
     },
     {
       icon: {
+        id: "icys-better-horses:upgraded_saddle",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -3.8,
+      y: 3.85,
+      shape: "square",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4A93F2D6C81E0B57",
+    },
+    {
+      icon: {
         id: "alexsmobs:spawn_egg_grizzly_bear",
         count: 1,
       },
