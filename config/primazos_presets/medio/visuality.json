@@ -9,7 +9,7 @@
   "waterCircles": {
     "density": 10,
     "radius": 16,
-    "enabled": false,
+    "enabled": true,
     "colored": true
   },
   "hitParticlesEnabled": true,
@@ -21,7 +21,7 @@
     "minecraft:chicken/visuality:feather",
     "minecraft:villager/visuality:emerald"
   ],
-  "shinyArmorEnabled": false,
+  "shinyArmorEnabled": true,
   "shinyArmorEntries": [
     "minecraft:golden_helmet",
     "minecraft:golden_chestplate",
@@ -32,7 +32,7 @@
     "minecraft:diamond_leggings",
     "minecraft:diamond_boots"
   ],
-  "shinyBlocksEnabled": false,
+  "shinyBlocksEnabled": true,
   "shinyBlockEntries": [
     "#minecraft:gold_ores",
     "#minecraft:diamond_ores",

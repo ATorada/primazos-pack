@@ -394,7 +394,7 @@ hash = "c2ee67598831880c13c1cda53ac462287120f8e428163d2df27319d430c22733"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_presets_screen.txt"
-hash = "ff1273f1e69f3d99b2e470d29b28630e4a934a94c6a852295dde07d282659f23"
+hash = "29a0f905c7ca5949047fd0b05d9ec92ca53c8d5734122570acf9d0704c5db914"
 
 [[files]]
 file = "config/fancymenu/customization/primazos_title_screen.txt"
@@ -974,7 +974,7 @@ hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
 file = "config/primazos_presets/alto/sodium-extra-options.json"
-hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
+hash = "54fb0e993603db603ebb1ae7512906d206554076067cd8f79987d207566c7ad1"
 
 [[files]]
 file = "config/primazos_presets/alto/sodium-options.json"
@@ -1026,7 +1026,7 @@ hash = "013036d63c2044814e583dc74a2528a74aac20f79f017b5e2ca6c692d114764e"
 
 [[files]]
 file = "config/primazos_presets/basico/particle_effects.json5"
-hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
+hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
 file = "config/primazos_presets/basico/particlerain_particles.json"
@@ -1034,7 +1034,7 @@ hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
 file = "config/primazos_presets/basico/sodium-extra-options.json"
-hash = "8682e6cf5b7c5832c19a7de8cf2b095fbc1b966dd2ac328f88e55ec51bc150ae"
+hash = "f16b376ecb3e17d3d06747abaf4129b6e81b62ad0f2872709749426a4c13a6ff"
 
 [[files]]
 file = "config/primazos_presets/basico/sodium-options.json"
@@ -1046,7 +1046,7 @@ hash = "c22e489fa38a0c00272f6560f71614e2d4100a435593dd30ae39016b233e025c"
 
 [[files]]
 file = "config/primazos_presets/basico/visuality.json"
-hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
+hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
 
 [[files]]
 file = "config/primazos_presets/basico/voxy-config.json"
@@ -1086,7 +1086,7 @@ hash = "7543bfadb43d28226da32ddc0541bc55f6b68fe613e41dabc1bfc890c9723226"
 
 [[files]]
 file = "config/primazos_presets/medio/particle_effects.json5"
-hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
+hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
 file = "config/primazos_presets/medio/particlerain_particles.json"
@@ -1094,7 +1094,7 @@ hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
 file = "config/primazos_presets/medio/sodium-extra-options.json"
-hash = "9541eabb70a1adef7725344543e2578dd8d97ee7871c99bc9984f5adff7a84f9"
+hash = "2357ec878d078158103c6016505cb26930e51cdb9691c989e03ebd82050015df"
 
 [[files]]
 file = "config/primazos_presets/medio/sodium-options.json"
@@ -1106,7 +1106,7 @@ hash = "ae7238a452441374365d6f3b054646ac0e4cd97229fd68258e075075d46b365c"
 
 [[files]]
 file = "config/primazos_presets/medio/visuality.json"
-hash = "0b1501485a1de26efe337a00881cee9434ecc6efde674afeafdb7d5d264390e4"
+hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
 
 [[files]]
 file = "config/primazos_presets/medio/voxy-config.json"
@@ -1154,7 +1154,7 @@ hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/sodium-extra-options.json"
-hash = "82fe25547e53588acf24054444e8397382b24b097f90e589a61dfe00a489d39a"
+hash = "54fb0e993603db603ebb1ae7512906d206554076067cd8f79987d207566c7ad1"
 
 [[files]]
 file = "config/primazos_presets/muy_alto/sodium-options.json"
@@ -1194,7 +1194,7 @@ hash = "6c1c9bda14e287ec5267c35b2145d5d4b5379502035cd77dc4d5070a1ff3f3fb"
 
 [[files]]
 file = "config/primazos_presets/patata/iris.properties"
-hash = "a3a759d9ed35d16478bf282a564e427626cb00a222d90f6ea8ae5d233cc2144f"
+hash = "fcb8a5bdf82bf0f895936a00b2101e83c8e41fd110ac70ebdd346e16f9fede26"
 
 [[files]]
 file = "config/primazos_presets/patata/lss-client-config.yaml"
@@ -1206,7 +1206,7 @@ hash = "6dc3962b00d0488a9c538e733b9126a209203caa923c8a79620429168c0c7d9b"
 
 [[files]]
 file = "config/primazos_presets/patata/particle_effects.json5"
-hash = "06f843f677594234e57fca8de9889ed6ff3dce5e785e3a5e6258d06d8063ad4d"
+hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
 file = "config/primazos_presets/patata/particlerain_particles.json"
@@ -1214,7 +1214,7 @@ hash = "0e8f2ed010da8287d6320e57a8d1643cd622ed9361a4c0b999e1a7d9c48118d5"
 
 [[files]]
 file = "config/primazos_presets/patata/sodium-extra-options.json"
-hash = "e3cf0f591e870a54bdade3720c016c3e825f71815609695935b8434072fc6cf9"
+hash = "c1194a27c7b5cb10be181558200ab00d2bc26b0e14d0db56f53eafb419b572da"
 
 [[files]]
 file = "config/primazos_presets/patata/sodium-options.json"
@@ -1226,7 +1226,7 @@ hash = "c22e489fa38a0c00272f6560f71614e2d4100a435593dd30ae39016b233e025c"
 
 [[files]]
 file = "config/primazos_presets/patata/visuality.json"
-hash = "83f0af539cc72c17d3f89aa0bd123311ece3942210cf90b150f3a90128ebd277"
+hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
 
 [[files]]
 file = "config/primazos_presets/patata/voxy-config.json"
@@ -2400,7 +2400,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "c9e0652f34c7dd9d5863c70344e5c5c475930d4d8d7ba0740095741040e00855"
+hash = "0a30902b3f94285bd72a29bef38b6eef366717034168e212cd15f615b193ceeb"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"
@@ -2862,7 +2862,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos.zip"
-hash = "cdc0fc29e723c09a61a467e85d1e23c2b22b7b7ed268861d61c0829ac2a4ddd7"
+hash = "93b36d783290df252b1f11b0d5a71b7bd55f46e52045857683ee95d96dfa518b"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"

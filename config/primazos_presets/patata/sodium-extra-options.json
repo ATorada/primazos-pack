@@ -10,16 +10,16 @@
   },
   "particle_settings": {
     "particles": true,
-    "rain_splash": false,
-    "block_break": false,
-    "block_breaking": false,
+    "rain_splash": true,
+    "block_break": true,
+    "block_breaking": true,
     "other": {
-      "minecraft:noxious_gas_cloud": false,
-      "subtle_effects:large_dust_cloud": false,
-      "subtle_effects:potion_cloud": false,
-      "subtle_effects:potion_poof_cloud": false,
-      "subtle_effects:small_dust_cloud": false,
-      "subtle_effects:waterfall_cloud": false
+      "minecraft:noxious_gas_cloud": true,
+      "subtle_effects:large_dust_cloud": true,
+      "subtle_effects:potion_cloud": true,
+      "subtle_effects:potion_poof_cloud": true,
+      "subtle_effects:small_dust_cloud": true,
+      "subtle_effects:waterfall_cloud": true
     }
   },
   "detail_settings": {

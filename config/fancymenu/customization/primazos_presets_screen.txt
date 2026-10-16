@@ -64,7 +64,7 @@ element {
   [executable_action_instance:f2cd7a54-6a48-423a-85d4-c7a19b585812-1791400000000][action_type:write_file_in_game_dir] = config/primazos_presets/pending.txt|||patata|||false
   [executable_action_instance:a5042b9d-b1bf-45b5-abe3-f3ce71a7970d-1791400000000][action_type:edit_minecraft_option] = renderDistance:4
   [executable_action_instance:172165d5-12a3-4b6e-992c-ad91c4cd1d5d-1791400000000][action_type:edit_minecraft_option] = simulationDistance:5
-  [executable_action_instance:46400e37-a69e-4e4b-9809-916fd7dcb4dc-1791400000000][action_type:edit_minecraft_option] = particles:2
+  [executable_action_instance:46400e37-a69e-4e4b-9809-916fd7dcb4dc-1791400000000][action_type:edit_minecraft_option] = particles:0
   [executable_action_instance:7e23f3b4-7df4-4762-9d45-254dfb617418-1791400000000][action_type:edit_minecraft_option] = renderClouds:"false"
   [executable_action_instance:d4564baf-116c-4f9e-9e1d-ad2db7a3e6e7-1791400000000][action_type:edit_minecraft_option] = ao:false
   [executable_action_instance:9a247173-8b6a-4c2f-bf66-f4f3ee90f46a-1791400000000][action_type:edit_minecraft_option] = entityShadows:false
@@ -151,7 +151,7 @@ element {
   [executable_action_instance:a4d76d0f-1808-4247-a100-47893f4f7c2a-1791400000000][action_type:write_file_in_game_dir] = config/primazos_presets/pending.txt|||basico|||false
   [executable_action_instance:58b3fb72-9820-43e0-8421-f269d6c91cd9-1791400000000][action_type:edit_minecraft_option] = renderDistance:8
   [executable_action_instance:bf7776d3-9168-45bb-8b1a-2bed23949b2f-1791400000000][action_type:edit_minecraft_option] = simulationDistance:6
-  [executable_action_instance:e5d24804-ddbd-4e6c-a9a6-7df748cfe116-1791400000000][action_type:edit_minecraft_option] = particles:1
+  [executable_action_instance:e5d24804-ddbd-4e6c-a9a6-7df748cfe116-1791400000000][action_type:edit_minecraft_option] = particles:0
   [executable_action_instance:51d6c408-4f09-4df5-98cc-8dd7d352aa93-1791400000000][action_type:edit_minecraft_option] = renderClouds:"false"
   [executable_action_instance:8ef973d0-cd8e-44d0-a723-8dc01093ada9-1791400000000][action_type:edit_minecraft_option] = ao:false
   [executable_action_instance:c74c1809-2d72-4e37-ba4e-32d48b2f04da-1791400000000][action_type:edit_minecraft_option] = entityShadows:false
@@ -237,7 +237,7 @@ element {
   [executable_action_instance:bb0fac6f-fac7-4e52-ba8e-69247969eb08-1791400000000][action_type:write_file_in_game_dir] = config/primazos_presets/pending.txt|||medio|||false
   [executable_action_instance:5d106725-6820-4c2d-9bbf-45b61b305dd0-1791400000000][action_type:edit_minecraft_option] = renderDistance:12
   [executable_action_instance:de6f1c8c-2404-436b-a3f4-6f999908b4d4-1791400000000][action_type:edit_minecraft_option] = simulationDistance:10
-  [executable_action_instance:cd0543cd-29f9-41a9-8d98-b8706784f269-1791400000000][action_type:edit_minecraft_option] = particles:1
+  [executable_action_instance:cd0543cd-29f9-41a9-8d98-b8706784f269-1791400000000][action_type:edit_minecraft_option] = particles:0
   [executable_action_instance:c74e78e3-12e2-4503-88b3-0ad65c901cab-1791400000000][action_type:edit_minecraft_option] = renderClouds:"fast"
   [executable_action_instance:15c424a1-47ec-4677-9fe1-85a88b93d62a-1791400000000][action_type:edit_minecraft_option] = ao:true
   [executable_action_instance:1b4941c2-9836-4e9c-b7ff-b411e849dde4-1791400000000][action_type:edit_minecraft_option] = entityShadows:true
