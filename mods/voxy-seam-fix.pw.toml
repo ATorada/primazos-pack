@@ -1,0 +1,13 @@
+name = "Voxy Seam Fix"
+filename = "voxy-seam-fix-0.2.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "594d52c57b2488df3830fd8d59348b13eb4fbd6f44f23f846bfde2b7c555eadcf51e7ad2280ae757e32087be9c4bfcb3831bf84f0666e7b263864f1c1e4e1375"
+url = "https://cdn.modrinth.com/data/cjH8wqHu/versions/KVEJ8k6h/voxy-seam-fix-0.2.0.jar"
+
+[update]
+[update.modrinth]
+mod-id = "cjH8wqHu"
+version = "KVEJ8k6h"
