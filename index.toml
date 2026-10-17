@@ -2020,10 +2020,6 @@ hash = "c2b672d37ae3ca82f3fcd5d972eff69ab30061638cc01b77622eb8572e3f171d"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseloadingscreen-2.3.6.jar"
-hash = "da083b0d3a411e3feb11b54d8fdc910492d8ac599b9501dc2c73b8b1d5960272"
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "339ea7a8fc6a0017b6f891a1b80d532b66624a67011e6110e00acf208d9eec23"
 metafile = true
