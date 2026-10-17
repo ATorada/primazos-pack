@@ -643,7 +643,7 @@
         {
           id: "4F48187BCE134149",
           type: "xp",
-          xp: 800,
+          xp: 6000,
         },
         {
           id: "4B9952A56061817E",
@@ -653,7 +653,7 @@
             id: "minecraft:experience_bottle",
             count: 1,
           },
-          count: 16,
+          count: 32,
         },
         {
           id: "4E9CAE8779E504CC",
@@ -663,7 +663,37 @@
             id: "minecraft:diamond",
             count: 1,
           },
-          count: 6,
+          count: 32,
+        },
+        {
+          id: "4D1A5E0B7C3F9A41",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_ingot",
+            count: 1,
+          },
+          count: 3,
+        },
+        {
+          id: "4D1A5E0B7C3F9A42",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:enchanted_golden_apple",
+            count: 1,
+          },
+          count: 3,
+        },
+        {
+          id: "4D1A5E0B7C3F9A43",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:totem_of_undying",
+            count: 1,
+          },
+          count: 2,
         },
       ],
     },

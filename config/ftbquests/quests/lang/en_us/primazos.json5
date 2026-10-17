@@ -4,6 +4,7 @@
   "chapter_group.4BB1469C9A1D849B.title": "&b&lThe Server",
   "chapter_group.458EAD3B4BE27CCD.title": "&6&lEncyclopedia",
   "chapter.49A60DE5C0DDB051.title": "&6&l★ Start here",
+  "chapter.4D1A5E0B7C3F9A21.title": "&a&lDaily",
   "quest.4227C911EB0F1706.title": "&eHow to read this book",
   "quest.4227C911EB0F1706.quest_subtitle": "What each shape and each colour means.",
   "quest.4227C911EB0F1706.quest_desc": [
@@ -303,11 +304,19 @@
   "quest.4EE737AE7B6EB60A.title": "&3&lWarden",
   "quest.4EE737AE7B6EB60A.quest_subtitle": "Kill the Warden. Yes, really.",
   "quest.4EE737AE7B6EB60A.quest_desc": [
-    "&7500 health and hits of 45 on hard. Better not to fight: move sneaking and make no noise.",
+    "&7Every Warden now spawns with company: a &6Warden Dorado&7 (1000 health) and two small Wardens (250 health). Better not to fight: move sneaking and make no noise.",
     "",
     "Unlocks when you enter an &dancient city&7 or reach &dStealth 100&7.",
     "",
     "&6A worthy reward&7: diamonds, lots of experience and totems."
+  ],
+  "task.4D1A5E0B7C3F9A32.title": "Kill the Warden Dorado",
+  "quest.4D1A5E0B7C3F9A31.title": "&6&l¿Un Gitano?",
+  "quest.4D1A5E0B7C3F9A31.quest_subtitle": "Kill the Warden Dorado.",
+  "quest.4D1A5E0B7C3F9A31.quest_desc": [
+    "&7The &6Warden Dorado&7 has 1000 health and hits three times as hard. Its two escorts get faster next to it.",
+    "",
+    "&6Reward&7: a block of netherite, on top of everything from the previous quest."
   ],
   "quest.4B6D70BA9202F2B9.title": "&dBefore going in",
   "quest.4B6D70BA9202F2B9.quest_subtitle": "&7Golden food, Healing and Fire Resistance potions, a totem and…",
@@ -568,7 +577,7 @@
   "quest.442690B428D7A993.quest_subtitle": "&7Where: Overworld",
   "quest.442690B428D7A993.quest_desc": [
     "&bWhere: Overworld",
-    "&fMobs: Warden (500 health, hits for 45)",
+    "&fMobs: Warden Dorado (1000 health, hits for 135) + 2 Wardens (250 health)",
     "",
     "&7No spawners: the danger is the Warden if you make noise. Sneak around and don't break sensors."
   ],
@@ -1175,9 +1184,13 @@
   ],
   "task.42F8459F1C13590A.title": "Kill the Ender Dragon",
   "quest.47C0A5A79B1553E5.title": "&5&lThe Ender Dragon",
-  "quest.47C0A5A79B1553E5.quest_subtitle": "Kill the Ender Dragon.",
+  "quest.47C0A5A79B1553E5.quest_subtitle": "Kill the Ender Dragon. The more of you there are, the more health it has.",
   "quest.47C0A5A79B1553E5.quest_desc": [
-    "Bring a bow, Healing and Slow Falling potions."
+    "Bring a bow, healing potions and slow falling potions.",
+    "",
+    "&7The dragon scales with the group: more players, more health. It also hits harder during the fight.",
+    "",
+    "&6A worthy reward&7: lots of experience, diamonds, netherite and enchanted golden apples."
   ],
   "task.4B0AD7017837470E.title": "Enter an End city",
   "quest.412E8FA9D2C3DCA1.title": "&dAn End city",

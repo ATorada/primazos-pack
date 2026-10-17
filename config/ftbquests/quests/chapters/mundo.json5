@@ -839,6 +839,86 @@
         },
       ],
     },
+    {
+      icon: {
+        id: "minecraft:netherite_block",
+        count: 1,
+      },
+      x: 3.8,
+      y: 12.0,
+      shape: "diamond",
+      hide_dependency_lines: false,
+      dependencies: [
+        "4EE737AE7B6EB60A",
+      ],
+      size: 1.7,
+      id: "4D1A5E0B7C3F9A31",
+      tasks: [
+        {
+          id: "4D1A5E0B7C3F9A32",
+          type: "kill",
+          disable_toast: true,
+          entity: "minecraft:warden",
+          value: 1,
+          custom_name: "Warden Dorado",
+        },
+      ],
+      rewards: [
+        {
+          id: "4D1A5E0B7C3F9A33",
+          type: "xp",
+          xp: 3000,
+        },
+        {
+          id: "4D1A5E0B7C3F9A34",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:netherite_block",
+            count: 1,
+          },
+        },
+        {
+          id: "4D1A5E0B7C3F9A35",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:diamond",
+            count: 1,
+          },
+          count: 24,
+        },
+        {
+          id: "4D1A5E0B7C3F9A36",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:totem_of_undying",
+            count: 1,
+          },
+          count: 2,
+        },
+        {
+          id: "4D1A5E0B7C3F9A37",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:echo_shard",
+            count: 1,
+          },
+          count: 8,
+        },
+        {
+          id: "4D1A5E0B7C3F9A38",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:enchanted_golden_apple",
+            count: 1,
+          },
+        },
+      ],
+    },
   ],
   quest_links: [
   ],

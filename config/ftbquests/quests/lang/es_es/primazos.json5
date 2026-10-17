@@ -4,6 +4,7 @@
   "chapter_group.4BB1469C9A1D849B.title": "&b&lEl Servidor",
   "chapter_group.458EAD3B4BE27CCD.title": "&6&lEnciclopedia",
   "chapter.49A60DE5C0DDB051.title": "&6&l★ Empieza aquí",
+  "chapter.4D1A5E0B7C3F9A21.title": "&a&lDiarias",
   "quest.4227C911EB0F1706.title": "&eCómo leer este libro",
   "quest.4227C911EB0F1706.quest_subtitle": "Qué significa cada forma y cada color.",
   "quest.4227C911EB0F1706.quest_desc": [
@@ -303,11 +304,19 @@
   "quest.4EE737AE7B6EB60A.title": "&3&lWarden",
   "quest.4EE737AE7B6EB60A.quest_subtitle": "Mata al Warden. Sí, de verdad.",
   "quest.4EE737AE7B6EB60A.quest_desc": [
-    "&7500 de vida y golpes de 45 en difícil. Mejor no luchar: muévete agachado y no hagas ruido.",
+    "&7Cada Warden aparece con compañía: un &6Warden Dorado&7 (1000 de vida) y dos Wardens pequeños (250 de vida). Mejor no luchar: muévete agachado y no hagas ruido.",
     "",
     "Se desbloquea al entrar en una &dciudad antigua&7 o conseguir &dSigilo 100&7.",
     "",
     "&6Recompensa a la altura&7: diamantes, mucha experiencia y tótems."
+  ],
+  "task.4D1A5E0B7C3F9A32.title": "Matar al Warden Dorado",
+  "quest.4D1A5E0B7C3F9A31.title": "&6&l¿Un Gitano?",
+  "quest.4D1A5E0B7C3F9A31.quest_subtitle": "Mata al Warden Dorado.",
+  "quest.4D1A5E0B7C3F9A31.quest_desc": [
+    "&7El &6Warden Dorado&7 tiene 1000 de vida y golpea el triple de fuerte. Sus dos escoltas se vuelven más rápidos a su lado.",
+    "",
+    "&6Recompensa&7: un bloque de netherita, además de todo lo de la misión anterior."
   ],
   "quest.4B6D70BA9202F2B9.title": "&dAntes de entrar",
   "quest.4B6D70BA9202F2B9.quest_subtitle": "&7Comida dorada, pociones de curación y resistencia al fuego, tótem y…",
@@ -568,7 +577,7 @@
   "quest.442690B428D7A993.quest_subtitle": "&7Dónde: Mundo normal",
   "quest.442690B428D7A993.quest_desc": [
     "&bDónde: Mundo normal",
-    "&fMobs: Warden (500 de vida, golpes de 45)",
+    "&fMobs: Warden Dorado (1000 de vida, golpes de 135) + 2 Wardens (250 de vida)",
     "",
     "&7No hay spawners: el peligro es el Warden si haces ruido. Muévete agachado y no rompas sensores."
   ],
@@ -1175,9 +1184,13 @@
   ],
   "task.42F8459F1C13590A.title": "Matar a la dragona",
   "quest.47C0A5A79B1553E5.title": "&5&lLa dragona",
-  "quest.47C0A5A79B1553E5.quest_subtitle": "Mata a la dragona del End.",
+  "quest.47C0A5A79B1553E5.quest_subtitle": "Mata a la dragona del End. Cuantos más seáis, más vida tiene.",
   "quest.47C0A5A79B1553E5.quest_desc": [
-    "Lleva arco, pociones de curación y de caída lenta."
+    "Lleva arco, pociones de curación y de caída lenta.",
+    "",
+    "&7La dragona escala con el grupo: más jugadores, más vida. Y en combate hace más daño.",
+    "",
+    "&6Recompensa a la altura&7: mucha experiencia, diamantes, netherita y manzanas encantadas."
   ],
   "task.4B0AD7017837470E.title": "Entrar en una ciudad del End",
   "quest.412E8FA9D2C3DCA1.title": "&dUna ciudad del End",

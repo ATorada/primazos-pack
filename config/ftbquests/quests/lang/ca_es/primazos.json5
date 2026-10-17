@@ -4,6 +4,7 @@
   "chapter_group.4BB1469C9A1D849B.title": "&b&lEl Servidor",
   "chapter_group.458EAD3B4BE27CCD.title": "&6&lEnciclopèdia",
   "chapter.49A60DE5C0DDB051.title": "&6&l★ Comença aquí",
+  "chapter.4D1A5E0B7C3F9A21.title": "&a&lDiàries",
   "quest.4227C911EB0F1706.title": "&eCom llegir aquest llibre",
   "quest.4227C911EB0F1706.quest_subtitle": "Què significa cada forma i cada color.",
   "quest.4227C911EB0F1706.quest_desc": [
@@ -303,11 +304,19 @@
   "quest.4EE737AE7B6EB60A.title": "&3&lWarden",
   "quest.4EE737AE7B6EB60A.quest_subtitle": "Mata el Warden. Sí, de debò.",
   "quest.4EE737AE7B6EB60A.quest_desc": [
-    "&7500 de vida i cops de 45 en difícil. Millor no lluitar: mou-te ajupit i no facis soroll.",
+    "&7Cada Warden apareix amb companyia: un &6Warden Dorado&7 (1000 de vida) i dos Wardens petits (250 de vida). Millor no lluitar: mou-te ajupit i no facis soroll.",
     "",
     "Es desbloqueja en entrar en una &dciutat antiga&7 o aconseguir &dSigil 100&7.",
     "",
     "&6Recompensa a l'altura&7: diamants, molta experiència i tòtems."
+  ],
+  "task.4D1A5E0B7C3F9A32.title": "Matar el Warden Dorado",
+  "quest.4D1A5E0B7C3F9A31.title": "&6&l¿Un Gitano?",
+  "quest.4D1A5E0B7C3F9A31.quest_subtitle": "Mata el Warden Dorado.",
+  "quest.4D1A5E0B7C3F9A31.quest_desc": [
+    "&7El &6Warden Dorado&7 té 1000 de vida i colpeja tres cops més fort. Els seus dos escortes es tornen més ràpids al seu costat.",
+    "",
+    "&6Recompensa&7: un bloc de netherita, a més de tot el de la missió anterior."
   ],
   "quest.4B6D70BA9202F2B9.title": "&dAbans d'entrar",
   "quest.4B6D70BA9202F2B9.quest_subtitle": "&7Menjar daurat, pocions de curació i resistència al foc, tòtem i…",
@@ -568,7 +577,7 @@
   "quest.442690B428D7A993.quest_subtitle": "&7On: Món normal",
   "quest.442690B428D7A993.quest_desc": [
     "&bOn: Món normal",
-    "&fMobs: Warden (500 de vida, cops de 45)",
+    "&fMobs: Warden Dorado (1000 de vida, cops de 135) + 2 Wardens (250 de vida)",
     "",
     "&7No hi ha generadors: el perill és el Warden si fas soroll. Mou-te ajupit i no trenquis sensors."
   ],
@@ -1175,9 +1184,13 @@
   ],
   "task.42F8459F1C13590A.title": "Matar la dragona",
   "quest.47C0A5A79B1553E5.title": "&5&lLa dragona",
-  "quest.47C0A5A79B1553E5.quest_subtitle": "Mata la dragona de l'End.",
+  "quest.47C0A5A79B1553E5.quest_subtitle": "Mata la dragona de l'End. Com més sigueu, més vida té.",
   "quest.47C0A5A79B1553E5.quest_desc": [
-    "Porta arc, pocions de curació i de caiguda lenta."
+    "Porta arc, pocions de curació i de caiguda lenta.",
+    "",
+    "&7La dragona escala amb el grup: més jugadors, més vida. I en combat fa més mal.",
+    "",
+    "&6Recompensa a l'altura&7: molta experiència, diamants, netherita i pomes encantades."
   ],
   "task.4B0AD7017837470E.title": "Entrar en una ciutat de l'End",
   "quest.412E8FA9D2C3DCA1.title": "&dUna ciutat de l'End",
