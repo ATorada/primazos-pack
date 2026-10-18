@@ -1,5 +1,6 @@
 {
   "chapter_group.41FFC5E97CCD6D87.title": "&a&lAventura",
+  "chapter_group.4D1A5E0B7C3F9A51.title": "&7&lMazmorras",
   "chapter_group.4B9BB1154CE5E86A.title": "&f&lEquipo",
   "chapter_group.4BB1469C9A1D849B.title": "&b&lEl Servidor",
   "chapter_group.458EAD3B4BE27CCD.title": "&6&lEnciclopedia",
@@ -2791,6 +2792,20 @@
   "quest.4480F963C9234B4A.quest_subtitle": "25% de una plantilla extra.",
   "quest.4480F963C9234B4A.quest_desc": [
     "Al duplicar una plantilla de mejora de netherita, hay un &d25%&7 de que el &e&lSol&r&7 te dé una más."
+  ],
+  "quest.4A1C7E5D90B3F2A6.title": "&fHierro Bendecido",
+  "quest.4A1C7E5D90B3F2A6.quest_subtitle": "5% de un lingote extra.",
+  "quest.4A1C7E5D90B3F2A6.quest_desc": [
+    "Al fundir hierro, cada lingote tiene un &d5%&7 de que el &e&lSol&r&7 te dé otro más.",
+    "",
+    "&8Sacándolo tú del horno: con tolvas no cuenta."
+  ],
+  "quest.4C2D8F6E01A4B3B7.title": "&6Oro Bendecido",
+  "quest.4C2D8F6E01A4B3B7.quest_subtitle": "10% de un lingote extra.",
+  "quest.4C2D8F6E01A4B3B7.quest_desc": [
+    "Al fundir oro, cada lingote tiene un &d10%&7 de que el &e&lSol&r&7 te dé otro más.",
+    "",
+    "&8Sacándolo tú del horno: con tolvas no cuenta."
   ],
   "quest.40D481890F723CF4.title": "&dBrebaje Roto",
   "quest.40D481890F723CF4.quest_subtitle": "25% de romper la poción de una bruja.",

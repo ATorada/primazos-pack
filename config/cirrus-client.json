@@ -1,7 +1,7 @@
 {
   "clouds": {
     "enabled": true,
-    "shaderPackWarningsEnabled": true,
+    "shaderPackWarningsEnabled": false,
     "distantHorizonsCompatibility": true,
     "syncCloudDistanceWithDistantHorizons": false,
     "translucentLayerOverlap": true,

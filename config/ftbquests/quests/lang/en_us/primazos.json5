@@ -1,5 +1,6 @@
 {
   "chapter_group.41FFC5E97CCD6D87.title": "&a&lAdventure",
+  "chapter_group.4D1A5E0B7C3F9A51.title": "&7&lDungeons",
   "chapter_group.4B9BB1154CE5E86A.title": "&f&lGear",
   "chapter_group.4BB1469C9A1D849B.title": "&b&lThe Server",
   "chapter_group.458EAD3B4BE27CCD.title": "&6&lEncyclopedia",
@@ -2791,6 +2792,20 @@
   "quest.4480F963C9234B4A.quest_subtitle": "25% chance of an extra template.",
   "quest.4480F963C9234B4A.quest_desc": [
     "When duplicating a netherite upgrade template, there's a &d25%&7 chance the &e&lSun&r&7 gives you one more."
+  ],
+  "quest.4A1C7E5D90B3F2A6.title": "&fBlessed Iron",
+  "quest.4A1C7E5D90B3F2A6.quest_subtitle": "5% chance of an extra ingot.",
+  "quest.4A1C7E5D90B3F2A6.quest_desc": [
+    "When smelting iron, each ingot has a &d5%&7 chance the &e&lSun&r&7 gives you one more.",
+    "",
+    "&8Taking it from the furnace yourself: hoppers don't count."
+  ],
+  "quest.4C2D8F6E01A4B3B7.title": "&6Blessed Gold",
+  "quest.4C2D8F6E01A4B3B7.quest_subtitle": "10% chance of an extra ingot.",
+  "quest.4C2D8F6E01A4B3B7.quest_desc": [
+    "When smelting gold, each ingot has a &d10%&7 chance the &e&lSun&r&7 gives you one more.",
+    "",
+    "&8Taking it from the furnace yourself: hoppers don't count."
   ],
   "quest.40D481890F723CF4.title": "&dBroken Brew",
   "quest.40D481890F723CF4.quest_subtitle": "25% chance to break a witch's potion.",

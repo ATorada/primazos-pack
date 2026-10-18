@@ -8,6 +8,13 @@
       },
     },
     {
+      id: "4D1A5E0B7C3F9A51",
+      icon: {
+        id: "minecraft:spawner",
+        count: 1,
+      },
+    },
+    {
       id: "4B9BB1154CE5E86A",
       icon: {
         id: "minecraft:netherite_chestplate",

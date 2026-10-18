@@ -118,6 +118,32 @@
     },
     {
       icon: {
+        id: "minecraft:iron_ingot",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -7.5,
+      y: 5.5,
+      shape: "hexagon",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4A1C7E5D90B3F2A6",
+    },
+    {
+      icon: {
+        id: "minecraft:gold_ingot",
+        count: 1,
+      },
+      disable_toast: true,
+      x: -6.0,
+      y: 5.5,
+      shape: "hexagon",
+      hide_dependency_lines: false,
+      size: 1.0,
+      id: "4C2D8F6E01A4B3B7",
+    },
+    {
+      icon: {
         id: "minecraft:splash_potion",
         count: 1,
       },
@@ -238,6 +264,8 @@
         "4C84E15B6B2634F6",
         "4B16A06875A5D051",
         "4480F963C9234B4A",
+        "4A1C7E5D90B3F2A6",
+        "4C2D8F6E01A4B3B7",
       ],
       size: 1.6,
       optional: true,

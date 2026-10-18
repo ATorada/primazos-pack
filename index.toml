@@ -166,7 +166,7 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/cirrus-client.json"
-hash = "27913077a8452706481ed2612402d02e56e5af05d380eac642de6c570ae25d25"
+hash = "02c9bd2f61762f502a2823d522df211dcfca79d0efc29490191382b0049417ad"
 
 [[files]]
 file = "config/continuity.json"
@@ -486,7 +486,7 @@ hash = "30595b622385696b71e4aedefc559c95fb2a42e6272b485c0b581c1b0f0cd4ce"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.json5"
-hash = "a622314cbbda0c347115099b464251ae86d30ec8742c67d19ad18ef229a0b4fd"
+hash = "16821a675ee644790cc6519da456674b8c6738c574ae4f7196c8b44fd420bfda"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/alexsmobs.json5"
@@ -510,7 +510,7 @@ hash = "9ea02346764eb3860b017ebf33f7bfc0e195dfed3289f039ac279b16f30f892b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/asaltos.json5"
-hash = "6e62ddbf8a25f2490b925b9c45e3457c5d8dd3914f2336626d1f578eec552a24"
+hash = "9ebbd47a496e0d6f17064c8417425558e2385b8aab7fa371cbb2b1fa3ec44ca2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/biomas.json5"
@@ -542,7 +542,7 @@ hash = "4a655449896d5dccce756723766a66772eea8b30e3a8eaff9768f71f7aef4a88"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/egida.json5"
-hash = "50e5e019d86e06dadcd22527c861f4b049a7ded0e54e4fdb59886ef661fc10c1"
+hash = "e688259a463ee3e8550fdae3a11de5ee358f392c8b73d549e9cf5ba1dcf33509"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/empieza_aqui.json5"
@@ -554,7 +554,7 @@ hash = "0c2cee2cf66d0f7708804fb9fb3dcf1dc1a025f4d36948740321072c7ac9bd61"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/end.json5"
-hash = "1a2b5fce7fa3a620609a164ffe1ff4c05baa552f5c3192393a08dc4ec74aa7d6"
+hash = "d92431a80fa39af08096cb1fc41f9d2ab70fd48b535c38042906eea78d9ffafe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/escalado.json5"
@@ -578,19 +578,19 @@ hash = "97ac2455f98a8037bf0e1f335a5c4a33f1e982d32b091d9e6d37ba9ed730840b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maz_dificil.json5"
-hash = "ecd3992450c931b40f9cf7c1dd0f72d4da1a12e58b86f61ae17a7ee8aaebcf3b"
+hash = "88d2d6bf8d87c7cf76f8459eba9eef8ca6e59a889b5bf105b867163672503fd0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maz_facil.json5"
-hash = "f2dd1adc99c113c48dd80d590abfa626b4283ba54a13a368ef48732b1fbb0b81"
+hash = "6aa1d980e28273a8acaeada8f3384cbab1c00caf158d159a71322543421b5bc5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maz_media.json5"
-hash = "349121f68f3cc5b95c93466945907b1d7ae7dbb3fb57bab98077e3333365d2c3"
+hash = "07610ac6e3c30cc72b62e4410392750272c40757cd3303ba62ed8756c2b7f40a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maz_muy.json5"
-hash = "2fb86f538b4e27a518af5fbf5c9782e36abfdcc0ea5ef0be10ea415136e59788"
+hash = "a2785ce81648fba0957810190c8f4f2b5d992c019ecdfb10cac5b43c5f8108d2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mochilas.json5"
@@ -606,7 +606,7 @@ hash = "45c8f792878885618a7d1408a9feaad0cbb670df27e1e190f7cbdda05d705091"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/nether.json5"
-hash = "2cde80de69da610dd8ab337a6e3d8db4692945d30ce5565b1a98478f03f989f5"
+hash = "4fe9a0aadb0455698ddb598df1409f24b813697c5cbb3eb1563ce3755d5d6341"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/netherita_avanzada.json5"
@@ -630,7 +630,7 @@ hash = "4d583b7ddd3786e0d04a1d973388372fdf788e62a417093cdcaf515fd2746809"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/sift.json5"
-hash = "6edf7192882d5d73060dcaa47a4eeb93ebb5bbcf0b2af5fb96ca6b9d4ba81bd6"
+hash = "6b3788ecb02c9775f23fa8c8d38b8126321d5ec1fb179eb58a5b4b7524014651"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/uselessreptile.json5"
@@ -638,7 +638,7 @@ hash = "b5f4eaf8d56ea3bad72ebb4233cf84d4c318b9ac67dc8e0807ba510183a187ff"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/velo.json5"
-hash = "87af853be48578bba11d52a0abde0a314a07856d00e8a14db40dbdc6f4c0cbfb"
+hash = "689176e11d3aa90c28c5b2b45ee81e00fcba0af23b4fc80cbd0aca9b94c3138a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/visual.json5"
@@ -654,15 +654,15 @@ hash = "b3ecacf2a11397bb4712f51fcc86c6c65e5c79600249f59357285d23a147db91"
 
 [[files]]
 file = "config/ftbquests/quests/lang/ca_es/primazos.json5"
-hash = "4ed066cad3953c8debbd6ad0030abec851d223260917c30604ee00e05e6478e9"
+hash = "b1f71b54b7404c8c6160d7ce8c7d6ac199c933388d57fe603a267b79cc9730a7"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/primazos.json5"
-hash = "9b5fc321895d497214011536f16a4a5d4f342bfe55bed908cbda82f464efb2fc"
+hash = "4abc4cb3ed5fa52aca40c268bd7116e5d43b543b83ab2b440887809c0ddce671"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/primazos.json5"
-hash = "df4ae2bad2a8b21c1c7185b14cd64ea68e5af639124a3083d14e4098f39dae27"
+hash = "ec3cce6f75054878f24970c4abed17f3cfb1b4beeb379a5be8d60c02d351ba76"
 
 [[files]]
 file = "config/fullscreenfix.properties"
@@ -2452,7 +2452,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "2502fd96ef14390f204470380d05397447b4bfdcd2271d3641684204303d04c7"
+hash = "8173674b4844b459b79f96921c83f8526d6ba76ee986bd5d178bc83799e952cd"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"

@@ -1,5 +1,6 @@
 {
   "chapter_group.41FFC5E97CCD6D87.title": "&a&lAventura",
+  "chapter_group.4D1A5E0B7C3F9A51.title": "&7&lMasmorres",
   "chapter_group.4B9BB1154CE5E86A.title": "&f&lEquip",
   "chapter_group.4BB1469C9A1D849B.title": "&b&lEl Servidor",
   "chapter_group.458EAD3B4BE27CCD.title": "&6&lEnciclopèdia",
@@ -2791,6 +2792,20 @@
   "quest.4480F963C9234B4A.quest_subtitle": "25% d'una plantilla extra.",
   "quest.4480F963C9234B4A.quest_desc": [
     "En duplicar una plantilla de millora de netherita, hi ha un &d25%&7 que el &e&lSol&r&7 te'n doni una més."
+  ],
+  "quest.4A1C7E5D90B3F2A6.title": "&fFerro Beneït",
+  "quest.4A1C7E5D90B3F2A6.quest_subtitle": "5% d'un lingot extra.",
+  "quest.4A1C7E5D90B3F2A6.quest_desc": [
+    "En fondre ferro, cada lingot té un &d5%&7 que el &e&lSol&r&7 te'n doni un altre.",
+    "",
+    "&8Traient-lo tu del forn: amb tolves no compta."
+  ],
+  "quest.4C2D8F6E01A4B3B7.title": "&6Or Beneït",
+  "quest.4C2D8F6E01A4B3B7.quest_subtitle": "10% d'un lingot extra.",
+  "quest.4C2D8F6E01A4B3B7.quest_desc": [
+    "En fondre or, cada lingot té un &d10%&7 que el &e&lSol&r&7 te'n doni un altre.",
+    "",
+    "&8Traient-lo tu del forn: amb tolves no compta."
   ],
   "quest.40D481890F723CF4.title": "&dBeuratge Trencat",
   "quest.40D481890F723CF4.quest_subtitle": "25% de trencar la poció d'una bruixa.",
