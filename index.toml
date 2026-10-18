@@ -510,7 +510,7 @@ hash = "9ea02346764eb3860b017ebf33f7bfc0e195dfed3289f039ac279b16f30f892b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/asaltos.json5"
-hash = "9ebbd47a496e0d6f17064c8417425558e2385b8aab7fa371cbb2b1fa3ec44ca2"
+hash = "10b4b3f8d13ba5e75bf8e9618c399bd2c3bc93cb856fe8a3aa4f5f66916994f9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/biomas.json5"
@@ -570,7 +570,7 @@ hash = "8b2b04b8b143ddead64584f84712ae2c9ba625f5045108ef7d6cd8b8d238d6b8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/illagerinvasion.json5"
-hash = "d0a76768ff82dc75fb1c9efe5573c772f72cc0b3c5049b6ff167bb3ab64d8d8b"
+hash = "f8de329212fcd598d28b0d5743bb75aa118f37b674d0f22ac2f5db7a8a2a9210"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/instrumentos.json5"
@@ -2452,7 +2452,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "8173674b4844b459b79f96921c83f8526d6ba76ee986bd5d178bc83799e952cd"
+hash = "bf851f7980bf2ad6d9130bb36692032a370fd8a59255398be02756d357ce1aa1"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"
