@@ -650,7 +650,7 @@ hash = "4577725497014fcd0878e2a8f1967f4d5e59b9d2f24d9c8b4a2421329e89bae6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/yoth.json5"
-hash = "8a235549622cc112ca70951ededadb4f1747f32bd4408856d2e1162b090078b3"
+hash = "69ea1054829bbbe0d5fcba626d4415bb2f13f1116366a55c0251b08b74a01c9a"
 
 [[files]]
 file = "config/ftbquests/quests/data.json5"
@@ -658,15 +658,15 @@ hash = "b3ecacf2a11397bb4712f51fcc86c6c65e5c79600249f59357285d23a147db91"
 
 [[files]]
 file = "config/ftbquests/quests/lang/ca_es/primazos.json5"
-hash = "3e4ee4f93fb914878c438f0bb2c3051095d7b87cb6a8548fae1882142a6dd48e"
+hash = "e465ced4f5bd6c15cb1e9325a9900f1433494e03f959704fac993b982678121f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/primazos.json5"
-hash = "eb0d355b64b0cbf78ef751c3f81bb71d6f63bfdec2c8e5b952456a75dc8456e0"
+hash = "a009eaf28c14cd11ebd92e40f0230261395e2116ef61889327394f0cd65f257f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/primazos.json5"
-hash = "688fef48b1b1f2e01d2451dea4a673003a446bae716e30b5cde870df5acb67a2"
+hash = "a554fd82ce0f05753637b75cabe9795a3238f6fa38e6a1cd4c5981f7d6c7b2c2"
 
 [[files]]
 file = "config/fullscreenfix.properties"
@@ -839,6 +839,10 @@ hash = "e8f1becee4d20e11702910e0d3eedbe35175922c6ba1a98b52efeb8c9ab3a11d"
 [[files]]
 file = "config/moreculling.toml"
 hash = "93430d2637f35d7566fa2f64fb02d5760f6d3f84ea948fdfe00bd0aa453469c6"
+
+[[files]]
+file = "config/mutantszombies.json5"
+hash = "3f9f8b0ecf974698b5bbb8e82d9be4a5ee5f4f2aec9ef0c1ece3639601b18cd0"
 
 [[files]]
 file = "config/naturally_trimmed.json5"
@@ -2316,6 +2320,11 @@ hash = "d5e9365a1696bbf8c354aa4609f7fad2d87e33d67ae6499a5bbaf89c18b7c34b"
 metafile = true
 
 [[files]]
+file = "mods/mutants-and-zombies.pw.toml"
+hash = "6ebcd2881fa8078c2b07553a637e53a49184649c546e5ecdc78090d50d50e377"
+metafile = true
+
+[[files]]
 file = "mods/naturally-trimmed.pw.toml"
 hash = "634ccd79a738ac37c71707ae65ddb020d0538b3e9ea782934edd4f3f83d51f22"
 metafile = true
@@ -2456,7 +2465,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "e647f330a6c780a7b22f5b1b6d255b1f03bbbef25fb68f8cd6157507c41884f9"
+hash = "ab9dfc0689a1a6a418cdb15117fbe3bb84c1b5e85b69b3bd9ed90e3dc561f64c"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"
@@ -2923,7 +2932,7 @@ hash = "db79aa88b8b344414af288b2eb72faa5926ffac64b822b57cf3bd58a08b4f440"
 
 [[files]]
 file = "resourcepacks/Primazos.zip"
-hash = "af2b12e0e7730654766c637cba1835e687978cd6fb20f077f9da79f1e0030d8f"
+hash = "b5ce855ffa3996bdabe613583b525145ac19e9f9229eebf66172ba4aede6aa02"
 
 [[files]]
 file = "resourcepacks/Re-covered.zip.rpo"

@@ -1,0 +1,9 @@
+{
+  "blisterZombiesSpawnNaturally": false,
+  "crawlersSpawnNaturally": false,
+  "spittersSpawnNaturally": false,
+  "zombieBrutesSpawnNaturally": false,
+  "splitHeadZombiesSpawnNaturally": false,
+  "mutantBrutesSpawnNaturally": false,
+  "rottenMutantsSpawnNaturally": false,
+}
