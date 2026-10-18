@@ -2452,7 +2452,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "738a8fedead1d0bbdc0e6dac03a571a7dae122ddb32289b447405bee8239b950"
+hash = "ce5fcd2e3d37f6b4a8cb3094353f6d060f5342bd273657c0bd6c3bda5cc6f5d0"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"
