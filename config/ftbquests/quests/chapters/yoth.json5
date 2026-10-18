@@ -1,7 +1,7 @@
 {
   id: "454FABAB4D9ED871",
   group: "",
-  order_index: 2,
+  order_index: 1,
   icon: {
     id: "minecraft:ancient_debris",
     count: 1,
@@ -530,6 +530,56 @@
           id: "4D0EABD8C42EB8F0",
           type: "xp",
           xp: 64,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:music_disc_cat",
+        count: 1,
+        components: {
+          "minecraft:jukebox_playable": "primazos_extras:yoth",
+          "minecraft:item_model": "primazos:disco_menta",
+          "minecraft:custom_name": {text: "Diferent Levels", italic: false, color: "#98E8C1", extra: [{text: " - gambol88", color: "gray"}]},
+        },
+      },
+      disable_toast: true,
+      x: 10.0,
+      y: 2.2,
+      shape: "circle",
+      hide_dependency_lines: false,
+      size: 1.0,
+      optional: true,
+      can_repeat: true,
+      repeat_cooldown: 12000,
+      id: "4E7A2C95B1D83F40",
+      tasks: [
+        {
+          id: "4B1F6D03A8C2E957",
+          type: "checkmark",
+          disable_toast: true,
+        },
+      ],
+      rewards: [
+        {
+          id: "4A93C5E1D7B20F68",
+          type: "item",
+          team_reward: false,
+          item: {
+            id: "minecraft:music_disc_cat",
+            count: 1,
+            components: {
+              "minecraft:jukebox_playable": "primazos_extras:yoth",
+              "minecraft:item_model": "primazos:disco_menta",
+          "minecraft:custom_name": {text: "Diferent Levels", italic: false, color: "#98E8C1", extra: [{text: " - gambol88", color: "gray"}]},
+              "minecraft:rarity": "rare",
+            },
+          },
+        },
+        {
+          id: "4C08E4B7A2D5319F",
+          type: "xp",
+          xp: 20,
         },
       ],
     },

@@ -6,6 +6,13 @@
   "chapter_group.458EAD3B4BE27CCD.title": "&6&lEnciclopedia",
   "chapter.49A60DE5C0DDB051.title": "&6&l★ Empieza aquí",
   "chapter.4D1A5E0B7C3F9A21.title": "&a&lDiarias",
+  "quest.4E7A2C95B1D83F40.title": "&dDiferent Levels &7- Gambol88",
+  "quest.4E7A2C95B1D83F40.quest_subtitle": "&7La banda sonora de Yoth, en disco.",
+  "quest.4E7A2C95B1D83F40.quest_desc": [
+    "&7Reclama el disco de &d&lYoth&r&7 (&eDiferent Levels&7) para ponerlo en un tocadiscos.",
+    "",
+    "&7Se puede reclamar otra vez cada &d10 minutos&7 y da un poco de experiencia."
+  ],
   "quest.4227C911EB0F1706.title": "&eCómo leer este libro",
   "quest.4227C911EB0F1706.quest_subtitle": "Qué significa cada forma y cada color.",
   "quest.4227C911EB0F1706.quest_desc": [

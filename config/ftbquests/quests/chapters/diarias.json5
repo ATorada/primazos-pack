@@ -1,7 +1,7 @@
 {
   id: "4D1A5E0B7C3F9A21",
   group: "",
-  order_index: 1,
+  order_index: 0,
   icon: {
     id: "minecraft:clock",
     count: 1,

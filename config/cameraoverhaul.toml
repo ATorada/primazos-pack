@@ -1,0 +1,180 @@
+# Metadatos, no modificar.
+# Default: 0
+configVersion = 3
+
+[general]
+
+	# Alterna todas las funciones del mod.
+	# Default: true
+	enabled = true
+	# Desactive esto para que los efectos del mod sean exclusivos para la vista en primera persona.
+	# Default: true
+	enableInThirdPerson = true
+	# Qué tan suaves deben ser las transiciones entre perfiles contextuales como caminar y nadar.
+	# Default: 0.1
+	contextTransitionSmoothing = 0.1
+	# Sensibilidad de la rotación del carrete de la cámara causada por girar horizontalmente.
+	# Default: 1.0
+	turningRollAccumulation = 1.0
+	# Fuerza máxima de la rotación del carrete de la cámara causada al girar horizontalmente.
+	# Default: 1.25
+	turningRollIntensity = 0.0
+	# Suavidad de la caída de la rotación del carrete de la cámara causada al girar horizontalmente.
+	# Default: 1.0
+	turningRollSmoothing = 1.0
+	# Fuerza de balanceo aleatorio suave que se activa cuando el jugador está inactivo durante un tiempo suficiente.
+	# Default: 0.6
+	cameraSwayIntensity = 0.0
+	# Frecuencia de balanceo aleatorio suave que se activa cuando el reproductor está inactivo durante un tiempo suficiente.
+	# Default: 0.16
+	cameraSwayFrequency = 0.16
+	# Cantidad de tiempo que el reproductor debe estar inactivo antes de que el suave balanceo aleatorio comience a aparecer.
+	# Default: 0.15
+	cameraSwayFadeInDelay = 0.15
+	# Cantidad de tiempo que tarda en aparecer una oscilación aleatoria suave después de que el reproductor está inactivo durante un tiempo suficiente.
+	# Default: 5.0
+	cameraSwayFadeInLength = 5.0
+	# Cantidad de tiempo que tarda en desaparecer el balanceo aleatorio suave cuando el reproductor comienza a moverse después de estar inactivo.
+	# Default: 0.75
+	cameraSwayFadeOutLength = 0.75
+	# Fuerza máxima de todos los efectos de vibración de la pantalla.
+	# Default: 2.5
+	screenShakesMaxIntensity = 2.5
+	# Velocidad a la que las rotaciones de la pantalla cambian de dirección u oscilan.
+	# Default: 6.0
+	screenShakesMaxFrequency = 6.0
+	# Un valor [0..1] vinculado a la fuerza del temblor de la pantalla causado por explosiones.
+	# Default: 1.0
+	explosionTrauma = 1.0
+	# Un valor [0..1] vinculado a la intensidad de la vibración de la pantalla causada por un trueno.
+	# Default: 0.05
+	thunderTrauma = 0.05
+	# Un valor [0..1] vinculado a la fuerza del temblor de la pantalla causado por cualquier acción que balancee el brazo del jugador. Es mejor mantenerlo muy bajo.
+	# Default: 0.03
+	handSwingTrauma = 0.03
+
+[walking]
+
+	# Fuerza de la rotación del carrete de la cámara causada por ametrallamiento o velocidad horizontal lateral.
+	# Default: 10.0
+	strafingRollFactor = 0.0
+	# Fuerza de las rotaciones del tono de la cámara causadas por movimientos hacia adelante o hacia atrás.
+	# Default: 7.0
+	forwardVelocityPitchFactor = 0.0
+	# Fuerza de las rotaciones de paso de la cámara causadas por la velocidad vertical.
+	# Default: 2.5
+	verticalVelocityPitchFactor = 0.0
+	# Suavidad de las rotaciones de inclinación y giro de la cámara causadas por el movimiento horizontal.
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# Suavidad de las rotaciones del paso de la cámara causadas por el movimiento vertical.
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+	# Controla la interpolación global del tono y guiñada de la cámara. No afecta el juego (objetivo).
+	# Default: 0.0
+	cameraSmoothing = 0.0
+
+[sprinting]
+
+	# Fuerza de la rotación del carrete de la cámara causada por ametrallamiento o velocidad horizontal lateral.
+	# Default: 12.5
+	strafingRollFactor = 0.0
+	# Fuerza de las rotaciones del tono de la cámara causadas por movimientos hacia adelante o hacia atrás.
+	# Default: 9.5
+	forwardVelocityPitchFactor = 0.0
+	# Fuerza de las rotaciones de paso de la cámara causadas por la velocidad vertical.
+	# Default: 2.5
+	verticalVelocityPitchFactor = 0.0
+	# Suavidad de las rotaciones de inclinación y giro de la cámara causadas por el movimiento horizontal.
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# Suavidad de las rotaciones del paso de la cámara causadas por el movimiento vertical.
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+	# Controla la interpolación global del tono y guiñada de la cámara. No afecta el juego (objetivo).
+	# Default: 0.6
+	cameraSmoothing = 0.6
+
+[swimming]
+
+	# Fuerza de la rotación del carrete de la cámara causada por ametrallamiento o velocidad horizontal lateral.
+	# Default: -30.0
+	strafingRollFactor = 0.0
+	# Fuerza de las rotaciones del tono de la cámara causadas por movimientos hacia adelante o hacia atrás.
+	# Default: 21.0
+	forwardVelocityPitchFactor = 0.0
+	# Fuerza de las rotaciones de paso de la cámara causadas por la velocidad vertical.
+	# Default: 7.5
+	verticalVelocityPitchFactor = 0.0
+	# Suavidad de las rotaciones de inclinación y giro de la cámara causadas por el movimiento horizontal.
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# Suavidad de las rotaciones del paso de la cámara causadas por el movimiento vertical.
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+	# Controla la interpolación global del tono y guiñada de la cámara. No afecta el juego (objetivo).
+	# Default: 1.5
+	cameraSmoothing = 1.5
+
+[flying]
+
+	# Fuerza de la rotación del carrete de la cámara causada por ametrallamiento o velocidad horizontal lateral.
+	# Default: -10.0
+	strafingRollFactor = -10.0
+	# Fuerza de las rotaciones del tono de la cámara causadas por movimientos hacia adelante o hacia atrás.
+	# Default: 7.0
+	forwardVelocityPitchFactor = 7.0
+	# Fuerza de las rotaciones de paso de la cámara causadas por la velocidad vertical.
+	# Default: 2.5
+	verticalVelocityPitchFactor = 2.5
+	# Suavidad de las rotaciones de inclinación y giro de la cámara causadas por el movimiento horizontal.
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# Suavidad de las rotaciones del paso de la cámara causadas por el movimiento vertical.
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+	# Controla la interpolación global del tono y guiñada de la cámara. No afecta el juego (objetivo).
+	# Default: 1.0
+	cameraSmoothing = 1.0
+
+[mounts]
+
+	# Fuerza de la rotación del carrete de la cámara causada por ametrallamiento o velocidad horizontal lateral.
+	# Default: 20.0
+	strafingRollFactor = 0.0
+	# Fuerza de las rotaciones del tono de la cámara causadas por movimientos hacia adelante o hacia atrás.
+	# Default: 3.5
+	forwardVelocityPitchFactor = 0.0
+	# Fuerza de las rotaciones de paso de la cámara causadas por la velocidad vertical.
+	# Default: 2.5
+	verticalVelocityPitchFactor = 0.0
+	# Suavidad de las rotaciones de inclinación y giro de la cámara causadas por el movimiento horizontal.
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# Suavidad de las rotaciones del paso de la cámara causadas por el movimiento vertical.
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+	# Controla la interpolación global del tono y guiñada de la cámara. No afecta el juego (objetivo).
+	# Default: 1.0
+	cameraSmoothing = 1.0
+
+[vehicles]
+
+	# Fuerza de la rotación del carrete de la cámara causada por ametrallamiento o velocidad horizontal lateral.
+	# Default: 5.0
+	strafingRollFactor = 0.0
+	# Fuerza de las rotaciones del tono de la cámara causadas por movimientos hacia adelante o hacia atrás.
+	# Default: 3.5
+	forwardVelocityPitchFactor = 0.0
+	# Fuerza de las rotaciones de paso de la cámara causadas por la velocidad vertical.
+	# Default: 5.0
+	verticalVelocityPitchFactor = 0.0
+	# Suavidad de las rotaciones de inclinación y giro de la cámara causadas por el movimiento horizontal.
+	# Default: 1.0
+	horizontalVelocitySmoothingFactor = 1.0
+	# Suavidad de las rotaciones del paso de la cámara causadas por el movimiento vertical.
+	# Default: 1.0
+	verticalVelocitySmoothingFactor = 1.0
+	# Controla la interpolación global del tono y guiñada de la cámara. No afecta el juego (objetivo).
+	# Default: 0.0
+	cameraSmoothing = 0.0

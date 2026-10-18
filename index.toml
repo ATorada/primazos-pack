@@ -133,6 +133,10 @@ file = "config/bookshelfinspector-config.yml"
 hash = "0ad423f5a63cae8659a105149bfed3d8046c46fbf8694435c896b6a25066156a"
 
 [[files]]
+file = "config/cameraoverhaul.toml"
+hash = "8c2d248f2e76e7ef6a36af477e1323830aa6f35e4b5ddbc45141facab12cad88"
+
+[[files]]
 file = "config/carryon-client.json"
 hash = "9909d01cf9427ea5d70a66b5c52d2fb7c5e414d410c2e20ae58460661e780de5"
 
@@ -538,7 +542,7 @@ hash = "bdb1c051450732da911bd75932bcc2cd6623905cf91e788a50b53a93f5729240"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/diarias.json5"
-hash = "4a655449896d5dccce756723766a66772eea8b30e3a8eaff9768f71f7aef4a88"
+hash = "febdb97de15c5eaf9fee29abc01dddcf1c6d2f3b88b46b39b2ce0c16b3311f6b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/egida.json5"
@@ -546,7 +550,7 @@ hash = "e688259a463ee3e8550fdae3a11de5ee358f392c8b73d549e9cf5ba1dcf33509"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/empieza_aqui.json5"
-hash = "774746acc8f3e91dd14f913c31ea1e02c5ec5e62cbafc6b3a01f11ca331cb1b0"
+hash = "6b6c3d39a361dca141e35417aa11bbf61265ddd3a395feb2abb8bddaa2b554d6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/encantamientos.json5"
@@ -646,7 +650,7 @@ hash = "4577725497014fcd0878e2a8f1967f4d5e59b9d2f24d9c8b4a2421329e89bae6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/yoth.json5"
-hash = "51af5950a9e8c2e613490c6253dd67401366c8def2ed567c27e5e34e6fcb12bf"
+hash = "8a235549622cc112ca70951ededadb4f1747f32bd4408856d2e1162b090078b3"
 
 [[files]]
 file = "config/ftbquests/quests/data.json5"
@@ -654,15 +658,15 @@ hash = "b3ecacf2a11397bb4712f51fcc86c6c65e5c79600249f59357285d23a147db91"
 
 [[files]]
 file = "config/ftbquests/quests/lang/ca_es/primazos.json5"
-hash = "b1f71b54b7404c8c6160d7ce8c7d6ac199c933388d57fe603a267b79cc9730a7"
+hash = "3e4ee4f93fb914878c438f0bb2c3051095d7b87cb6a8548fae1882142a6dd48e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/primazos.json5"
-hash = "4abc4cb3ed5fa52aca40c268bd7116e5d43b543b83ab2b440887809c0ddce671"
+hash = "eb0d355b64b0cbf78ef751c3f81bb71d6f63bfdec2c8e5b952456a75dc8456e0"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es/primazos.json5"
-hash = "ec3cce6f75054878f24970c4abed17f3cfb1b4beeb379a5be8d60c02d351ba76"
+hash = "688fef48b1b1f2e01d2451dea4a673003a446bae716e30b5cde870df5acb67a2"
 
 [[files]]
 file = "config/fullscreenfix.properties"
@@ -2452,7 +2456,7 @@ metafile = true
 
 [[files]]
 file = "mods/primazos-custom-cliente.jar"
-hash = "bf851f7980bf2ad6d9130bb36692032a370fd8a59255398be02756d357ce1aa1"
+hash = "e647f330a6c780a7b22f5b1b6d255b1f03bbbef25fb68f8cd6157507c41884f9"
 
 [[files]]
 file = "mods/primazos-party-voz-1.0.0.jar"
